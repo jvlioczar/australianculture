@@ -31,6 +31,7 @@ const CH_ALL = [
   ['curiosidades', 'curiosidades.html', 'Curiosidades', 'Mais canguru que gente', '#ff8a3d', '#1b120c', 'fun-facts.html', 'Fun facts', 'More roos than people'],
   ['natureza', 'natureza.html', 'Fauna e flora', 'Bichos e plantas nativos', '#8fb573', '#1b120c', 'wildlife-and-plants.html', 'Wildlife and plants', 'Native animals and plants'],
   ['cidades', 'cidades.html', 'Cidades', 'As 25 maiores, no mapa', '#1b2340', '#fff8ea', 'cities.html', 'Cities', 'The biggest 25, on the map'],
+  ['lugares', 'lugares.html', 'Lugares', 'Praias, parques, pontes e monumentos', '#e0b36b', '#1b120c', 'places.html', 'Places', 'Beaches, parks, bridges and landmarks'],
   ['historia', 'historia.html', 'História', '65 mil anos em 30 momentos', '#8b3a1a', '#fff8ea', 'history.html', 'History', '65,000 years in 30 moments'],
   ['politica', 'politica-e-economia.html', 'Política e economia', 'Sistema, partidos, dinheiro e ativistas', '#b23a48', '#fff8ea', 'politics-and-economy.html', 'Politics and economy', 'The system, parties, money and activists'],
   ['sites', 'sites.html', 'Para conhecer mais', 'Os sites que explicam o país', '#0f766e', '#fff8ea', 'websites.html', 'Find out more', 'The websites that explain the country'],
@@ -69,6 +70,7 @@ const ART = {
   natureza: `<path class="s" d="M26 182C66 142 112 96 178 28"/><path class="lf o a-leaf" style="--d:0s" d="M62 148c-30-6-46-30-48-56 26 6 44 26 48 56z"/><path class="lf o a-leaf" style="--d:.15s" d="M96 112c-6-30 6-58 28-74 8 26 0 54-28 74z"/><path class="lf o a-leaf" style="--d:.3s" d="M128 80c-28-10-40-34-40-58 26 8 40 30 40 58z"/><path class="lf o a-leaf" style="--d:.45s" d="M152 56c8-26 28-42 44-44-2 24-22 40-44 44z"/><g class="a-wattle"><circle class="y o" cx="112" cy="152" r="11"/><circle class="y o" cx="136" cy="136" r="10"/><circle class="y o" cx="132" cy="164" r="9"/><circle class="y o" cx="156" cy="118" r="9"/><circle class="y o" cx="158" cy="148" r="10"/></g>`,
   sobre: `<circle class="y o a-sunrise" cx="132" cy="66" r="34"/><path class="r o" d="M22 150c6-18 14-36 30-46 18-12 50-16 90-16 30 0 56 6 66 18 10 12 16 28 18 44z"/><path class="s" d="M60 108c4 14 2 30 6 42M100 92c4 20 2 40 6 58M140 92c4 20 2 40 6 58"/><rect class="k" x="8" y="150" width="184" height="16" rx="4"/>`,
   politica: `<rect class="k" x="10" y="170" width="180" height="12" rx="4"/><path class="y o" d="M18 170c22-30 142-30 164 0z"/><rect class="w o" x="34" y="142" width="132" height="28" rx="4"/><path class="s" d="M56 170v-28M78 170v-28M122 170v-28M144 170v-28"/><path class="s" d="M78 142l22-108 22 108M88 142l12-60 12 60"/><g class="a-flag"><path class="r o" d="M100 30h50l-12 15 12 15h-50z"/></g><path class="s" d="M100 26v40"/>`,
+  lugares: `<circle class="y a-sun" cx="156" cy="44" r="22"/><g class="a-wave"><path class="sw" d="M-46 150q15-10 30 0t30 0 30 0 30 0 30 0 30 0 30 0 30 0"/></g><path class="y o" d="M8 176c40-16 144-16 184 0v10H8z"/><path class="s" d="M92 66l20 108"/><path class="r o" d="M30 92c10-36 46-58 86-50s66 40 66 70c-20-14-40-14-56-4-14-14-36-18-52-10-16-10-32-10-44-6z"/><path class="w" d="M74 52c-6 20-6 34-4 46-10-2-18 0-26 4 4-22 14-40 30-50zM132 50c12 14 18 32 18 52-8-2-16-2-24 2 4-20 6-38 6-54z"/><circle class="k" cx="96" cy="62" r="5"/>`,
   quem: `<circle class="w o" cx="100" cy="74" r="34"/><path class="w o" d="M40 178c4-48 32-68 60-68s56 20 60 68z"/><path class="s" d="M86 82q14 10 28 0"/><circle class="k" cx="88" cy="68" r="4"/><circle class="k" cx="112" cy="68" r="4"/>`,
   quiz: `<g class="a-target"><circle class="w o" cx="92" cy="108" r="72"/><circle class="r o" cx="92" cy="108" r="52"/><circle class="w o" cx="92" cy="108" r="32"/><circle class="r o" cx="92" cy="108" r="12"/></g><g class="a-arrow"><path class="s" d="M92 108l78-78" style="stroke-width:7"/><path class="k o" d="M158 30l16-16 6 22-22-6z"/></g>`
 };
@@ -529,8 +531,8 @@ const ALL = t('Todos', 'All'), NONE = t('Nada encontrado. Tente outra palavra.',
 const byYear = (a, b) => (parseInt(a.y) || -1) - (parseInt(b.y) || -1);
 A.invencoes.sort(byYear);
 const LABEL = EN
-  ? {sistema: 'the system', economia: 'the economy', magnatas: 'tycoons', partidos: 'parties', politicos: 'politicians', ativistas: 'activists', famosos: 'famous Aussies', musica: 'artists', telas: 'films, series and animation', vistos: 'shows and broadcasts', comediantes: 'comedians', marcas: 'brands', comida: 'food', invencoes: 'inventions', virais: 'memes', sites: 'websites', natureza: 'animals and plants'}
-  : {sistema: 'o sistema', economia: 'a economia', magnatas: 'magnatas', partidos: 'partidos', politicos: 'políticos', ativistas: 'ativistas', famosos: 'famosos', musica: 'artistas', telas: 'filmes, séries e animações', vistos: 'programas e transmissões', comediantes: 'comediantes', marcas: 'marcas', comida: 'comidas', invencoes: 'invenções', virais: 'memes', sites: 'sites', natureza: 'animais e plantas'};
+  ? {sistema: 'the system', economia: 'the economy', magnatas: 'tycoons', partidos: 'parties', politicos: 'politicians', ativistas: 'activists', famosos: 'famous Aussies', musica: 'artists', telas: 'films, series and animation', vistos: 'shows and broadcasts', comediantes: 'comedians', marcas: 'brands', comida: 'food', invencoes: 'inventions', virais: 'memes', sites: 'websites', natureza: 'animals and plants', lugares: 'places'}
+  : {sistema: 'o sistema', economia: 'a economia', magnatas: 'magnatas', partidos: 'partidos', politicos: 'políticos', ativistas: 'ativistas', famosos: 'famosos', musica: 'artistas', telas: 'filmes, séries e animações', vistos: 'programas e transmissões', comediantes: 'comediantes', marcas: 'marcas', comida: 'comidas', invencoes: 'invenções', virais: 'memes', sites: 'sites', natureza: 'animais e plantas', lugares: 'lugares'};
 document.querySelectorAll('[data-list]').forEach(host => {
   const sec = host.dataset.list, items = A[sec];
   const tags = [...new Set(items.map(x => x.t))];
@@ -742,6 +744,7 @@ add('natureza', A.natureza, it => ({n: it.n, d: it.d, x: it.t + ' ' + it.s + ' '
 add('recordes', A.recordes, r => ({n: r.n, d: r.k + ' · ' + r.d, x: r.t}));
 add('curiosidades', A.curiosidades, c => ({n: c.n, d: c.d, x: ''}));
 add('historia', A.historia, h => ({n: h.n, d: h.y + ' · ' + h.d, x: h.y + ' ' + h.t}));
+add('lugares', A.lugares, it => ({n: it.n, d: it.d, x: it.t + ' ' + it.y + ' ' + (it.w || '')}));
 add('cidades', A.perfis, p => ({n: p.n, d: p.a + ' · ' + p.d, x: p.s}));
 (A.gemeas || []).forEach(([c, b, a]) => IDX.push({sec: 'marcas', a: 'gemea=' + encodeURIComponent(b), n: `${b} → ${a}`, d: t('Marcas gêmeas', 'Brand twins') + ' · ' + c, x: ''}));
 IDX.forEach(r => r.k = norm(r.n + ' ' + r.d + ' ' + r.x));
