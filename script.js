@@ -260,9 +260,9 @@ function heroIntro(){
   });
   [...h.querySelectorAll('.hero-in > :not(h1)')].forEach((el, i) =>
     intro.push(anim(el, [{opacity: 0, transform: 'translateY(24px)'}, {opacity: 1, transform: 'none'}], {duration: 900, delay: 900 + i * 140, easing: EASE.OUT, fill: 'backwards'})));
-  // o canguru entra em cena assim que o último texto pousa
+  // o canguru entra em cena um segundo antes de o último texto pousar
   const end = Math.max(0, ...intro.filter(Boolean).map(a => { const k = a.effect.getTiming(); return k.delay + k.duration; }));
-  setTimeout(() => h.classList.add('roo-go'), end);
+  setTimeout(() => h.classList.add('roo-go'), Math.max(0, end - 1000));
 }
 if ($('hero')) {
   // o título vira letras soltas para poderem aterrissar uma a uma

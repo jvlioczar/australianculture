@@ -427,6 +427,7 @@ recordes: [
 
 /* ============ CURIOSIDADES ============ */
 curiosidades: [
+  { n: 'Nome e cores oficiais', d: 'O nome oficial é Comunidade da Austrália (Commonwealth of Australia). As cores nacionais são o verde e o dourado, das flores e folhas da acácia-dourada (golden wattle), oficializadas em 1984 e usadas pelas seleções do país.' },
   { n: 'Mais canguru que gente', d: 'São mais de 40 milhões de cangurus para cerca de 28 milhões de pessoas.' },
   { n: 'Todo mundo no litoral', d: 'Cerca de 85% da população vive a menos de 50 km da costa. O interior é praticamente vazio.' },
   { n: 'Um país seco', d: 'Cerca de 70% do território é árido ou semiárido. É o continente habitado mais seco do planeta.' },

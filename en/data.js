@@ -395,6 +395,7 @@ recordes: [
 
 /* ============ FUN FACTS ============ */
 curiosidades: [
+  { n: 'Official name and colours', d: 'The official name is the Commonwealth of Australia. The national colours are green and gold, from the leaves and blossom of the golden wattle, proclaimed in 1984 and worn by the national sporting teams.' },
   { n: 'More roos than people', d: 'There are more than 40 million kangaroos and about 28 million people.' },
   { n: 'Everyone’s on the coast', d: 'Around 85% of people live within 50 km of the coast. The interior is practically empty.' },
   { n: 'A dry country', d: 'Around 70% of the land is arid or semi-arid. It’s the driest inhabited continent on the planet.' },
