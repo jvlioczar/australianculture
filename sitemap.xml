@@ -36,11 +36,25 @@
     <xhtml:link rel="alternate" hreflang="en-AU" href="https://australianculture.biblioverse.org/en/fun-facts.html"/>
   </url>
   <url>
+    <loc>https://australianculture.biblioverse.org/dicionario.html</loc>
+    <lastmod>2026-10-25</lastmod>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://australianculture.biblioverse.org/dicionario.html"/>
+    <xhtml:link rel="alternate" hreflang="en-AU" href="https://australianculture.biblioverse.org/en/aussie-dictionary.html"/>
+  </url>
+  <url>
     <loc>https://australianculture.biblioverse.org/en/about.html</loc>
     <lastmod>2026-10-25</lastmod>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="pt-BR" href="https://australianculture.biblioverse.org/sobre.html"/>
     <xhtml:link rel="alternate" hreflang="en-AU" href="https://australianculture.biblioverse.org/en/about.html"/>
+  </url>
+  <url>
+    <loc>https://australianculture.biblioverse.org/en/aussie-dictionary.html</loc>
+    <lastmod>2026-10-25</lastmod>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://australianculture.biblioverse.org/dicionario.html"/>
+    <xhtml:link rel="alternate" hreflang="en-AU" href="https://australianculture.biblioverse.org/en/aussie-dictionary.html"/>
   </url>
   <url>
     <loc>https://australianculture.biblioverse.org/en/brands.html</loc>

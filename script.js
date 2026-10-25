@@ -22,12 +22,13 @@ let rio; // observer de revelação ao rolar, criado no primeiro uso
 /* Paradas: id, arquivo, nome, descrição, cor, cor do texto · arquivo, nome e descrição em inglês */
 const CH_ALL = [
   ['famosos', 'famosos.html', 'Famosos', 'Atores, modelos e criadores digitais', '#7b4bc4', '#fff8ea', 'famous-aussies.html', 'Famous Aussies', 'Actors, models and content creators'],
-  ['musica', 'musica.html', 'Música', 'Do AC/DC ao Tame Impala', '#f5b700', '#1b120c', 'music.html', 'Music', 'From AC/DC to Tame Impala'],
+  ['musica', 'musica.html', 'Música', 'Do AC/DC à Kylie Minogue', '#f5b700', '#1b120c', 'music.html', 'Music', 'From AC/DC to Kylie Minogue'],
   ['telas', 'filmes-e-series.html', 'Filmes e séries', 'De Mad Max a Bluey, com animações', '#0b5d8c', '#fff8ea', 'film-and-tv.html', 'Film and TV', 'From Mad Max to Bluey, animation included'],
   ['marcas', 'marcas.html', 'Marcas', 'E as gêmeas brasileiras', '#ef6f5e', '#1b120c', 'brands.html', 'Brands', 'From Qantas to Canva'],
   ['comida', 'comida.html', 'Comida', 'Vegemite, Tim Tam, meat pie', '#c2410c', '#fff8ea', 'food.html', 'Food', 'Vegemite, Tim Tams, pies'],
   ['invencoes', 'invencoes.html', 'Invenções', 'Wi-Fi, caixa-preta, ultrassom', '#9fd3e6', '#1b120c', 'inventions.html', 'Inventions', 'Wi-Fi, the black box, ultrasound'],
   ['virais', 'virais-e-memes.html', 'Virais e memes', 'Memes, lendas e comediantes', '#f2a7b8', '#1b120c', 'virals-and-memes.html', 'Virals and memes', 'Memes, legends and comedians'],
+  ['dicionario', 'dicionario.html', 'Dicionário Aussie', 'Arvo, brekkie, mate e mais 135 gírias', '#5468ff', '#fff8ea', 'aussie-dictionary.html', 'Aussie Dictionary', 'Arvo, brekkie, mate and 135 more'],
   ['recordes', 'recordes.html', 'Recordes', 'A maior cerca do mundo e mais', '#1f6f4a', '#fff8ea', 'records.html', 'Records', 'The world’s longest fence and more'],
   ['curiosidades', 'curiosidades.html', 'Curiosidades', 'Mais canguru que gente', '#ff8a3d', '#1b120c', 'fun-facts.html', 'Fun facts', 'More roos than people'],
   ['natureza', 'natureza.html', 'Fauna e flora', 'Bichos e plantas nativos', '#8fb573', '#1b120c', 'wildlife-and-plants.html', 'Wildlife and plants', 'Native animals and plants'],
@@ -72,6 +73,7 @@ const ART = {
   sobre: `<circle class="y o a-sunrise" cx="132" cy="66" r="34"/><path class="r o" d="M22 150c6-18 14-36 30-46 18-12 50-16 90-16 30 0 56 6 66 18 10 12 16 28 18 44z"/><path class="s" d="M60 108c4 14 2 30 6 42M100 92c4 20 2 40 6 58M140 92c4 20 2 40 6 58"/><rect class="k" x="8" y="150" width="184" height="16" rx="4"/>`,
   politica: `<rect class="k" x="10" y="170" width="180" height="12" rx="4"/><path class="y o" d="M18 170c22-30 142-30 164 0z"/><rect class="w o" x="34" y="142" width="132" height="28" rx="4"/><path class="s" d="M56 170v-28M78 170v-28M122 170v-28M144 170v-28"/><path class="s" d="M78 142l22-108 22 108M88 142l12-60 12 60"/><g class="a-flag"><path class="r o" d="M100 30h50l-12 15 12 15h-50z"/></g><path class="s" d="M100 26v40"/>`,
   lugares: `<circle class="y a-sun" cx="162" cy="32" r="18"/><g class="a-wave"><path class="sw" d="M-46 150q15-10 30 0t30 0 30 0 30 0 30 0 30 0 30 0 30 0"/></g><path class="y o" d="M8 176c40-16 144-16 184 0v10H8z"/><path class="s" d="M106 60l12 112"/><path class="r" d="M26 100Q106 10 186 100q-13.33-10-26.67 0t-26.67 0-26.67 0-26.67 0-26.67 0-26.66 0z"/><path class="w" d="M106 55L52.67 100q13.33-10 26.67 0zM106 55L106 100q13.33-10 26.67 0zM106 55L159.33 100q13.33-10 26.67 0z"/><path class="s" d="M26 100Q106 10 186 100q-13.33-10-26.67 0t-26.67 0-26.67 0-26.67 0-26.67 0-26.66 0z"/><circle class="k" cx="106" cy="53" r="5"/>`,
+  dicionario: `<g class="a-talk1"><path class="w o" d="M24 44h112a14 14 0 0 1 14 14v52a14 14 0 0 1-14 14H76l-26 24 4-24H24a14 14 0 0 1-14-14V58a14 14 0 0 1 14-14z"/><text class="k t" x="80" y="98" style="font-size:34px">G’day</text></g><g class="a-talk2"><path class="y o" d="M118 112h58a12 12 0 0 1 12 12v30a12 12 0 0 1-12 12h-8l4 18-22-18h-32a12 12 0 0 1-12-12v-30a12 12 0 0 1 12-12z"/><circle class="k" cx="130" cy="139" r="5"/><circle class="k" cx="147" cy="139" r="5"/><circle class="k" cx="164" cy="139" r="5"/></g>`,
   quem: `<circle class="w o" cx="100" cy="74" r="34"/><path class="w o" d="M40 178c4-48 32-68 60-68s56 20 60 68z"/><path class="s" d="M86 82q14 10 28 0"/><circle class="k" cx="88" cy="68" r="4"/><circle class="k" cx="112" cy="68" r="4"/>`,
   quiz: `<g class="a-target"><circle class="w o" cx="92" cy="108" r="72"/><circle class="r o" cx="92" cy="108" r="52"/><circle class="w o" cx="92" cy="108" r="32"/><circle class="r o" cx="92" cy="108" r="12"/></g><g class="a-arrow"><path class="s" d="M92 108l78-78" style="stroke-width:7"/><path class="k o" d="M158 30l16-16 6 22-22-6z"/></g>`
 };
@@ -362,6 +364,7 @@ const MS = EN ? [
   [2032, 'Brisbane recebe as Olimpíadas.']
 ];
 const yearTxt = y => y < 0 ? fmt(Math.round(-y / 1000) * 1000) + t(' a.C.', ' BC') : String(Math.round(y));
+const PHONE = matchMedia('(max-width: 760px)');
 if ($('timeTrack')) {
   $('yrTicks').innerHTML = MS.map(([y, tx], i) => `<li data-i="${i}"><b>${yearTxt(y)}</b><span>${esc(tx)}</span></li>`).join('');
   const ticks = [...$('yrTicks').children], tr = $('timeTrack'), LAST = MS.length - 1;
@@ -374,7 +377,8 @@ if ($('timeTrack')) {
     // o ano conta de um marco ao outro (acelera e desacelera); a legenda é sempre a do marco mais próximo,
     // então nunca há dois anos diferentes parados com o mesmo texto
     const e = fr < .5 ? 4 * fr * fr * fr : 1 - Math.pow(-2 * fr + 2, 3) / 2;
-    const moving = fr > .02 && fr < .98, k = Math.round(f);
+    // no celular a rolagem é solta, então a janela do marco é um pouco maior; fora dela a legenda some
+    const pad = PHONE.matches ? .06 : .02, moving = fr > pad && fr < 1 - pad, k = Math.round(f);
     $('yr').textContent = yearTxt(moving ? MS[i][0] + (MS[i + 1][0] - MS[i][0]) * e : MS[k][0]);
     $('yrLabel').classList.toggle('moving', moving);
     if (wasMoving && !moving) land($('yr')); // o ano "aterrissa" em cada marco
@@ -508,6 +512,14 @@ if ($('stamps')) {
     `<li class="rv" style="--i:${i % 4}"><a class="stamp ticket" href="${f}" style="--c:${c};--fg:${fg}">
       <span class="mono">${pad(i + 1)}</span>${art(id)}<b>${n}</b><small>${d}</small></a></li>`).join('');
 }
+/* Pular a introdução: aparece depois da capa e some ao chegar nas paradas */
+if ($('hero') && $('paradas')) {
+  document.body.insertAdjacentHTML('beforeend', `<button class="skipintro" id="skipIntro" type="button">${t('Pular introdução', 'Skip the intro')} <span aria-hidden="true">↓</span></button>`);
+  const b = $('skipIntro'), hero = $('hero'), stops = $('paradas');
+  const sync = () => b.classList.toggle('on', hero.getBoundingClientRect().bottom < innerHeight * .5 && stops.getBoundingClientRect().top > innerHeight * .9);
+  addEventListener('scroll', sync, {passive: true}); sync();
+  b.onclick = () => goEl(stops);
+}
 /* O sol se põe atrás do Uluru enquanto se rola (o céu acompanha) */
 if ($('sun') && !reduced) {
   const sun = $('sun'), hero = $('hero');
@@ -522,7 +534,9 @@ if ($('sun') && !reduced) {
 /* ================= PARADAS ================= */
 
 /* listas com filtro e busca */
-const card = (sec, it, i) => sec === 'sites'
+const card = (sec, it, i) => sec === 'dicionario'
+  ? `<article class="card term rv" id="${sec}-${i}"><h3 lang="en-AU">${esc(it.n)}</h3><p>${esc(it.d)}</p>${it.e ? `<p class="en" lang="en">${t('Em inglês', 'In English')}: ${esc(it.e)}</p>` : ''}</article>`
+  : sec === 'sites'
   ? `<article class="card site rv" id="${sec}-${i}">
       <div class="meta">${esc(it.t)}</div><h3>${esc(it.n)}</h3><p class="org">${esc(it.o)}</p><p>${esc(it.d)}</p>
       <a class="more" href="${it.u}" target="_blank" rel="noopener">${esc(it.u.replace(/^https?:\/\/(www\.)?/, '').replace(/\/$/, ''))}</a></article>`
@@ -536,8 +550,8 @@ const ALL = t('Todos', 'All'), NONE = t('Nada encontrado. Tente outra palavra.',
 const byYear = (a, b) => (parseInt(a.y) || -1) - (parseInt(b.y) || -1);
 A.invencoes.sort(byYear);
 const LABEL = EN
-  ? {sistema: 'the system', economia: 'the economy', magnatas: 'tycoons', partidos: 'parties', politicos: 'politicians', ativistas: 'activists', famosos: 'famous Aussies', musica: 'artists', telas: 'films, series and animation', vistos: 'shows and broadcasts', comediantes: 'comedians', marcas: 'brands', comida: 'food', invencoes: 'inventions', virais: 'memes', sites: 'websites', natureza: 'animals and plants', lugares: 'places'}
-  : {sistema: 'o sistema', economia: 'a economia', magnatas: 'magnatas', partidos: 'partidos', politicos: 'políticos', ativistas: 'ativistas', famosos: 'famosos', musica: 'artistas', telas: 'filmes, séries e animações', vistos: 'programas e transmissões', comediantes: 'comediantes', marcas: 'marcas', comida: 'comidas', invencoes: 'invenções', virais: 'memes', sites: 'sites', natureza: 'animais e plantas', lugares: 'lugares'};
+  ? {sistema: 'the system', economia: 'the economy', magnatas: 'tycoons', partidos: 'parties', politicos: 'politicians', ativistas: 'activists', famosos: 'famous Aussies', musica: 'artists', telas: 'films, series and animation', vistos: 'shows and broadcasts', comediantes: 'comedians', marcas: 'brands', comida: 'food', invencoes: 'inventions', virais: 'memes', sites: 'websites', natureza: 'animals and plants', lugares: 'places', dicionario: 'terms'}
+  : {sistema: 'o sistema', economia: 'a economia', magnatas: 'magnatas', partidos: 'partidos', politicos: 'políticos', ativistas: 'ativistas', famosos: 'famosos', musica: 'artistas', telas: 'filmes, séries e animações', vistos: 'programas e transmissões', comediantes: 'comediantes', marcas: 'marcas', comida: 'comidas', invencoes: 'invenções', virais: 'memes', sites: 'sites', natureza: 'animais e plantas', lugares: 'lugares', dicionario: 'termos'};
 document.querySelectorAll('[data-list]').forEach(host => {
   const sec = host.dataset.list, items = A[sec];
   const tags = [...new Set(items.map(x => x.t))];
@@ -749,6 +763,7 @@ add('natureza', A.natureza, it => ({n: it.n, d: it.d, x: it.t + ' ' + it.s + ' '
 add('recordes', A.recordes, r => ({n: r.n, d: r.k + ' · ' + r.d, x: r.t}));
 add('curiosidades', A.curiosidades, c => ({n: c.n, d: c.d, x: ''}));
 add('historia', A.historia, h => ({n: h.n, d: h.y + ' · ' + h.d, x: h.y + ' ' + h.t}));
+add('dicionario', A.dicionario, it => ({n: it.n, d: it.d, x: (it.e || '')}));
 add('lugares', A.lugares, it => ({n: it.n, d: it.d, x: it.t + ' ' + it.y + ' ' + (it.w || '')}));
 add('cidades', A.perfis, p => ({n: p.n, d: p.a + ' · ' + p.d, x: p.s}));
 (A.gemeas || []).forEach(([c, b, a]) => IDX.push({sec: 'marcas', a: 'gemea=' + encodeURIComponent(b), n: `${b} → ${a}`, d: t('Marcas gêmeas', 'Brand twins') + ' · ' + c, x: ''}));

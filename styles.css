@@ -94,9 +94,9 @@ h1,h2,h3{font-family:var(--display);font-optical-sizing:auto;font-weight:400;fon
 .menu li a .art{position:absolute;right:10px;top:50%;width:64px;height:64px;margin-top:-32px;transform-origin:50% 100%}
 .menu li a:hover .art{animation:jump .85s var(--e-out)}
 .menu li a[aria-current]{box-shadow:0 0 0 3px var(--bg),0 0 0 6px var(--ink)}
-.menu li:last-child{grid-column:span 3}
+.menu li:last-child{grid-column:span 2}
 .menu li:last-child a{min-height:84px;flex-direction:row;align-items:center;justify-content:flex-start;gap:18px}
-@media (max-width:1023px){.menu ol{grid-template-columns:repeat(2,minmax(0,1fr))}.menu li:last-child{grid-column:span 1}.menu li:last-child a{flex-direction:column;align-items:stretch;justify-content:space-between;gap:10px}}
+@media (max-width:1023px){.menu ol{grid-template-columns:repeat(2,minmax(0,1fr))}}
 @media (max-width:420px){.menu li a{min-height:104px;padding:14px}.menu li a b{font-size:22px}.menu li a .art{width:34px;height:34px;top:16px;right:12px;margin-top:0}}
 
 /* ============ ABERTURA: Acknowledgement of Country ============ */
@@ -851,3 +851,23 @@ main:focus{outline:none}
   .nextbtn .on-wide{display:none}
   .nextbtn .on-phone{display:inline}
 }
+
+/* Dicionário Aussie: os balões "falam" um de cada vez */
+.art .a-talk1{transform-origin:50px 148px;animation:talk 3s var(--e-inout) infinite}
+.art .a-talk2{transform-origin:150px 184px;animation:talk 3s var(--e-inout) 1.5s infinite}
+@keyframes talk{0%,100%{transform:none}8%{transform:scale(1.07) rotate(-2deg)}18%{transform:none}}
+/* cartões de termo: compactos, o termo em destaque */
+[data-list=dicionario] .grid{grid-template-columns:repeat(auto-fill,minmax(220px,1fr));gap:30px 36px}
+.card.term{gap:4px}
+.card.term h3{font:400 28px/1 var(--display);margin:0 0 6px}
+.card.term p{margin:0}
+.card.term .en{font-size:13.5px;color:var(--muted)}
+
+/* botão de pular a introdução: pílula no rodapé, entra com mola */
+.skipintro{position:fixed;left:50%;bottom:18px;z-index:45;display:inline-flex;align-items:center;gap:8px;padding:12px 20px;border:0;border-radius:999px;background:var(--wattle);color:#1b120c;font:600 14px var(--body);cursor:pointer;box-shadow:0 12px 30px rgba(0,0,0,.25);
+  transform:translate(-50%,160%);opacity:0;pointer-events:none;transition:transform .55s var(--spring),opacity .25s}
+.skipintro.on{transform:translate(-50%,0);opacity:1;pointer-events:auto}
+.skipintro span{display:inline-block;animation:nudge 1.8s var(--e-inout) infinite}
+@media (prefers-reduced-motion:reduce){.skipintro{transition:opacity .2s}.skipintro span{animation:none}}
+/* linha do tempo no celular: a legenda some rápido entre um marco e outro */
+@media (max-width:760px){.yr-label.moving{opacity:0;transition:opacity .12s}}
