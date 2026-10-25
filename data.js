@@ -540,6 +540,7 @@ dicionario: [
   { n: 'Wadyasay', t: 'W', d: 'O que você disse?', e: 'What did you say?' },
   { n: 'Wee', t: 'W', d: 'Xixi', e: 'Pee' },
   { n: 'Woofa', t: 'W', d: 'Cachorro', e: 'Dog' },
+  { n: 'x', t: 'X', d: 'Beijo. Os australianos colocam um x no fim das mensagens, até entre amigos e colegas de trabalho, como uma despedida carinhosa (“See you soon x”). Quanto mais x, mais carinho: xx, xxx.', e: 'A kiss at the end of a message' },
   { n: 'Ya', t: 'Y', d: 'Você', e: 'You' },
   { n: 'Yonks', t: 'Y', d: 'Há muito tempo', e: 'A long time' },
   { n: 'Zonked', t: 'Z', d: 'Extremamente cansado', e: 'Exhausted' }

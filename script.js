@@ -28,7 +28,7 @@ const CH_ALL = [
   ['comida', 'comida.html', 'Comida', 'Vegemite, Tim Tam, meat pie', '#c2410c', '#fff8ea', 'food.html', 'Food', 'Vegemite, Tim Tams, pies'],
   ['invencoes', 'invencoes.html', 'Invenções', 'Wi-Fi, caixa-preta, ultrassom', '#9fd3e6', '#1b120c', 'inventions.html', 'Inventions', 'Wi-Fi, the black box, ultrasound'],
   ['virais', 'virais-e-memes.html', 'Virais e memes', 'Memes, lendas e comediantes', '#f2a7b8', '#1b120c', 'virals-and-memes.html', 'Virals and memes', 'Memes, legends and comedians'],
-  ['dicionario', 'dicionario.html', 'Dicionário Aussie', 'Arvo, brekkie, mate e mais 135 gírias', '#5468ff', '#fff8ea', 'aussie-dictionary.html', 'Aussie Dictionary', 'Arvo, brekkie, mate and 135 more'],
+  ['dicionario', 'dicionario.html', 'Dicionário Aussie', 'Arvo, brekkie, mate e mais 136 gírias', '#5468ff', '#fff8ea', 'aussie-dictionary.html', 'Aussie Dictionary', 'Arvo, brekkie, mate and 136 more'],
   ['recordes', 'recordes.html', 'Recordes', 'A maior cerca do mundo e mais', '#1f6f4a', '#fff8ea', 'records.html', 'Records', 'The world’s longest fence and more'],
   ['curiosidades', 'curiosidades.html', 'Curiosidades', 'Mais canguru que gente', '#ff8a3d', '#1b120c', 'fun-facts.html', 'Fun facts', 'More roos than people'],
   ['natureza', 'natureza.html', 'Fauna e flora', 'Bichos e plantas nativos', '#8fb573', '#1b120c', 'wildlife-and-plants.html', 'Wildlife and plants', 'Native animals and plants'],
@@ -381,13 +381,16 @@ if ($('timeTrack')) {
     const pad = PHONE.matches ? .06 : .02, moving = fr > pad && fr < 1 - pad, k = Math.round(f);
     $('yr').textContent = yearTxt(moving ? MS[i][0] + (MS[i + 1][0] - MS[i][0]) * e : MS[k][0]);
     $('yrLabel').classList.toggle('moving', moving);
-    if (wasMoving && !moving) land($('yr')); // o ano "aterrissa" em cada marco
-    wasMoving = moving;
+    // a legenda entra quando o ano para no marco; sem preencher depois (fill none), quem decide se ela
+    // aparece durante a rolagem é a classe .moving (no celular ela some por completo)
+    const showLabel = () => anim($('yrLabel'), [{opacity: 0, transform: 'translateY(14px)'}, {opacity: 1, transform: 'none'}], {duration: 450, easing: EASE.OUT, fill: 'none'});
+    if (wasMoving && !moving) { land($('yr')); if (k === last) showLabel(); } // o ano "aterrissa" em cada marco
     if (k !== last) {
       last = k; $('yrLabel').textContent = MS[k][1];
       ticks.forEach((li, j) => { li.classList.toggle('on', j <= k); li.classList.toggle('now', j === k); });
-      anim($('yrLabel'), [{opacity: 0, transform: 'translateY(14px)'}, {opacity: 1, transform: 'none'}], {duration: 450, easing: EASE.OUT});
+      if (!moving) showLabel();
     }
+    wasMoving = moving;
     $('yrBar').style.width = (f / LAST * 100).toFixed(2) + '%';
     $('yrNext').innerHTML = k < LAST ? t('Próximo marco', 'Next milestone') + ' <span aria-hidden="true">↓</span>' : t('Seguir', 'Keep going') + ' <span aria-hidden="true">↓</span>';
   };

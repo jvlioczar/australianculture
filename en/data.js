@@ -508,6 +508,7 @@ dicionario: [
   { n: 'Wadyasay', t: 'W', d: 'What did you say?' },
   { n: 'Wee', t: 'W', d: 'Pee' },
   { n: 'Woofa', t: 'W', d: 'Dog' },
+  { n: 'x', t: 'X', d: 'A kiss. Aussies pop an x at the end of messages, even to mates and workmates, as a friendly sign-off (“See you soon x”). The more x’s, the more affection: xx, xxx.' },
   { n: 'Ya', t: 'Y', d: 'You' },
   { n: 'Yonks', t: 'Y', d: 'A long time' },
   { n: 'Zonked', t: 'Z', d: 'Exhausted' }
