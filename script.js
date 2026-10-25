@@ -13,7 +13,8 @@ const t = (pt, en) => EN ? en : pt;
 const LOC = t('pt-BR', 'en-AU');
 const fmt = n => n.toLocaleString(LOC);
 const clamp = (v, a, b) => Math.max(a, Math.min(b, v));
-const wiki = it => `https://${t('pt', 'en')}.wikipedia.org/w/index.php?search=` + encodeURIComponent(it.w || it.n);
+/* artigo exato (wk, resolvido na Wikipedia de cada idioma; wk vazio = sem artigo, sem link); a busca fica só de reserva */
+const wiki = it => it.wk ? 'https://' + it.wk : `https://${t('pt', 'en')}.wikipedia.org/w/index.php?search=` + encodeURIComponent(it.w || it.n);
 const reduced = matchMedia('(prefers-reduced-motion: reduce)').matches;
 const PAGE = document.body.dataset.page;
 let rio; // observer de revelação ao rolar, criado no primeiro uso
@@ -70,7 +71,7 @@ const ART = {
   natureza: `<path class="s" d="M26 182C66 142 112 96 178 28"/><path class="lf o a-leaf" style="--d:0s" d="M62 148c-30-6-46-30-48-56 26 6 44 26 48 56z"/><path class="lf o a-leaf" style="--d:.15s" d="M96 112c-6-30 6-58 28-74 8 26 0 54-28 74z"/><path class="lf o a-leaf" style="--d:.3s" d="M128 80c-28-10-40-34-40-58 26 8 40 30 40 58z"/><path class="lf o a-leaf" style="--d:.45s" d="M152 56c8-26 28-42 44-44-2 24-22 40-44 44z"/><g class="a-wattle"><circle class="y o" cx="112" cy="152" r="11"/><circle class="y o" cx="136" cy="136" r="10"/><circle class="y o" cx="132" cy="164" r="9"/><circle class="y o" cx="156" cy="118" r="9"/><circle class="y o" cx="158" cy="148" r="10"/></g>`,
   sobre: `<circle class="y o a-sunrise" cx="132" cy="66" r="34"/><path class="r o" d="M22 150c6-18 14-36 30-46 18-12 50-16 90-16 30 0 56 6 66 18 10 12 16 28 18 44z"/><path class="s" d="M60 108c4 14 2 30 6 42M100 92c4 20 2 40 6 58M140 92c4 20 2 40 6 58"/><rect class="k" x="8" y="150" width="184" height="16" rx="4"/>`,
   politica: `<rect class="k" x="10" y="170" width="180" height="12" rx="4"/><path class="y o" d="M18 170c22-30 142-30 164 0z"/><rect class="w o" x="34" y="142" width="132" height="28" rx="4"/><path class="s" d="M56 170v-28M78 170v-28M122 170v-28M144 170v-28"/><path class="s" d="M78 142l22-108 22 108M88 142l12-60 12 60"/><g class="a-flag"><path class="r o" d="M100 30h50l-12 15 12 15h-50z"/></g><path class="s" d="M100 26v40"/>`,
-  lugares: `<circle class="y a-sun" cx="156" cy="44" r="22"/><g class="a-wave"><path class="sw" d="M-46 150q15-10 30 0t30 0 30 0 30 0 30 0 30 0 30 0 30 0"/></g><path class="y o" d="M8 176c40-16 144-16 184 0v10H8z"/><path class="s" d="M92 66l20 108"/><path class="r o" d="M30 92c10-36 46-58 86-50s66 40 66 70c-20-14-40-14-56-4-14-14-36-18-52-10-16-10-32-10-44-6z"/><path class="w" d="M74 52c-6 20-6 34-4 46-10-2-18 0-26 4 4-22 14-40 30-50zM132 50c12 14 18 32 18 52-8-2-16-2-24 2 4-20 6-38 6-54z"/><circle class="k" cx="96" cy="62" r="5"/>`,
+  lugares: `<circle class="y a-sun" cx="162" cy="32" r="18"/><g class="a-wave"><path class="sw" d="M-46 150q15-10 30 0t30 0 30 0 30 0 30 0 30 0 30 0 30 0"/></g><path class="y o" d="M8 176c40-16 144-16 184 0v10H8z"/><path class="s" d="M106 60l12 112"/><path class="r" d="M26 100Q106 10 186 100q-13.33-10-26.67 0t-26.67 0-26.67 0-26.67 0-26.67 0-26.66 0z"/><path class="w" d="M106 55L52.67 100q13.33-10 26.67 0zM106 55L106 100q13.33-10 26.67 0zM106 55L159.33 100q13.33-10 26.67 0z"/><path class="s" d="M26 100Q106 10 186 100q-13.33-10-26.67 0t-26.67 0-26.67 0-26.67 0-26.67 0-26.66 0z"/><circle class="k" cx="106" cy="53" r="5"/>`,
   quem: `<circle class="w o" cx="100" cy="74" r="34"/><path class="w o" d="M40 178c4-48 32-68 60-68s56 20 60 68z"/><path class="s" d="M86 82q14 10 28 0"/><circle class="k" cx="88" cy="68" r="4"/><circle class="k" cx="112" cy="68" r="4"/>`,
   quiz: `<g class="a-target"><circle class="w o" cx="92" cy="108" r="72"/><circle class="r o" cx="92" cy="108" r="52"/><circle class="w o" cx="92" cy="108" r="32"/><circle class="r o" cx="92" cy="108" r="12"/></g><g class="a-arrow"><path class="s" d="M92 108l78-78" style="stroke-width:7"/><path class="k o" d="M158 30l16-16 6 22-22-6z"/></g>`
 };
@@ -244,20 +245,24 @@ function heroIntro(){
   const h = $('hero');
   h.classList.add('play');
   if (reduced) return;
+  const intro = [];
   anim($('sun'), [
     {transform: 'translate(-26%, 46%) scale(.82)', opacity: 0},
     {transform: 'translate(-8%, 10%) scale(.96)', opacity: 1, offset: .55},
     {transform: 'translate(0,0) scale(1)', opacity: 1}], {duration: 2200, easing: EASE.OUT, fill: 'backwards'});
   anim(h.querySelector('.uluru'), [{transform: 'translateY(40px)'}, {transform: 'none'}], {duration: 1600, easing: EASE.OUT});
   h.querySelectorAll('h1 .ch').forEach((c, i) => {
-    anim(c, [
+    intro.push(anim(c, [
       {transform: 'translateY(-120%) scale(.9,1.2)', opacity: 0},
       {transform: 'translateY(0) scale(1.12,.84)', opacity: 1, offset: .55},
       {transform: 'translateY(-6%) scale(.97,1.04)', offset: .78},
-      {transform: 'none', opacity: 1}], {duration: 760, delay: 300 + i * 55, easing: EASE.OUT, fill: 'backwards'});
+      {transform: 'none', opacity: 1}], {duration: 760, delay: 300 + i * 55, easing: EASE.OUT, fill: 'backwards'}));
   });
   [...h.querySelectorAll('.hero-in > :not(h1)')].forEach((el, i) =>
-    anim(el, [{opacity: 0, transform: 'translateY(24px)'}, {opacity: 1, transform: 'none'}], {duration: 900, delay: 900 + i * 140, easing: EASE.OUT, fill: 'backwards'}));
+    intro.push(anim(el, [{opacity: 0, transform: 'translateY(24px)'}, {opacity: 1, transform: 'none'}], {duration: 900, delay: 900 + i * 140, easing: EASE.OUT, fill: 'backwards'})));
+  // o canguru entra em cena assim que o último texto pousa
+  const end = Math.max(0, ...intro.filter(Boolean).map(a => { const k = a.effect.getTiming(); return k.delay + k.duration; }));
+  setTimeout(() => h.classList.add('roo-go'), end);
 }
 if ($('hero')) {
   // o título vira letras soltas para poderem aterrissar uma a uma
@@ -525,7 +530,7 @@ const card = (sec, it, i) => sec === 'sites'
       <div class="meta">${esc(it.t || '')}${it.y ? ` <span class="ano">${esc(it.y)}</span>` : ''}</div>
       <h3>${esc(it.n)}</h3>
       <p>${esc(it.d)}</p>
-      ${it.ig ? `<a class="more" href="https://www.instagram.com/${it.ig}/" target="_blank" rel="noopener">@${esc(it.ig)}</a>` : `<a class="more" href="${wiki(it)}" target="_blank" rel="noopener">${t('Saiba mais', 'Find out more')}</a>`}</article>`;
+      ${it.ig ? `<a class="more" href="https://www.instagram.com/${it.ig}/" target="_blank" rel="noopener">@${esc(it.ig)}</a>` : it.wk === '' ? '' : `<a class="more" href="${wiki(it)}" target="_blank" rel="noopener">${t('Saiba mais', 'Find out more')}</a>`}</article>`;
 
 const ALL = t('Todos', 'All'), NONE = t('Nada encontrado. Tente outra palavra.', 'Nothing found. Try another word.');
 const byYear = (a, b) => (parseInt(a.y) || -1) - (parseInt(b.y) || -1);
@@ -622,7 +627,7 @@ if ($('econNums')) {
 function renderRecs(tag){
   $('recs').innerHTML = A.recordes.map((r, i) => [r, i]).filter(([r]) => !tag || r.t === tag).map(([r, i]) =>
     `<article class="rec rv" id="recordes-${i}"><span class="k">${esc(r.k)}</span><h3>${esc(r.n)}</h3><p>${esc(r.d)}</p>
-     <div class="meta">${esc(r.t)} · <a class="more" href="${wiki(r)}" target="_blank" rel="noopener">${t('Saiba mais', 'Find out more')}</a></div></article>`).join('');
+     <div class="meta">${esc(r.t)}${r.wk === '' ? '' : ` · <a class="more" href="${wiki(r)}" target="_blank" rel="noopener">${t('Saiba mais', 'Find out more')}</a>`}</div></article>`).join('');
   reveal($('recs'));
 }
 if ($('recs')) {
