@@ -66,7 +66,9 @@ famosos: [
   { n: 'Loserfruit', t: 'Content creators', d: 'Kathleen Belsten, from Melbourne, one of the first women to get her own skin in Fortnite.', wk: 'en.wikipedia.org/wiki/Loserfruit' },
   { n: 'Angela White', t: 'Content creators', d: 'One of the most followed Australians on Instagram, with about 10 million followers.', wk: '' },
   { n: 'Emily Sears', t: 'Content creators', d: 'Australian model with about 4.7 million Instagram followers.', wk: '' },
-  { n: 'Robert Irwin', t: 'Content creators', d: 'Steve Irwin’s son, a wildlife photographer and Australia Zoo presenter. Won the US Dancing with the Stars in 2025.', wk: 'en.wikipedia.org/wiki/Robert_Irwin' }
+  { n: 'Robert Irwin', t: 'Content creators', d: 'Steve Irwin’s son, a wildlife photographer and Australia Zoo presenter. Won the US Dancing with the Stars in 2025.', wk: 'en.wikipedia.org/wiki/Robert_Irwin' },
+  { n: 'Jessica Origliasso', t: 'Music', d: 'Brisbane singer, songwriter and producer, born in 1984. With her identical twin Lisa, she makes up The Veronicas.', wk: 'en.wikipedia.org/wiki/Jessica_Origliasso' },
+  { n: 'Lisa Origliasso', t: 'Music', d: 'Singer and songwriter raised in Albany Creek, Queensland. Jessica’s identical twin and the other half of The Veronicas.', wk: 'en.wikipedia.org/wiki/Lisa_Origliasso' }
 ],
 
 /* Instagram ranking · Australia Para Todos, August 2026 (millions of followers) */
@@ -105,7 +107,8 @@ musica: [
   { n: 'Bee Gees', t: 'Pop', y: '1958', d: 'The Gibb brothers were born on the Isle of Man but started their career in Brisbane. From Stayin’ Alive to How Deep Is Your Love, they defined the disco era.', wk: 'en.wikipedia.org/wiki/Bee_Gees' },
   { n: 'Kylie Minogue', t: 'Pop', y: '1987', d: 'The “princess of pop”. Went from Neighbours to hits like Can’t Get You Out of My Head and Padam Padam (a Grammy in 2024).', wk: 'en.wikipedia.org/wiki/Kylie_Minogue' },
   { n: 'Olivia Newton-John', t: 'Pop', y: '1966', d: 'Born in England and raised in Melbourne. Sandy in Grease (1978) and the voice of Physical and Xanadu.', wk: 'en.wikipedia.org/wiki/Olivia_Newton-John' },
-  { n: 'Savage Garden', t: 'Pop', y: '1993', d: 'Brisbane duo behind the big ballads Truly Madly Deeply and I Knew I Loved You, soundtracks to countless soap operas in Brazil.', wk: 'en.wikipedia.org/wiki/Savage_Garden' },
+  { n: 'Savage Garden', t: 'Pop', y: '1993', d: 'Brisbane duo behind the big ballads Truly Madly Deeply and I Knew I Loved You, which topped the charts in the US and around the world.', wk: 'en.wikipedia.org/wiki/Savage_Garden' },
+  { n: 'The Veronicas', t: 'Pop', y: '2005', d: 'Pop rock duo of Brisbane twins Jessica and Lisa Origliasso. Their debut album, The Secret Life Of... (2005), went to number two in Australia on the back of the hit 4ever.', wk: 'en.wikipedia.org/wiki/The_Veronicas' },
   { n: 'Natalie Imbruglia', t: 'Pop', y: '1997', d: 'Another Neighbours actor turned singer: Torn (1997) was one of the biggest hits of the 90s.', wk: 'en.wikipedia.org/wiki/Natalie_Imbruglia' },
   { n: 'John Farnham', t: 'Pop', y: '1967', d: 'You’re the Voice (1986) is practically a second national anthem. “The Voice” is one of the country’s most loved singers.', wk: 'en.wikipedia.org/wiki/John_Farnham' },
   { n: 'Sia', t: 'Pop', y: '1997', d: 'Adelaide singer-songwriter behind Chandelier and Cheap Thrills. She’s also written hits for Rihanna, Beyoncé and Britney.', wk: 'en.wikipedia.org/wiki/Sia' },
@@ -163,7 +166,7 @@ telas: [
   { n: '100% Wolf', t: 'Animation', y: '2020', d: 'Sydney-made film about a werewolf who turns into a poodle. It became a series too.', wk: 'en.wikipedia.org/wiki/100%25_Wolf' },
   { n: 'Kath & Kim', t: 'Aussie series', y: '2002', d: 'Comedy about a vain suburban mother and daughter. Catchphrases like “look at moiye” entered the language.', wk: 'en.wikipedia.org/wiki/Kath_%26_Kim' },
   { n: 'Summer Heights High', t: 'Aussie series', y: '2007', d: 'Chris Lilley plays several characters at a high school. A huge cult hit (and looked at more critically today).', wk: 'en.wikipedia.org/wiki/Summer_Heights_High' },
-  { n: 'H2O: Just Add Water', t: 'Aussie series', y: '2006', d: 'Three Gold Coast teenagers become mermaids. A massive hit around the world, especially in Brazil.', wk: 'en.wikipedia.org/wiki/H2O:_Just_Add_Water' },
+  { n: 'H2O: Just Add Water', t: 'Aussie series', y: '2006', d: 'Three Gold Coast teenagers become mermaids. A massive hit with kids around the world.', wk: 'en.wikipedia.org/wiki/H2O:_Just_Add_Water' },
   { n: 'Heartbreak High', t: 'Aussie series', y: '2022', d: 'Netflix reboot of the 90s series about a Sydney high school. Won an International Emmy in 2023.', wk: 'en.wikipedia.org/wiki/Heartbreak_High' },
   { n: 'Wentworth', t: 'Aussie series', y: '2013', d: 'Women’s prison drama, a reimagining of the 70s series Prisoner (Cell Block H).', wk: 'en.wikipedia.org/wiki/Wentworth_(TV_series)' },
   { n: 'Mystery Road', t: 'Aussie series', y: '2018', d: 'Outback crime drama with an Aboriginal detective. One of the country’s best crime series.', wk: 'en.wikipedia.org/wiki/Mystery_Road_(TV_series)' },
@@ -188,7 +191,7 @@ telas: [
 vistos: [
   { n: 'Neighbours', t: 'Soaps', y: '1985', d: 'The soap set on Ramsay Street in Melbourne. It launched Kylie Minogue, Margot Robbie, Guy Pearce and Liam Hemsworth.', wk: 'en.wikipedia.org/wiki/Neighbours' },
   { n: 'Home and Away', t: 'Soaps', y: '1988', d: 'Soap set in the fictional beach town of Summer Bay (filmed at Palm Beach, Sydney). Launched Chris Hemsworth and Isla Fisher.', wk: 'en.wikipedia.org/wiki/Home_and_Away' },
-  { n: 'MasterChef Australia', t: 'Reality', y: '2009', d: 'The most loved version of the format anywhere, Brazil included. The 2010 finale is one of the most watched broadcasts in Australian TV history.', wk: 'en.wikipedia.org/wiki/MasterChef_Australia' },
+  { n: 'MasterChef Australia', t: 'Reality', y: '2009', d: 'The most loved version of the format anywhere. The 2010 finale is one of the most watched broadcasts in Australian TV history.', wk: 'en.wikipedia.org/wiki/MasterChef_Australia' },
   { n: 'Married at First Sight', t: 'Reality', y: '2015', d: 'Strangers who marry the first time they meet. Controversial and a ratings juggernaut (the famous “MAFS”).', wk: 'en.wikipedia.org/wiki/Married_at_First_Sight' },
   { n: 'The Block', t: 'Reality', y: '2003', d: 'Couples renovate houses that go to auction. Perfect for the national obsession with property.', wk: 'en.wikipedia.org/wiki/The_Block_(Australian_TV_series)' },
   { n: 'Bondi Rescue', t: 'Reality', y: '2006', d: 'A day in the life of the lifeguards at Bondi Beach, Sydney. Shown in dozens of countries.', wk: 'en.wikipedia.org/wiki/Bondi_Rescue' },
@@ -307,7 +310,7 @@ invencoes: [
   { n: 'Cochlear implant', t: 'Health', y: '1978', d: 'Graeme Clark created the multi-channel “bionic ear” in Melbourne, restoring hearing to hundreds of thousands of people.', wk: 'en.wikipedia.org/wiki/Cochlear_implant' },
   { n: 'Dual-flush toilet', t: 'Everyday life', y: '1980', d: 'Bruce Thompson at Caroma came up with the half and full flush buttons to save water.', w: 'Dual flush toilet', wk: 'en.wikipedia.org/wiki/Dual_flush_toilet' },
   { n: 'CPAP', t: 'Health', y: '1981', d: 'Sydney’s Colin Sullivan invented the mask that treats sleep apnoea. It led to the company ResMed.', w: 'Continuous positive airway pressure', wk: 'en.wikipedia.org/wiki/Continuous_positive_airway_pressure' },
-  { n: 'Polymer banknotes', t: 'Technology', y: '1988', d: 'The Reserve Bank and CSIRO created the first plastic notes: longer-lasting and hard to forge. Brazil used the same material for a commemorative R$10 note in 2000.', w: 'Polymer banknote', wk: 'en.wikipedia.org/wiki/Polymer_banknote' },
+  { n: 'Polymer banknotes', t: 'Technology', y: '1988', d: 'The Reserve Bank and CSIRO created the first plastic notes: longer-lasting and hard to forge. Dozens of countries now use them.', w: 'Polymer banknote', wk: 'en.wikipedia.org/wiki/Polymer_banknote' },
   { n: 'Wi-Fi', t: 'Technology', y: '1992', d: 'A CSIRO team led by John O’Sullivan patented the technology that made Wi-Fi fast and reliable.', wk: 'en.wikipedia.org/wiki/Wi-Fi' },
   { n: 'Spray-on skin', t: 'Health', y: '1990s', d: 'Perth’s Fiona Wood developed a spray of the patient’s own cells to treat burns. Used on victims of the 2002 Bali bombings.', w: 'Fiona Wood', wk: 'en.wikipedia.org/wiki/Fiona_Wood' },
   { n: 'HPV vaccine', t: 'Health', y: '2006', d: 'Ian Frazer and Chinese scientist Jian Zhou developed the technology in Brisbane for the vaccine that prevents cervical cancer.', wk: 'en.wikipedia.org/wiki/HPV_vaccine' },
@@ -525,7 +528,7 @@ recordes: [
   { k: '1,650 km²', n: 'K’gari (Fraser Island)', d: 'The biggest sand island in the world, with freshwater lakes and rainforest.', t: 'Nature', w: 'K\'gari', wk: 'en.wikipedia.org/wiki/K%27gari' },
   { k: '1.7m km²', n: 'Great Artesian Basin', d: 'One of the largest underground water reserves in the world, beneath 22% of the country.', t: 'Nature', wk: 'en.wikipedia.org/wiki/Great_Artesian_Basin' },
   { k: '60,000+ years', n: 'Oldest living culture', d: 'Aboriginal and Torres Strait Islander peoples have the oldest continuous culture on Earth.', t: 'Society', w: 'Aboriginal Australians', wk: 'en.wikipedia.org/wiki/Aboriginal_Australians' },
-  { k: '6th', n: 'Biggest country', d: '7.69 million km², almost the size of Brazil (8.5 million). And the only country that covers a whole continent.', t: 'Rankings', wk: 'en.wikipedia.org/wiki/List_of_countries_and_dependencies_by_area' },
+  { k: '6th', n: 'Biggest country', d: '7.69 million km², and the only country that covers a whole continent.', t: 'Rankings', wk: 'en.wikipedia.org/wiki/List_of_countries_and_dependencies_by_area' },
   { k: 'A$26.44/hr', n: 'Minimum wage', d: 'The national minimum wage since July 2026 (A$1,004.90 a week), one of the highest in the world.', t: 'Rankings', w: 'Minimum wage in Australia', wk: 'en.wikipedia.org/wiki/Minimum_wage_in_Australia' },
   { k: '15', n: 'Nobel Prizes', d: 'Eight in Medicine, including Howard Florey (penicillin) and Peter Doherty (the immune system). Patrick White won for Literature in 1973.', t: 'Rankings', w: 'List of Australian Nobel laureates', wk: 'en.wikipedia.org/wiki/List_of_Australian_Nobel_laureates' },
   { k: '~90%', n: 'Voter turnout', d: 'Voting has been compulsory since 1924 and you get fined if you don’t. The result is one of the highest turnouts in the world.', t: 'Society', w: 'Compulsory voting in Australia', wk: 'en.wikipedia.org/wiki/Electoral_system_of_Australia' },
@@ -659,7 +662,7 @@ perfis: [
   { n: 'Brisbane', s: 'QLD', a: 'Brisvegas', d: 'Sunshine all year and a more relaxed pace. Host of the 2032 Olympics.' },
   { n: 'Perth', s: 'WA', a: 'The isolated capital', d: 'One of the most isolated big cities in the world, with empty beaches and a mining economy. Rottnest’s quokkas are just offshore.' },
   { n: 'Adelaide', s: 'SA', a: 'City of Churches', d: 'Planned, laid-back and surrounded by wine regions (the Barossa, McLaren Vale). Home to the Fringe, one of the biggest arts festivals in the world.' },
-  { n: 'Gold Coast', s: 'QLD', a: 'Glitter Strip', d: 'Beachfront high-rises, theme parks and surf. One of the biggest Brazilian communities in the country.' },
+  { n: 'Gold Coast', s: 'QLD', a: 'Glitter Strip', d: 'Beachfront high-rises, theme parks and surf.' },
   { n: 'Canberra', s: 'ACT', a: 'The planned capital', d: 'Designed by American architects Walter and Marion Griffin. Parliament, national museums and plenty of nature.' },
   { n: 'Hobart', s: 'TAS', a: 'Gateway to Antarctica', d: 'The second-oldest city, at the foot of kunanyi/Mount Wellington. Home to the MONA museum and the Dark Mofo winter festival.' },
   { n: 'Darwin', s: 'NT', a: 'The Top End', d: 'Tropical, with a wet and a dry season, crocs and sunsets at the Mindil Beach markets. Closer to Asia than to Sydney.' }

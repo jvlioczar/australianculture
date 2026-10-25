@@ -66,7 +66,9 @@ famosos: [
   { n: 'Loserfruit', t: 'Criadores digitais', d: 'Kathleen Belsten, de Melbourne, uma das primeiras mulheres com skin própria no Fortnite.', wk: 'en.wikipedia.org/wiki/Loserfruit' },
   { n: 'Angela White', t: 'Criadores digitais', d: 'Uma das australianas mais seguidas do Instagram, com cerca de 10 milhões de seguidores.', wk: '' },
   { n: 'Emily Sears', t: 'Criadores digitais', d: 'Modelo australiana com cerca de 4,7 milhões de seguidores no Instagram.', wk: '' },
-  { n: 'Robert Irwin', t: 'Criadores digitais', d: 'Filho de Steve Irwin, fotógrafo de vida selvagem e apresentador do Australia Zoo. Venceu o Dancing with the Stars dos EUA em 2025.', wk: 'pt.wikipedia.org/wiki/Robert_Irwin' }
+  { n: 'Robert Irwin', t: 'Criadores digitais', d: 'Filho de Steve Irwin, fotógrafo de vida selvagem e apresentador do Australia Zoo. Venceu o Dancing with the Stars dos EUA em 2025.', wk: 'pt.wikipedia.org/wiki/Robert_Irwin' },
+  { n: 'Jessica Origliasso', t: 'Música', d: 'Cantora, compositora e produtora de Brisbane, nascida em 1984. Com a gêmea idêntica Lisa, forma a dupla The Veronicas.', wk: 'en.wikipedia.org/wiki/Jessica_Origliasso' },
+  { n: 'Lisa Origliasso', t: 'Música', d: 'Cantora e compositora criada em Albany Creek, Queensland. Gêmea idêntica de Jessica e a outra metade do The Veronicas.', wk: 'en.wikipedia.org/wiki/Lisa_Origliasso' }
 ],
 
 /* Ranking do Instagram · australiaparatodos, agosto de 2026 (milhões de seguidores) */
@@ -106,6 +108,7 @@ musica: [
   { n: 'Kylie Minogue', t: 'Pop', y: '1987', d: 'A "princesa do pop". Saiu de Neighbours para hits como Can\'t Get You Out of My Head e Padam Padam (Grammy em 2024).', wk: 'pt.wikipedia.org/wiki/Kylie_Minogue' },
   { n: 'Olivia Newton-John', t: 'Pop', y: '1966', d: 'Nascida na Inglaterra e criada em Melbourne. A Sandy de Grease (1978) e a voz de Physical e Xanadu.', wk: 'pt.wikipedia.org/wiki/Olivia_Newton-John' },
   { n: 'Savage Garden', t: 'Pop', y: '1993', d: 'Dupla de Brisbane dos baladões Truly Madly Deeply e I Knew I Loved You, trilhas de muita novela no Brasil.', wk: 'pt.wikipedia.org/wiki/Savage_Garden' },
+  { n: 'The Veronicas', t: 'Pop', y: '2005', d: 'Dupla pop rock das gêmeas Jessica e Lisa Origliasso, de Brisbane. O primeiro álbum, The Secret Life Of... (2005), chegou ao 2º lugar na Austrália puxado pelo hit 4ever.', wk: 'pt.wikipedia.org/wiki/The_Veronicas' },
   { n: 'Natalie Imbruglia', t: 'Pop', y: '1997', d: 'Outra atriz de Neighbours que virou cantora: Torn (1997) foi um dos maiores hits dos anos 90.', wk: 'pt.wikipedia.org/wiki/Natalie_Imbruglia' },
   { n: 'John Farnham', t: 'Pop', y: '1967', d: 'You\'re the Voice (1986) é praticamente um segundo hino nacional. "The Voice" é um dos cantores mais queridos do país.', wk: 'pt.wikipedia.org/wiki/John_Farnham' },
   { n: 'Sia', t: 'Pop', y: '1997', d: 'Cantora e compositora de Adelaide, de Chandelier e Cheap Thrills. Escreveu hits para Rihanna, Beyoncé e Britney.', wk: 'pt.wikipedia.org/wiki/Sia' },
