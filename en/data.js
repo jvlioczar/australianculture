@@ -167,6 +167,8 @@ telas: [
   { n: 'Heartbreak High', t: 'Aussie series', y: '2022', d: 'Netflix reboot of the 90s series about a Sydney high school. Won an International Emmy in 2023.' },
   { n: 'Wentworth', t: 'Aussie series', y: '2013', d: 'Women’s prison drama, a reimagining of the 70s series Prisoner (Cell Block H).' },
   { n: 'Mystery Road', t: 'Aussie series', y: '2018', d: 'Outback crime drama with an Aboriginal detective. One of the country’s best crime series.' },
+  { n: 'Deadloch', t: 'Aussie series', y: '2023', d: 'Prime Video crime comedy set in a small Tasmanian town, where two detectives who can’t stand each other investigate the bodies turning up on the beach. Created by Kate McCartney and Kate McLennan.' },
+  { n: 'Last Stop Larrimah', t: 'Aussie series', y: '2023', d: 'HBO documentary about the disappearance of Paddy Moriarty in Larrimah, an outback town in the Northern Territory with about ten residents, where everyone is a suspect.' },
   { n: 'Round the Twist', t: 'Kids’ series', y: '1989', d: 'The Twist family live in a lighthouse where Paul Jennings’ weird and wonderful stories come true. Shot at Split Point Lighthouse in Aireys Inlet, Victoria, with a theme every 90s kid can sing: “Have you ever...”.' },
   { n: 'Johnson and Friends', t: 'Kids’ series', y: '1990', d: 'When the boy falls asleep, his toys come to life: Johnson the elephant and his mates have adventures in the bedroom.' },
   { n: 'Bananas in Pyjamas', t: 'Kids’ series', y: '1992', d: 'B1 and B2, two bananas in striped pyjamas, became one of the ABC’s biggest kids’ hits and sold to dozens of countries.' },

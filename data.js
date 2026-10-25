@@ -167,6 +167,8 @@ telas: [
   { n: 'Heartbreak High', t: 'Série australiana', y: '2022', d: 'Remake na Netflix da série dos anos 90 sobre uma escola em Sydney. Emmy Internacional em 2023.' },
   { n: 'Wentworth', t: 'Série australiana', y: '2013', d: 'Drama de presídio feminino, releitura de Prisoner (Cell Block H), dos anos 70.' },
   { n: 'Mystery Road', t: 'Série australiana', y: '2018', d: 'Policial no outback com um detetive aborígene. Uma das melhores séries de crime do país.' },
+  { n: 'Deadloch', t: 'Série australiana', y: '2023', d: 'Comédia policial do Prime Video numa cidadezinha da Tasmânia, onde duas detetives que não se suportam investigam corpos que aparecem na praia. Criada por Kate McCartney e Kate McLennan.' },
+  { n: 'Último Destino: Larrimah', t: 'Série australiana', y: '2023', d: 'Documentário da HBO sobre o sumiço de Paddy Moriarty em Larrimah, cidadezinha do outback no Território do Norte com uns dez moradores, onde todo mundo é suspeito.', w: 'Last Stop Larrimah' },
   { n: 'Round the Twist (A Família Twist)', t: 'Série infantil', y: '1989', d: 'A família Twist mora num farol onde as histórias malucas de Paul Jennings viram realidade. Gravada no farol de Split Point, em Aireys Inlet (Victoria), tem uma abertura que toda criança dos anos 90 sabe cantar: “Have you ever...”.', w: 'Round the Twist' },
   { n: 'Johnson and Friends', t: 'Série infantil', y: '1990', d: 'Quando o menino dorme, os brinquedos ganham vida: o elefante Johnson e sua turma vivem aventuras dentro do quarto.' },
   { n: 'Bananas de Pijama', t: 'Série infantil', y: '1992', d: 'B1 e B2, duas bananas de pijama listrado, viraram um dos maiores sucessos infantis da ABC e foram vendidas para dezenas de países.', w: 'Bananas in Pyjamas' },
