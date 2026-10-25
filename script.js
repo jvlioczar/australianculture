@@ -99,29 +99,9 @@ $('top').innerHTML = `<div class="wrap">
   <a class="tbtn lang" href="${otherLang(PAGE)}" hreflang="${t('en-AU', 'pt-BR')}" lang="${t('en-AU', 'pt-BR')}" aria-label="${t('Read in English', 'Ler em português')}">${t('EN', 'PT')}</a>
   <button class="tbtn" id="themeBtn" type="button" aria-label="${t('Alternar tema', 'Toggle theme')}"></button>
 </div>`;
-/* idioma do navegador: sugere a outra versão uma vez, sem redirecionar (robôs de busca leem as duas) */
-const LANG_KEY = 'ac-lang', CUR = EN ? 'en' : 'pt';
-const store = v => { try { localStorage.setItem(LANG_KEY, v); } catch (e) {} };
-document.querySelector('#top .lang').addEventListener('click', () => store(EN ? 'pt' : 'en'));
-(() => {
-  let pref = null;
-  try { pref = localStorage.getItem(LANG_KEY); } catch (e) {}
-  const langs = navigator.languages && navigator.languages.length ? navigator.languages : [navigator.language || ''];
-  // vale a primeira língua da lista que o site tem; qualquer outra cai no inglês
-  const first = langs.map(l => l.slice(0, 2).toLowerCase()).find(l => l === 'pt' || l === 'en');
-  const want = first === 'pt' ? 'pt' : 'en';
-  if (pref || want === CUR) return;
-  const lt = (pt, en) => want === 'en' ? en : pt;
-  document.body.insertAdjacentHTML('beforeend', `<div class="langtip" id="langTip" role="region" aria-label="${lt('Idioma', 'Language')}" lang="${lt('pt-BR', 'en-AU')}">
-    <p>${lt('Este guia também está em português.', 'This guide is also in English.')}</p>
-    <a class="go" href="${otherLang(PAGE)}" hreflang="${lt('pt-BR', 'en-AU')}">${lt('Ler em português', 'Read in English')}</a>
-    <button type="button" class="x" aria-label="${lt('Continuar nesta versão', 'Stay on this version')}">${lt('Agora não', 'Not now')}</button>
-  </div>`);
-  const tip = $('langTip');
-  tip.querySelector('.go').addEventListener('click', () => store(want));
-  tip.querySelector('.x').addEventListener('click', () => { store(CUR); tip.classList.remove('on'); setTimeout(() => tip.remove(), 400); });
-  setTimeout(() => tip.classList.add('on'), 1400);
-})();
+/* idioma: o <head> de cada página redireciona pela escolha guardada (ou pelo navegador na primeira visita);
+   trocar pelo botão do cabeçalho grava a nova escolha */
+document.querySelector('#top .lang').addEventListener('click', () => { try { localStorage.setItem('ac-lang', EN ? 'pt' : 'en'); } catch (e) {} });
 /* transição entre páginas interrompida (clique rápido, voltar) não é erro: só silencia as promessas */
 ['pageswap', 'pagereveal'].forEach(ev => addEventListener(ev, e => {
   const vt = e.viewTransition;
@@ -308,7 +288,7 @@ function auMap(withBrazil){
      O lado de cada número (l = esquerda, r = direita, u/d = sobe/desce) evita encavalar nas regiões cheias. */
   const SIDE = {8: 'ru', 9: 'ru', 10: 'ld', 11: 'r', 12: 'rd', 13: 'r', 14: 'l', 15: 'r', 16: 'ru', 17: 'r', 18: 'r', 19: 'lu', 20: 'l', 21: 'r', 22: 'r', 23: 'r', 24: 'r', 25: 'l'};
   const nums = []; // os números vão numa camada acima de todas as bolinhas, para nenhum ficar escondido
-  const dots = A.cidades.map(([n, v, s, la, lo], i) => {
+  const dots = A.cidades.map(([n, v, s, la, lo, ind], i) => {
     const [x, y] = xy(la, lo), r = 2.2 + Math.sqrt(v / max) * 13, k = i + 1;
     let num = '';
     if (!withBrazil) {
@@ -319,7 +299,7 @@ function auMap(withBrazil){
       }
     }
     nums.push(num);
-    return `<g class="dot" data-s="${s}" style="--i:${i}"><circle class="ring" cx="${x.toFixed(1)}" cy="${y.toFixed(1)}" r="${r.toFixed(1)}"/><circle cx="${x.toFixed(1)}" cy="${y.toFixed(1)}" r="${r.toFixed(1)}"/><title>${k}. ${esc(n)} · ${fmt(v)}</title></g>`;
+    return `<g class="dot" data-s="${s}" style="--i:${i}"><circle class="ring" cx="${x.toFixed(1)}" cy="${y.toFixed(1)}" r="${r.toFixed(1)}"/><circle cx="${x.toFixed(1)}" cy="${y.toFixed(1)}" r="${r.toFixed(1)}"/><title>${k}. ${esc(n)}${ind ? ` (${esc(ind)})` : ''} · ${fmt(v)}</title></g>`;
   }).join('');
   const lab = (la, lo, t, cls) => { const [x, y] = xy(la, lo); return `<text class="${cls}" x="${x.toFixed(0)}" y="${y.toFixed(0)}">${t}</text>`; };
   return `<svg viewBox="-10 -10 ${MAP.w + 20} ${MAP.h + 20}" role="img">
@@ -580,7 +560,7 @@ document.querySelectorAll('[data-list]').forEach(host => {
 /* gráficos de barras e chips */
 function bars(host, rows, max){
   host.innerHTML = rows.map((r, i) => `<div class="br" data-g="${esc(r.g)}"><span class="rk">${i + 1}</span>
-    <span class="nm">${esc(r.n)}<small>${esc(r.g)}</small></span><span class="tr"><i data-w="${(r.v / max * 100).toFixed(1)}"></i></span><b class="vl">${r.l}</b></div>`).join('');
+    <span class="nm">${esc(r.n)}<small>${esc(r.g)}</small>${r.ind ? `<em class="ind">${esc(r.ind)}</em>` : ''}</span><span class="tr"><i data-w="${(r.v / max * 100).toFixed(1)}"></i></span><b class="vl">${r.l}</b></div>`).join('');
   const go = () => host.querySelectorAll('i[data-w]').forEach(i => i.style.width = i.dataset.w + '%');
   if (reduced || !('IntersectionObserver' in window)) return go();
   const io = new IntersectionObserver(es => { if (es.some(e => e.isIntersecting)) { go(); io.disconnect(); } }, {threshold: .1});
@@ -671,17 +651,20 @@ if ($('spot')) {
 }
 
 /* Cidades: mapa, ranking e capitais */
+/* nome indígena do lugar e povo dono tradicional da terra; sem nome conhecido, só a terra (Country) */
+const indOf = c => c[5] ? `${c[5]} · ${c[6]}` : t(`Terra ${c[6]}`, `${c[6]} Country`);
+const cityOf = name => A.cidades.find(c => c[0] === name || c[0].endsWith(' ' + name));
 function renderProfiles(s){
   $('cityBars').querySelectorAll('.br').forEach(b => b.classList.toggle('dim', !!s && b.dataset.g !== s));
   $('cityMap').querySelectorAll('.dot, .dot-n').forEach(d => d.classList.toggle('dim', !!s && d.dataset.s !== s));
   const ps = A.perfis.map((p, i) => [p, i]).filter(([p]) => !s || p.s === s);
   $('profiles').innerHTML = ps.length ? ps.map(([p, i]) =>
-    `<article class="prof rv" id="cidades-${i}"><span class="a">${esc(p.a)}</span><h3>${esc(p.n)}<small>${p.s}</small></h3><p>${esc(p.d)}</p></article>`).join('')
+    `<article class="prof rv" id="cidades-${i}"><span class="a">${esc(p.a)}</span><h3>${esc(p.n)}<small>${p.s}</small></h3>${cityOf(p.n) ? `<p class="ind">${esc(indOf(cityOf(p.n)))}</p>` : ''}<p>${esc(p.d)}</p></article>`).join('')
     : `<div class="empty">${t('Sem perfil de capital para este filtro.', 'No capital city profile for this filter.')}</div>`;
   reveal($('profiles'));
 }
 if ($('cityBars')) {
-  const cities = A.cidades.map(([n, v, g]) => ({n, v, g, l: fmt(v)}));
+  const cities = A.cidades.map(c => ({n: c[0], v: c[1], g: c[2], l: fmt(c[1]), ind: indOf(c)}));
   bars($('cityBars'), cities, cities[0].v);
   if (MAP) $('cityMap').innerHTML = auMap(false) + `<figcaption class="note">${t('Cada círculo é uma cidade, do tamanho da sua população. Passe o mouse ou toque para ver o nome.', 'Each circle is a city, sized by population. Hover or tap to see its name.')}</figcaption>`;
   chipRow($('cityChips'), ['NSW', 'VIC', 'QLD', 'WA', 'SA', 'TAS', 'ACT', 'NT'], renderProfiles);

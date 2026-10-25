@@ -526,16 +526,16 @@ natureza: [
 
 /* ============ CIDADES ============ */
 /* ABS 2023 · "Grande" = região metropolitana (Greater Capital City Statistical Area)
-   [nome, população, estado, latitude, longitude] */
+   [nome, população, estado, latitude, longitude, nome indígena do lugar (ou null), povo(s) donos tradicionais da terra] */
 cidades: [
-  ['Grande Sydney', 5450496, 'NSW', -33.87, 151.21], ['Grande Melbourne', 5207145, 'VIC', -37.81, 144.96], ['Grande Brisbane', 2706966, 'QLD', -27.47, 153.03],
-  ['Grande Perth', 2309338, 'WA', -31.95, 115.86], ['Grande Adelaide', 1446380, 'SA', -34.93, 138.6], ['Gold Coast', 666087, 'QLD', -28.02, 153.4],
-  ['Canberra', 466566, 'ACT', -35.28, 149.13], ['Sunshine Coast', 365942, 'QLD', -26.65, 153.07], ['Central Coast', 351934, 'NSW', -33.43, 151.34],
-  ['Grande Geelong', 282809, 'VIC', -38.15, 144.36], ['Grande Hobart', 253654, 'TAS', -42.88, 147.33], ['Wollongong', 219141, 'NSW', -34.42, 150.89],
-  ['Townsville', 201433, 'QLD', -19.26, 146.82], ['Toowoomba', 181821, 'QLD', -27.56, 151.95], ['Cairns', 175398, 'QLD', -16.92, 145.77],
-  ['Newcastle', 174294, 'NSW', -32.93, 151.78], ['Grande Darwin', 150736, 'NT', -12.46, 130.84], ['Mackay', 126907, 'QLD', -21.14, 149.19],
-  ['Grande Bendigo', 124174, 'VIC', -36.76, 144.28], ['Ballarat', 118137, 'VIC', -37.56, 143.85], ['Bundaberg', 104166, 'QLD', -24.87, 152.35],
-  ['Port Macquarie-Hastings', 89596, 'NSW', -31.43, 152.91], ['Rockhampton', 84517, 'QLD', -23.38, 150.51], ['Coffs Harbour', 80489, 'NSW', -30.3, 153.11], ['Launceston', 71788, 'TAS', -41.44, 147.14]
+  ['Grande Sydney', 5450496, 'NSW', -33.87, 151.21, 'Gadi', 'Gadigal'], ['Grande Melbourne', 5207145, 'VIC', -37.81, 144.96, 'Naarm', 'Wurundjeri e Bunurong'], ['Grande Brisbane', 2706966, 'QLD', -27.47, 153.03, 'Meanjin', 'Turrbal e Yuggera'],
+  ['Grande Perth', 2309338, 'WA', -31.95, 115.86, 'Boorloo', 'Whadjuk Noongar'], ['Grande Adelaide', 1446380, 'SA', -34.93, 138.6, 'Tarntanya', 'Kaurna'], ['Gold Coast', 666087, 'QLD', -28.02, 153.4, null, 'Yugambeh'],
+  ['Canberra', 466566, 'ACT', -35.28, 149.13, 'Kanbarra', 'Ngunnawal e Ngambri'], ['Sunshine Coast', 365942, 'QLD', -26.65, 153.07, null, 'Kabi Kabi e Jinibara'], ['Central Coast', 351934, 'NSW', -33.43, 151.34, null, 'Darkinjung'],
+  ['Grande Geelong', 282809, 'VIC', -38.15, 144.36, 'Djilang', 'Wadawurrung'], ['Grande Hobart', 253654, 'TAS', -42.88, 147.33, 'nipaluna', 'muwinina'], ['Wollongong', 219141, 'NSW', -34.42, 150.89, null, 'Dharawal'],
+  ['Townsville', 201433, 'QLD', -19.26, 146.82, 'Gurambilbarra', 'Wulgurukaba e Bindal'], ['Toowoomba', 181821, 'QLD', -27.56, 151.95, null, 'Jarowair e Giabal'], ['Cairns', 175398, 'QLD', -16.92, 145.77, 'Gimuy', 'Yidinji'],
+  ['Newcastle', 174294, 'NSW', -32.93, 151.78, 'Mulubinba', 'Awabakal e Worimi'], ['Grande Darwin', 150736, 'NT', -12.46, 130.84, 'Garramilla', 'Larrakia'], ['Mackay', 126907, 'QLD', -21.14, 149.19, null, 'Yuwibara'],
+  ['Grande Bendigo', 124174, 'VIC', -36.76, 144.28, null, 'Dja Dja Wurrung'], ['Ballarat', 118137, 'VIC', -37.56, 143.85, null, 'Wadawurrung'], ['Bundaberg', 104166, 'QLD', -24.87, 152.35, null, 'Taribelang Bunda e Gooreng Gooreng'],
+  ['Port Macquarie-Hastings', 89596, 'NSW', -31.43, 152.91, null, 'Birpai'], ['Rockhampton', 84517, 'QLD', -23.38, 150.51, null, 'Darumbal'], ['Coffs Harbour', 80489, 'NSW', -30.3, 153.11, null, 'Gumbaynggirr'], ['Launceston', 71788, 'TAS', -41.44, 147.14, null, 'palawa']
 ],
 
 perfis: [
