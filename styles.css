@@ -94,8 +94,6 @@ h1,h2,h3{font-family:var(--display);font-optical-sizing:auto;font-weight:400;fon
 .menu li a .art{position:absolute;right:10px;top:50%;width:64px;height:64px;margin-top:-32px;transform-origin:50% 100%}
 .menu li a:hover .art{animation:jump .85s var(--e-out)}
 .menu li a[aria-current]{box-shadow:0 0 0 3px var(--bg),0 0 0 6px var(--ink)}
-.menu li:last-child{grid-column:span 2}
-.menu li:last-child a{min-height:84px;flex-direction:row;align-items:center;justify-content:flex-start;gap:18px}
 @media (max-width:1023px){.menu ol{grid-template-columns:repeat(2,minmax(0,1fr))}}
 @media (max-width:420px){.menu li a{min-height:104px;padding:14px}.menu li a b{font-size:22px}.menu li a .art{width:34px;height:34px;top:16px;right:12px;margin-top:0}}
 
@@ -871,3 +869,7 @@ main:focus{outline:none}
 @media (prefers-reduced-motion:reduce){.skipintro{transition:opacity .2s}.skipintro span{animation:none}}
 /* linha do tempo no celular: a legenda some rápido entre um marco e outro */
 @media (max-width:760px){.yr-label.moving{opacity:0;transition:opacity .12s}}
+
+/* olhar indígena nas datas: um bloco à parte, em ocre, abaixo do texto */
+.card .crit{margin:6px 0 2px;padding:12px 14px;border-radius:12px;background:color-mix(in srgb,var(--ochre) 14%,transparent);font-size:15px;line-height:1.45}
+.card .crit b{display:block;font:600 11px var(--mono);letter-spacing:.08em;text-transform:uppercase;color:var(--ochre);margin-bottom:4px}

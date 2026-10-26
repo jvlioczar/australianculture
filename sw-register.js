@@ -1,6 +1,6 @@
 (function(){
   if(!('serviceWorker' in navigator)) return;
-  // the worker sits next to this file, so pages in /en/ find it too
+  // the worker sits next to this file, so pages in /pt/ find it too
   const base = new URL('.', (document.currentScript && document.currentScript.src) || location.href);
   function register(){
     const u = new URL('service-worker.js', base).toString();

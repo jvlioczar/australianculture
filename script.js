@@ -7,7 +7,7 @@ const A = window.AC, MAP = window.AC_MAP;
 const $ = id => document.getElementById(id);
 const esc = s => String(s).replace(/[&<>"']/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
 const norm = s => String(s).toLowerCase().normalize('NFD').replace(/[̀-ͯ]/g, '');
-/* Idioma: o mesmo script serve as páginas em português (raiz) e em inglês australiano (/en/) */
+/* Idioma: o mesmo script serve as páginas em inglês australiano (raiz) e em português (/pt/) */
 const EN = document.documentElement.lang.startsWith('en');
 const t = (pt, en) => EN ? en : pt;
 const LOC = t('pt-BR', 'en-AU');
@@ -21,7 +21,7 @@ let rio; // observer de revelação ao rolar, criado no primeiro uso
 
 /* Paradas: id, arquivo, nome, descrição, cor, cor do texto · arquivo, nome e descrição em inglês */
 const CH_ALL = [
-  ['famosos', 'famosos.html', 'Famosos', 'Atores, modelos e criadores digitais', '#7b4bc4', '#fff8ea', 'famous-aussies.html', 'Famous Aussies', 'Actors, models and content creators'],
+  ['famosos', 'famosos.html', 'Famosos', 'Atores, escritores, músicos e criadores', '#7b4bc4', '#fff8ea', 'famous-aussies.html', 'Famous Aussies', 'Actors, writers, musicians and creators'],
   ['musica', 'musica.html', 'Música', 'Do AC/DC à Kylie Minogue', '#f5b700', '#1b120c', 'music.html', 'Music', 'From AC/DC to Kylie Minogue'],
   ['telas', 'filmes-e-series.html', 'Filmes e séries', 'De Mad Max a Bluey, com animações', '#0b5d8c', '#fff8ea', 'film-and-tv.html', 'Film and TV', 'From Mad Max to Bluey, animation included'],
   ['marcas', 'marcas.html', 'Marcas', 'E as gêmeas brasileiras', '#ef6f5e', '#1b120c', 'brands.html', 'Brands', 'From Qantas to Canva'],
@@ -35,18 +35,19 @@ const CH_ALL = [
   ['cidades', 'cidades.html', 'Cidades', 'As 25 maiores, no mapa', '#1b2340', '#fff8ea', 'cities.html', 'Cities', 'The biggest 25, on the map'],
   ['lugares', 'lugares.html', 'Lugares', 'Praias, parques, pontes e monumentos', '#e0b36b', '#1b120c', 'places.html', 'Places', 'Beaches, parks, bridges and landmarks'],
   ['historia', 'historia.html', 'História', '65 mil anos em 30 momentos', '#8b3a1a', '#fff8ea', 'history.html', 'History', '65,000 years in 30 moments'],
+  ['datas', 'datas.html', 'Datas importantes', 'Feriados e datas, com o olhar indígena', '#be185d', '#fff8ea', 'key-dates.html', 'Key dates', 'Holidays and days, with First Nations views'],
   ['politica', 'politica-e-economia.html', 'Política e economia', 'Sistema, partidos, dinheiro e ativistas', '#b23a48', '#fff8ea', 'politics-and-economy.html', 'Politics and economy', 'The system, parties, money and activists'],
   ['sites', 'sites.html', 'Para conhecer mais', 'Os sites que explicam o país', '#0f766e', '#fff8ea', 'websites.html', 'Find out more', 'The websites that explain the country'],
   ['quiz', 'quiz.html', 'Quiz', 'Você é true blue?', '#c6dd52', '#1b120c', 'quiz.html', 'Quiz', 'Are you true blue?']
 ];
 const CH = CH_ALL.map(c => EN ? [c[0], c[6], c[7], c[8], c[4], c[5]] : c.slice(0, 6));
 const ABOUT = t('sobre.html', 'about.html');
-/* a mesma página no outro idioma (o inglês fica em /en/) */
+/* a mesma página no outro idioma (o português fica em /pt/) */
 const otherLang = id => {
-  if (id === 'inicio') return EN ? '../' : 'en/';
-  if (id === 'sobre') return EN ? '../sobre.html' : 'en/about.html';
+  if (id === 'inicio') return EN ? 'pt/' : '../';
+  if (id === 'sobre') return EN ? 'pt/sobre.html' : '../about.html';
   const c = CH_ALL.find(x => x[0] === id);
-  return c ? (EN ? '../' + c[1] : 'en/' + c[6]) : (EN ? '../' : 'en/');
+  return c ? (EN ? 'pt/' + c[1] : '../' + c[6]) : (EN ? 'pt/' : '../');
 };
 const chOf = id => CH.find(c => c[0] === id);
 /* listas que moram dentro da página de outra parada */
@@ -74,6 +75,7 @@ const ART = {
   politica: `<rect class="k" x="10" y="170" width="180" height="12" rx="4"/><path class="y o" d="M18 170c22-30 142-30 164 0z"/><rect class="w o" x="34" y="142" width="132" height="28" rx="4"/><path class="s" d="M56 170v-28M78 170v-28M122 170v-28M144 170v-28"/><path class="s" d="M78 142l22-108 22 108M88 142l12-60 12 60"/><g class="a-flag"><path class="r o" d="M100 30h50l-12 15 12 15h-50z"/></g><path class="s" d="M100 26v40"/>`,
   lugares: `<circle class="y a-sun" cx="162" cy="32" r="18"/><g class="a-wave"><path class="sw" d="M-46 150q15-10 30 0t30 0 30 0 30 0 30 0 30 0 30 0 30 0"/></g><path class="y o" d="M8 176c40-16 144-16 184 0v10H8z"/><path class="s" d="M106 60l12 112"/><path class="r" d="M26 100Q106 10 186 100q-13.33-10-26.67 0t-26.67 0-26.67 0-26.67 0-26.67 0-26.66 0z"/><path class="w" d="M106 55L52.67 100q13.33-10 26.67 0zM106 55L106 100q13.33-10 26.67 0zM106 55L159.33 100q13.33-10 26.67 0z"/><path class="s" d="M26 100Q106 10 186 100q-13.33-10-26.67 0t-26.67 0-26.67 0-26.67 0-26.67 0-26.66 0z"/><circle class="k" cx="106" cy="53" r="5"/>`,
   dicionario: `<g class="a-talk1"><path class="w o" d="M24 44h112a14 14 0 0 1 14 14v52a14 14 0 0 1-14 14H76l-26 24 4-24H24a14 14 0 0 1-14-14V58a14 14 0 0 1 14-14z"/><text class="k t" x="80" y="98" style="font-size:34px">G’day</text></g><g class="a-talk2"><path class="y o" d="M118 112h58a12 12 0 0 1 12 12v30a12 12 0 0 1-12 12h-8l4 18-22-18h-32a12 12 0 0 1-12-12v-30a12 12 0 0 1 12-12z"/><circle class="k" cx="130" cy="139" r="5"/><circle class="k" cx="147" cy="139" r="5"/><circle class="k" cx="164" cy="139" r="5"/></g>`,
+  datas: `<g class="a-hop"><rect class="w o" x="34" y="46" width="132" height="120" rx="12"/><path class="r o" d="M34 58a12 12 0 0 1 12-12h108a12 12 0 0 1 12 12v24H34z"/><text class="k t" x="100" y="144" style="font-size:52px">26</text><rect class="k" x="62" y="32" width="10" height="28" rx="5"/><rect class="k" x="128" y="32" width="10" height="28" rx="5"/></g><g class="a-tw1"><path class="y o" d="M168 24l5 12 12 5-12 5-5 12-5-12-12-5 12-5z"/></g>`,
   quem: `<circle class="w o" cx="100" cy="74" r="34"/><path class="w o" d="M40 178c4-48 32-68 60-68s56 20 60 68z"/><path class="s" d="M86 82q14 10 28 0"/><circle class="k" cx="88" cy="68" r="4"/><circle class="k" cx="112" cy="68" r="4"/>`,
   quiz: `<g class="a-target"><circle class="w o" cx="92" cy="108" r="72"/><circle class="r o" cx="92" cy="108" r="52"/><circle class="w o" cx="92" cy="108" r="32"/><circle class="r o" cx="92" cy="108" r="12"/></g><g class="a-arrow"><path class="s" d="M92 108l78-78" style="stroke-width:7"/><path class="k o" d="M158 30l16-16 6 22-22-6z"/></g>`
 };
@@ -547,14 +549,15 @@ const card = (sec, it, i) => sec === 'dicionario'
       <div class="meta">${esc(it.t || '')}${it.y ? ` <span class="ano">${esc(it.y)}</span>` : ''}</div>
       <h3>${esc(it.n)}</h3>
       <p>${esc(it.d)}</p>
+      ${it.c ? `<p class="crit"><b>${t('Olhar indígena', 'First Nations view')}</b>${esc(it.c)}</p>` : ''}
       ${it.ig ? `<a class="more" href="https://www.instagram.com/${it.ig}/" target="_blank" rel="noopener">@${esc(it.ig)}</a>` : it.wk === '' ? '' : `<a class="more" href="${wiki(it)}" target="_blank" rel="noopener">${t('Saiba mais', 'Find out more')}</a>`}</article>`;
 
 const ALL = t('Todos', 'All'), NONE = t('Nada encontrado. Tente outra palavra.', 'Nothing found. Try another word.');
 const byYear = (a, b) => (parseInt(a.y) || -1) - (parseInt(b.y) || -1);
 A.invencoes.sort(byYear);
 const LABEL = EN
-  ? {sistema: 'the system', economia: 'the economy', magnatas: 'tycoons', partidos: 'parties', politicos: 'politicians', ativistas: 'activists', famosos: 'famous Aussies', musica: 'artists', telas: 'films, series and animation', vistos: 'shows and broadcasts', comediantes: 'comedians', marcas: 'brands', comida: 'food', invencoes: 'inventions', virais: 'memes', sites: 'websites', natureza: 'animals and plants', lugares: 'places', dicionario: 'terms'}
-  : {sistema: 'o sistema', economia: 'a economia', magnatas: 'magnatas', partidos: 'partidos', politicos: 'políticos', ativistas: 'ativistas', famosos: 'famosos', musica: 'artistas', telas: 'filmes, séries e animações', vistos: 'programas e transmissões', comediantes: 'comediantes', marcas: 'marcas', comida: 'comidas', invencoes: 'invenções', virais: 'memes', sites: 'sites', natureza: 'animais e plantas', lugares: 'lugares', dicionario: 'termos'};
+  ? {sistema: 'the system', economia: 'the economy', magnatas: 'tycoons', partidos: 'parties', politicos: 'politicians', ativistas: 'activists', famosos: 'famous Aussies', musica: 'artists', telas: 'films, series and animation', vistos: 'shows and broadcasts', comediantes: 'comedians', marcas: 'brands', comida: 'food', invencoes: 'inventions', virais: 'memes', sites: 'websites', natureza: 'animals and plants', lugares: 'places', dicionario: 'terms', datas: 'dates'}
+  : {sistema: 'o sistema', economia: 'a economia', magnatas: 'magnatas', partidos: 'partidos', politicos: 'políticos', ativistas: 'ativistas', famosos: 'famosos', musica: 'artistas', telas: 'filmes, séries e animações', vistos: 'programas e transmissões', comediantes: 'comediantes', marcas: 'marcas', comida: 'comidas', invencoes: 'invenções', virais: 'memes', sites: 'sites', natureza: 'animais e plantas', lugares: 'lugares', dicionario: 'termos', datas: 'datas'};
 document.querySelectorAll('[data-list]').forEach(host => {
   const sec = host.dataset.list, items = A[sec];
   const tags = [...new Set(items.map(x => x.t))];
@@ -766,6 +769,7 @@ add('natureza', A.natureza, it => ({n: it.n, d: it.d, x: it.t + ' ' + it.s + ' '
 add('recordes', A.recordes, r => ({n: r.n, d: r.k + ' · ' + r.d, x: r.t}));
 add('curiosidades', A.curiosidades, c => ({n: c.n, d: c.d, x: ''}));
 add('historia', A.historia, h => ({n: h.n, d: h.y + ' · ' + h.d, x: h.y + ' ' + h.t}));
+add('datas', A.datas, it => ({n: it.n, d: it.d, x: it.t + ' ' + it.y + ' ' + (it.c || '')}));
 add('dicionario', A.dicionario, it => ({n: it.n, d: it.d, x: (it.e || '')}));
 add('lugares', A.lugares, it => ({n: it.n, d: it.d, x: it.t + ' ' + it.y + ' ' + (it.w || '')}));
 add('cidades', A.perfis, p => ({n: p.n, d: p.a + ' · ' + p.d, x: p.s}));

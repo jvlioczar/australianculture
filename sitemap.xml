@@ -2,268 +2,282 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://australianculture.biblioverse.org/</loc>
-    <lastmod>2026-10-25</lastmod>
+    <lastmod>2026-10-26</lastmod>
     <priority>1.0</priority>
-    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://australianculture.biblioverse.org/"/>
-    <xhtml:link rel="alternate" hreflang="en-AU" href="https://australianculture.biblioverse.org/en/"/>
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://australianculture.biblioverse.org/pt/"/>
+    <xhtml:link rel="alternate" hreflang="en-AU" href="https://australianculture.biblioverse.org/"/>
   </url>
   <url>
-    <loc>https://australianculture.biblioverse.org/en/</loc>
-    <lastmod>2026-10-25</lastmod>
+    <loc>https://australianculture.biblioverse.org/pt/</loc>
+    <lastmod>2026-10-26</lastmod>
     <priority>1.0</priority>
-    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://australianculture.biblioverse.org/"/>
-    <xhtml:link rel="alternate" hreflang="en-AU" href="https://australianculture.biblioverse.org/en/"/>
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://australianculture.biblioverse.org/pt/"/>
+    <xhtml:link rel="alternate" hreflang="en-AU" href="https://australianculture.biblioverse.org/"/>
   </url>
   <url>
-    <loc>https://australianculture.biblioverse.org/cidades.html</loc>
-    <lastmod>2026-10-25</lastmod>
+    <loc>https://australianculture.biblioverse.org/about.html</loc>
+    <lastmod>2026-10-26</lastmod>
     <priority>0.8</priority>
-    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://australianculture.biblioverse.org/cidades.html"/>
-    <xhtml:link rel="alternate" hreflang="en-AU" href="https://australianculture.biblioverse.org/en/cities.html"/>
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://australianculture.biblioverse.org/pt/sobre.html"/>
+    <xhtml:link rel="alternate" hreflang="en-AU" href="https://australianculture.biblioverse.org/about.html"/>
   </url>
   <url>
-    <loc>https://australianculture.biblioverse.org/comida.html</loc>
-    <lastmod>2026-10-25</lastmod>
+    <loc>https://australianculture.biblioverse.org/aussie-dictionary.html</loc>
+    <lastmod>2026-10-26</lastmod>
     <priority>0.8</priority>
-    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://australianculture.biblioverse.org/comida.html"/>
-    <xhtml:link rel="alternate" hreflang="en-AU" href="https://australianculture.biblioverse.org/en/food.html"/>
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://australianculture.biblioverse.org/pt/dicionario.html"/>
+    <xhtml:link rel="alternate" hreflang="en-AU" href="https://australianculture.biblioverse.org/aussie-dictionary.html"/>
   </url>
   <url>
-    <loc>https://australianculture.biblioverse.org/curiosidades.html</loc>
-    <lastmod>2026-10-25</lastmod>
+    <loc>https://australianculture.biblioverse.org/brands.html</loc>
+    <lastmod>2026-10-26</lastmod>
     <priority>0.8</priority>
-    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://australianculture.biblioverse.org/curiosidades.html"/>
-    <xhtml:link rel="alternate" hreflang="en-AU" href="https://australianculture.biblioverse.org/en/fun-facts.html"/>
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://australianculture.biblioverse.org/pt/marcas.html"/>
+    <xhtml:link rel="alternate" hreflang="en-AU" href="https://australianculture.biblioverse.org/brands.html"/>
   </url>
   <url>
-    <loc>https://australianculture.biblioverse.org/dicionario.html</loc>
-    <lastmod>2026-10-25</lastmod>
+    <loc>https://australianculture.biblioverse.org/cities.html</loc>
+    <lastmod>2026-10-26</lastmod>
     <priority>0.8</priority>
-    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://australianculture.biblioverse.org/dicionario.html"/>
-    <xhtml:link rel="alternate" hreflang="en-AU" href="https://australianculture.biblioverse.org/en/aussie-dictionary.html"/>
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://australianculture.biblioverse.org/pt/cidades.html"/>
+    <xhtml:link rel="alternate" hreflang="en-AU" href="https://australianculture.biblioverse.org/cities.html"/>
   </url>
   <url>
-    <loc>https://australianculture.biblioverse.org/en/about.html</loc>
-    <lastmod>2026-10-25</lastmod>
+    <loc>https://australianculture.biblioverse.org/famous-aussies.html</loc>
+    <lastmod>2026-10-26</lastmod>
     <priority>0.8</priority>
-    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://australianculture.biblioverse.org/sobre.html"/>
-    <xhtml:link rel="alternate" hreflang="en-AU" href="https://australianculture.biblioverse.org/en/about.html"/>
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://australianculture.biblioverse.org/pt/famosos.html"/>
+    <xhtml:link rel="alternate" hreflang="en-AU" href="https://australianculture.biblioverse.org/famous-aussies.html"/>
   </url>
   <url>
-    <loc>https://australianculture.biblioverse.org/en/aussie-dictionary.html</loc>
-    <lastmod>2026-10-25</lastmod>
+    <loc>https://australianculture.biblioverse.org/film-and-tv.html</loc>
+    <lastmod>2026-10-26</lastmod>
     <priority>0.8</priority>
-    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://australianculture.biblioverse.org/dicionario.html"/>
-    <xhtml:link rel="alternate" hreflang="en-AU" href="https://australianculture.biblioverse.org/en/aussie-dictionary.html"/>
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://australianculture.biblioverse.org/pt/filmes-e-series.html"/>
+    <xhtml:link rel="alternate" hreflang="en-AU" href="https://australianculture.biblioverse.org/film-and-tv.html"/>
   </url>
   <url>
-    <loc>https://australianculture.biblioverse.org/en/brands.html</loc>
-    <lastmod>2026-10-25</lastmod>
+    <loc>https://australianculture.biblioverse.org/food.html</loc>
+    <lastmod>2026-10-26</lastmod>
     <priority>0.8</priority>
-    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://australianculture.biblioverse.org/marcas.html"/>
-    <xhtml:link rel="alternate" hreflang="en-AU" href="https://australianculture.biblioverse.org/en/brands.html"/>
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://australianculture.biblioverse.org/pt/comida.html"/>
+    <xhtml:link rel="alternate" hreflang="en-AU" href="https://australianculture.biblioverse.org/food.html"/>
   </url>
   <url>
-    <loc>https://australianculture.biblioverse.org/en/cities.html</loc>
-    <lastmod>2026-10-25</lastmod>
+    <loc>https://australianculture.biblioverse.org/fun-facts.html</loc>
+    <lastmod>2026-10-26</lastmod>
     <priority>0.8</priority>
-    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://australianculture.biblioverse.org/cidades.html"/>
-    <xhtml:link rel="alternate" hreflang="en-AU" href="https://australianculture.biblioverse.org/en/cities.html"/>
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://australianculture.biblioverse.org/pt/curiosidades.html"/>
+    <xhtml:link rel="alternate" hreflang="en-AU" href="https://australianculture.biblioverse.org/fun-facts.html"/>
   </url>
   <url>
-    <loc>https://australianculture.biblioverse.org/en/famous-aussies.html</loc>
-    <lastmod>2026-10-25</lastmod>
+    <loc>https://australianculture.biblioverse.org/history.html</loc>
+    <lastmod>2026-10-26</lastmod>
     <priority>0.8</priority>
-    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://australianculture.biblioverse.org/famosos.html"/>
-    <xhtml:link rel="alternate" hreflang="en-AU" href="https://australianculture.biblioverse.org/en/famous-aussies.html"/>
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://australianculture.biblioverse.org/pt/historia.html"/>
+    <xhtml:link rel="alternate" hreflang="en-AU" href="https://australianculture.biblioverse.org/history.html"/>
   </url>
   <url>
-    <loc>https://australianculture.biblioverse.org/en/film-and-tv.html</loc>
-    <lastmod>2026-10-25</lastmod>
+    <loc>https://australianculture.biblioverse.org/inventions.html</loc>
+    <lastmod>2026-10-26</lastmod>
     <priority>0.8</priority>
-    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://australianculture.biblioverse.org/filmes-e-series.html"/>
-    <xhtml:link rel="alternate" hreflang="en-AU" href="https://australianculture.biblioverse.org/en/film-and-tv.html"/>
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://australianculture.biblioverse.org/pt/invencoes.html"/>
+    <xhtml:link rel="alternate" hreflang="en-AU" href="https://australianculture.biblioverse.org/inventions.html"/>
   </url>
   <url>
-    <loc>https://australianculture.biblioverse.org/en/food.html</loc>
-    <lastmod>2026-10-25</lastmod>
+    <loc>https://australianculture.biblioverse.org/key-dates.html</loc>
+    <lastmod>2026-10-26</lastmod>
     <priority>0.8</priority>
-    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://australianculture.biblioverse.org/comida.html"/>
-    <xhtml:link rel="alternate" hreflang="en-AU" href="https://australianculture.biblioverse.org/en/food.html"/>
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://australianculture.biblioverse.org/pt/datas.html"/>
+    <xhtml:link rel="alternate" hreflang="en-AU" href="https://australianculture.biblioverse.org/key-dates.html"/>
   </url>
   <url>
-    <loc>https://australianculture.biblioverse.org/en/fun-facts.html</loc>
-    <lastmod>2026-10-25</lastmod>
+    <loc>https://australianculture.biblioverse.org/music.html</loc>
+    <lastmod>2026-10-26</lastmod>
     <priority>0.8</priority>
-    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://australianculture.biblioverse.org/curiosidades.html"/>
-    <xhtml:link rel="alternate" hreflang="en-AU" href="https://australianculture.biblioverse.org/en/fun-facts.html"/>
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://australianculture.biblioverse.org/pt/musica.html"/>
+    <xhtml:link rel="alternate" hreflang="en-AU" href="https://australianculture.biblioverse.org/music.html"/>
   </url>
   <url>
-    <loc>https://australianculture.biblioverse.org/en/history.html</loc>
-    <lastmod>2026-10-25</lastmod>
+    <loc>https://australianculture.biblioverse.org/places.html</loc>
+    <lastmod>2026-10-26</lastmod>
     <priority>0.8</priority>
-    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://australianculture.biblioverse.org/historia.html"/>
-    <xhtml:link rel="alternate" hreflang="en-AU" href="https://australianculture.biblioverse.org/en/history.html"/>
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://australianculture.biblioverse.org/pt/lugares.html"/>
+    <xhtml:link rel="alternate" hreflang="en-AU" href="https://australianculture.biblioverse.org/places.html"/>
   </url>
   <url>
-    <loc>https://australianculture.biblioverse.org/en/inventions.html</loc>
-    <lastmod>2026-10-25</lastmod>
+    <loc>https://australianculture.biblioverse.org/politics-and-economy.html</loc>
+    <lastmod>2026-10-26</lastmod>
     <priority>0.8</priority>
-    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://australianculture.biblioverse.org/invencoes.html"/>
-    <xhtml:link rel="alternate" hreflang="en-AU" href="https://australianculture.biblioverse.org/en/inventions.html"/>
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://australianculture.biblioverse.org/pt/politica-e-economia.html"/>
+    <xhtml:link rel="alternate" hreflang="en-AU" href="https://australianculture.biblioverse.org/politics-and-economy.html"/>
   </url>
   <url>
-    <loc>https://australianculture.biblioverse.org/en/music.html</loc>
-    <lastmod>2026-10-25</lastmod>
+    <loc>https://australianculture.biblioverse.org/pt/cidades.html</loc>
+    <lastmod>2026-10-26</lastmod>
     <priority>0.8</priority>
-    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://australianculture.biblioverse.org/musica.html"/>
-    <xhtml:link rel="alternate" hreflang="en-AU" href="https://australianculture.biblioverse.org/en/music.html"/>
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://australianculture.biblioverse.org/pt/cidades.html"/>
+    <xhtml:link rel="alternate" hreflang="en-AU" href="https://australianculture.biblioverse.org/cities.html"/>
   </url>
   <url>
-    <loc>https://australianculture.biblioverse.org/en/places.html</loc>
-    <lastmod>2026-10-25</lastmod>
+    <loc>https://australianculture.biblioverse.org/pt/comida.html</loc>
+    <lastmod>2026-10-26</lastmod>
     <priority>0.8</priority>
-    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://australianculture.biblioverse.org/lugares.html"/>
-    <xhtml:link rel="alternate" hreflang="en-AU" href="https://australianculture.biblioverse.org/en/places.html"/>
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://australianculture.biblioverse.org/pt/comida.html"/>
+    <xhtml:link rel="alternate" hreflang="en-AU" href="https://australianculture.biblioverse.org/food.html"/>
   </url>
   <url>
-    <loc>https://australianculture.biblioverse.org/en/politics-and-economy.html</loc>
-    <lastmod>2026-10-25</lastmod>
+    <loc>https://australianculture.biblioverse.org/pt/curiosidades.html</loc>
+    <lastmod>2026-10-26</lastmod>
     <priority>0.8</priority>
-    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://australianculture.biblioverse.org/politica-e-economia.html"/>
-    <xhtml:link rel="alternate" hreflang="en-AU" href="https://australianculture.biblioverse.org/en/politics-and-economy.html"/>
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://australianculture.biblioverse.org/pt/curiosidades.html"/>
+    <xhtml:link rel="alternate" hreflang="en-AU" href="https://australianculture.biblioverse.org/fun-facts.html"/>
   </url>
   <url>
-    <loc>https://australianculture.biblioverse.org/en/quiz.html</loc>
-    <lastmod>2026-10-25</lastmod>
+    <loc>https://australianculture.biblioverse.org/pt/datas.html</loc>
+    <lastmod>2026-10-26</lastmod>
     <priority>0.8</priority>
-    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://australianculture.biblioverse.org/quiz.html"/>
-    <xhtml:link rel="alternate" hreflang="en-AU" href="https://australianculture.biblioverse.org/en/quiz.html"/>
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://australianculture.biblioverse.org/pt/datas.html"/>
+    <xhtml:link rel="alternate" hreflang="en-AU" href="https://australianculture.biblioverse.org/key-dates.html"/>
   </url>
   <url>
-    <loc>https://australianculture.biblioverse.org/en/records.html</loc>
-    <lastmod>2026-10-25</lastmod>
+    <loc>https://australianculture.biblioverse.org/pt/dicionario.html</loc>
+    <lastmod>2026-10-26</lastmod>
     <priority>0.8</priority>
-    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://australianculture.biblioverse.org/recordes.html"/>
-    <xhtml:link rel="alternate" hreflang="en-AU" href="https://australianculture.biblioverse.org/en/records.html"/>
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://australianculture.biblioverse.org/pt/dicionario.html"/>
+    <xhtml:link rel="alternate" hreflang="en-AU" href="https://australianculture.biblioverse.org/aussie-dictionary.html"/>
   </url>
   <url>
-    <loc>https://australianculture.biblioverse.org/en/virals-and-memes.html</loc>
-    <lastmod>2026-10-25</lastmod>
+    <loc>https://australianculture.biblioverse.org/pt/famosos.html</loc>
+    <lastmod>2026-10-26</lastmod>
     <priority>0.8</priority>
-    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://australianculture.biblioverse.org/virais-e-memes.html"/>
-    <xhtml:link rel="alternate" hreflang="en-AU" href="https://australianculture.biblioverse.org/en/virals-and-memes.html"/>
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://australianculture.biblioverse.org/pt/famosos.html"/>
+    <xhtml:link rel="alternate" hreflang="en-AU" href="https://australianculture.biblioverse.org/famous-aussies.html"/>
   </url>
   <url>
-    <loc>https://australianculture.biblioverse.org/en/websites.html</loc>
-    <lastmod>2026-10-25</lastmod>
+    <loc>https://australianculture.biblioverse.org/pt/filmes-e-series.html</loc>
+    <lastmod>2026-10-26</lastmod>
     <priority>0.8</priority>
-    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://australianculture.biblioverse.org/sites.html"/>
-    <xhtml:link rel="alternate" hreflang="en-AU" href="https://australianculture.biblioverse.org/en/websites.html"/>
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://australianculture.biblioverse.org/pt/filmes-e-series.html"/>
+    <xhtml:link rel="alternate" hreflang="en-AU" href="https://australianculture.biblioverse.org/film-and-tv.html"/>
   </url>
   <url>
-    <loc>https://australianculture.biblioverse.org/en/wildlife-and-plants.html</loc>
-    <lastmod>2026-10-25</lastmod>
+    <loc>https://australianculture.biblioverse.org/pt/historia.html</loc>
+    <lastmod>2026-10-26</lastmod>
     <priority>0.8</priority>
-    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://australianculture.biblioverse.org/natureza.html"/>
-    <xhtml:link rel="alternate" hreflang="en-AU" href="https://australianculture.biblioverse.org/en/wildlife-and-plants.html"/>
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://australianculture.biblioverse.org/pt/historia.html"/>
+    <xhtml:link rel="alternate" hreflang="en-AU" href="https://australianculture.biblioverse.org/history.html"/>
   </url>
   <url>
-    <loc>https://australianculture.biblioverse.org/famosos.html</loc>
-    <lastmod>2026-10-25</lastmod>
+    <loc>https://australianculture.biblioverse.org/pt/invencoes.html</loc>
+    <lastmod>2026-10-26</lastmod>
     <priority>0.8</priority>
-    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://australianculture.biblioverse.org/famosos.html"/>
-    <xhtml:link rel="alternate" hreflang="en-AU" href="https://australianculture.biblioverse.org/en/famous-aussies.html"/>
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://australianculture.biblioverse.org/pt/invencoes.html"/>
+    <xhtml:link rel="alternate" hreflang="en-AU" href="https://australianculture.biblioverse.org/inventions.html"/>
   </url>
   <url>
-    <loc>https://australianculture.biblioverse.org/filmes-e-series.html</loc>
-    <lastmod>2026-10-25</lastmod>
+    <loc>https://australianculture.biblioverse.org/pt/lugares.html</loc>
+    <lastmod>2026-10-26</lastmod>
     <priority>0.8</priority>
-    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://australianculture.biblioverse.org/filmes-e-series.html"/>
-    <xhtml:link rel="alternate" hreflang="en-AU" href="https://australianculture.biblioverse.org/en/film-and-tv.html"/>
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://australianculture.biblioverse.org/pt/lugares.html"/>
+    <xhtml:link rel="alternate" hreflang="en-AU" href="https://australianculture.biblioverse.org/places.html"/>
   </url>
   <url>
-    <loc>https://australianculture.biblioverse.org/historia.html</loc>
-    <lastmod>2026-10-25</lastmod>
+    <loc>https://australianculture.biblioverse.org/pt/marcas.html</loc>
+    <lastmod>2026-10-26</lastmod>
     <priority>0.8</priority>
-    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://australianculture.biblioverse.org/historia.html"/>
-    <xhtml:link rel="alternate" hreflang="en-AU" href="https://australianculture.biblioverse.org/en/history.html"/>
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://australianculture.biblioverse.org/pt/marcas.html"/>
+    <xhtml:link rel="alternate" hreflang="en-AU" href="https://australianculture.biblioverse.org/brands.html"/>
   </url>
   <url>
-    <loc>https://australianculture.biblioverse.org/invencoes.html</loc>
-    <lastmod>2026-10-25</lastmod>
+    <loc>https://australianculture.biblioverse.org/pt/musica.html</loc>
+    <lastmod>2026-10-26</lastmod>
     <priority>0.8</priority>
-    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://australianculture.biblioverse.org/invencoes.html"/>
-    <xhtml:link rel="alternate" hreflang="en-AU" href="https://australianculture.biblioverse.org/en/inventions.html"/>
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://australianculture.biblioverse.org/pt/musica.html"/>
+    <xhtml:link rel="alternate" hreflang="en-AU" href="https://australianculture.biblioverse.org/music.html"/>
   </url>
   <url>
-    <loc>https://australianculture.biblioverse.org/lugares.html</loc>
-    <lastmod>2026-10-25</lastmod>
+    <loc>https://australianculture.biblioverse.org/pt/natureza.html</loc>
+    <lastmod>2026-10-26</lastmod>
     <priority>0.8</priority>
-    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://australianculture.biblioverse.org/lugares.html"/>
-    <xhtml:link rel="alternate" hreflang="en-AU" href="https://australianculture.biblioverse.org/en/places.html"/>
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://australianculture.biblioverse.org/pt/natureza.html"/>
+    <xhtml:link rel="alternate" hreflang="en-AU" href="https://australianculture.biblioverse.org/wildlife-and-plants.html"/>
   </url>
   <url>
-    <loc>https://australianculture.biblioverse.org/marcas.html</loc>
-    <lastmod>2026-10-25</lastmod>
+    <loc>https://australianculture.biblioverse.org/pt/politica-e-economia.html</loc>
+    <lastmod>2026-10-26</lastmod>
     <priority>0.8</priority>
-    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://australianculture.biblioverse.org/marcas.html"/>
-    <xhtml:link rel="alternate" hreflang="en-AU" href="https://australianculture.biblioverse.org/en/brands.html"/>
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://australianculture.biblioverse.org/pt/politica-e-economia.html"/>
+    <xhtml:link rel="alternate" hreflang="en-AU" href="https://australianculture.biblioverse.org/politics-and-economy.html"/>
   </url>
   <url>
-    <loc>https://australianculture.biblioverse.org/musica.html</loc>
-    <lastmod>2026-10-25</lastmod>
+    <loc>https://australianculture.biblioverse.org/pt/quiz.html</loc>
+    <lastmod>2026-10-26</lastmod>
     <priority>0.8</priority>
-    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://australianculture.biblioverse.org/musica.html"/>
-    <xhtml:link rel="alternate" hreflang="en-AU" href="https://australianculture.biblioverse.org/en/music.html"/>
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://australianculture.biblioverse.org/pt/quiz.html"/>
+    <xhtml:link rel="alternate" hreflang="en-AU" href="https://australianculture.biblioverse.org/quiz.html"/>
   </url>
   <url>
-    <loc>https://australianculture.biblioverse.org/natureza.html</loc>
-    <lastmod>2026-10-25</lastmod>
+    <loc>https://australianculture.biblioverse.org/pt/recordes.html</loc>
+    <lastmod>2026-10-26</lastmod>
     <priority>0.8</priority>
-    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://australianculture.biblioverse.org/natureza.html"/>
-    <xhtml:link rel="alternate" hreflang="en-AU" href="https://australianculture.biblioverse.org/en/wildlife-and-plants.html"/>
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://australianculture.biblioverse.org/pt/recordes.html"/>
+    <xhtml:link rel="alternate" hreflang="en-AU" href="https://australianculture.biblioverse.org/records.html"/>
   </url>
   <url>
-    <loc>https://australianculture.biblioverse.org/politica-e-economia.html</loc>
-    <lastmod>2026-10-25</lastmod>
+    <loc>https://australianculture.biblioverse.org/pt/sites.html</loc>
+    <lastmod>2026-10-26</lastmod>
     <priority>0.8</priority>
-    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://australianculture.biblioverse.org/politica-e-economia.html"/>
-    <xhtml:link rel="alternate" hreflang="en-AU" href="https://australianculture.biblioverse.org/en/politics-and-economy.html"/>
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://australianculture.biblioverse.org/pt/sites.html"/>
+    <xhtml:link rel="alternate" hreflang="en-AU" href="https://australianculture.biblioverse.org/websites.html"/>
+  </url>
+  <url>
+    <loc>https://australianculture.biblioverse.org/pt/sobre.html</loc>
+    <lastmod>2026-10-26</lastmod>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://australianculture.biblioverse.org/pt/sobre.html"/>
+    <xhtml:link rel="alternate" hreflang="en-AU" href="https://australianculture.biblioverse.org/about.html"/>
+  </url>
+  <url>
+    <loc>https://australianculture.biblioverse.org/pt/virais-e-memes.html</loc>
+    <lastmod>2026-10-26</lastmod>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://australianculture.biblioverse.org/pt/virais-e-memes.html"/>
+    <xhtml:link rel="alternate" hreflang="en-AU" href="https://australianculture.biblioverse.org/virals-and-memes.html"/>
   </url>
   <url>
     <loc>https://australianculture.biblioverse.org/quiz.html</loc>
-    <lastmod>2026-10-25</lastmod>
+    <lastmod>2026-10-26</lastmod>
     <priority>0.8</priority>
-    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://australianculture.biblioverse.org/quiz.html"/>
-    <xhtml:link rel="alternate" hreflang="en-AU" href="https://australianculture.biblioverse.org/en/quiz.html"/>
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://australianculture.biblioverse.org/pt/quiz.html"/>
+    <xhtml:link rel="alternate" hreflang="en-AU" href="https://australianculture.biblioverse.org/quiz.html"/>
   </url>
   <url>
-    <loc>https://australianculture.biblioverse.org/recordes.html</loc>
-    <lastmod>2026-10-25</lastmod>
+    <loc>https://australianculture.biblioverse.org/records.html</loc>
+    <lastmod>2026-10-26</lastmod>
     <priority>0.8</priority>
-    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://australianculture.biblioverse.org/recordes.html"/>
-    <xhtml:link rel="alternate" hreflang="en-AU" href="https://australianculture.biblioverse.org/en/records.html"/>
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://australianculture.biblioverse.org/pt/recordes.html"/>
+    <xhtml:link rel="alternate" hreflang="en-AU" href="https://australianculture.biblioverse.org/records.html"/>
   </url>
   <url>
-    <loc>https://australianculture.biblioverse.org/sites.html</loc>
-    <lastmod>2026-10-25</lastmod>
+    <loc>https://australianculture.biblioverse.org/virals-and-memes.html</loc>
+    <lastmod>2026-10-26</lastmod>
     <priority>0.8</priority>
-    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://australianculture.biblioverse.org/sites.html"/>
-    <xhtml:link rel="alternate" hreflang="en-AU" href="https://australianculture.biblioverse.org/en/websites.html"/>
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://australianculture.biblioverse.org/pt/virais-e-memes.html"/>
+    <xhtml:link rel="alternate" hreflang="en-AU" href="https://australianculture.biblioverse.org/virals-and-memes.html"/>
   </url>
   <url>
-    <loc>https://australianculture.biblioverse.org/sobre.html</loc>
-    <lastmod>2026-10-25</lastmod>
+    <loc>https://australianculture.biblioverse.org/websites.html</loc>
+    <lastmod>2026-10-26</lastmod>
     <priority>0.8</priority>
-    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://australianculture.biblioverse.org/sobre.html"/>
-    <xhtml:link rel="alternate" hreflang="en-AU" href="https://australianculture.biblioverse.org/en/about.html"/>
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://australianculture.biblioverse.org/pt/sites.html"/>
+    <xhtml:link rel="alternate" hreflang="en-AU" href="https://australianculture.biblioverse.org/websites.html"/>
   </url>
   <url>
-    <loc>https://australianculture.biblioverse.org/virais-e-memes.html</loc>
-    <lastmod>2026-10-25</lastmod>
+    <loc>https://australianculture.biblioverse.org/wildlife-and-plants.html</loc>
+    <lastmod>2026-10-26</lastmod>
     <priority>0.8</priority>
-    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://australianculture.biblioverse.org/virais-e-memes.html"/>
-    <xhtml:link rel="alternate" hreflang="en-AU" href="https://australianculture.biblioverse.org/en/virals-and-memes.html"/>
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://australianculture.biblioverse.org/pt/natureza.html"/>
+    <xhtml:link rel="alternate" hreflang="en-AU" href="https://australianculture.biblioverse.org/wildlife-and-plants.html"/>
   </url>
 </urlset>
