@@ -51,7 +51,7 @@ const otherLang = id => {
 };
 const chOf = id => CH.find(c => c[0] === id);
 /* listas que moram dentro da página de outra parada */
-const PAGE_OF = {vistos: 'telas', comediantes: 'virais', sistema: 'politica', econ: 'politica', economia: 'politica', magnatas: 'politica', partidos: 'politica', politicos: 'politica', ativistas: 'politica'};
+const PAGE_OF = {nacionais: 'famosos', vistos: 'telas', comediantes: 'virais', sistema: 'politica', econ: 'politica', economia: 'politica', magnatas: 'politica', partidos: 'politica', politicos: 'politica', ativistas: 'politica'};
 const pad = n => String(n).padStart(2, '0');
 
 /* Ilustrações das paradas (viewBox 200×200). Classes em styles.css:
@@ -558,8 +558,8 @@ const ALL = t('Todos', 'All'), NONE = t('Nada encontrado. Tente outra palavra.',
 const byYear = (a, b) => (parseInt(a.y) || -1) - (parseInt(b.y) || -1);
 A.invencoes.sort(byYear);
 const LABEL = EN
-  ? {sistema: 'the system', economia: 'the economy', magnatas: 'tycoons', partidos: 'parties', politicos: 'politicians', ativistas: 'activists', famosos: 'famous Aussies', musica: 'artists', telas: 'films, series and animation', vistos: 'shows and broadcasts', comediantes: 'comedians', marcas: 'brands', comida: 'food', invencoes: 'inventions', virais: 'memes', sites: 'websites', natureza: 'animals and plants', lugares: 'places', dicionario: 'terms', datas: 'dates'}
-  : {sistema: 'o sistema', economia: 'a economia', magnatas: 'magnatas', partidos: 'partidos', politicos: 'políticos', ativistas: 'ativistas', famosos: 'famosos', musica: 'artistas', telas: 'filmes, séries e animações', vistos: 'programas e transmissões', comediantes: 'comediantes', marcas: 'marcas', comida: 'comidas', invencoes: 'invenções', virais: 'memes', sites: 'sites', natureza: 'animais e plantas', lugares: 'lugares', dicionario: 'termos', datas: 'datas'};
+  ? {sistema: 'the system', economia: 'the economy', magnatas: 'tycoons', partidos: 'parties', politicos: 'politicians', ativistas: 'activists', famosos: 'famous Aussies', musica: 'artists', telas: 'films, series and animation', vistos: 'shows and broadcasts', comediantes: 'comedians', marcas: 'brands', comida: 'food', invencoes: 'inventions', virais: 'memes', sites: 'websites', natureza: 'animals and plants', lugares: 'places', dicionario: 'terms', datas: 'dates', nacionais: 'national icons'}
+  : {sistema: 'o sistema', economia: 'a economia', magnatas: 'magnatas', partidos: 'partidos', politicos: 'políticos', ativistas: 'ativistas', famosos: 'famosos', musica: 'artistas', telas: 'filmes, séries e animações', vistos: 'programas e transmissões', comediantes: 'comediantes', marcas: 'marcas', comida: 'comidas', invencoes: 'invenções', virais: 'memes', sites: 'sites', natureza: 'animais e plantas', lugares: 'lugares', dicionario: 'termos', datas: 'datas', nacionais: 'ícones nacionais'};
 document.querySelectorAll('[data-list]').forEach(host => {
   const sec = host.dataset.list, items = A[sec];
   const tags = [...new Set(items.map(x => x.t))];
@@ -765,7 +765,7 @@ if ($('quizBox')) quizStart();
 /* ================= BUSCA GLOBAL (leva à página certa) ================= */
 const IDX = [];
 const add = (sec, list, f) => list.forEach((it, i) => IDX.push(Object.assign({sec, a: `${sec}-${i}`}, f(it, i))));
-['famosos', 'musica', 'telas', 'marcas', 'comida', 'invencoes', 'virais'].forEach(sec =>
+['famosos', 'nacionais', 'musica', 'telas', 'marcas', 'comida', 'invencoes', 'virais'].forEach(sec =>
   add(sec, A[sec], it => ({n: it.n, d: it.d, x: it.t + ' ' + (it.y || '')})));
 add('vistos', A.vistos, it => ({n: it.n, d: it.d, x: it.t + ' ' + (it.y || '')}));
 ['sistema', 'economia', 'magnatas', 'partidos', 'politicos', 'ativistas'].forEach(sec => add(sec, A[sec], it => ({n: it.n, d: it.d, x: it.t + ' ' + (it.y || '')})));
