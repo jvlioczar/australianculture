@@ -912,3 +912,18 @@ main:focus{outline:none}
   .page a[href^="http"]::after{content:" (" attr(href) ")";font-size:8.5pt;color:#444;word-break:break-all}
   .card a.more::after{content:" (" attr(href) ")"}
 }
+
+/* Comparando com o Brasil (só no português): cartões com o par Austrália ≈ Brasil */
+.cmp-h{font:400 26px/1 var(--display);margin:34px 0 16px}
+.cmp-list{display:grid;grid-template-columns:repeat(auto-fill,minmax(340px,1fr));gap:18px}
+.cmp-row{background:var(--paper);border-radius:18px;padding:20px 22px 22px;display:flex;flex-direction:column;gap:8px}
+.cmp-pair{display:grid;grid-template-columns:1fr auto 1fr;align-items:center;gap:10px}
+.cmp-pair p{margin:0}
+.cmp-pair .mono{display:block;font-size:11px;letter-spacing:.1em;text-transform:uppercase;color:var(--muted);margin-bottom:4px}
+.cmp-pair b{font:400 21px/1.08 var(--display)}
+.cmp-pair p:last-child{text-align:right}
+.cmp-eq{font:400 30px var(--display);color:var(--ochre)}
+.cmp-e{margin:4px 0 0;font:600 12px var(--mono);letter-spacing:.06em;text-transform:uppercase;color:var(--ochre)}
+.cmp-d{margin:0;font-size:15.5px;line-height:1.5;color:var(--ink-2)}
+@media (max-width:600px){.cmp-list{grid-template-columns:1fr}.cmp-pair b{font-size:19px}}
+@media print{.cmp-row{background:#fff!important;border:1px solid #bbb}}

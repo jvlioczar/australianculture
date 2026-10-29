@@ -648,6 +648,17 @@ if ($('econNums')) {
   reveal($('econNums'));
 }
 
+/* Comparação com o Brasil: só a página em português tem os blocos e os dados */
+const cmp = (id, rows) => {
+  if (!$(id) || !rows) return;
+  $(id).innerHTML = rows.map((r, i) => `<article class="cmp-row rv" id="${id}-${i}">
+    <div class="cmp-pair"><p><span class="mono">Austrália</span><b>${esc(r.a)}</b></p><span class="cmp-eq" aria-hidden="true">≈</span><p><span class="mono">Brasil</span><b>${esc(r.b)}</b></p></div>
+    <p class="cmp-e">${esc(r.e)}</p><p class="cmp-d">${esc(r.d)}</p></article>`).join('');
+  reveal($(id));
+};
+cmp('cmpPartidos', A.comparaPartidos);
+cmp('cmpLideres', A.comparaLideres);
+
 /* Recordes */
 function renderRecs(tag){
   if (!$('recs').previousElementSibling?.matches('h2.vh') && !$('recs').closest('section')?.querySelector('h2')) $('recs').insertAdjacentHTML('beforebegin', `<h2 class="vh">${t('Lista de recordes', 'List of records')}</h2>`);
