@@ -74,13 +74,13 @@ famosos: [
 nacionais: [
   { n: 'Ray Martin', t: 'TV and radio', d: 'Journalist and presenter of 60 Minutes, Midday and A Current Affair. He won the Gold Logie, Australian TV’s top award, five times.', wk: 'en.wikipedia.org/wiki/Ray_Martin_(television_presenter)' },
   { n: 'Bert Newton', t: 'TV and radio', d: '“Mr Television”: more than 60 years on air, from In Melbourne Tonight to Good Morning Australia, and four Gold Logies. He died in 2021.', wk: 'en.wikipedia.org/wiki/Bert_Newton' },
-  { n: 'Karl Stefanovic', t: 'TV and radio', d: 'Host of Nine’s Today breakfast show since 2005. He won the Gold Logie in 2011.', wk: 'en.wikipedia.org/wiki/Karl_Stefanovic' },
+  { n: 'Karl Stefanovic', t: 'TV and radio', d: 'Co-host of Nine’s Today breakfast show from 2005 to 2018 and again since 2020. He won the Gold Logie in 2011.', wk: 'en.wikipedia.org/wiki/Karl_Stefanovic' },
   { n: 'Lisa Wilkinson', t: 'TV and radio', d: 'Became editor of Dolly magazine at 21, then co-hosted Today and The Project.', wk: 'en.wikipedia.org/wiki/Lisa_Wilkinson' },
   { n: 'Leigh Sales', t: 'TV and radio', d: 'ABC journalist who hosted 7.30 from 2011 to 2022, known for tough interviews with politicians.', wk: 'en.wikipedia.org/wiki/Leigh_Sales' },
   { n: 'Grant Denyer', t: 'TV and radio', d: 'Host of Family Feud, former Sunrise weatherman and racing driver. He won the Gold Logie in 2018.', wk: 'en.wikipedia.org/wiki/Grant_Denyer' },
   { n: 'Sonia Kruger', t: 'TV and radio', d: 'Former dancer turned one of the country’s best-known hosts, fronting The Voice and Big Brother.', wk: 'en.wikipedia.org/wiki/Sonia_Kruger' },
   { n: 'Andrew Denton', t: 'TV and radio', d: 'Interviewer on the ABC’s Enough Rope and creator of comedy shows. Now a leading voice for voluntary assisted dying.', wk: 'en.wikipedia.org/wiki/Andrew_Denton' },
-  { n: 'Molly Meldrum', t: 'TV and radio', d: 'The man in the cowboy hat on Countdown (1974–1987), the show that launched bands like INXS and Crowded House.', wk: 'en.wikipedia.org/wiki/Molly_Meldrum' },
+  { n: 'Molly Meldrum', t: 'TV and radio', d: 'The man in the cowboy hat on Countdown (1974–1987), the show that helped launch acts like AC/DC and Skyhooks.', wk: 'en.wikipedia.org/wiki/Molly_Meldrum' },
   { n: 'Costa Georgiadis', t: 'TV and radio', d: 'The bearded gardener of the ABC’s Gardening Australia, who makes everyone want to start a veggie patch.', wk: 'en.wikipedia.org/wiki/Costa_Georgiadis' },
   { n: 'Magda Szubanski', t: 'Film and TV', d: 'Sharon in Kath & Kim and Esme in Babe. She was one of the faces of the 2017 marriage equality campaign.', wk: 'en.wikipedia.org/wiki/Magda_Szubanski' },
   { n: 'Deborah Mailman', t: 'Film and TV', d: 'Bidjara actor from The Sapphires, Offspring and Mystery Road. The first Aboriginal woman to win the AFI award for best actress, in 1998.', wk: 'en.wikipedia.org/wiki/Deborah_Mailman' },
@@ -178,7 +178,7 @@ telas: [
   { n: 'Talk to Me', t: 'Aussie film', y: '2022', d: 'Horror from Adelaide’s Philippou brothers, the former RackaRacka YouTubers. A worldwide hit for A24.', w: 'Talk to Me (2022 film)', wk: 'en.wikipedia.org/wiki/Talk_to_Me_(2022_film)' },
   { n: 'The Babadook', t: 'Aussie film', y: '2014', d: 'Psychological horror from Adelaide’s Jennifer Kent. The monster even became an unlikely LGBTQ+ icon online.', wk: 'en.wikipedia.org/wiki/The_Babadook' },
 
-  { n: 'Bluey', t: 'Animation', y: '2018', d: 'Brisbane-made cartoon about a family of blue heelers. The most watched kids’ show in the world on streaming, and loved just as much by the parents.', wk: 'en.wikipedia.org/wiki/Bluey_(TV_series)' },
+  { n: 'Bluey', t: 'Animation', y: '2018', d: 'Brisbane-made cartoon about a family of blue heelers. One of the most watched kids’ shows in the world, a hit on Disney+ and the most watched children’s program on Australian TV, loved just as much by the parents.', wk: 'en.wikipedia.org/wiki/Bluey_(TV_series)' },
   { n: 'Mary and Max', t: 'Animation', y: '2009', d: 'Adam Elliot’s claymation about a pen-pal friendship between a Melbourne girl and a man in New York. Opened the Sundance Film Festival.', wk: 'en.wikipedia.org/wiki/Mary_and_Max' },
   { n: 'Harvie Krumpet', t: 'Animation', y: '2003', d: 'Adam Elliot’s claymation short, narrated by Geoffrey Rush, which won the Oscar for Best Animated Short.', wk: 'en.wikipedia.org/wiki/Harvie_Krumpet' },
   { n: 'Memoir of a Snail', t: 'Animation', y: '2024', d: 'Adam Elliot’s third stop-motion feature, about a woman who collects snails. Oscar-nominated for Best Animated Feature in 2025.', wk: 'en.wikipedia.org/wiki/Memoir_of_a_Snail' },
@@ -358,7 +358,7 @@ virais: [
   { n: '“Crikey!”', t: 'Catchphrases', d: 'Steve Irwin’s catchcry, shorthand for Aussie enthusiasm all over the world.', wk: 'en.wikipedia.org/wiki/Steve_Irwin' },
   { n: '“Yeah, nah”', t: 'Catchphrases', d: 'Means “no”. “Nah, yeah” means “yes”. And “yeah, nah, yeah”... good luck.', wk: 'en.wikipedia.org/wiki/Australian_English_vocabulary' },
   { n: 'Bob Katter and the crocs', t: 'Internet', y: '2017', d: 'Asked about marriage equality, the MP said “let there be a thousand blossoms bloom” and then that “every three months, a person is torn to pieces by a crocodile in north Queensland”. The swerve became a meme, and a mug.', w: 'Bob Katter', wk: 'en.wikipedia.org/wiki/Bob_Katter' },
-  { n: '“Don’t you dare say that!”', t: 'Internet', y: '2025', d: 'Bob Katter again: at a Brisbane press conference, when a reporter raised his Lebanese heritage, the MP shouted “Don’t you dare say that!” and raised his fist. Even the Prime Minister criticised it, and the clip went viral.', w: 'Bob Katter', wk: 'en.wikipedia.org/wiki/Bob_Katter' },
+  { n: '“Don’t you dare say that!”', t: 'Internet', y: '2025', d: 'Bob Katter again: in August 2025, at a press conference backing anti-immigration rallies, a reporter raised his Lebanese heritage and the MP waved his fist in his face: “Don’t say that, because that irritates me, and I punch blokes in the mouth for saying that.” The clip went viral.', w: 'Bob Katter', wk: 'en.wikipedia.org/wiki/Bob_Katter' },
   { n: 'Peggy and Molly', t: 'Internet', y: '2020', ig: 'peggyandmolly', d: 'The friendship between Peggy, a staffy, and Molly, a magpie chick rescued on the Gold Coast during lockdown, won over hundreds of thousands of followers. In 2024 Molly was taken by wildlife authorities over a missing permit, and came home after a campaign by fans.' },
   { n: '“Democracy manifest”', t: 'Internet', y: '1991', d: 'Jack Karlson being arrested in Brisbane after a “succulent Chinese meal”, shouting “Gentlemen, this is democracy manifest!”. The clip went viral in 2009 and became legend.', w: 'Jack Karlson', wk: 'en.wikipedia.org/wiki/Democracy_Manifest' },
   { n: '“Just waiting for a mate”', t: 'Internet', d: 'On Highway Patrol, a bloke pulled over by police answers every question with “I’m just waiting for a mate”. A classic of the Aussie internet.', w: 'Just waiting for a mate', wk: 'en.wikipedia.org/wiki/Just_waiting_for_a_mate' },
@@ -551,7 +551,7 @@ recordes: [
   { k: '146.6 km', n: '90 Mile Straight', d: 'The longest straight stretch of sealed road in the country, on the Eyre Highway.', t: 'Geography', w: 'Eyre Highway', wk: 'en.wikipedia.org/wiki/Eyre_Highway' },
   { k: '478 km', n: 'Straight railway', d: 'The longest stretch of dead-straight railway in the world, across the Nullarbor Plain.', t: 'Geography', w: 'Trans-Australian Railway', wk: 'en.wikipedia.org/wiki/Trans-Australian_Railway' },
   { k: '2,300 km', n: 'Great Barrier Reef', d: 'The biggest reef system on the planet, visible from space.', t: 'Nature', wk: 'en.wikipedia.org/wiki/Great_Barrier_Reef' },
-  { k: '1,650 km²', n: 'K’gari (Fraser Island)', d: 'The biggest sand island in the world, with freshwater lakes and rainforest.', t: 'Nature', w: 'K\'gari', wk: 'en.wikipedia.org/wiki/K%27gari' },
+  { k: '1,840 km²', n: 'K’gari (Fraser Island)', d: 'The biggest sand island in the world, with freshwater lakes and rainforest.', t: 'Nature', w: 'K\'gari', wk: 'en.wikipedia.org/wiki/K%27gari' },
   { k: '1.7m km²', n: 'Great Artesian Basin', d: 'One of the largest underground water reserves in the world, beneath 22% of the country.', t: 'Nature', wk: 'en.wikipedia.org/wiki/Great_Artesian_Basin' },
   { k: '60,000+ years', n: 'Oldest living culture', d: 'Aboriginal and Torres Strait Islander peoples have the oldest continuous culture on Earth.', t: 'Society', w: 'Aboriginal Australians', wk: 'en.wikipedia.org/wiki/Aboriginal_Australians' },
   { k: '6th', n: 'Biggest country', d: '7.69 million km², and the only country that covers a whole continent.', t: 'Rankings', wk: 'en.wikipedia.org/wiki/List_of_countries_and_dependencies_by_area' },
@@ -562,8 +562,7 @@ recordes: [
   { k: '100,024', n: 'The MCG', d: 'The Melbourne Cricket Ground is the biggest stadium in the southern hemisphere and the biggest cricket ground in the world.', t: 'Society', w: 'Melbourne Cricket Ground', wk: 'en.wikipedia.org/wiki/Melbourne_Cricket_Ground' },
   { k: '1st', n: 'Gambling losses', d: 'Australians lose more money gambling per person than anyone in the world, driven by the “pokies”.', t: 'Rankings', w: 'Gambling in Australia', wk: 'en.wikipedia.org/wiki/Gambling_in_Australia' },
   { k: '1st', n: 'Most venomous snake', d: 'The inland taipan has the most potent venom of any land snake. It’s shy and lives far from everything.', t: 'Nature', w: 'Inland taipan', wk: 'en.wikipedia.org/wiki/Inland_taipan' },
-  { k: '858 m', n: 'Mount Augustus', d: 'Often called the biggest monolith in the world, twice the size of Uluru.', t: 'Nature', wk: 'en.wikipedia.org/wiki/Mount_Augustus_National_Park' },
-  { k: '1861', n: 'The race that stops a nation', d: 'Run since 1861, the Melbourne Cup horse race in November is a public holiday in Melbourne and stops offices right across the country.', t: 'Society', wk: 'en.wikipedia.org/wiki/Melbourne_Cup' }
+  { k: '858 m', n: 'Mount Augustus', d: 'Often called the biggest monolith in the world, twice the size of Uluru.', t: 'Nature', wk: 'en.wikipedia.org/wiki/Mount_Augustus_National_Park' }
 ],
 
 /* ============ FUN FACTS ============ */
@@ -614,7 +613,7 @@ natureza: [
   { n: 'Galah', t: 'Birds', d: 'A pink-and-grey cockatoo, common in flocks. “Galah” is also slang for a silly person.', wk: 'en.wikipedia.org/wiki/Galah' },
   { n: 'Kookaburra', t: 'Birds', d: 'The bird whose call sounds like laughter. The natural alarm clock of many Aussie suburbs.', w: 'Laughing kookaburra', wk: 'en.wikipedia.org/wiki/Laughing_kookaburra' },
   { n: 'Rainbow lorikeet', t: 'Birds', d: 'A small parrot in every colour, living in flocks in the flowering trees of eastern cities.', wk: 'en.wikipedia.org/wiki/Rainbow_lorikeet' },
-  { n: 'Emu', t: 'Birds', d: 'The second-biggest bird in the world after the ostrich. Can’t fly but runs at 50 km/h. It’s on the national coat of arms.', wk: 'en.wikipedia.org/wiki/Emu' },
+  { n: 'Emu', t: 'Birds', d: 'The second-tallest bird in the world after the ostrich. Can’t fly but runs at 50 km/h. It’s on the national coat of arms.', wk: 'en.wikipedia.org/wiki/Emu' },
   { n: 'Cassowary', t: 'Birds', d: 'A huge bird of the far north Queensland rainforest, with a helmet on its head. An important seed spreader.', w: 'Southern cassowary', wk: 'en.wikipedia.org/wiki/Southern_cassowary' },
   { n: 'Brush turkey', t: 'Birds', d: 'Common in Brisbane and Sydney backyards. The male builds mounds of leaves that work as an incubator.', w: 'Australian brushturkey', wk: 'en.wikipedia.org/wiki/Australian_brushturkey' },
   { n: 'Australian pelican', t: 'Birds', d: 'Has the biggest bill of any bird in the world. Turns up on beaches, rivers and lakes right around the country.', wk: 'en.wikipedia.org/wiki/Australian_pelican' },
@@ -624,7 +623,7 @@ natureza: [
   { n: 'Saltwater crocodile', t: 'Reptiles and others', d: 'The biggest living reptile in the world, in northern rivers and coastlines. Obey the signs: no swimming where there’s a warning.', wk: 'en.wikipedia.org/wiki/Saltwater_crocodile' },
   { n: 'Huntsman spider', t: 'Reptiles and others', d: 'Big and scary-looking, but harmless to people. Often turns up inside cars and houses.', wk: 'en.wikipedia.org/wiki/Huntsman_spider' },
 
-  { n: 'Eucalyptus', t: 'Plants and flowers', d: 'More than 800 species of “gum trees”, the tree that defines the Aussie landscape. The smell of the bush is the smell of eucalyptus.', wk: 'en.wikipedia.org/wiki/Eucalyptus' },
+  { n: 'Eucalyptus', t: 'Plants and flowers', d: 'More than 700 species of “gum trees”, the tree that defines the Aussie landscape. The smell of the bush is the smell of eucalyptus.', wk: 'en.wikipedia.org/wiki/Eucalyptus' },
   { n: 'Golden wattle', t: 'Plants and flowers', d: 'The national floral emblem, which inspired the green and gold. It flowers at the end of winter; 1 September is Wattle Day.', w: 'Acacia pycnantha', wk: 'en.wikipedia.org/wiki/Acacia_pycnantha' },
   { n: 'Banksia', t: 'Plants and flowers', d: 'Cone-shaped flowers that feed birds and marsupials. Many only release their seeds after a fire.', wk: 'en.wikipedia.org/wiki/Banksia' },
   { n: 'Grevillea', t: 'Plants and flowers', d: 'Shrubs with curly, colourful, nectar-rich flowers. Found in almost every Aussie garden.', wk: 'en.wikipedia.org/wiki/Grevillea' },
@@ -684,7 +683,7 @@ cidades: [
 
 perfis: [
   { n: 'Sydney', s: 'NSW', a: 'Harbour City', d: 'The biggest and the priciest. The Opera House, the Harbour Bridge, Bondi and Manly. Founded in 1788, it’s the oldest city in the country.' },
-  { n: 'Melbourne', s: 'VIC', a: 'Cultural capital', d: 'Coffee, graffitied laneways, trams and sport (AFL, the Australian Open, the F1 and the Melbourne Cup). Four seasons in one day.' },
+  { n: 'Melbourne', s: 'VIC', a: 'Cultural capital', d: 'Coffee, graffitied laneways, trams and sport (AFL, the Australian Open, the F1 and cricket at the MCG). Four seasons in one day.' },
   { n: 'Brisbane', s: 'QLD', a: 'Brisvegas', d: 'Sunshine all year and a more relaxed pace. Host of the 2032 Olympics.' },
   { n: 'Perth', s: 'WA', a: 'The isolated capital', d: 'One of the most isolated big cities in the world, with empty beaches and a mining economy. Rottnest’s quokkas are just offshore.' },
   { n: 'Adelaide', s: 'SA', a: 'City of Churches', d: 'Planned, laid-back and surrounded by wine regions (the Barossa, McLaren Vale). Home to the Fringe, one of the biggest arts festivals in the world.' },
@@ -709,7 +708,7 @@ lugares: [
   { n: 'Surfers Paradise', t: 'Beaches', y: 'QLD', d: 'The heart of the Gold Coast: high-rises right on the sand, waves all year and a lively nightlife.', wk: 'en.wikipedia.org/wiki/Surfers_Paradise' },
   { n: 'Rottnest Island', t: 'Beaches', y: 'WA', d: 'Wadjemup to the Noongar people. A car-free island 18 km off Fremantle, explored by bike between bays of crystal-clear water. Home of the quokkas, famous for selfies where they seem to smile.', wk: 'en.wikipedia.org/wiki/Rottnest_Island' },
   { n: 'Uluṟu-Kata Tjuṯa', t: 'Parks', y: 'NT', d: 'Country of the Anangu, the Traditional Owners. Uluru stands 348 m high and climbing it has been banned since 2019 out of respect; nearby, Kata Tjuta is a cluster of 36 rock domes.', w: 'Uluṟu-Kata Tjuṯa National Park', wk: 'en.wikipedia.org/wiki/Ulu%E1%B9%9Fu-Kata_Tju%E1%B9%AFa_National_Park' },
-  { n: 'Kakadu', t: 'Parks', y: 'NT', d: 'Australia’s biggest national park, World Heritage-listed for both nature and culture. Ubirr and Burrungkuy hold Aboriginal rock art thousands of years old.', w: 'Kakadu National Park', wk: 'en.wikipedia.org/wiki/Kakadu_National_Park' },
+  { n: 'Kakadu', t: 'Parks', y: 'NT', d: 'The country’s second-biggest national park (after Munga-Thirri–Simpson Desert), World Heritage-listed for both nature and culture. Ubirr and Burrungkuy hold Aboriginal rock art thousands of years old.', w: 'Kakadu National Park', wk: 'en.wikipedia.org/wiki/Kakadu_National_Park' },
   { n: 'Blue Mountains', t: 'Parks', y: 'NSW', d: 'Two hours from Sydney, with the Three Sisters rock formation and the blue haze rising off the gum trees. World Heritage-listed since 2000.', w: 'Blue Mountains (New South Wales)', wk: 'en.wikipedia.org/wiki/Blue_Mountains_(New_South_Wales)' },
   { n: 'Daintree Rainforest', t: 'Parks', y: 'QLD', d: 'One of the oldest rainforests on Earth. At Cape Tribulation, the forest runs right down to the sea and the Great Barrier Reef.', w: 'Daintree Rainforest', wk: 'en.wikipedia.org/wiki/Daintree_Rainforest' },
   { n: 'Royal National Park', t: 'Parks', y: 'NSW', d: 'Created in 1879, it’s the world’s second-oldest national park after Yellowstone. On Sydney’s southern edge, with clifftop walks and rock pools.', wk: 'en.wikipedia.org/wiki/Royal_National_Park' },

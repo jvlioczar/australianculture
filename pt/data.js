@@ -74,13 +74,13 @@ famosos: [
 nacionais: [
   { n: 'Ray Martin', t: 'TV e rádio', d: 'Jornalista e apresentador que comandou o 60 Minutes, o Midday e o A Current Affair. Ganhou o Gold Logie, o maior prêmio da TV australiana, cinco vezes.', wk: 'en.wikipedia.org/wiki/Ray_Martin_(television_presenter)' },
   { n: 'Bert Newton', t: 'TV e rádio', d: 'O “Mr Television”: mais de 60 anos no ar, de In Melbourne Tonight ao Good Morning Australia, e quatro Gold Logies. Morreu em 2021.', wk: 'en.wikipedia.org/wiki/Bert_Newton' },
-  { n: 'Karl Stefanovic', t: 'TV e rádio', d: 'Apresentador do Today, o matinal do Channel Nine, desde 2005. Ganhou o Gold Logie em 2011.', wk: 'en.wikipedia.org/wiki/Karl_Stefanovic' },
+  { n: 'Karl Stefanovic', t: 'TV e rádio', d: 'Apresentador do Today, o matinal do Channel Nine, de 2005 a 2018 e de novo desde 2020. Ganhou o Gold Logie em 2011.', wk: 'en.wikipedia.org/wiki/Karl_Stefanovic' },
   { n: 'Lisa Wilkinson', t: 'TV e rádio', d: 'Virou editora da revista Dolly aos 21 anos e depois apresentou o Today e o The Project.', wk: 'en.wikipedia.org/wiki/Lisa_Wilkinson' },
   { n: 'Leigh Sales', t: 'TV e rádio', d: 'Jornalista da ABC que apresentou o 7.30 de 2011 a 2022, famosa pelas entrevistas duras com políticos.', wk: 'en.wikipedia.org/wiki/Leigh_Sales' },
   { n: 'Grant Denyer', t: 'TV e rádio', d: 'Apresentador do Family Feud, ex-homem do tempo do Sunrise e piloto de corrida. Ganhou o Gold Logie em 2018.', wk: 'en.wikipedia.org/wiki/Grant_Denyer' },
   { n: 'Sonia Kruger', t: 'TV e rádio', d: 'Ex-dançarina que virou uma das apresentadoras mais conhecidas do país, com The Voice e Big Brother.', wk: 'en.wikipedia.org/wiki/Sonia_Kruger' },
   { n: 'Andrew Denton', t: 'TV e rádio', d: 'Entrevistador do Enough Rope, na ABC, e criador de programas de humor. Hoje é uma das vozes da morte assistida voluntária.', wk: 'en.wikipedia.org/wiki/Andrew_Denton' },
-  { n: 'Molly Meldrum', t: 'TV e rádio', d: 'O homem do chapéu de caubói do Countdown (1974–1987), programa que lançou bandas como INXS e Crowded House.', wk: 'en.wikipedia.org/wiki/Molly_Meldrum' },
+  { n: 'Molly Meldrum', t: 'TV e rádio', d: 'O homem do chapéu de caubói do Countdown (1974–1987), programa que ajudou a lançar nomes como AC/DC e Skyhooks.', wk: 'en.wikipedia.org/wiki/Molly_Meldrum' },
   { n: 'Costa Georgiadis', t: 'TV e rádio', d: 'O jardineiro barbudo do Gardening Australia, na ABC, que faz qualquer um querer plantar uma horta.', wk: 'en.wikipedia.org/wiki/Costa_Georgiadis' },
   { n: 'Magda Szubanski', t: 'Cinema e TV', d: 'A Sharon de Kath & Kim e a voz de Esme em Babe. Foi uma das caras da campanha pelo casamento igualitário em 2017.', wk: 'pt.wikipedia.org/wiki/Magda_Szubanski' },
   { n: 'Deborah Mailman', t: 'Cinema e TV', d: 'Atriz bidjara de The Sapphires, Offspring e Mystery Road. Foi a primeira aborígene a ganhar o prêmio de melhor atriz do AFI, em 1998.', wk: 'pt.wikipedia.org/wiki/Deborah_Mailman' },
@@ -178,7 +178,7 @@ telas: [
   { n: 'Fale Comigo (Talk to Me)', t: 'Filme australiano', y: '2022', d: 'Terror dos irmãos Philippou, de Adelaide, ex-youtubers do RackaRacka. Virou sucesso mundial da A24.', w: 'Talk to Me (filme de 2022)', wk: 'pt.wikipedia.org/wiki/Talk_to_Me_(filme)' },
   { n: 'O Babadook', t: 'Filme australiano', y: '2014', d: 'Terror psicológico de Jennifer Kent, de Adelaide. O monstro virou até ícone LGBT na internet.', wk: 'pt.wikipedia.org/wiki/The_Babadook' },
 
-  { n: 'Bluey', t: 'Animação', y: '2018', d: 'Desenho de Brisbane sobre uma família de cães blue heeler. O programa infantil mais assistido do mundo no streaming, amado também pelos pais.', wk: 'pt.wikipedia.org/wiki/Bluey_(s%C3%A9rie_de_televis%C3%A3o)' },
+  { n: 'Bluey', t: 'Animação', y: '2018', d: 'Desenho de Brisbane sobre uma família de cães blue heeler. Um dos desenhos infantis mais vistos do mundo, sucesso no Disney+ e o programa infantil mais assistido da TV australiana, amado também pelos pais.', wk: 'pt.wikipedia.org/wiki/Bluey_(s%C3%A9rie_de_televis%C3%A3o)' },
   { n: 'Mary e Max: Uma Amizade Diferente', t: 'Animação', y: '2009', d: 'Massinha de Adam Elliot sobre a amizade por cartas entre uma menina de Melbourne e um homem de Nova York. Abriu o Festival de Sundance.', w: 'Mary and Max', wk: 'pt.wikipedia.org/wiki/Mary_and_Max' },
   { n: 'Harvie Krumpet', t: 'Animação', y: '2003', d: 'Curta em massinha de Adam Elliot, narrado por Geoffrey Rush, que ganhou o Oscar de melhor curta de animação.', wk: 'pt.wikipedia.org/wiki/Harvie_Krumpet' },
   { n: 'Memórias de um Caracol', t: 'Animação', y: '2024', d: 'O terceiro longa em stop-motion de Adam Elliot, sobre uma colecionadora de caracóis. Indicado ao Oscar de melhor animação em 2025.', w: 'Memoir of a Snail', wk: 'pt.wikipedia.org/wiki/Mem%C3%B3rias_de_um_Caracol' },
@@ -385,7 +385,7 @@ virais: [
   { n: '"Crikey!"', t: 'Frases', d: 'A interjeição de Steve Irwin, sinônimo de entusiasmo australiano no mundo todo.', wk: 'pt.wikipedia.org/wiki/Steve_Irwin' },
   { n: '"Yeah, nah"', t: 'Frases', d: 'Quer dizer "não". "Nah, yeah" quer dizer "sim". E "yeah, nah, yeah"... boa sorte.', wk: 'en.wikipedia.org/wiki/Australian_English_vocabulary' },
   { n: 'Bob Katter e os crocodilos', t: 'Internet', y: '2017', d: 'Perguntado sobre o casamento igualitário, o deputado disse "let there be a thousand blossoms bloom" e emendou que "a cada três meses uma pessoa é feita em pedaços por um crocodilo no norte de Queensland". A mudança de assunto virou meme e até caneca.', w: 'Bob Katter', wk: 'en.wikipedia.org/wiki/Bob_Katter' },
-  { n: '“Don’t you dare say that!”', t: 'Internet', y: '2025', d: 'De novo Bob Katter: numa coletiva em Brisbane, quando um repórter citou sua origem libanesa, o deputado gritou "Não se atreva a dizer isso!" e ergueu o punho. Foi criticado até pelo primeiro-ministro e o vídeo viralizou.', w: 'Bob Katter', wk: 'en.wikipedia.org/wiki/Bob_Katter' },
+  { n: '“Don’t you dare say that!”', t: 'Internet', y: '2025', d: 'De novo Bob Katter: em agosto de 2025, numa coletiva de apoio a protestos contra a imigração, um repórter citou sua origem libanesa e o deputado sacudiu o punho na cara dele: "Não diga isso, porque isso me irrita, e eu soco quem diz isso". O vídeo viralizou.', w: 'Bob Katter', wk: 'en.wikipedia.org/wiki/Bob_Katter' },
   { n: 'Peggy and Molly', t: 'Internet', y: '2020', ig: 'peggyandmolly', d: 'A amizade entre Peggy, uma staffy, e Molly, um filhote de magpie resgatado na Gold Coast durante a pandemia, conquistou centenas de milhares de seguidores. Em 2024, Molly foi levada pelo governo por falta de licença e voltou para casa depois de uma campanha dos fãs.' },
   { n: '"Democracy manifest"', t: 'Internet', y: '1991', d: 'Jack Karlson sendo preso em Brisbane depois de uma "suculenta refeição chinesa" e gritando "Gentlemen, this is democracy manifest!". O vídeo viralizou em 2009 e virou lenda.', w: 'Jack Karlson', wk: 'pt.wikipedia.org/wiki/Democracy_Manifest' },
   { n: '"Just waiting for a mate"', t: 'Internet', d: 'No reality policial Highway Patrol, um rapaz parado pela polícia responde a todas as perguntas com "I\'m just waiting for a mate". Um clássico da internet australiana.', w: 'Just waiting for a mate', wk: 'en.wikipedia.org/wiki/Just_waiting_for_a_mate' },
@@ -583,7 +583,7 @@ recordes: [
   { k: '146,6 km', n: '90 Mile Straight', d: 'A maior reta de estrada asfaltada do país, na Eyre Highway.', t: 'Geografia', w: 'Eyre Highway', wk: 'en.wikipedia.org/wiki/Eyre_Highway' },
   { k: '478 km', n: 'Reta ferroviária', d: 'O trecho de trilho reto mais longo do mundo, na planície de Nullarbor.', t: 'Geografia', w: 'Trans-Australian Railway', wk: 'en.wikipedia.org/wiki/Trans-Australian_Railway' },
   { k: '2.300 km', n: 'Grande Barreira de Corais', d: 'O maior sistema de recifes do planeta, visível do espaço.', t: 'Natureza', w: 'Great Barrier Reef', wk: 'pt.wikipedia.org/wiki/Grande_Barreira_de_Coral' },
-  { k: '1.650 km²', n: 'K\'gari (Fraser Island)', d: 'A maior ilha de areia do mundo, com lagos de água doce e floresta tropical.', t: 'Natureza', w: 'K\'gari', wk: 'pt.wikipedia.org/wiki/Ilha_Fraser' },
+  { k: '1.840 km²', n: 'K\'gari (Fraser Island)', d: 'A maior ilha de areia do mundo, com lagos de água doce e floresta tropical.', t: 'Natureza', w: 'K\'gari', wk: 'pt.wikipedia.org/wiki/Ilha_Fraser' },
   { k: '1,7 mi km²', n: 'Grande Bacia Artesiana', d: 'Uma das maiores reservas de água subterrânea do mundo, debaixo de 22% do país.', t: 'Natureza', w: 'Great Artesian Basin', wk: 'en.wikipedia.org/wiki/Great_Artesian_Basin' },
   { k: '60 mil+ anos', n: 'Cultura viva mais antiga', d: 'Os povos aborígenes e das Ilhas do Estreito de Torres têm a cultura contínua mais antiga da Terra.', t: 'Sociedade', w: 'Aboriginal Australians', wk: 'pt.wikipedia.org/wiki/Abor%C3%ADgenes_australianos' },
   { k: '6º', n: 'Maior país', d: '7,69 milhões de km², quase o tamanho do Brasil (8,5 milhões). E o único país que ocupa um continente inteiro.', t: 'Índices', wk: 'pt.wikipedia.org/wiki/Lista_de_Estados_por_%C3%A1rea_territorial' },
@@ -594,8 +594,7 @@ recordes: [
   { k: '100.024', n: 'MCG', d: 'O Melbourne Cricket Ground é o maior estádio do hemisfério sul e o maior de críquete do mundo.', t: 'Sociedade', w: 'Melbourne Cricket Ground', wk: 'pt.wikipedia.org/wiki/Melbourne_Cricket_Ground' },
   { k: '1º', n: 'Perdas com apostas', d: 'Australianos são os que mais perdem dinheiro com jogos de azar por pessoa no mundo, puxados pelas "pokies" (caça-níqueis).', t: 'Índices', w: 'Gambling in Australia', wk: 'en.wikipedia.org/wiki/Gambling_in_Australia' },
   { k: '1ª', n: 'Cobra mais venenosa', d: 'A taipan-do-interior tem o veneno mais potente entre as cobras terrestres. Ela é tímida e vive longe de tudo.', t: 'Natureza', w: 'Inland taipan', wk: 'pt.wikipedia.org/wiki/Taipan-do-interior' },
-  { k: '858 m', n: 'Monte Augustus', d: 'Considerado o maior monólito do mundo, com o dobro do tamanho do Uluru.', t: 'Natureza', w: 'Mount Augustus', wk: 'en.wikipedia.org/wiki/Mount_Augustus_National_Park' },
-  { k: '1861', n: 'A corrida que para a nação', d: 'Disputada desde 1861, a Melbourne Cup, corrida de cavalos em novembro, tem feriado em Melbourne e para escritórios do país inteiro.', t: 'Sociedade', w: 'Melbourne Cup', wk: 'en.wikipedia.org/wiki/Melbourne_Cup' }
+  { k: '858 m', n: 'Monte Augustus', d: 'Considerado o maior monólito do mundo, com o dobro do tamanho do Uluru.', t: 'Natureza', w: 'Mount Augustus', wk: 'en.wikipedia.org/wiki/Mount_Augustus_National_Park' }
 ],
 
 /* ============ CURIOSIDADES ============ */
@@ -646,7 +645,7 @@ natureza: [
   { n: 'Galah', t: 'Aves', d: 'Cacatua cor-de-rosa e cinza, comum em bandos. "Galah" também é gíria para pessoa boba.', w: 'Galah', wk: 'pt.wikipedia.org/wiki/Galah' },
   { n: 'Kookaburra', t: 'Aves', d: 'O pássaro cujo canto parece uma gargalhada. É o despertador natural de muitos bairros australianos.', w: 'Laughing kookaburra', wk: 'pt.wikipedia.org/wiki/Cucaburra-grande' },
   { n: 'Lorikeet-arco-íris', t: 'Aves', d: 'Pequeno papagaio de todas as cores, que vive em bandos nas árvores floridas das cidades do leste.', w: 'Rainbow lorikeet', wk: 'pt.wikipedia.org/wiki/L%C3%B3ris-molucano' },
-  { n: 'Emu', t: 'Aves', d: 'A segunda maior ave do mundo, depois do avestruz. Não voa, mas corre a 50 km/h. Está no brasão nacional.', w: 'Emu', wk: 'pt.wikipedia.org/wiki/Emu' },
+  { n: 'Emu', t: 'Aves', d: 'A segunda ave mais alta do mundo, depois do avestruz. Não voa, mas corre a 50 km/h. Está no brasão nacional.', w: 'Emu', wk: 'pt.wikipedia.org/wiki/Emu' },
   { n: 'Casuar', t: 'Aves', d: 'Ave enorme das florestas tropicais do norte de Queensland, com um capacete na cabeça. Importante dispersor de sementes.', w: 'Southern cassowary', wk: 'pt.wikipedia.org/wiki/Casuar-do-sul' },
   { n: 'Peru-do-mato (brush turkey)', t: 'Aves', d: 'Comum nos quintais de Brisbane e Sydney. O macho constrói montes de folhas que funcionam como chocadeira.', w: 'Australian brushturkey', wk: 'pt.wikipedia.org/wiki/Peru-do-mato' },
   { n: 'Pelicano-australiano', t: 'Aves', d: 'Tem o maior bico entre as aves do mundo. Aparece em praias, rios e lagos de todo o país.', w: 'Australian pelican', wk: 'pt.wikipedia.org/wiki/Pelicano-australiano' },
@@ -656,7 +655,7 @@ natureza: [
   { n: 'Crocodilo-de-água-salgada', t: 'Répteis e outros', d: 'O maior réptil vivo do mundo, nos rios e no litoral do norte. Respeite as placas: não se nada onde há aviso.', w: 'Saltwater crocodile', wk: 'pt.wikipedia.org/wiki/Crocodilo-de-%C3%A1gua-salgada' },
   { n: 'Aranha caçadora (huntsman)', t: 'Répteis e outros', d: 'Grande e assustadora, mas inofensiva para pessoas. Costuma aparecer dentro de carros e casas.', w: 'Huntsman spider', wk: 'pt.wikipedia.org/wiki/Esparass%C3%ADdeos' },
 
-  { n: 'Eucalipto', t: 'Plantas e flores', d: 'São mais de 800 espécies de "gum trees", a árvore que define a paisagem australiana. O cheiro do bush é de eucalipto.', w: 'Eucalyptus', wk: 'pt.wikipedia.org/wiki/Eucalyptus' },
+  { n: 'Eucalipto', t: 'Plantas e flores', d: 'São mais de 700 espécies de "gum trees", a árvore que define a paisagem australiana. O cheiro do bush é de eucalipto.', w: 'Eucalyptus', wk: 'pt.wikipedia.org/wiki/Eucalyptus' },
   { n: 'Acácia dourada (golden wattle)', t: 'Plantas e flores', d: 'A flor símbolo da Austrália, que inspira o verde e dourado nacionais. Floresce no fim do inverno; 1º de setembro é o Wattle Day.', w: 'Acacia pycnantha', wk: 'pt.wikipedia.org/wiki/Acacia_pycnantha' },
   { n: 'Banksia', t: 'Plantas e flores', d: 'Flores em forma de cone que alimentam aves e marsupiais. Muitas só liberam sementes depois de um incêndio.', w: 'Banksia', wk: 'pt.wikipedia.org/wiki/Banksia' },
   { n: 'Grevílea', t: 'Plantas e flores', d: 'Arbustos de flores curvas e coloridas, cheias de néctar. Presentes em quase todo jardim australiano.', w: 'Grevillea', wk: 'pt.wikipedia.org/wiki/Grevillea' },
@@ -716,7 +715,7 @@ cidades: [
 
 perfis: [
   { n: 'Sydney', s: 'NSW', a: 'Harbour City', d: 'A maior e mais cara. Opera House, Harbour Bridge, Bondi e Manly. Fundada em 1788, é a cidade mais antiga do país.' },
-  { n: 'Melbourne', s: 'VIC', a: 'Capital cultural', d: 'Café, vielas grafitadas, bondes e esporte (AFL, Australian Open, F1 e Melbourne Cup). Quatro estações num só dia.' },
+  { n: 'Melbourne', s: 'VIC', a: 'Capital cultural', d: 'Café, vielas grafitadas, bondes e esporte (AFL, Australian Open, F1 e críquete no MCG). Quatro estações num só dia.' },
   { n: 'Brisbane', s: 'QLD', a: 'Brisvegas', d: 'Sol o ano inteiro e ritmo mais tranquilo. Vai sediar as Olimpíadas de 2032.' },
   { n: 'Perth', s: 'WA', a: 'A capital isolada', d: 'Uma das cidades grandes mais isoladas do mundo, com praias vazias e economia da mineração. Os quokkas de Rottnest ficam pertinho.' },
   { n: 'Adelaide', s: 'SA', a: 'Cidade das igrejas', d: 'Planejada, tranquila e cercada de vinícolas (Barossa, McLaren Vale). Tem o Fringe, um dos maiores festivais de arte do mundo.' },
@@ -741,7 +740,7 @@ lugares: [
   { n: 'Surfers Paradise', t: 'Praias', y: 'QLD', d: 'O coração da Gold Coast: arranha-céus colados na areia, ondas o ano inteiro e vida noturna agitada.', wk: 'pt.wikipedia.org/wiki/Surfers_Paradise' },
   { n: 'Rottnest Island', t: 'Praias', y: 'WA', d: 'Wadjemup para os Noongar. Ilha sem carros a 18 km de Fremantle, rodada de bicicleta entre enseadas de água transparente. É a casa dos quokkas, famosos pelas selfies em que parecem sorrir.', wk: 'en.wikipedia.org/wiki/Rottnest_Island' },
   { n: 'Uluṟu-Kata Tjuṯa', t: 'Parques', y: 'NT', d: 'O parque dos Anangu, donos tradicionais da terra. Uluru tem 348 m de altura e a escalada é proibida desde 2019 em respeito a eles; ao lado, Kata Tjuta reúne 36 domos de rocha.', w: 'Uluṟu-Kata Tjuṯa National Park', wk: 'pt.wikipedia.org/wiki/Parque_Nacional_Uluru-Kata_Tjuta' },
-  { n: 'Kakadu', t: 'Parques', y: 'NT', d: 'O maior parque nacional do país, Patrimônio Mundial natural e cultural. Em Ubirr e Burrungkuy há pinturas rupestres aborígenes com milhares de anos.', w: 'Kakadu National Park', wk: 'pt.wikipedia.org/wiki/Parque_Nacional_de_Kakadu' },
+  { n: 'Kakadu', t: 'Parques', y: 'NT', d: 'O segundo maior parque nacional do país (depois do Munga-Thirri–Simpson Desert), Patrimônio Mundial natural e cultural. Em Ubirr e Burrungkuy há pinturas rupestres aborígenes com milhares de anos.', w: 'Kakadu National Park', wk: 'pt.wikipedia.org/wiki/Parque_Nacional_de_Kakadu' },
   { n: 'Blue Mountains', t: 'Parques', y: 'NSW', d: 'A duas horas de Sydney, com as rochas das Three Sisters e a névoa azulada que sobe dos eucaliptos. Patrimônio Mundial desde 2000.', w: 'Blue Mountains (New South Wales)', wk: 'pt.wikipedia.org/wiki/Montanhas_Azuis_(Austr%C3%A1lia)' },
   { n: 'Floresta de Daintree', t: 'Parques', y: 'QLD', d: 'Uma das florestas tropicais mais antigas do mundo. Em Cape Tribulation, a mata encontra o mar e a Grande Barreira de Corais.', w: 'Daintree Rainforest', wk: 'en.wikipedia.org/wiki/Daintree_Rainforest' },
   { n: 'Royal National Park', t: 'Parques', y: 'NSW', d: 'Criado em 1879, é o segundo parque nacional mais antigo do mundo, depois de Yellowstone. Fica no limite sul de Sydney, com trilhas no penhasco e piscinas naturais.', wk: 'en.wikipedia.org/wiki/Royal_National_Park' },
