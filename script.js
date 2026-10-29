@@ -908,11 +908,12 @@ $('shareBtn').onclick = async () => {
   addEventListener('keydown', e => { if (e.key === 'Escape' && nav.classList.contains('open') && phone.matches) set(false, false); });
   document.addEventListener('click', e => { if (phone.matches && nav.classList.contains('open') && !nav.contains(e.target)) set(false, false); });
   // posição logo abaixo da barra de paradas e destaque da seção atual
-  const lv = document.querySelector('.levels');
+  // fica sempre abaixo do que estiver mais embaixo no topo: o cabeçalho ou a barra de paradas
+  const lv = document.querySelector('.levels'), top = $('top');
   let raf = 0;
   const sync = () => {
     raf = 0;
-    if (!phone.matches) nav.style.top = Math.round((lv ? lv.getBoundingClientRect().bottom : 80) + 18) + 'px';
+    if (!phone.matches) nav.style.top = Math.round(Math.max(top.getBoundingClientRect().bottom, lv ? lv.getBoundingClientRect().bottom : 0, 0) + 18) + 'px';
     else nav.style.top = '';
     const line = innerHeight * .35;
     let cur = 0;
