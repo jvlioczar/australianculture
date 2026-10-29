@@ -927,3 +927,34 @@ main:focus{outline:none}
 .cmp-d{margin:0;font-size:15.5px;line-height:1.5;color:var(--ink-2)}
 @media (max-width:600px){.cmp-list{grid-template-columns:1fr}.cmp-pair b{font-size:19px}}
 @media print{.cmp-row{background:#fff!important;border:1px solid #bbb}}
+
+/* índice da página: aba na lateral esquerda (computador) ou botão flutuante (celular) */
+.toc{position:fixed;left:0;top:180px;z-index:55;font:500 14px/1.3 var(--body)}
+.toc-btn{display:flex;align-items:center;gap:8px;border:0;cursor:pointer;background:var(--ink);color:var(--bg);font:600 13px var(--body);padding:10px 16px 10px 14px;border-radius:0 999px 999px 0;box-shadow:0 10px 24px rgba(0,0,0,.18);transition:padding .3s var(--e-out)}
+.toc-btn svg{width:18px;height:18px;fill:none;stroke:currentColor;stroke-width:2;stroke-linecap:round}
+.toc-btn:hover{padding-left:18px}
+.toc-panel{position:absolute;left:12px;top:calc(100% + 10px);width:250px;max-height:calc(100vh - 260px);overflow:auto;background:var(--paper);border-radius:18px;padding:14px 10px 12px;box-shadow:0 18px 44px rgba(0,0,0,.22);
+  opacity:0;transform:translateX(-14px) scale(.97);transform-origin:0 0;pointer-events:none;visibility:hidden;transition:opacity .25s,transform .45s var(--spring),visibility 0s .45s}
+.toc.open .toc-panel{opacity:1;transform:none;pointer-events:auto;visibility:visible;transition:opacity .25s,transform .45s var(--spring),visibility 0s}
+.toc-h{margin:0 10px 8px;font:600 11px var(--mono);letter-spacing:.1em;text-transform:uppercase;color:var(--muted)}
+.toc ol{list-style:none;margin:0;padding:0}
+.toc a{display:flex;gap:10px;align-items:baseline;padding:8px 10px;border-radius:10px;color:var(--ink-2);text-decoration:none;position:relative}
+.toc a .mono{font:500 11px var(--mono);color:var(--muted)}
+.toc a:hover{background:var(--chip);color:var(--ink)}
+.toc a.now{background:var(--chip);color:var(--ink);font-weight:700}
+.toc a.now::before{content:"";position:absolute;left:0;top:8px;bottom:8px;width:3px;border-radius:3px;background:var(--c,var(--ochre))}
+@media (max-width:760px){
+  .toc{top:auto!important;bottom:16px;left:16px;opacity:0;transform:translateY(20px);pointer-events:none;transition:opacity .3s,transform .4s var(--spring)}
+  .toc.seen{opacity:1;transform:none;pointer-events:auto}
+  .toc-btn{border-radius:999px;padding:11px 16px}
+  .toc-panel{left:0;top:auto;bottom:calc(100% + 10px);width:calc(100vw - 32px);max-height:60vh;transform:translateY(14px) scale(.98);transform-origin:0 100%}
+}
+@media (prefers-reduced-motion:reduce){.toc-panel,.toc,.toc-btn{transition:none}}
+@media print{.toc{display:none!important}}
+/* notebook: a aba fica só com o ícone e mostra o texto ao passar o mouse ou com o índice aberto */
+@media (min-width:761px) and (max-width:1719px){
+  .toc-btn{padding:11px 12px}
+  .toc-btn span{max-width:0;overflow:hidden;white-space:nowrap;transition:max-width .4s var(--e-out)}
+  .toc-btn:hover span,.toc-btn:focus-visible span,.toc.open .toc-btn span{max-width:140px}
+  .toc-btn:hover{padding-left:14px}
+}

@@ -88,7 +88,8 @@ const ICON = {
   menu: '<svg viewBox="0 0 24 24" aria-hidden="true"><path d="M4 7h16M4 12h16M4 17h16"/></svg>',
   up: '<svg viewBox="0 0 24 24" aria-hidden="true"><path d="m6 14 6-6 6 6"/></svg>',
   prev: '<svg viewBox="0 0 24 24" aria-hidden="true"><path d="m15 6-6 6 6 6"/></svg>',
-  next: '<svg viewBox="0 0 24 24" aria-hidden="true"><path d="m9 6 6 6-6 6"/></svg>'
+  next: '<svg viewBox="0 0 24 24" aria-hidden="true"><path d="m9 6 6 6-6 6"/></svg>',
+  list: '<svg viewBox="0 0 24 24" aria-hidden="true"><path d="M9 6h11M9 12h11M9 18h11M4 6h.01M4 12h.01M4 18h.01"/></svg>'
 };
 
 /* ---------- moldura comum ---------- */
@@ -880,4 +881,47 @@ $('shareBtn').onclick = async () => {
     else { await navigator.clipboard.writeText(data.url); toast(t('Link copiado!', 'Link copied!')); }
   } catch (e) {}
 };
+/* Índice da página: aparece quando há duas ou mais seções (h2) e acompanha a rolagem.
+   No computador é uma aba na lateral esquerda que abre e fecha (e lembra a escolha);
+   no celular, um botão flutuante que abre a lista por baixo e fecha ao escolher. */
+(() => {
+  const hs = [...document.querySelectorAll('main .page h2.sub')];
+  if (hs.length < 2) return;
+  hs.forEach(h => { if (!h.id) h.id = 'sec-' + norm(h.textContent).replace(/[^a-z0-9]+/g, '-').replace(/^-|-$/g, ''); });
+  const KEY = 'ac-toc', label = t('Nesta página', 'On this page');
+  const phone = matchMedia('(max-width: 760px)');
+  let pref = null;
+  try { pref = localStorage.getItem(KEY); } catch (e) {}
+  document.body.insertAdjacentHTML('beforeend', `<nav class="toc" id="toc" aria-label="${label}">
+    <button class="toc-btn" id="tocBtn" type="button" aria-expanded="false" aria-controls="tocPanel">${ICON.list}<span>${label}</span></button>
+    <div class="toc-panel" id="tocPanel"><p class="toc-h">${label}</p>
+      <ol>${hs.map((h, i) => `<li><a href="#${h.id}"><span class="mono">${pad(i + 1)}</span>${esc(h.textContent)}</a></li>`).join('')}</ol></div></nav>`);
+  const nav = $('toc'), btn = $('tocBtn'), links = [...nav.querySelectorAll('a')];
+  const set = (on, remember) => {
+    nav.classList.toggle('open', on); btn.setAttribute('aria-expanded', on);
+    if (remember && !phone.matches) try { localStorage.setItem(KEY, on ? '1' : '0'); } catch (e) {}
+  };
+  // telas muito largas têm espaço ao lado do conteúdo: começa aberto, a não ser que a pessoa tenha fechado
+  set(!phone.matches && (pref ? pref === '1' : innerWidth >= 1720), false);
+  btn.onclick = () => set(!nav.classList.contains('open'), true);
+  links.forEach(a => a.addEventListener('click', () => { if (phone.matches) set(false, false); }));
+  addEventListener('keydown', e => { if (e.key === 'Escape' && nav.classList.contains('open') && phone.matches) set(false, false); });
+  document.addEventListener('click', e => { if (phone.matches && nav.classList.contains('open') && !nav.contains(e.target)) set(false, false); });
+  // posição logo abaixo da barra de paradas e destaque da seção atual
+  const lv = document.querySelector('.levels');
+  let raf = 0;
+  const sync = () => {
+    raf = 0;
+    if (!phone.matches) nav.style.top = Math.round((lv ? lv.getBoundingClientRect().bottom : 80) + 18) + 'px';
+    else nav.style.top = '';
+    const line = innerHeight * .35;
+    let cur = 0;
+    hs.forEach((h, i) => { if (h.getBoundingClientRect().top <= line) cur = i; });
+    links.forEach((a, i) => { a.classList.toggle('now', i === cur); if (i === cur) a.setAttribute('aria-current', 'true'); else a.removeAttribute('aria-current'); });
+    nav.classList.toggle('seen', hs[0].getBoundingClientRect().top < innerHeight);
+  };
+  addEventListener('scroll', () => { if (!raf) raf = requestAnimationFrame(sync); }, {passive: true});
+  addEventListener('resize', sync);
+  sync();
+})();
 })();
