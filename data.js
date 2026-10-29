@@ -64,8 +64,6 @@ famosos: [
   { n: 'Aunty Donna', t: 'Content creators', d: 'Absurdist Melbourne comedy troupe that went from YouTube to their own Netflix series (Aunty Donna’s Big Ol’ House of Fun).', wk: 'en.wikipedia.org/wiki/Aunty_Donna' },
   { n: 'Lachlan', t: 'Content creators', d: 'Lachlan Power, Fortnite and Minecraft gamer with more than 15 million subscribers. Founded the PWR group and its clothing brand.', wk: 'en.wikipedia.org/wiki/Lachlan_Power' },
   { n: 'Loserfruit', t: 'Content creators', d: 'Kathleen Belsten, from Melbourne, one of the first women to get her own skin in Fortnite.', wk: 'en.wikipedia.org/wiki/Loserfruit' },
-  { n: 'Angela White', t: 'Content creators', d: 'One of the most followed Australians on Instagram, with about 10 million followers.', wk: '' },
-  { n: 'Emily Sears', t: 'Content creators', d: 'Australian model with about 4.7 million Instagram followers.', wk: '' },
   { n: 'Robert Irwin', t: 'Content creators', d: 'Steve Irwin’s son, a wildlife photographer and Australia Zoo presenter. Won the US Dancing with the Stars in 2025.', wk: 'en.wikipedia.org/wiki/Robert_Irwin' },
   { n: 'Jessica Origliasso', t: 'Music', d: 'Brisbane singer, songwriter and producer, born in 1984. With her identical twin Lisa, she makes up The Veronicas.', wk: 'en.wikipedia.org/wiki/Jessica_Origliasso' },
   { n: 'Lisa Origliasso', t: 'Music', d: 'Singer and songwriter raised in Albany Creek, Queensland. Jessica’s identical twin and the other half of The Veronicas.', wk: 'en.wikipedia.org/wiki/Lisa_Origliasso' },

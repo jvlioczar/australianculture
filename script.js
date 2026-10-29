@@ -77,7 +77,7 @@ const ART = {
   dicionario: `<g class="a-talk1"><path class="w o" d="M24 44h112a14 14 0 0 1 14 14v52a14 14 0 0 1-14 14H76l-26 24 4-24H24a14 14 0 0 1-14-14V58a14 14 0 0 1 14-14z"/><text class="k t" x="80" y="98" style="font-size:34px">G’day</text></g><g class="a-talk2"><path class="y o" d="M118 112h58a12 12 0 0 1 12 12v30a12 12 0 0 1-12 12h-8l4 18-22-18h-32a12 12 0 0 1-12-12v-30a12 12 0 0 1 12-12z"/><circle class="k" cx="130" cy="139" r="5"/><circle class="k" cx="147" cy="139" r="5"/><circle class="k" cx="164" cy="139" r="5"/></g>`,
   datas: `<g class="a-hop"><rect class="w o" x="34" y="46" width="132" height="120" rx="12"/><path class="r o" d="M34 58a12 12 0 0 1 12-12h108a12 12 0 0 1 12 12v24H34z"/><text class="k t" x="100" y="144" style="font-size:52px">26</text><rect class="k" x="62" y="32" width="10" height="28" rx="5"/><rect class="k" x="128" y="32" width="10" height="28" rx="5"/></g><g class="a-tw1"><path class="y o" d="M168 24l5 12 12 5-12 5-5 12-5-12-12-5 12-5z"/></g>`,
   quem: `<circle class="w o" cx="100" cy="74" r="34"/><path class="w o" d="M40 178c4-48 32-68 60-68s56 20 60 68z"/><path class="s" d="M86 82q14 10 28 0"/><circle class="k" cx="88" cy="68" r="4"/><circle class="k" cx="112" cy="68" r="4"/>`,
-  quiz: `<g class="a-target"><circle class="w o" cx="92" cy="108" r="72"/><circle class="r o" cx="92" cy="108" r="52"/><circle class="w o" cx="92" cy="108" r="32"/><circle class="r o" cx="92" cy="108" r="12"/></g><g class="a-arrow"><path class="s" d="M92 108l78-78" style="stroke-width:7"/><path class="k o" d="M158 30l16-16 6 22-22-6z"/></g>`
+  quiz: `<g class="a-hop"><path class="k o" d="M56 70c0-8 6-14 14-14h60c8 0 14 6 14 14v86c0 12-10 20-22 20H78c-12 0-22-8-22-20z"/><rect class="y o" x="52" y="28" width="96" height="30" rx="8"/><path class="s" d="M68 36v14M84 36v14M100 36v14M116 36v14M132 36v14" style="stroke-width:3"/><rect class="y o" x="56" y="92" width="88" height="54"/><path class="r o" d="M100 98l34 21-34 21-34-21z"/><path class="w" d="M66 76c4-4 10-6 16-6" style="fill:none;stroke:#fff8ea;stroke-width:5;stroke-linecap:round;opacity:.5"/></g>`
 };
 const art = id => `<svg class="art" viewBox="0 0 200 200" aria-hidden="true">${ART[id] || ''}</svg>`;
 
@@ -96,9 +96,9 @@ const me = chOf(PAGE), myIdx = CH.indexOf(me), N = CH.length;
 if (me) { document.body.style.setProperty('--c', me[4]); document.body.style.setProperty('--fg', me[5]); }
 
 $('top').innerHTML = `<div class="wrap">
-  <a class="logo" href="./" aria-label="${t('Australian Culture, início', 'Australian Culture, home')}">
+  <a class="logo" href="./" aria-label="${t('Cultura Australiana, início', 'Australian Culture, home')}">
     <svg viewBox="0 0 64 64" aria-hidden="true"><rect width="64" height="64" rx="16" fill="#c2410c"/><circle cx="40" cy="27" r="13" fill="#ffd36b"/><path d="M0 46c8-1 10-9 18-10s9 4 16 4 9-7 17-7 9 6 13 7v24H0z" fill="#7c2d12"/><path d="M0 52c10-2 20 2 32 0s22-3 32 0v12H0z" fill="#1e1712" opacity=".35"/></svg>
-    <b>Australian Culture</b>
+    <b>${t('Cultura Australiana', 'Australian Culture')}</b>
   </a>
   <span class="spacer"></span>
   <button class="tbtn" id="menuBtn" type="button" aria-expanded="false" aria-controls="menu">${ICON.menu}<span class="lbl">${t('Paradas', 'Stops')}</span></button>
@@ -181,15 +181,17 @@ if (cites && document.querySelector('.page')) document.querySelector('.page').in
 
 $('foot').innerHTML = `<div class="wrap">
   <p class="foot-big">Cheers, <em>mate.</em></p>
-  <p class="lead">${t('O projeto <strong>Australian Culture</strong> foi idealizado por Julio Cesar Prava e é um projeto especial da <strong>BiblioVerse</strong>.', '<strong>Australian Culture</strong> was created by Julio Cesar Prava and is a special project of <strong>BiblioVerse</strong>.')}</p>
+  <p class="lead">${t('O projeto <strong>Cultura Australiana</strong> foi idealizado por Julio Cesar Prava e é um projeto especial da <strong>BiblioVerse</strong>.', '<strong>Australian Culture</strong> was created by Julio Cesar Prava and is a special project of <strong>BiblioVerse</strong>.')}</p>
   <div class="acts">
     <a href="${ABOUT}">${t('Sobre', 'About')}</a>
+    <a href="${ABOUT}#${t('privacidade', 'privacy')}">${t('Privacidade', 'Privacy')}</a>
     <a href="https://www.linkedin.com/company/biblioverse.org" rel="noopener noreferrer" target="_blank">LinkedIn</a>
     <button id="favBtn" type="button">${t('Favoritar', 'Bookmark')}</button>
     <button id="shareBtn" type="button">${t('Compartilhar', 'Share')}</button>
     <a href="https://biblioverse.org" rel="noopener noreferrer" target="_blank">BiblioVerse</a>
   </div>
   <p class="small">${t('Última atualização', 'Last updated')}: ${esc(A.updated)} · ${t('Acesse as bibliotecas de outros temas no BiblioVerse. Obrigado pela visita!', 'Explore libraries on other topics at BiblioVerse. Thanks for visiting!')}</p>
+  <p class="small">© ${new Date().getFullYear()} BiblioVerse · Julio Cesar Prava. ${t('Todos os direitos reservados.', 'All rights reserved.')}</p>
   <p class="small ack">${t('Reconhecemos os Guardiões Tradicionais das terras da Austrália e prestamos respeito aos Anciãos do passado e do presente.', 'We acknowledge the Traditional Custodians of the lands across Australia and pay our respects to Elders past and present.')}</p>
 </div>`;
 document.body.insertAdjacentHTML('beforeend', `
@@ -313,7 +315,7 @@ function auMap(withBrazil){
     return `<g class="dot" data-s="${s}" style="--i:${i}"><circle class="ring" cx="${x.toFixed(1)}" cy="${y.toFixed(1)}" r="${r.toFixed(1)}"/><circle cx="${x.toFixed(1)}" cy="${y.toFixed(1)}" r="${r.toFixed(1)}"/><title>${k}. ${esc(n)}${ind ? ` (${esc(ind)})` : ''} · ${fmt(v)}</title></g>`;
   }).join('');
   const lab = (la, lo, t, cls) => { const [x, y] = xy(la, lo); return `<text class="${cls}" x="${x.toFixed(0)}" y="${y.toFixed(0)}">${t}</text>`; };
-  return `<svg viewBox="-10 -10 ${MAP.w + 20} ${MAP.h + 20}" role="img">
+  return `<svg viewBox="-10 -10 ${MAP.w + 20} ${MAP.h + 20}" role="img" aria-label="${withBrazil ? t('Mapa da Austrália comparada ao Brasil, com as maiores cidades', 'Map of Australia compared with Brazil, with the biggest cities') : t('Mapa da Austrália com as 25 maiores cidades', 'Map of Australia with the 25 biggest cities')}">
     <path class="au" d="${MAP.au}"/>
     ${withBrazil ? `<path class="bra" pathLength="1" d="${MAP.br}"/>
     ${lab(-24, 133, 'outback', 'lbl-out')}
@@ -562,7 +564,10 @@ document.querySelectorAll('[data-list]').forEach(host => {
   const sec = host.dataset.list, items = A[sec];
   const tags = [...new Set(items.map(x => x.t))];
   const st = {tag: '', q: ''};
-  host.innerHTML = `<div class="bar-ctl">${['', ...tags].map(tg =>
+  // sem um h2 na seção, a lista ganha um título invisível para os cards (h3) não pularem nível
+  const before = [...document.querySelectorAll('main h1, main h2')].filter(h => h.compareDocumentPosition(host) & Node.DOCUMENT_POSITION_FOLLOWING).pop();
+  const needH2 = !before || before.tagName === 'H1';
+  host.innerHTML = `${needH2 ? `<h2 class="vh">${t('Lista de', 'List of')} ${LABEL[sec]}</h2>` : ''}<div class="bar-ctl">${['', ...tags].map(tg =>
     `<button class="chip" type="button" data-t="${esc(tg)}">${tg ? esc(tg) : ALL}<small>${tg ? items.filter(x => x.t === tg).length : items.length}</small></button>`).join('')}
     <input class="find" type="search" placeholder="${t('Filtrar', 'Filter')} ${LABEL[sec]}..." aria-label="${t('Filtrar', 'Filter')}"/></div>
     <div class="count" aria-live="polite"></div><div class="grid"></div>`;
@@ -645,6 +650,7 @@ if ($('econNums')) {
 
 /* Recordes */
 function renderRecs(tag){
+  if (!$('recs').previousElementSibling?.matches('h2.vh') && !$('recs').closest('section')?.querySelector('h2')) $('recs').insertAdjacentHTML('beforebegin', `<h2 class="vh">${t('Lista de recordes', 'List of records')}</h2>`);
   $('recs').innerHTML = A.recordes.map((r, i) => [r, i]).filter(([r]) => !tag || r.t === tag).map(([r, i]) =>
     `<article class="rec rv" id="recordes-${i}"><span class="k">${esc(r.k)}</span><h3>${esc(r.n)}</h3><p>${esc(r.d)}</p>
      <div class="meta">${esc(r.t)}${r.wk === '' ? '' : ` · <a class="more" href="${wiki(r)}" target="_blank" rel="noopener">${t('Saiba mais', 'Find out more')}</a>`}</div></article>`).join('');
@@ -700,6 +706,7 @@ if ($('cityBars')) {
 
 /* História */
 function renderHistory(tag){
+  if (!$('timeline').previousElementSibling?.matches('h2.vh')) $('timeline').insertAdjacentHTML('beforebegin', `<h2 class="vh">${t('Linha do tempo', 'Timeline')}</h2>`);
   $('timeline').innerHTML = A.historia.map((h, i) => [h, i]).filter(([h]) => !tag || h.t === tag).map(([h, i]) =>
     `<article class="ev rv" id="historia-${i}"><span class="y">${esc(h.y)}</span><h3>${esc(h.n)}</h3><p>${esc(h.d)}</p><div class="meta">${esc(h.t)}</div></article>`).join('');
   reveal($('timeline'));

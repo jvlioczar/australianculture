@@ -64,8 +64,6 @@ famosos: [
   { n: 'Aunty Donna', t: 'Criadores digitais', d: 'Trupe de comédia absurda de Melbourne que saiu do YouTube para ter série na Netflix (Aunty Donna\'s Big Ol\' House of Fun).', wk: 'en.wikipedia.org/wiki/Aunty_Donna' },
   { n: 'Lachlan', t: 'Criadores digitais', d: 'Lachlan Power, gamer de Fortnite e Minecraft com mais de 15 milhões de inscritos. Fundou o grupo PWR e a marca de roupas.', wk: 'en.wikipedia.org/wiki/Lachlan_Power' },
   { n: 'Loserfruit', t: 'Criadores digitais', d: 'Kathleen Belsten, de Melbourne, uma das primeiras mulheres com skin própria no Fortnite.', wk: 'en.wikipedia.org/wiki/Loserfruit' },
-  { n: 'Angela White', t: 'Criadores digitais', d: 'Uma das australianas mais seguidas do Instagram, com cerca de 10 milhões de seguidores.', wk: '' },
-  { n: 'Emily Sears', t: 'Criadores digitais', d: 'Modelo australiana com cerca de 4,7 milhões de seguidores no Instagram.', wk: '' },
   { n: 'Robert Irwin', t: 'Criadores digitais', d: 'Filho de Steve Irwin, fotógrafo de vida selvagem e apresentador do Australia Zoo. Venceu o Dancing with the Stars dos EUA em 2025.', wk: 'pt.wikipedia.org/wiki/Robert_Irwin' },
   { n: 'Jessica Origliasso', t: 'Música', d: 'Cantora, compositora e produtora de Brisbane, nascida em 1984. Com a gêmea idêntica Lisa, forma a dupla The Veronicas.', wk: 'en.wikipedia.org/wiki/Jessica_Origliasso' },
   { n: 'Lisa Origliasso', t: 'Música', d: 'Cantora e compositora criada em Albany Creek, Queensland. Gêmea idêntica de Jessica e a outra metade do The Veronicas.', wk: 'en.wikipedia.org/wiki/Lisa_Origliasso' },
