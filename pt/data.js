@@ -63,11 +63,12 @@ famosos: [
   { n: 'Lachlan', t: 'Criadores digitais', d: 'Lachlan Power, gamer de Fortnite e Minecraft com mais de 15 milhões de inscritos. Fundou o grupo PWR e a marca de roupas.', wk: 'en.wikipedia.org/wiki/Lachlan_Power' },
   { n: 'Loserfruit', t: 'Criadores digitais', d: 'Kathleen Belsten, de Melbourne, uma das primeiras mulheres com skin própria no Fortnite.', wk: 'en.wikipedia.org/wiki/Loserfruit' },
   { n: 'Robert Irwin', t: 'Criadores digitais', d: 'Filho de Steve Irwin, fotógrafo de vida selvagem e apresentador do Australia Zoo. Venceu o Dancing with the Stars dos EUA em 2025.', wk: 'pt.wikipedia.org/wiki/Robert_Irwin' },
-  { n: 'Patrick White', t: 'Literatura', d: 'O único australiano a ganhar o Nobel de Literatura, em 1973. Autor de Voss e A Árvore do Homem, retratos densos da vida e da paisagem do país.', wk: 'pt.wikipedia.org/wiki/Patrick_White' },
-  { n: 'Thomas Keneally', t: 'Literatura', d: 'Escreveu A Arca de Schindler, Booker Prize de 1982, que virou o filme A Lista de Schindler, de Spielberg, vencedor de sete Oscars.', wk: 'pt.wikipedia.org/wiki/Thomas_Keneally' },
-  { n: 'Peter Carey', t: 'Literatura', d: 'Um dos poucos escritores a ganhar o Booker Prize duas vezes: com Oscar e Lucinda (1988) e A Verdadeira História do Bando de Kelly (2001).', wk: 'pt.wikipedia.org/wiki/Peter_Carey_(escritor)' },
-  { n: 'Markus Zusak', t: 'Literatura', d: 'Autor de Sydney de A Menina que Roubava Livros (2005), best-seller mundial que virou filme em 2013.', wk: 'pt.wikipedia.org/wiki/Markus_Zusak' },
-  { n: 'Colleen McCullough', t: 'Literatura', d: 'Neurofisiologista que virou romancista e escreveu Pássaros Feridos (1977), um dos livros australianos mais vendidos da história e minissérie de sucesso nos anos 80.', wk: 'pt.wikipedia.org/wiki/Colleen_McCullough' }
+  { n: 'Patrick White', t: 'Literatura e ideias', d: 'O único australiano a ganhar o Nobel de Literatura, em 1973. Autor de Voss e A Árvore do Homem, retratos densos da vida e da paisagem do país.', wk: 'pt.wikipedia.org/wiki/Patrick_White' },
+  { n: 'Thomas Keneally', t: 'Literatura e ideias', d: 'Escreveu A Arca de Schindler, Booker Prize de 1982, que virou o filme A Lista de Schindler, de Spielberg, vencedor de sete Oscars.', wk: 'pt.wikipedia.org/wiki/Thomas_Keneally' },
+  { n: 'Peter Carey', t: 'Literatura e ideias', d: 'Um dos poucos escritores a ganhar o Booker Prize duas vezes: com Oscar e Lucinda (1988) e A Verdadeira História do Bando de Kelly (2001).', wk: 'pt.wikipedia.org/wiki/Peter_Carey_(escritor)' },
+  { n: 'Markus Zusak', t: 'Literatura e ideias', d: 'Autor de Sydney de A Menina que Roubava Livros (2005), best-seller mundial que virou filme em 2013.', wk: 'pt.wikipedia.org/wiki/Markus_Zusak' },
+  { n: 'Colleen McCullough', t: 'Literatura e ideias', d: 'Neurofisiologista que virou romancista e escreveu Pássaros Feridos (1977), um dos livros australianos mais vendidos da história e minissérie de sucesso nos anos 80.', wk: 'pt.wikipedia.org/wiki/Colleen_McCullough' },
+  { n: 'Peter Singer', t: 'Literatura e ideias', d: 'Filósofo nascido em Melbourne, um dos pensadores vivos mais influentes do mundo. Libertação Animal (1975) deu origem ao movimento pelos direitos dos animais, e suas ideias inspiraram o altruísmo eficaz.', wk: 'pt.wikipedia.org/wiki/Peter_Singer' }
 ],
 
 /* Famosos na Austrália: ícones nacionais pouco conhecidos lá fora (apresentadores, esporte, moda, cultura) */
@@ -920,7 +921,10 @@ ativistas: [
   { n: 'Rosie Batty', t: 'Sociedade', d: 'Depois de perder o filho para a violência do ex-companheiro, virou a voz nacional contra a violência doméstica. Australiana do Ano de 2015.', wk: 'en.wikipedia.org/wiki/Rosie_Batty' },
   { n: 'Grace Tame', t: 'Sociedade', d: 'Sobrevivente de abuso sexual que lutou para poder contar sua história. Australiana do Ano de 2021.', wk: 'pt.wikipedia.org/wiki/Grace_Tame' },
   { n: 'Dylan Alcott', t: 'Sociedade', d: 'Campeão paralímpico de tênis e basquete, ativista pelos direitos das pessoas com deficiência. Australiano do Ano de 2022.', wk: 'pt.wikipedia.org/wiki/Dylan_Alcott' },
-  { n: 'Taryn Brumfitt', t: 'Sociedade', d: 'Criadora do movimento Body Image, contra a pressão estética. Australiana do Ano de 2023.', wk: 'en.wikipedia.org/wiki/Taryn_Brumfitt' }
+  { n: 'Taryn Brumfitt', t: 'Sociedade', d: 'Criadora do movimento Body Image, contra a pressão estética. Australiana do Ano de 2023.', wk: 'en.wikipedia.org/wiki/Taryn_Brumfitt' },
+  { n: 'Peter Singer', t: 'Direitos dos animais', d: 'Filósofo nascido em Melbourne cujo livro Libertação Animal (1975) moldou o movimento moderno pelos direitos dos animais. Professor emérito de bioética em Princeton.', wk: 'pt.wikipedia.org/wiki/Peter_Singer' },
+  { n: 'Georgie Purcell', t: 'Direitos dos animais', d: 'Deputada do Animal Justice Party na câmara alta de Victoria (o Legislative Council) desde 2022, na luta pela proibição da caça de patos e pelo bem-estar animal.', wk: 'en.wikipedia.org/wiki/Georgie_Purcell' },
+  { n: 'Joey Carbstrong', t: 'Direitos dos animais', d: 'Ex-criminoso que virou ativista pelos direitos dos animais e pelo veganismo, com investigações secretas e debates que viralizam nas redes.', wk: 'en.wikipedia.org/wiki/Joey_Carbstrong' }
 ],
 
 /* Comparação com o Brasil (só no português): a = Austrália, b = equivalente aproximado no Brasil, e = campo político */

@@ -63,11 +63,12 @@ famosos: [
   { n: 'Lachlan', t: 'Content creators', d: 'Lachlan Power, Fortnite and Minecraft gamer with more than 15 million subscribers. Founded the PWR group and its clothing brand.', wk: 'en.wikipedia.org/wiki/Lachlan_Power' },
   { n: 'Loserfruit', t: 'Content creators', d: 'Kathleen Belsten, from Melbourne, one of the first women to get her own skin in Fortnite.', wk: 'en.wikipedia.org/wiki/Loserfruit' },
   { n: 'Robert Irwin', t: 'Content creators', d: 'Steve Irwin’s son, a wildlife photographer and Australia Zoo presenter. Won the US Dancing with the Stars in 2025.', wk: 'en.wikipedia.org/wiki/Robert_Irwin' },
-  { n: 'Patrick White', t: 'Literature', d: 'The only Australian to win the Nobel Prize in Literature, in 1973. Author of Voss and The Tree of Man, dense portraits of the country’s people and landscape.', wk: 'en.wikipedia.org/wiki/Patrick_White' },
-  { n: 'Thomas Keneally', t: 'Literature', d: 'Wrote Schindler’s Ark, winner of the 1982 Booker Prize, which became Spielberg’s Schindler’s List and won seven Oscars.', wk: 'en.wikipedia.org/wiki/Thomas_Keneally' },
-  { n: 'Peter Carey', t: 'Literature', d: 'One of only a handful of writers to win the Booker Prize twice: for Oscar and Lucinda (1988) and True History of the Kelly Gang (2001).', wk: 'en.wikipedia.org/wiki/Peter_Carey_(novelist)' },
-  { n: 'Markus Zusak', t: 'Literature', d: 'Sydney author of The Book Thief (2005), a worldwide bestseller that became a film in 2013.', wk: 'en.wikipedia.org/wiki/Markus_Zusak' },
-  { n: 'Colleen McCullough', t: 'Literature', d: 'A neurophysiologist turned novelist who wrote The Thorn Birds (1977), one of the best-selling Australian books ever and a hit TV miniseries in the 80s.', wk: 'en.wikipedia.org/wiki/Colleen_McCullough' }
+  { n: 'Patrick White', t: 'Literature and ideas', d: 'The only Australian to win the Nobel Prize in Literature, in 1973. Author of Voss and The Tree of Man, dense portraits of the country’s people and landscape.', wk: 'en.wikipedia.org/wiki/Patrick_White' },
+  { n: 'Thomas Keneally', t: 'Literature and ideas', d: 'Wrote Schindler’s Ark, winner of the 1982 Booker Prize, which became Spielberg’s Schindler’s List and won seven Oscars.', wk: 'en.wikipedia.org/wiki/Thomas_Keneally' },
+  { n: 'Peter Carey', t: 'Literature and ideas', d: 'One of only a handful of writers to win the Booker Prize twice: for Oscar and Lucinda (1988) and True History of the Kelly Gang (2001).', wk: 'en.wikipedia.org/wiki/Peter_Carey_(novelist)' },
+  { n: 'Markus Zusak', t: 'Literature and ideas', d: 'Sydney author of The Book Thief (2005), a worldwide bestseller that became a film in 2013.', wk: 'en.wikipedia.org/wiki/Markus_Zusak' },
+  { n: 'Colleen McCullough', t: 'Literature and ideas', d: 'A neurophysiologist turned novelist who wrote The Thorn Birds (1977), one of the best-selling Australian books ever and a hit TV miniseries in the 80s.', wk: 'en.wikipedia.org/wiki/Colleen_McCullough' },
+  { n: 'Peter Singer', t: 'Literature and ideas', d: 'Moral philosopher born in Melbourne, one of the most influential thinkers alive. Animal Liberation (1975) launched the animal rights movement, and his ideas inspired effective altruism.', wk: 'en.wikipedia.org/wiki/Peter_Singer' }
 ],
 
 /* Famous in Australia: national icons who are less known overseas (presenters, sport, fashion, culture) */
@@ -888,7 +889,10 @@ ativistas: [
   { n: 'Rosie Batty', t: 'Society', d: 'After losing her son to her former partner’s violence, she became the national voice against family violence. 2015 Australian of the Year.', wk: 'en.wikipedia.org/wiki/Rosie_Batty' },
   { n: 'Grace Tame', t: 'Society', d: 'A survivor of child sexual abuse who fought for the right to tell her story. 2021 Australian of the Year.', wk: 'en.wikipedia.org/wiki/Grace_Tame' },
   { n: 'Dylan Alcott', t: 'Society', d: 'Paralympic tennis and basketball champion and disability rights advocate. 2022 Australian of the Year.', wk: 'en.wikipedia.org/wiki/Dylan_Alcott' },
-  { n: 'Taryn Brumfitt', t: 'Society', d: 'Founder of the Body Image Movement, pushing back against beauty pressure. 2023 Australian of the Year.', wk: 'en.wikipedia.org/wiki/Taryn_Brumfitt' }
+  { n: 'Taryn Brumfitt', t: 'Society', d: 'Founder of the Body Image Movement, pushing back against beauty pressure. 2023 Australian of the Year.', wk: 'en.wikipedia.org/wiki/Taryn_Brumfitt' },
+  { n: 'Peter Singer', t: 'Animal rights', d: 'Melbourne-born moral philosopher whose book Animal Liberation (1975) shaped the modern animal rights movement. Emeritus professor of bioethics at Princeton.', wk: 'en.wikipedia.org/wiki/Peter_Singer' },
+  { n: 'Georgie Purcell', t: 'Animal rights', d: 'Animal Justice Party MP in Victoria’s upper house since 2022, campaigning for a ban on duck hunting and for animal welfare.', wk: 'en.wikipedia.org/wiki/Georgie_Purcell' },
+  { n: 'Joey Carbstrong', t: 'Animal rights', d: 'Former criminal turned animal rights activist and vegan advocate, with undercover investigations and viral debates on social media.', wk: 'en.wikipedia.org/wiki/Joey_Carbstrong' }
 ],
 
 /* ============ SITES TO KNOW AUSTRALIA ============ */
