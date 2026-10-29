@@ -960,3 +960,8 @@ body.menu-open .toc,body:has(#searchDlg[open]) .toc{opacity:0;visibility:hidden;
   .toc-btn:hover span,.toc-btn:focus-visible span,.toc.open .toc-btn span{max-width:140px}
   .toc-btn:hover{padding-left:14px}
 }
+
+/* playlist do Spotify na Música */
+.playlist .spotify{display:block;border:0;width:100%;max-width:900px;min-height:352px;background:var(--paper)}
+.playlist .note{margin-top:10px}
+@media print{.playlist .spotify{display:none}}
