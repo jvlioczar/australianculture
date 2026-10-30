@@ -68,7 +68,8 @@ famosos: [
   { n: 'Peter Carey', t: 'Literature and ideas', d: 'One of only a handful of writers to win the Booker Prize twice: for Oscar and Lucinda (1988) and True History of the Kelly Gang (2001).', wk: 'en.wikipedia.org/wiki/Peter_Carey_(novelist)' },
   { n: 'Markus Zusak', t: 'Literature and ideas', d: 'Sydney author of The Book Thief (2005), a worldwide bestseller that became a film in 2013.', wk: 'en.wikipedia.org/wiki/Markus_Zusak' },
   { n: 'Colleen McCullough', t: 'Literature and ideas', d: 'A neurophysiologist turned novelist who wrote The Thorn Birds (1977), one of the best-selling Australian books ever and a hit TV miniseries in the 80s.', wk: 'en.wikipedia.org/wiki/Colleen_McCullough' },
-  { n: 'Peter Singer', t: 'Literature and ideas', d: 'Moral philosopher born in Melbourne, one of the most influential thinkers alive. Animal Liberation (1975) launched the animal rights movement, and his ideas inspired effective altruism.', wk: 'en.wikipedia.org/wiki/Peter_Singer' }
+  { n: 'Peter Singer', t: 'Literature and ideas', d: 'Moral philosopher born in Melbourne, one of the most influential thinkers alive. Animal Liberation (1975) launched the animal rights movement, and his ideas inspired effective altruism.', wk: 'en.wikipedia.org/wiki/Peter_Singer' },
+  { n: 'David Chalmers', t: 'Literature and ideas', d: 'Philosopher and cognitive scientist who coined the “hard problem of consciousness”: why do we have inner experience at all? Professor at NYU, he also popularised the famous philosophical zombies.', wk: 'en.wikipedia.org/wiki/David_Chalmers' }
 ],
 
 /* Famous in Australia: national icons who are less known overseas (presenters, sport, fashion, culture) */

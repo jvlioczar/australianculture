@@ -68,7 +68,8 @@ famosos: [
   { n: 'Peter Carey', t: 'Literatura e ideias', d: 'Um dos poucos escritores a ganhar o Booker Prize duas vezes: com Oscar e Lucinda (1988) e A Verdadeira História do Bando de Kelly (2001).', wk: 'pt.wikipedia.org/wiki/Peter_Carey_(escritor)' },
   { n: 'Markus Zusak', t: 'Literatura e ideias', d: 'Autor de Sydney de A Menina que Roubava Livros (2005), best-seller mundial que virou filme em 2013.', wk: 'pt.wikipedia.org/wiki/Markus_Zusak' },
   { n: 'Colleen McCullough', t: 'Literatura e ideias', d: 'Neurofisiologista que virou romancista e escreveu Pássaros Feridos (1977), um dos livros australianos mais vendidos da história e minissérie de sucesso nos anos 80.', wk: 'pt.wikipedia.org/wiki/Colleen_McCullough' },
-  { n: 'Peter Singer', t: 'Literatura e ideias', d: 'Filósofo nascido em Melbourne, um dos pensadores vivos mais influentes do mundo. Libertação Animal (1975) deu origem ao movimento pelos direitos dos animais, e suas ideias inspiraram o altruísmo eficaz.', wk: 'pt.wikipedia.org/wiki/Peter_Singer' }
+  { n: 'Peter Singer', t: 'Literatura e ideias', d: 'Filósofo nascido em Melbourne, um dos pensadores vivos mais influentes do mundo. Libertação Animal (1975) deu origem ao movimento pelos direitos dos animais, e suas ideias inspiraram o altruísmo eficaz.', wk: 'pt.wikipedia.org/wiki/Peter_Singer' },
+  { n: 'David Chalmers', t: 'Literatura e ideias', d: 'Filósofo e cientista cognitivo que formulou o “problema difícil da consciência”: por que temos experiência interior? Professor da Universidade de Nova York (NYU), popularizou os famosos zumbis filosóficos.', wk: 'pt.wikipedia.org/wiki/David_Chalmers' }
 ],
 
 /* Famosos na Austrália: ícones nacionais pouco conhecidos lá fora (apresentadores, esporte, moda, cultura) */
