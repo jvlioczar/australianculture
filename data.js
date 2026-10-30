@@ -570,6 +570,7 @@ recordes: [
 /* ============ FUN FACTS ============ */
 curiosidades: [
   { n: 'Official name and colours', d: 'The official name is the Commonwealth of Australia. The national colours are green and gold, from the leaves and blossom of the golden wattle, proclaimed in 1984 and worn by the national sporting teams.' },
+  { n: 'An anthem without God or guns', d: 'Advance Australia Fair has no military or religious references. The 1879 original was more imperial: one verse praised Captain Cook and ended with “Britannia rules the wave”, and another called on Australians to rouse to arms. Those verses were dropped when it became the official anthem in 1984. In 2021, “young and free” became “one and free”, recognising First Nations peoples.' },
   { n: 'More roos than people', d: 'There are more than 40 million kangaroos and about 28 million people.' },
   { n: 'Everyone’s on the coast', d: 'Around 85% of people live within 50 km of the coast. The interior is practically empty.' },
   { n: 'A dry country', d: 'Around 70% of the land is arid or semi-arid. It’s the driest inhabited continent on the planet.' },
@@ -982,7 +983,7 @@ fontes: {
   comida: [['Tourism Australia: food and drink', 'https://www.australia.com/en/things-to-do/food-and-drink.html']],
   invencoes: [['Australia Para Todos: greatest Australian inventions', 'https://australiaparatodos.wordpress.com/2026/03/12/maiores-invencoes-australianas'], ['CSIRO', 'https://www.csiro.au']],
   recordes: [['Fair Work Ombudsman: minimum wages from 1 July 2026', 'https://www.fairwork.gov.au/about-us/workplace-laws/annual-wage-review/annual-wage-review-2026'], ['Wikipedia: List of Australian Nobel laureates', 'https://en.wikipedia.org/wiki/List_of_Australian_Nobel_laureates'], ['Geoscience Australia', 'https://www.ga.gov.au']],
-  curiosidades: [['ABS: population', 'https://www.abs.gov.au/statistics/people/population'], ['Tourism Australia: Key facts', 'https://www.australia.com/en/facts-and-planning/about-australia/key-facts-about-australia.html'], ['Geoscience Australia', 'https://www.ga.gov.au']],
+  curiosidades: [['ABS: population', 'https://www.abs.gov.au/statistics/people/population'], ['Tourism Australia: Key facts', 'https://www.australia.com/en/facts-and-planning/about-australia/key-facts-about-australia.html'], ['Geoscience Australia', 'https://www.ga.gov.au'], ['Advance Australia Fair (Wikipedia)', 'https://en.wikipedia.org/wiki/Advance_Australia_Fair']],
   natureza: [['Atlas of Living Australia', 'https://www.ala.org.au'], ['Australian Museum', 'https://australian.museum'], ['Australian National Botanic Gardens', 'https://www.anbg.gov.au']],
   cidades: [['ABS: Regional population (2023)', 'https://www.abs.gov.au/statistics/people/population/regional-population/latest-release'], ['Brazilians in Australia: Get to know Australia', 'https://brasileirosnaaustralia.biblioverse.org']],
   lugares: [['Tourism Australia: places to go', 'https://www.australia.com/en/places.html'], ['Parks Australia', 'https://parksaustralia.gov.au'], ['UNESCO: World Heritage in Australia', 'https://whc.unesco.org/en/statesparties/au'], ['Australia’s big things (Wikipedia)', 'https://en.wikipedia.org/wiki/Australia%27s_big_things']],
