@@ -123,12 +123,12 @@ h1,h2,h3{font-family:var(--display);font-optical-sizing:auto;font-weight:400;fon
 .hero{--dusk:0;position:relative;height:calc(100svh - var(--sb) - var(--head));min-height:560px;overflow:hidden;color:#2a130a;background:linear-gradient(180deg,var(--hero-a) 0%,var(--hero-b) 52%,var(--hero-c) 100%);isolation:isolate}
 .hero::before{content:"";position:absolute;inset:0;z-index:-1;background:linear-gradient(180deg,#1b2340,#3b2a4a 60%,#6b2c1c);opacity:calc(var(--dusk) * .7);pointer-events:none}
 .sky{position:absolute;inset:0;z-index:-2}
-.sun{position:absolute;width:clamp(260px,38vw,560px);aspect-ratio:1;border-radius:50%;right:12%;top:14%;background:radial-gradient(circle,#fff6d6 0 36%,#ffd36b 37% 55%,transparent 56%);will-change:transform,translate}
+.sun{--sun:clamp(200px,min(28vw,46vh),440px);--k:1;--at:34%;position:absolute;width:calc(var(--sun) * var(--k));aspect-ratio:1;border-radius:50%;right:calc(var(--at) - var(--sun) * var(--k) / 2);bottom:calc(var(--ul-h) * .6 - var(--ul-shift,0px));background:url(images/sun.svg) center/contain no-repeat;will-change:transform,translate}
 .stars{position:absolute;inset:0;width:100%;height:100%;opacity:calc(var(--dusk) * 1.2);transition:opacity .6s}
 .hero-in{position:relative;z-index:1;padding-top:clamp(22px,5.5vh,72px)}
 .hero h1{font-size:clamp(60px,min(13vw,17vh),220px);line-height:.84;letter-spacing:0;margin:12px 0 0}
 /* os textos da capa só existem depois do aviso: a abertura (classe .play) é quem os revela */
-@media (scripting:enabled){.hero:not(.play) .hero-in>*{opacity:0}}
+@media (scripting:enabled){.hero:not(.play) .hero-in>*,.hero:not(.play) .sun,.hero:not(.play) .scene{opacity:0}}
 .hero h1 .ln{display:block;padding-bottom:.04em}
 .hero h1 .ch{display:inline-block;transform-origin:50% 100%;will-change:transform}
 .hero h1 em{display:block;font:400 .78em/1 var(--hand);text-transform:lowercase;color:#fff8ea;margin-top:.06em;text-shadow:0 3px 0 rgba(124,45,18,.35)}
@@ -138,25 +138,42 @@ h1,h2,h3{font-family:var(--display);font-optical-sizing:auto;font-weight:400;fon
 .scrollcue i::after{content:"";position:absolute;left:0;right:0;top:-40%;height:40%;background:#fff8ea;animation:drip 1.8s cubic-bezier(.65,0,.35,1) infinite}
 @keyframes drip{to{top:100%}}
 .hero{--ul-h:clamp(190px,36vh,380px)}
-.uluru{position:absolute;left:0;right:0;bottom:-1px;display:block;width:100%;height:var(--ul-h)}
-.uluru .ul-a{stop-color:var(--ul-a,#f0782f)}
-.uluru .ul-b{stop-color:var(--ul-b,#c2410c)}
-.uluru .ul-c{stop-color:var(--ul-c,#7c2d12)}
-.uluru .far{fill:var(--far,#d9895a);opacity:.75}
-.uluru .groove path{fill:none;stroke:rgba(80,20,6,.38);stroke-width:5;stroke-linecap:round}
-.uluru .ground{fill:var(--ground,#b4451a)}
-.uluru .tufts ellipse{fill:var(--tuft,#7e6a2a);opacity:.7}
-.uluru .base{fill:var(--base,#1b120c)}
+/* ilustração em camadas: sol ou lua, meio (Uluru), canguru e frente. Dia e noite têm desenhos próprios */
+.scene{position:absolute;left:0;right:0;bottom:calc(-1px - var(--ul-shift,0px));display:block;width:100%;height:var(--ul-h);pointer-events:none}
+.scene-front{z-index:3}
+.scene.night{display:none}
+:root[data-theme="dark"] .scene.day{display:none}
+:root[data-theme="dark"] .scene.night{display:block}
+@media (prefers-color-scheme:dark){
+  :root:not([data-theme="light"]) .scene.day{display:none}
+  :root:not([data-theme="light"]) .scene.night{display:block}
+}
+/* a lua fica mais à direita no céu, para o texto claro da dica de rolagem não cair sobre ela */
+@media (min-width:1024px){
+  :root[data-theme="dark"] .sun{--at:18%}
+}
+@media (min-width:1024px) and (prefers-color-scheme:dark){
+  :root:not([data-theme="light"]) .sun{--at:18%}
+}
 /* tela grande: o texto à esquerda equilibra o Uluru à direita */
 @media (min-width:1024px){
   .hero-in{width:min(1240px,100% - 80px);margin-inline:auto}
-  .hero h1,.hero .lede{max-width:56%}
+  /* o texto fica compacto, acima das árvores da ilustração: título em uma linha e a dica de rolagem ao lado do parágrafo */
+  .hero-in{display:grid;grid-template-columns:minmax(0,660px) auto;justify-content:start;column-gap:40px;padding-top:clamp(18px,3.5vh,56px)}
+  .hero-in>.lq,.hero h1{grid-column:1/-1}
+  .hero h1{font-size:clamp(60px,min(9vw,12.5vh),170px);margin-top:8px}
+  .hero h1 .ln{display:inline-block;margin-right:.22em;padding-bottom:0}
+  .hero h1 em{display:inline-block;margin-top:0}
+  .hero .lede{margin-top:14px;max-width:none}
+  .scrollcue{margin-top:14px;align-self:center}
+  /* a altura cresce com a largura: assim o recorte não corta o topo da ilustração */
+  .hero{--ul-h:min(max(clamp(190px,36vh,380px),29.2vw),calc(100svh - var(--sb) - var(--head) - 12px))}
 }
 /* tablet: texto ocupa a largura, Uluru um pouco mais alto */
 @media (min-width:600px) and (max-width:1023px){
   .hero-in{width:calc(100% - 64px);margin-inline:auto;padding-top:7vh}
   .hero h1{font-size:clamp(84px,min(20vw,15vh),180px)}
-  .sun{width:48vw;right:6%;top:34%}
+  .sun{--sun:34vw;--at:50%}
   .hero{--ul-h:clamp(240px,34vh,360px)}
 }
 /* celular: título grande mas contido, sol menor no canto */
@@ -164,22 +181,22 @@ h1,h2,h3{font-family:var(--display);font-optical-sizing:auto;font-weight:400;fon
   .hero-in{width:calc(100% - 32px);margin-inline:auto;padding-top:5vh}
   .hero h1{font-size:clamp(58px,min(21vw,13vh),104px)}
   .hero .lede{font-size:17px}
-  .sun{width:230px;right:8%;top:auto;bottom:calc(clamp(170px,27vh,230px) * .62)}
+  .sun{--sun:170px;--at:50%}
   .hero{--ul-h:clamp(170px,27vh,230px)}
 }
-:root[data-theme="dark"] .hero{color:#fbeedd;--ul-a:#8a3a1a;--ul-b:#5a2410;--ul-c:#2e1208;--far:#3b2a4a;--ground:#3a1a0c;--tuft:#24301c;--base:#f5b700}
-:root[data-theme="dark"] .sun{background:radial-gradient(circle,#fdf6e3 0 22%,rgba(253,246,227,.16) 23% 34%,transparent 35%)}
+:root[data-theme="dark"] .hero{color:#fbeedd}
+:root[data-theme="dark"] .sun{background:url(images/moon.svg) center/contain no-repeat;--k:.68;bottom:calc(var(--ul-h) * .74 - var(--ul-shift,0px))}
 :root[data-theme="dark"] .stars{opacity:1}
 :root[data-theme="dark"] .scrollcue i::after{background:var(--wattle)}
 @media (prefers-color-scheme:dark){
-  :root:not([data-theme="light"]) .hero{color:#fbeedd;--ul-a:#8a3a1a;--ul-b:#5a2410;--ul-c:#2e1208;--far:#3b2a4a;--ground:#3a1a0c;--tuft:#24301c;--base:#f5b700}
-  :root:not([data-theme="light"]) .sun{background:radial-gradient(circle,#fdf6e3 0 22%,rgba(253,246,227,.16) 23% 34%,transparent 35%)}
+  :root:not([data-theme="light"]) .hero{color:#fbeedd}
+  :root:not([data-theme="light"]) .sun{background:url(images/moon.svg) center/contain no-repeat;--k:.68;bottom:calc(var(--ul-h) * .74 - var(--ul-shift,0px))}
   :root:not([data-theme="light"]) .stars{opacity:1}
 }
 
 /* o canguru: atravessa a cena (tempo linear) enquanto salta. Cada parte gira na sua junta:
    agacha no contato, estende a perna no impulso, voa com a cauda de contrapeso e recolhe para pousar */
-.roo{position:absolute;left:0;bottom:calc(var(--ul-h) * .12);width:clamp(76px,8.4vw,124px);z-index:2;pointer-events:none;
+.roo{position:absolute;left:0;bottom:calc(var(--ul-h) * .12 - var(--ul-shift,0px));width:clamp(76px,8.4vw,124px);z-index:2;pointer-events:none;
   transform:translateX(-140%)}
 /* só começa a correr quando a abertura da capa termina (o script põe .roo-go) */
 .hero.roo-go .roo{animation:rooRun 12s linear infinite}
@@ -910,7 +927,7 @@ main:focus{outline:none}
   .phead,.hero,.act,.act-time,.act-way,.foot,.stamp,.way-card,.project{background:#fff!important;color:#000!important}
   .phead::after,.gate::after,.nextstop::after,.act-time .time-stage::after{display:none!important}
   .hero{min-height:0!important;height:auto!important;padding:0 0 12pt}
-  .hero .uluru{display:none}
+  .hero .scene{display:none}
   .scrolly-fig,.citymap{position:static!important;height:auto!important}
   .step{min-height:0!important;opacity:1!important;padding:4pt 0}
   .time-track,.way-track{height:auto!important}

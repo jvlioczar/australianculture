@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 386.04 393.7">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: url(#Gradiente_sem_nome_94);
+      }
+    </style>
+    <radialGradient id="Gradiente_sem_nome_94" data-name="Gradiente sem nome 94" cx="192.18" cy="196.45" fx="192.18" fy="196.45" r="169.17" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#faf5dc"/>
+      <stop offset=".26" stop-color="#faf4d5"/>
+      <stop offset=".63" stop-color="#fbf4c2"/>
+      <stop offset="1" stop-color="#fcf4a9"/>
+    </radialGradient>
+  </defs>
+  <path class="cls-1" d="M360.19,201.1c0,94.17-63.97,165.65-160.77,165.65S24.16,290.42,24.16,196.25,102.63,26.14,199.42,26.14s160.77,80.8,160.77,174.97Z"/>
+</svg>

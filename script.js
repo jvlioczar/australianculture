@@ -257,7 +257,7 @@ function heroIntro(){
     {transform: 'translate(-26%, 46%) scale(.82)', opacity: 0},
     {transform: 'translate(-8%, 10%) scale(.96)', opacity: 1, offset: .55},
     {transform: 'translate(0,0) scale(1)', opacity: 1}], {duration: 2200, easing: EASE.OUT, fill: 'backwards'});
-  anim(h.querySelector('.uluru'), [{transform: 'translateY(40px)'}, {transform: 'none'}], {duration: 1600, easing: EASE.OUT});
+  h.querySelectorAll('.scene').forEach(el => anim(el, [{transform: 'translateY(40px)', opacity: 0}, {transform: 'none', opacity: 1}], {duration: 1600, easing: EASE.OUT}));
   h.querySelectorAll('h1 .ch').forEach((c, i) => {
     intro.push(anim(c, [
       {transform: 'translateY(-120%) scale(.9,1.2)', opacity: 0},
@@ -278,12 +278,23 @@ if ($('hero')) {
   });
   heroIntro();
   // em telas estreitas o enquadramento fecha no Uluru, para a rocha caber inteira
-  const ul = $('hero').querySelector('.uluru');
+  const arts = [...$('hero').querySelectorAll('.scene')];
   const frame = () => {
-    ul.setAttribute('viewBox', innerWidth < 1024 ? '470 0 920 420' : '0 0 1440 420');
-    ul.setAttribute('preserveAspectRatio', innerWidth < 1024 ? 'xMidYMax slice' : 'xMaxYMax slice');
+    // o enquadramento acompanha o tamanho real da ilustração visível; o tema oculto recebe o mesmo
+    const r = arts.map(a => a.getBoundingClientRect()).find(b => b.height), vw = r ? Math.min(1440, 420 * r.width / r.height) : 1440;
+    const x = innerWidth < 1024 ? clamp(950 - vw / 2, 0, 1440 - vw) : 1440 - vw;
+    arts.forEach(a => a.setAttribute('viewBox', `${x.toFixed(1)} 0 ${vw.toFixed(1)} 420`));
+    // em telas baixas a ilustração desce um pouco (corta só o chão da frente) para as árvores não tocarem o texto
+    const hero = $('hero'), inn = hero.querySelector('.hero-in'), lede = hero.querySelector('.lede');
+    let shift = 0;
+    if (r && innerWidth >= 1024) {
+      const k = r.height / 420, textEnd = inn.offsetTop + lede.offsetTop + lede.offsetHeight;
+      shift = clamp(textEnd + 10 - (hero.clientHeight - r.height + 63 * k), 0, 80 * k);
+    }
+    hero.style.setProperty('--ul-shift', shift.toFixed(1) + 'px');
   };
   frame(); addEventListener('resize', frame);
+  if (document.fonts && document.fonts.ready) document.fonts.ready.then(frame);
 }
 
 /* Faixa com gírias */
@@ -532,7 +543,7 @@ if ($('hero') && $('paradas')) {
   addEventListener('scroll', sync, {passive: true}); sync();
   b.onclick = () => goEl(stops);
 }
-/* O sol se põe atrás do Uluru enquanto se rola (o céu acompanha) */
+/* O sol (ou a lua) se põe atrás do Uluru enquanto se rola (o céu acompanha) */
 if ($('sun') && !reduced) {
   const sun = $('sun'), hero = $('hero');
   addEventListener('scroll', () => {
@@ -860,6 +871,7 @@ $('themeBtn').onclick = () => {
   root.dataset.theme = isDark() ? 'light' : 'dark';
   try { localStorage.setItem('ac-theme', root.dataset.theme); } catch (e) {}
   themeIcon();
+  dispatchEvent(new Event('resize'));
 };
 themeIcon();
 
