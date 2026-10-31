@@ -156,7 +156,7 @@ h1,h2,h3{font-family:var(--display);font-optical-sizing:auto;font-weight:400;fon
   .hero-in>.lq,.hero h1{grid-column:1/-1}
   .hero h1{font-size:clamp(60px,min(9vw,12.5vh),170px);margin-top:8px}
   .hero h1 .ln{display:inline-block;margin-right:.22em;padding-bottom:0}
-  .hero h1 em{display:inline-block;margin-top:0}
+  .hero h1 em{display:inline-block;margin-top:0;font-size:1.08em;line-height:.8}
   .hero .lede{margin-top:14px;max-width:none}
   .scrollcue{margin-top:14px;align-self:center}
   /* a altura cresce com a largura: assim o recorte não corta o topo da ilustração */
@@ -219,10 +219,8 @@ h1,h2,h3{font-family:var(--display);font-optical-sizing:auto;font-weight:400;fon
 @keyframes rooTail{0%{transform:rotate(-4deg)}22%{transform:rotate(-8deg)}50%{transform:rotate(14deg)}78%{transform:rotate(6deg)}100%{transform:rotate(-4deg)}}
 @keyframes rooArm{0%{transform:rotate(14deg)}50%{transform:rotate(-16deg)}100%{transform:rotate(14deg)}}
 @keyframes rooHead{0%{transform:rotate(4deg)}22%{transform:rotate(6deg)}50%{transform:rotate(-6deg)}78%{transform:rotate(-2deg)}100%{transform:rotate(4deg)}}
-/* à noite a silhueta escura sumiria no chão: ganha um contorno de luz dourada */
 :root[data-theme="dark"] .roo path{fill:#120a06}
-:root[data-theme="dark"] .roo svg{filter:drop-shadow(0 0 1.2px #ffd36b) drop-shadow(0 0 7px rgba(255,190,90,.4))}
-@media (prefers-color-scheme:dark){:root:not([data-theme="light"]) .roo path{fill:#120a06}:root:not([data-theme="light"]) .roo svg{filter:drop-shadow(0 0 1.2px #ffd36b) drop-shadow(0 0 7px rgba(255,190,90,.4))}}
+@media (prefers-color-scheme:dark){:root:not([data-theme="light"]) .roo path{fill:#120a06}}
 @media (max-width:599px){.roo{width:88px;bottom:calc(var(--ul-h) * .16)}}
 @media (prefers-reduced-motion:reduce){.roo{display:none}}
 
