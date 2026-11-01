@@ -988,6 +988,7 @@ costumes: [
   { n: 'Coffee snobbery', t: 'At the table', d: 'A flat white from the local café, never filter. Australians will argue about the beans, and about whether it was invented here or in New Zealand.', w: 'Flat white' },
   { n: 'Smashed avo', t: 'At the table', d: 'Brunch as an institution. In 2016, a columnist blamed it for young people being unable to buy houses, and the country has not let it go.', wk: '' },
   { n: 'A pie at the servo', t: 'At the table', d: 'A meat pie with sauce at the petrol station or the footy. Not gourmet, and completely loved.', w: 'Meat pie (Australia and New Zealand)' },
+  { n: 'Pineapple on pizza', t: 'At the table', d: 'Ham and pineapple is a fixture at the local pizza shop, and many Australians order it with no shame. It was invented in Canada, and it divides dinner tables here as it does everywhere else.', w: 'Hawaiian pizza' },
   { n: 'Watching the footy', t: 'On screen', d: 'Which code depends on where you live, and which team often comes from your family. Plenty of people care about neither, and hear about it anyway.', wk: '' },
   { n: 'Home and Away and Neighbours', t: 'On screen', d: 'Decades of beach and cul-de-sac drama, and the training ground for stars such as Kylie Minogue, Margot Robbie and Chris Hemsworth.', w: 'Home and Away' },
   { n: 'Reality TV', t: 'On screen', d: 'Married at First Sight, MasterChef and The Block fill the living room and the group chat. Everyone says they don’t watch, and everyone knows who got dumped.', w: 'Married at First Sight (Australian TV series)' },
@@ -1006,7 +1007,7 @@ esportes: [
   { n: 'Rugby union', t: 'Most followed', d: 'The Wallabies have won two World Cups and have a fierce rivalry with New Zealand, the Bledisloe Cup.', w: 'Australia national rugby union team' },
   { n: 'The Matildas', t: 'Most followed', d: 'The women’s football team reached the 2023 home World Cup semi-final and captured the country, with one of the biggest TV audiences in Australian history.', w: 'Australia women’s national soccer team' },
   { n: 'Tennis', t: 'Most followed', d: 'The Australian Open fills every January. Rod Laver, Evonne Goolagong Cawley and Ash Barty are national treasures.', w: 'Australian Open' },
-  { n: 'Horse racing', t: 'Most followed', d: 'Many Australians only watch once a year, for the Melbourne Cup. Winx and Black Caviar are the rare horses known by everyone.', w: 'Horse racing in Australia' },
+  { n: 'Betting', t: 'Most followed', d: 'Sport and gambling go hand in hand here: odds in the ad breaks, apps on phones and a flutter on the big match. Many Australians see it as part of the game, and it’s widely considered a social problem.', c: 'Addiction groups and health experts link it to debt and family harm, and want tougher limits on gambling advertising during sport.', wk: '' },
   { n: 'Olympic swimming', t: 'Most followed', d: 'Every four years, the whole country suddenly has opinions on freestyle turns. Ian Thorpe, Dawn Fraser and Ariarne Titmus lead the way.', w: 'Swimming Australia' },
   { n: 'Supercars', t: 'Most followed', d: 'V8s and the Bathurst 1000 on Mount Panorama, a race once decided by Holden against Ford.', w: 'Supercars Championship' },
   { n: 'Walking', t: 'Most played', d: 'According to the AusPlay survey, it’s the most popular activity among adults, ahead of the gym and bushwalking.', wk: '' },
@@ -1018,11 +1019,12 @@ esportes: [
   { n: 'Netball', t: 'Most played', d: 'For generations, the great girls’ team sport. The Diamonds are among the best teams in the world.', w: 'Netball in Australia' },
   { n: 'Surfing', t: 'Most played', d: 'More a way of life than a sport on many parts of the coast. Mick Fanning and Stephanie Gilmore made it to the top of the world.', w: 'Surfing in Australia' },
   { n: 'Backyard cricket', t: 'Most played', d: 'One-hand-one-bounce, and over the fence is out. Often the most serious Christmas Day competition in the family.', w: 'Backyard cricket' },
-  { n: 'Golf and fishing', t: 'Most played', d: 'The relaxed weekend options, with a cold one nearby. Fishing is common from the jetty to the Top End.', wk: '' }
+  { n: 'Golf', t: 'Most played', d: 'The relaxed weekend option, with a cold one at the 19th hole.', w: 'Golf in Australia' },
+  { n: 'Fishing and the races', t: 'Most played', d: 'Fishing is a weekend ritual from the jetty to the Top End. The races are more of a day out, in a suit or a fascinator, and many people only go for the Melbourne Cup.', c: 'Animal rights activists criticise both, over horse deaths in racing and the suffering of fish, and hold protests and alternative events on Cup Day.', wk: '' }
 ],
 festas: [
   { n: 'Anzac Day', t: 'Across the country', d: 'Dawn services on 25 April, then two-up in the pub, the one day it’s legal in most states. The most solemn date on the calendar, and also a big social one.', w: 'Anzac Day' },
-  { n: 'Melbourne Cup', t: 'Across the country', d: '“The race that stops a nation”, on the first Tuesday of November. Fascinators, sweepstakes at work and 84,373 people at Flemington in 2025.', w: 'Melbourne Cup', c: 'Animal welfare groups hold protests and alternative events every year over horse deaths in racing.' },
+  { n: 'Melbourne Cup', t: 'Across the country', d: '“The race that stops a nation”, on the first Tuesday of November. Fascinators, sweepstakes at work and 84,373 people at Flemington in 2025.', w: 'Melbourne Cup' },
   { n: 'Hottest 100', t: 'Across the country', d: 'Triple j’s listener poll fills barbecues with music in late January. In 2025, a special edition of Australian songs drew over 2.6 million votes.', w: 'Triple J Hottest 100' },
   { n: 'Sydney New Year’s Eve', t: 'Cities', d: 'Fireworks on the Harbour Bridge, seen around the world, with crowds who claim their spot from the morning.', w: 'Sydney New Year’s Eve' },
   { n: 'Sydney Mardi Gras', t: 'Cities', d: 'The parade born from a 1978 protest and police violence became one of the world’s great LGBTQ+ events.', w: 'Sydney Gay and Lesbian Mardi Gras' },
@@ -1089,7 +1091,7 @@ maisPaixoes: [
   { n: 'Food from everywhere', t: 'Everyday life', d: 'The suburban Thai, the Vietnamese pho, the Greek and Lebanese places. Migration changed the national plate, and most people are glad.', wk: '' },
   { n: 'A sickie', t: 'At work', d: 'A day off “sick”, especially after a big match or a long weekend. Everyone denies it, and bosses know the pattern.', wk: '' },
   { n: 'A beer in moderation, or not', t: 'Body', d: 'Drinking is part of many social events, and it’s rude to skip a round. Though younger Australians drink less than their parents.', c: 'Doctors have long warned about the harm alcohol causes, especially for First Nations communities and in family violence.', wk: '' },
-  { n: 'Pokies and punting', t: 'Money', d: 'Poker machines in clubs and pubs, sports betting on phones and a bet on the Cup. Australians are among the world’s biggest gamblers per person.', c: 'Addiction groups and many health experts want tougher rules on gambling advertising and poker machines, an issue that has divided politics for years.', w: 'Gambling in Australia' }
+  { n: 'Pokies', t: 'Money', d: 'Poker machines in clubs and pubs, especially in New South Wales. Australians are among the world’s biggest gamblers per person, and the machines take a big share.', c: 'Addiction groups and many health experts want tougher rules on poker machines, an issue that has divided politics for years.', w: 'Gambling in Australia' }
 ],
 
 fontes: {

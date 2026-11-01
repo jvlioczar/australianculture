@@ -1045,6 +1045,7 @@ costumes: [
   { n: 'Esnobismo do café', t: 'Na mesa', d: 'Um flat white do café do bairro, nunca coado. Australianos discutem os grãos e também se ele foi inventado aqui ou na Nova Zelândia.', w: 'Flat white' },
   { n: 'Smashed avo', t: 'Na mesa', d: 'O brunch como instituição. Em 2016, um colunista culpou o abacate amassado por os jovens não conseguirem comprar casa, e o país nunca esqueceu.', wk: '' },
   { n: 'Torta no posto', t: 'Na mesa', d: 'A meat pie com molho, no posto de gasolina ou no estádio. Nada gourmet, e completamente amada.', wk: '' },
+  { n: 'Abacaxi na pizza', t: 'Na mesa', d: 'Presunto com abacaxi é presença certa na pizzaria do bairro, e muitos australianos pedem sem nenhuma vergonha. Foi inventada no Canadá e divide as mesas aqui como em todo lugar.', w: 'Pizza havaiana' },
   { n: 'Assistir footy', t: 'Na tela', d: 'O código depende de onde você mora, e o time muitas vezes vem de família. Muita gente não liga para nenhum deles, e ouve falar mesmo assim.', wk: '' },
   { n: 'Home and Away e Neighbours', t: 'Na tela', d: 'Décadas de drama na praia e na vizinhança, e a escola de estrelas como Kylie Minogue, Margot Robbie e Chris Hemsworth.', w: 'Home and Away' },
   { n: 'Reality shows', t: 'Na tela', d: 'Married at First Sight, MasterChef e The Block ocupam a sala e o grupo de mensagens. Todo mundo diz que não vê, e todo mundo sabe quem levou o fora.', wk: '' },
@@ -1063,7 +1064,7 @@ esportes: [
   { n: 'Rugby union', t: 'Mais acompanhados', d: 'Os Wallabies ganharam duas Copas do Mundo e têm uma rivalidade feroz com a Nova Zelândia, na Bledisloe Cup.', w: 'Seleção Australiana de Rugby Union' },
   { n: 'As Matildas', t: 'Mais acompanhados', d: 'A seleção feminina de futebol chegou à semifinal da Copa de 2023, em casa, e conquistou o país, com uma das maiores audiências de TV da história australiana.', w: 'Seleção Australiana de Futebol Feminino' },
   { n: 'Tênis', t: 'Mais acompanhados', d: 'O Australian Open lota todo janeiro. Rod Laver, Evonne Goolagong Cawley e Ash Barty são tesouros nacionais.', w: 'Australian Open' },
-  { n: 'Turfe', t: 'Mais acompanhados', d: 'Muita gente só assiste uma vez por ano, na Melbourne Cup. Winx e Black Caviar são as raras éguas que todo mundo conhece.', wk: '' },
+  { n: 'Apostas', t: 'Mais acompanhados', d: 'Esporte e aposta andam juntos aqui: odds nos intervalos, aplicativos no celular e uma fezinha no jogo grande. Muitos australianos veem como parte do jogo, e é amplamente considerado um problema social.', c: 'Grupos de apoio a viciados e especialistas em saúde associam as apostas a dívidas e danos às famílias, e pedem limites mais duros para a publicidade durante os esportes.', wk: '' },
   { n: 'Natação olímpica', t: 'Mais acompanhados', d: 'A cada quatro anos, o país inteiro de repente tem opinião sobre virada de nado livre. Ian Thorpe, Dawn Fraser e Ariarne Titmus lideram a lista.', w: 'Ian Thorpe' },
   { n: 'Supercars', t: 'Mais acompanhados', d: 'Os V8 e os 1000 km de Bathurst, no Monte Panorama, corrida que já foi decidida entre Holden e Ford.', w: 'Supercars Championship' },
   { n: 'Caminhada', t: 'Mais praticados', d: 'Segundo a pesquisa AusPlay, é a atividade mais popular entre adultos, à frente da academia e das trilhas.', wk: '' },
@@ -1075,11 +1076,12 @@ esportes: [
   { n: 'Netball', t: 'Mais praticados', d: 'Por gerações, o grande esporte coletivo das meninas. As Diamonds estão entre as melhores seleções do mundo.', w: 'Netball' },
   { n: 'Surfe', t: 'Mais praticados', d: 'Mais um jeito de viver do que um esporte em muitas partes da costa. Mick Fanning e Stephanie Gilmore chegaram ao topo do mundo.', w: 'Mick Fanning' },
   { n: 'Críquete de quintal', t: 'Mais praticados', d: 'Uma mão, um quique, e por cima da cerca é eliminado. Muitas vezes é a competição mais séria da família no Natal.', wk: '' },
-  { n: 'Golfe e pesca', t: 'Mais praticados', d: 'As opções tranquilas de fim de semana, com uma gelada por perto. A pesca é comum do píer ao Top End.', wk: '' }
+  { n: 'Golfe', t: 'Mais praticados', d: 'A opção tranquila de fim de semana, com uma gelada no 19º buraco.', w: 'Golfe' },
+  { n: 'Pesca e turfe', t: 'Mais praticados', d: 'A pesca é um ritual de fim de semana, do píer ao Top End. O turfe é mais um passeio, de terno ou chapéu, e muita gente só vai na Melbourne Cup.', c: 'Ativistas pelos direitos dos animais criticam os dois, pela morte de cavalos nas corridas e pelo sofrimento dos peixes, e fazem protestos e eventos alternativos no dia da Cup.', wk: '' }
 ],
 festas: [
   { n: 'Anzac Day', t: 'País todo', d: 'Cerimônias ao amanhecer em 25 de abril, depois two-up no pub, o único dia em que é legal na maioria dos estados. A data mais solene do calendário, e também muito social.', w: 'Dia ANZAC' },
-  { n: 'Melbourne Cup', t: 'País todo', d: '“A corrida que para uma nação”, na primeira terça de novembro. Chapéus, bolão no trabalho e 84.373 pessoas em Flemington em 2025.', w: 'Melbourne Cup', c: 'Grupos de defesa animal fazem protestos e eventos alternativos todo ano por causa da morte de cavalos nas corridas.' },
+  { n: 'Melbourne Cup', t: 'País todo', d: '“A corrida que para uma nação”, na primeira terça de novembro. Chapéus, bolão no trabalho e 84.373 pessoas em Flemington em 2025.', w: 'Melbourne Cup' },
   { n: 'Hottest 100', t: 'País todo', d: 'A votação dos ouvintes da rádio triple j enche os churrascos de música no fim de janeiro. Em 2025, uma edição especial de músicas australianas teve mais de 2,6 milhões de votos.', wk: '' },
   { n: 'Réveillon de Sydney', t: 'Cidades', d: 'Fogos na Harbour Bridge, vistos no mundo todo, com multidões que garantem o lugar desde a manhã.', wk: '' },
   { n: 'Mardi Gras de Sydney', t: 'Cidades', d: 'O desfile nascido de um protesto de 1978 e da violência policial virou um dos grandes eventos LGBTQ+ do mundo.', w: 'Sydney Mardi Gras' },
@@ -1146,7 +1148,7 @@ maisPaixoes: [
   { n: 'Comida de todo lugar', t: 'Dia a dia', d: 'O tailandês do bairro, o pho vietnamita, os gregos e libaneses. A imigração mudou o prato nacional, e a maioria agradece.', wk: '' },
   { n: 'O sickie', t: 'No trabalho', d: 'Um dia de folga “doente”, principalmente depois de um jogo grande ou de um feriadão. Todo mundo nega, e os chefes conhecem o padrão.', wk: '' },
   { n: 'Cerveja com moderação, ou não', t: 'Corpo', d: 'Beber faz parte de muitos eventos sociais, e é falta de educação pular a rodada. Mas os jovens australianos bebem menos que os pais.', c: 'Médicos alertam há muito tempo para os danos do álcool, principalmente em comunidades originárias e na violência doméstica.', wk: '' },
-  { n: 'Caça-níqueis e apostas', t: 'Dinheiro', d: 'Pokies em clubes e pubs, apostas esportivas no celular e uma fezinha na Cup. Os australianos estão entre os que mais apostam por pessoa no mundo.', c: 'Grupos de apoio a viciados e muitos especialistas em saúde pedem regras mais duras para a publicidade de apostas e as máquinas, tema que divide a política há anos.', wk: '' }
+  { n: 'Caça-níqueis', t: 'Dinheiro', d: 'As pokies, máquinas em clubes e pubs, principalmente em Nova Gales do Sul. Os australianos estão entre os que mais apostam por pessoa no mundo, e as máquinas levam boa parte.', c: 'Grupos de apoio a viciados e muitos especialistas em saúde pedem regras mais duras para as máquinas, tema que divide a política há anos.', wk: '' }
 ],
 
 fontes: {

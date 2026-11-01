@@ -569,7 +569,7 @@ const card = (sec, it, i) => sec === 'dicionario'
       <div class="meta">${esc(it.t || '')}${it.y ? ` <span class="ano">${esc(it.y)}</span>` : ''}</div>
       <h3>${esc(it.n)}</h3>
       <p>${esc(it.d)}</p>
-      ${it.c ? `<p class="crit"><b>${t('Olhar indígena', 'First Nations view')}</b>${esc(it.c)}</p>` : ''}
+      ${it.c ? `<p class="crit"><b>${PAGE_OF[sec] === 'paixoes' ? t('Outro olhar', 'Another view') : t('Olhar indígena', 'First Nations view')}</b>${esc(it.c)}</p>` : ''}
       ${it.ig ? `<a class="more" href="https://www.instagram.com/${it.ig}/" target="_blank" rel="noopener">@${esc(it.ig)}</a>` : it.wk === '' ? '' : `<a class="more" href="${wiki(it)}" target="_blank" rel="noopener">${t('Saiba mais', 'Find out more')}</a>`}</article>`;
 
 const ALL = t('Todos', 'All'), NONE = t('Nada encontrado. Tente outra palavra.', 'Nothing found. Try another word.');
