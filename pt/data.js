@@ -4,7 +4,7 @@
    w = termo de busca na Wikipédia (opcional; o padrão é o nome) */
 window.AC = {
 
-updated: 'Outubro/2026',
+updated: 'Novembro/2026',
 
 /* ============ NÚMEROS DO HERO ============ */
 hero: [
@@ -1029,11 +1029,128 @@ quiz: [
   { q: 'Qual banda gravou "Down Under"?', o: ['AC/DC', 'INXS', 'Men at Work', 'Midnight Oil'], a: 2 },
   { q: 'Que dia é o Anzac Day?', o: ['26 de janeiro', '25 de abril', '11 de novembro', '1º de janeiro'], a: 1 },
   { q: 'Qual animal faz cocô em formato de cubo?', o: ['Coala', 'Ornitorrinco', 'Wombat', 'Equidna'], a: 2 },
-  { q: 'Qual pássaro australiano tem um canto que parece uma gargalhada?', o: ['Magpie', 'Galah', 'Kookaburra', 'Emu'], a: 2 }
+  { q: 'Qual pássaro australiano tem um canto que parece uma gargalhada?', o: ['Magpie', 'Galah', 'Kookaburra', 'Emu'], a: 2 },
+  { q: 'O que significa “shout” no pub?', o: ['Cantar o hino', 'Pagar uma rodada', 'Pedir aos gritos', 'Sair mais cedo'], a: 1 },
+  { q: 'De que raça é a Bluey?', o: ['Kelpie', 'Dingo', 'Blue heeler', 'Border collie'], a: 2 }
 ],
 
 /* Fontes de cada parada, mostradas no fim do texto que as usa */
+/* ============ PAIXÕES NACIONAIS ============ */
+/* Estereótipos que cabem em muitos australianos, não em todos (ver o aviso na página) */
+costumes: [
+  { n: 'O pub', t: 'No pub', d: 'Cerveja gelada depois do trabalho, comida de balcão e footy na TV. Quase toda cidade do interior tem um, e muitas vezes ele é o coração do lugar.', wk: '' },
+  { n: 'Pagar a rodada', t: 'No pub', d: 'O “shout”: você paga para o grupo e cada um faz sua vez. Fugir da sua rodada é um dos piores crimes sociais do país.', wk: '' },
+  { n: 'Schooner, pot ou middy?', t: 'No pub', d: 'Os copos de cerveja mudam de nome de um estado para outro, então pedir bebida fora de casa pode exigir negociação.', wk: '' },
+  { n: 'O barbie', t: 'Na mesa', d: 'Linguiça, camarão se der sorte, a salada que alguém trouxe e a churrasqueira pública e gratuita do parque. Um sujeito segura o pegador e a conversa inteira.', w: 'Churrasco' },
+  { n: 'Esnobismo do café', t: 'Na mesa', d: 'Um flat white do café do bairro, nunca coado. Australianos discutem os grãos e também se ele foi inventado aqui ou na Nova Zelândia.', w: 'Flat white' },
+  { n: 'Smashed avo', t: 'Na mesa', d: 'O brunch como instituição. Em 2016, um colunista culpou o abacate amassado por os jovens não conseguirem comprar casa, e o país nunca esqueceu.', wk: '' },
+  { n: 'Torta no posto', t: 'Na mesa', d: 'A meat pie com molho, no posto de gasolina ou no estádio. Nada gourmet, e completamente amada.', wk: '' },
+  { n: 'Assistir footy', t: 'Na tela', d: 'O código depende de onde você mora, e o time muitas vezes vem de família. Muita gente não liga para nenhum deles, e ouve falar mesmo assim.', wk: '' },
+  { n: 'Home and Away e Neighbours', t: 'Na tela', d: 'Décadas de drama na praia e na vizinhança, e a escola de estrelas como Kylie Minogue, Margot Robbie e Chris Hemsworth.', w: 'Home and Away' },
+  { n: 'Reality shows', t: 'Na tela', d: 'Married at First Sight, MasterChef e The Block ocupam a sala e o grupo de mensagens. Todo mundo diz que não vê, e todo mundo sabe quem levou o fora.', wk: '' },
+  { n: 'A praia', t: 'Na rua', d: 'Cooler (esky), toalha, protetor de zinco e banho entre as bandeiras. A maioria mora perto da costa, e o salva-vidas é uma figura nacional.', wk: '' },
+  { n: 'Slip, slop, slap', t: 'Na rua', d: 'A campanha de protetor solar de 1981 ainda funciona: vista a camiseta, passe o protetor, ponha o chapéu. Checar as manchas da pele faz parte da vida adulta.', wk: '' },
+  { n: 'Descalço e de chinelo', t: 'Na rua', d: 'Chinelo (thongs) em todo lugar, e pé descalço no mercado nas cidades de praia. Visitantes notam isso rápido.', wk: '' },
+  { n: 'Palavrão como carinho', t: 'Na rua', d: 'Seu melhor amigo pode ser xingado, e seu inimigo é chamado de “mate”. O tom é tudo.', wk: '' },
+  { n: 'Síndrome da papoula alta', t: 'Na rua', d: 'Conte vantagem e alguém vai te cortar. Ser humilde, ou fingir que é, é a regra.', w: 'Síndrome da papoula alta' },
+  { n: 'O quintal', t: 'Em casa', d: 'O varal giratório Hills Hoist, um galpão e críquete com uma lixeira no lugar dos tocos. Os quintais estão diminuindo, mas a ideia sobrevive.', wk: '' },
+  { n: 'A Bunnings e a vida de tradie', t: 'Em casa', d: 'A loja gigante de materiais de construção é passeio de fim de semana, e os tradies, os profissionais de obras e reparos, são seus heróis: colete refletivo, ute cheio de ferramentas, batente às 6 da manhã e smoko às 9. Os outros vão atrás de um projeto de reforma que talvez nunca acabe, uns vasos de planta e, claro, a linguiça no pão na porta.', w: 'Bunnings' }
+],
+esportes: [
+  { n: 'Futebol australiano', t: 'Mais acompanhados', d: 'O jogo nacional, inventado em Melbourne nos anos 1850. A grande final da AFL para Victoria, a Austrália do Sul e a Austrália Ocidental todo setembro.', w: 'Futebol australiano' },
+  { n: 'Rugby league', t: 'Mais acompanhados', d: 'A NRL manda em Nova Gales do Sul e Queensland, e o State of Origin transforma os dois estados em inimigos por três noites. A divisão imaginária com a AFL se chama Linha Barassi.', w: 'State of Origin' },
+  { n: 'Críquete', t: 'Mais acompanhados', d: 'A trilha sonora do verão. O Boxing Day Test em Melbourne e as Ashes contra a Inglaterra são um ritual nacional.', w: 'Críquete' },
+  { n: 'Rugby union', t: 'Mais acompanhados', d: 'Os Wallabies ganharam duas Copas do Mundo e têm uma rivalidade feroz com a Nova Zelândia, na Bledisloe Cup.', w: 'Seleção Australiana de Rugby Union' },
+  { n: 'As Matildas', t: 'Mais acompanhados', d: 'A seleção feminina de futebol chegou à semifinal da Copa de 2023, em casa, e conquistou o país, com uma das maiores audiências de TV da história australiana.', w: 'Seleção Australiana de Futebol Feminino' },
+  { n: 'Tênis', t: 'Mais acompanhados', d: 'O Australian Open lota todo janeiro. Rod Laver, Evonne Goolagong Cawley e Ash Barty são tesouros nacionais.', w: 'Australian Open' },
+  { n: 'Turfe', t: 'Mais acompanhados', d: 'Muita gente só assiste uma vez por ano, na Melbourne Cup. Winx e Black Caviar são as raras éguas que todo mundo conhece.', wk: '' },
+  { n: 'Natação olímpica', t: 'Mais acompanhados', d: 'A cada quatro anos, o país inteiro de repente tem opinião sobre virada de nado livre. Ian Thorpe, Dawn Fraser e Ariarne Titmus lideram a lista.', w: 'Ian Thorpe' },
+  { n: 'Supercars', t: 'Mais acompanhados', d: 'Os V8 e os 1000 km de Bathurst, no Monte Panorama, corrida que já foi decidida entre Holden e Ford.', w: 'Supercars Championship' },
+  { n: 'Caminhada', t: 'Mais praticados', d: 'Segundo a pesquisa AusPlay, é a atividade mais popular entre adultos, à frente da academia e das trilhas.', wk: '' },
+  { n: 'Academia', t: 'Mais praticados', d: 'A segunda atividade da lista de adultos do AusPlay. Muitas vezes de manhã cedo, com um café depois.', wk: '' },
+  { n: 'Bushwalking', t: 'Mais praticados', d: 'Trilha, com o nome local. Os parques nacionais começam perto das grandes cidades.', wk: '' },
+  { n: 'Corrida', t: 'Mais praticados', d: 'O parkrun nas manhãs de sábado e o City2Surf em Sydney são os grandes eventos de massa.', wk: '' },
+  { n: 'Natação', t: 'Mais praticados', d: 'Em piscinas, piscinas naturais nas pedras e no mar. As crianças têm aula cedo, e está entre as atividades mais populares em todas as idades.', wk: '' },
+  { n: 'Futebol', t: 'Mais praticados', d: 'Não é o mais assistido, mas está entre os esportes organizados mais praticados, principalmente entre crianças.', wk: '' },
+  { n: 'Netball', t: 'Mais praticados', d: 'Por gerações, o grande esporte coletivo das meninas. As Diamonds estão entre as melhores seleções do mundo.', w: 'Netball' },
+  { n: 'Surfe', t: 'Mais praticados', d: 'Mais um jeito de viver do que um esporte em muitas partes da costa. Mick Fanning e Stephanie Gilmore chegaram ao topo do mundo.', w: 'Mick Fanning' },
+  { n: 'Críquete de quintal', t: 'Mais praticados', d: 'Uma mão, um quique, e por cima da cerca é eliminado. Muitas vezes é a competição mais séria da família no Natal.', wk: '' },
+  { n: 'Golfe e pesca', t: 'Mais praticados', d: 'As opções tranquilas de fim de semana, com uma gelada por perto. A pesca é comum do píer ao Top End.', wk: '' }
+],
+festas: [
+  { n: 'Anzac Day', t: 'País todo', d: 'Cerimônias ao amanhecer em 25 de abril, depois two-up no pub, o único dia em que é legal na maioria dos estados. A data mais solene do calendário, e também muito social.', w: 'Dia ANZAC' },
+  { n: 'Melbourne Cup', t: 'País todo', d: '“A corrida que para uma nação”, na primeira terça de novembro. Chapéus, bolão no trabalho e 84.373 pessoas em Flemington em 2025.', w: 'Melbourne Cup', c: 'Grupos de defesa animal fazem protestos e eventos alternativos todo ano por causa da morte de cavalos nas corridas.' },
+  { n: 'Hottest 100', t: 'País todo', d: 'A votação dos ouvintes da rádio triple j enche os churrascos de música no fim de janeiro. Em 2025, uma edição especial de músicas australianas teve mais de 2,6 milhões de votos.', wk: '' },
+  { n: 'Réveillon de Sydney', t: 'Cidades', d: 'Fogos na Harbour Bridge, vistos no mundo todo, com multidões que garantem o lugar desde a manhã.', wk: '' },
+  { n: 'Mardi Gras de Sydney', t: 'Cidades', d: 'O desfile nascido de um protesto de 1978 e da violência policial virou um dos grandes eventos LGBTQ+ do mundo.', w: 'Sydney Mardi Gras' },
+  { n: 'Vivid Sydney', t: 'Cidades', d: 'Por semanas no inverno, shows de luz cobrem a Opera House e a cidade sai de casaco.', wk: '' },
+  { n: 'Adelaide Fringe', t: 'Cidades', d: 'Um dos maiores festivais de artes do mundo, que transforma a cidade em palco todo verão.', wk: '' },
+  { n: 'Beer Can Regatta', t: 'Cidades', y: 'Darwin', d: 'Desde 1974, barcos feitos de latas vazias de cerveja correm na praia de Mindil. Isso diz muito sobre Darwin.', wk: '' },
+  { n: 'Royal Easter Show', t: 'Cidades', d: 'Vacas premiadas, sacolas de doces e a fazenda vindo à cidade. Cada capital tem sua versão.', wk: '' },
+  { n: 'Festival Garma', t: 'Interior', d: 'A cultura yolngu e a política nacional se encontram em Arnhem Land todo agosto. Primeiros-ministros vão.', wk: '' },
+  { n: 'Birdsville Races', t: 'Interior', d: 'Desde 1882, uma cidade de cerca de 100 pessoas no interior de Queensland recebe milhares para dois dias de corrida de cavalos na poeira.', wk: '' },
+  { n: 'Parkes Elvis Festival', t: 'Interior', d: 'Todo janeiro desde 1993, uma cidade de Nova Gales do Sul se enche de sósias de Elvis, em pleno verão.', wk: '' },
+  { n: 'Festival de Tamworth', t: 'Interior', d: 'A Nashville australiana: música country em toda a cidade a cada janeiro, sob a Big Golden Guitar.', wk: '' },
+  { n: 'Deni Ute Muster', t: 'Interior', d: 'Milhares de utes (picapes), música e lama em Deniliquin. Uma celebração orgulhosa da vida no campo.', wk: '' },
+  { n: 'Bathurst 1000', t: 'Interior', d: 'A grande corrida de carros, todo outubro no Monte Panorama. Para muitos, é um acampamento num morro com uma corrida no meio.', wk: '' },
+  { n: 'Schoolies', t: 'País todo', d: 'Jovens que terminam a escola invadem a Gold Coast e outras cidades de praia em novembro. Os pais tentam não pensar nisso.', wk: '' }
+],
+carros: [
+  { n: 'Holden 48-215', t: 'Clássicos', y: '1948', d: '“O carro da Austrália”, lançado pelo primeiro-ministro Ben Chifley. Foi o carro que começou a paixão.', w: 'Holden' },
+  { n: 'O ute', t: 'Clássicos', y: '1934', d: 'A mulher de um fazendeiro pediu um carro que fosse à igreja e levasse porcos ao mercado. Lew Bandt, da Ford Australia, projetou a picape de passeio, o ute.', wk: '' },
+  { n: 'Holden contra Ford', t: 'Clássicos', d: 'Por gerações, você era de um ou de outro, por herança, como um time de futebol. A rivalidade se resolvia no Monte Panorama e em todo pub.', wk: '' },
+  { n: 'Holden Monaro', t: 'Clássicos', y: '1968', d: 'O muscle car que chamava atenção, e com que uma geração inteira ainda sonha.', w: 'Holden' },
+  { n: 'A Interceptor de Mad Max', t: 'Clássicos', y: '1979', d: 'Um Ford Falcon XB modificado virou um dos carros mais famosos do cinema.', w: 'Mad Max' },
+  { n: 'Footy, meat pies, kangaroos and Holden cars', t: 'Clássicos', d: 'O jingle dos anos 1970 que resumiu a identidade nacional, e foi adaptado de um americano.', wk: '' },
+  { n: 'Commodore e Falcon', t: 'O fim de uma era', d: 'Os sedãs de família presentes em toda rua, e os carros da polícia e dos táxis por décadas. O Falcon saiu de produção em 2016.', w: 'Holden' },
+  { n: 'O fim da fabricação local', t: 'O fim de uma era', y: '2017', d: 'Depois de Ford e Toyota, a Holden fechou a fábrica de Elizabeth, e a Austrália parou de fazer carros. A própria marca sumiu poucos anos depois, com muito luto.', wk: '' },
+  { n: 'Ford Ranger', t: 'Hoje', d: 'O veículo mais vendido do país por três anos seguidos: cerca de 53.700 em 2025. Projetado em boa parte em Victoria, aliás.', w: 'Ford Ranger' },
+  { n: 'Toyota Hilux', t: 'Hoje', d: 'O antigo rei, segundo em 2025 com cerca de 45.800. Favorito de pedreiros e fazendeiros, e agora do subúrbio também.', w: 'Toyota Hilux' },
+  { n: 'Land Cruiser', t: 'Hoje', d: 'O veículo universal do outback. Em lugares remotos, é o que tem mais chance de te levar de volta.', w: 'Toyota Land Cruiser' },
+  { n: 'O trailer', t: 'Paixões', d: 'Os grey nomads se aposentam, engatam um trailer e rodam o país por anos. A Big Lap é um plano de vida de verdade.', wk: '' },
+  { n: 'Burnouts', t: 'Paixões', d: 'O Summernats, em Canberra, é o grande festival de pneu fumegando. Muito barulhento e muito masculino.', wk: '' },
+  { n: 'Quebra-mato e road trains', t: 'Paixões', d: 'Cangurus na estrada ao anoitecer justificam o quebra-mato, e no outback a rodovia é dividida com caminhões de três ou quatro carretas.', wk: '' },
+  { n: 'A Kombi', t: 'Paixões', d: 'A van dos surfistas, com prancha no teto, a caminho de uma praia ao norte. Hoje é disputada e cara.', w: 'Volkswagen Kombi' }
+],
+internet: [
+  { n: 'Um emprego em tempo integral online', t: 'Hábitos', d: 'Segundo o relatório Digital 2026, os australianos passam cerca de 41 horas por semana online, contra 33 da média mundial, incluindo mais de 19 horas nas redes sociais.', wk: '' },
+  { n: 'Proibir redes para adolescentes', t: 'Hábitos', y: '2025', d: 'A Austrália foi o primeiro país com proibição nacional de contas em redes sociais para menores de 16 anos. Pais, jovens e plataformas ainda discutem.', wk: '' },
+  { n: 'Reclamar da NBN', t: 'Hábitos', d: 'A rede nacional de banda larga é há anos uma briga política e uma fonte de frustração diária. Hobby nacional compartilhado.', wk: '' },
+  { n: 'Grupos de bairro no Facebook', t: 'Hábitos', d: 'Grupos locais para briga de vaga, cachorro perdido, uma van suspeita e gente pedindo indicação de encanador.', wk: '' },
+  { n: 'Tudo quer te matar', t: 'Memes', d: 'O meme australiano favorito do mundo, e os australianos entram na brincadeira. Uma aranha huntsman no quebra-sol do carro é um gênero clássico. Veja também Virais e memes.', wk: '' },
+  { n: 'Humor seco', t: 'Memes', d: 'Eufemismo em voz neutra, mesmo na crise. Se um local diz “meio quente hoje” a 44 °C, é piada.', wk: '' },
+  { n: 'O sotaque no TikTok', t: 'Memes', d: 'Estrangeiros tentam “g’day”, os australianos corrigem e ninguém concorda sobre o que “yeah, nah” significa.', wk: '' },
+  { n: 'Shoey e bin chicken', t: 'Memes', d: 'Beber no sapato e um íbis roubando suas batatas: duas piadas locais que o resto do mundo agora entende.', wk: '' },
+  { n: '“A Austrália não existe”', t: 'Lá fora', d: 'Uma teoria da conspiração de brincadeira que diz que o país inteiro é inventado. Os locais adoram, ainda mais porque ninguém acredita na fauna mesmo.', wk: '' },
+  { n: 'Piadas de cabeça para baixo', t: 'Lá fora', d: 'Privada girando ao contrário, andar no teto e Natal na praia. Já ouviram todas, e ainda respondem com educação.', wk: '' },
+  { n: 'A vaquinha de Celeste Barber', t: 'Lá fora', y: '2020', d: 'A comediante pediu doações no Facebook durante o Black Summer, os grandes incêndios, e arrecadou mais de A$ 50 milhões, com dinheiro do mundo todo.', wk: '' },
+  { n: 'Memes de Bluey', t: 'Lá fora', d: 'O desenho de Brisbane virou uma língua sobre maternidade e paternidade no mundo todo, falada em clipes e capturas de tela.', w: 'Bluey' },
+  { n: '#CensusFail', t: 'Hábitos', y: '2016', d: 'O censo online caiu na noite do censo, e a reação nacional foi exatamente a esperada. Um pouco de humor para cada falha.', wk: '' },
+  { n: 'Desinformação', t: 'Hábitos', d: 'Correntes e conspirações também circulam aqui, da pandemia ao referendo da Voz.', c: 'No referendo de 2023, a comissão eleitoral gastou tempo considerável corrigindo alegações falsas sobre como funciona a votação.', wk: '' }
+],
+caramelo: [
+  { n: 'O blue heeler', t: 'Os cães', d: 'O boiadeiro australiano: pintado, duro na queda e desconfiado de todos, menos de você. Criado nos anos 1800 para tocar gado em distâncias enormes, com dingo na árvore genealógica.', w: 'Boiadeiro australiano' },
+  { n: 'O kelpie', t: 'Os cães', d: 'O cão pastor que corre por cima das costas do rebanho. Nasceu nas fazendas australianas, de collies escoceses, e raramente fica parado.', w: 'Kelpie australiano' },
+  { n: 'O cachorro na caçamba do ute', t: 'Os cães', d: 'Orelhas ao vento, a caminho da fazenda ou do pub. A imagem nacional da felicidade (há regras sobre prender o cachorro).', wk: '' },
+  { n: 'Bluey', t: 'Cães famosos', y: '2018', d: 'Uma família de blue heelers de Brisbane e um dos programas infantis mais vistos do planeta. Muitos adultos admitem chorar, sozinhos.', w: 'Bluey' },
+  { n: 'Red Dog', t: 'Cães famosos', d: 'Um cruzamento de kelpie vermelho de verdade, que andou pelo Pilbara nos anos 1970, adotado por uma cidade inteira. Tem estátua em Dampier e um filme de sucesso de 2011.', w: 'Red Dog' },
+  { n: 'O Dog on the Tuckerbox', t: 'Cães famosos', y: '1932', d: 'Estátua perto de Gundagai, de um poema sobre um cão leal que guardava o almoço de um carreiro. Uma parada de estrada com status.', wk: '' },
+  { n: 'Kelpie Muster de Casterton', t: 'Um afeto nacional', d: 'A cidade de Victoria que se diz berço do kelpie faz um festival e um leilão, em que cães de trabalho chegam a preços altíssimos.', wk: '' },
+  { n: 'Quase metade das casas', t: 'Um afeto nacional', d: 'Pesquisas da Animal Medicines Australia encontraram cães em 48% das casas em 2022, parte de uma das maiores taxas de pets do mundo.', wk: '' }
+],
+maisPaixoes: [
+  { n: 'Falar do preço das casas', t: 'Dia a dia', d: 'O verdadeiro esporte nacional. Todo churrasco acaba em quanto saiu a casa da rua de baixo, e os jovens não conseguem pagar.', wk: '' },
+  { n: 'Coles ou Woolies', t: 'Dia a dia', d: 'Dois supermercados dominam o país, e todo mundo tem opinião sobre eles. Mais a Aldi e a caça ao tesouro na Kmart.', wk: '' },
+  { n: 'Mateship', t: 'Dia a dia', d: 'A ideia de cuidar dos seus amigos, da lenda dos Anzacs à brigada voluntária de incêndio.', c: 'Historiadores lembram que a história clássica do mateship se centrou em homens brancos, deixando de fora mulheres e povos originários.', wk: '' },
+  { n: 'Acampar', t: 'Dia a dia', d: 'Férias de Natal no mesmo camping todo ano, às vezes por gerações. Reserve cedo.', wk: '' },
+  { n: 'Comida de todo lugar', t: 'Dia a dia', d: 'O tailandês do bairro, o pho vietnamita, os gregos e libaneses. A imigração mudou o prato nacional, e a maioria agradece.', wk: '' },
+  { n: 'O sickie', t: 'No trabalho', d: 'Um dia de folga “doente”, principalmente depois de um jogo grande ou de um feriadão. Todo mundo nega, e os chefes conhecem o padrão.', wk: '' },
+  { n: 'Cerveja com moderação, ou não', t: 'Corpo', d: 'Beber faz parte de muitos eventos sociais, e é falta de educação pular a rodada. Mas os jovens australianos bebem menos que os pais.', c: 'Médicos alertam há muito tempo para os danos do álcool, principalmente em comunidades originárias e na violência doméstica.', wk: '' },
+  { n: 'Caça-níqueis e apostas', t: 'Dinheiro', d: 'Pokies em clubes e pubs, apostas esportivas no celular e uma fezinha na Cup. Os australianos estão entre os que mais apostam por pessoa no mundo.', c: 'Grupos de apoio a viciados e muitos especialistas em saúde pedem regras mais duras para a publicidade de apostas e as máquinas, tema que divide a política há anos.', wk: '' }
+],
+
 fontes: {
+  paixoes: [['AusPlay', 'https://www.ausport.gov.au/media-centre/news/australians-are-redefining-the-way-they-play'], ['Digital 2026: Austrália', 'https://datareportal.com/reports/digital-2026-australia'], ['4x4 Australia: VFACTS 2025', 'https://www.4x4australia.com.au/news/ford-reigns-supreme-in-2025-4x4-sales'], ['Victoria Racing Club', 'https://www.vrc.com.au/latest-news/mcc-attracts-286-000-attendees-with-spectacular-racing-and-growth-surging-across-all-event-metrics/'], ['Animal Medicines Australia, via Vet Voice', 'https://www.vetvoice.com.au/ec/pet-ownership/pet-ownership-statistics/']],
   famosos: [['Australia Para Todos: celebridades australianas', 'https://australiaparatodos.wordpress.com/2025/02/02/celebridades-australianas-mais-populares'], ['Australia Para Todos: os mais seguidos no Instagram (ago/2026)', 'https://australiaparatodos.wordpress.com/2026/08/11/os-australianos-mais-seguidos-no-instagram']],
   musica: [['Australia Para Todos: a história do rock australiano', 'https://australiaparatodos.wordpress.com/2026/07/20/a-historia-do-rock-australiano-e-os-artistas-australianos-de-rock-mais-populares']],
   telas: [['Screen Australia', 'https://www.screenaustralia.gov.au']],

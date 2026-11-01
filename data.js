@@ -4,7 +4,7 @@
    w = Wikipedia search term (optional; defaults to the name) */
 window.AC = {
 
-updated: 'October 2026',
+updated: 'November 2026',
 
 /* ============ HERO NUMBERS ============ */
 hero: [
@@ -972,11 +972,128 @@ quiz: [
   { q: 'Which band recorded “Down Under”?', o: ['AC/DC', 'INXS', 'Men at Work', 'Midnight Oil'], a: 2 },
   { q: 'When is Anzac Day?', o: ['26 January', '25 April', '11 November', '1 January'], a: 1 },
   { q: 'Which animal makes cube-shaped poo?', o: ['Koala', 'Platypus', 'Wombat', 'Echidna'], a: 2 },
-  { q: 'Which Aussie bird has a call that sounds like laughter?', o: ['Magpie', 'Galah', 'Kookaburra', 'Emu'], a: 2 }
+  { q: 'Which Aussie bird has a call that sounds like laughter?', o: ['Magpie', 'Galah', 'Kookaburra', 'Emu'], a: 2 },
+  { q: 'What does it mean to “shout” at the pub?', o: ['Sing the anthem', 'Buy a round', 'Order loudly', 'Leave early'], a: 1 },
+  { q: 'Which dog breed is Bluey?', o: ['Kelpie', 'Dingo', 'Blue heeler', 'Border collie'], a: 2 }
 ],
 
 /* Sources for each stop, shown at the end of the text that uses them */
+/* ============ NATIONAL PASSIONS ============ */
+/* Stereotypes that fit many Australians, not all of them (see the notice on the page) */
+costumes: [
+  { n: 'The pub', t: 'At the pub', d: 'A cold beer after work, a counter meal and footy on the TV. Most country towns have one, and often it’s the heart of the place.', wk: '' },
+  { n: 'Shouting a round', t: 'At the pub', d: 'You buy for the group and everyone takes a turn. Skipping your shout is one of the worst social crimes in the country.', wk: '' },
+  { n: 'Schooner, pot or middy?', t: 'At the pub', d: 'Beer glasses change name from state to state, so ordering a drink interstate can take some negotiating.', wk: '' },
+  { n: 'The barbie', t: 'At the table', d: 'Snags, prawns if you’re lucky, a salad someone brought and a free public barbecue in the park. One bloke holds the tongs and the whole conversation.', w: 'Barbecue in Australia' },
+  { n: 'Coffee snobbery', t: 'At the table', d: 'A flat white from the local café, never filter. Australians will argue about the beans, and about whether it was invented here or in New Zealand.', w: 'Flat white' },
+  { n: 'Smashed avo', t: 'At the table', d: 'Brunch as an institution. In 2016, a columnist blamed it for young people being unable to buy houses, and the country has not let it go.', wk: '' },
+  { n: 'A pie at the servo', t: 'At the table', d: 'A meat pie with sauce at the petrol station or the footy. Not gourmet, and completely loved.', w: 'Meat pie (Australia and New Zealand)' },
+  { n: 'Watching the footy', t: 'On screen', d: 'Which code depends on where you live, and which team often comes from your family. Plenty of people care about neither, and hear about it anyway.', wk: '' },
+  { n: 'Home and Away and Neighbours', t: 'On screen', d: 'Decades of beach and cul-de-sac drama, and the training ground for stars such as Kylie Minogue, Margot Robbie and Chris Hemsworth.', w: 'Home and Away' },
+  { n: 'Reality TV', t: 'On screen', d: 'Married at First Sight, MasterChef and The Block fill the living room and the group chat. Everyone says they don’t watch, and everyone knows who got dumped.', w: 'Married at First Sight (Australian TV series)' },
+  { n: 'The beach', t: 'Out and about', d: 'Esky, towel, zinc and swimming between the flags. Most Australians live near the coast, and the surf lifesaver is a national figure.', w: 'Surf lifesaving' },
+  { n: 'Slip, slop, slap', t: 'Out and about', d: 'The 1981 sunscreen campaign still works: slip on a shirt, slop on sunscreen, slap on a hat. Skin checks are a part of adult life.', w: 'Slip-Slop-Slap' },
+  { n: 'Barefoot and in thongs', t: 'Out and about', d: 'Thongs (flip-flops) everywhere, and bare feet in the supermarket in beach towns. Visitors notice this quickly.', wk: '' },
+  { n: 'Swearing as affection', t: 'Out and about', d: 'Your best mate may get called a rude name, and your enemies get called “mate”. Tone is everything.', wk: '' },
+  { n: 'Tall poppy syndrome', t: 'Out and about', d: 'Boast about your success and you’ll be cut down to size. Being humble, or pretending to be, is the rule.', w: 'Tall poppy syndrome' },
+  { n: 'The backyard', t: 'At home', d: 'The Hills Hoist clothes line, a shed, a cricket game with a bin for stumps. It’s getting smaller, but the idea survives.', w: 'Hills Hoist' },
+  { n: 'Bunnings and the tradie life', t: 'At home', d: 'The giant hardware store is a weekend outing, and tradies are its heroes: hi-vis, a ute full of tools, a 6 am start and smoko at 9. Everyone else comes for a DIY project that may never end, some pot plants and, of course, the sausage sizzle at the door.', w: 'Bunnings' }
+],
+esportes: [
+  { n: 'Australian rules football', t: 'Most followed', d: 'The national game invented in Melbourne in the 1850s. The AFL grand final stops Victoria, South Australia and Western Australia every September.', w: 'Australian rules football' },
+  { n: 'Rugby league', t: 'Most followed', d: 'The NRL rules New South Wales and Queensland, and State of Origin turns the two states into enemies for three nights. The imaginary divide with AFL is called the Barassi Line.', w: 'State of Origin series' },
+  { n: 'Cricket', t: 'Most followed', d: 'The summer soundtrack. The Boxing Day Test in Melbourne and the Ashes against England are a national ritual.', w: 'Cricket in Australia' },
+  { n: 'Rugby union', t: 'Most followed', d: 'The Wallabies have won two World Cups and have a fierce rivalry with New Zealand, the Bledisloe Cup.', w: 'Australia national rugby union team' },
+  { n: 'The Matildas', t: 'Most followed', d: 'The women’s football team reached the 2023 home World Cup semi-final and captured the country, with one of the biggest TV audiences in Australian history.', w: 'Australia women’s national soccer team' },
+  { n: 'Tennis', t: 'Most followed', d: 'The Australian Open fills every January. Rod Laver, Evonne Goolagong Cawley and Ash Barty are national treasures.', w: 'Australian Open' },
+  { n: 'Horse racing', t: 'Most followed', d: 'Many Australians only watch once a year, for the Melbourne Cup. Winx and Black Caviar are the rare horses known by everyone.', w: 'Horse racing in Australia' },
+  { n: 'Olympic swimming', t: 'Most followed', d: 'Every four years, the whole country suddenly has opinions on freestyle turns. Ian Thorpe, Dawn Fraser and Ariarne Titmus lead the way.', w: 'Swimming Australia' },
+  { n: 'Supercars', t: 'Most followed', d: 'V8s and the Bathurst 1000 on Mount Panorama, a race once decided by Holden against Ford.', w: 'Supercars Championship' },
+  { n: 'Walking', t: 'Most played', d: 'According to the AusPlay survey, it’s the most popular activity among adults, ahead of the gym and bushwalking.', wk: '' },
+  { n: 'The gym', t: 'Most played', d: 'The second activity on AusPlay’s adult list. Often with an early start and a coffee afterwards.', wk: '' },
+  { n: 'Bushwalking', t: 'Most played', d: 'Hiking, with a local name. National parks start close to the big cities.', w: 'Bushwalking in Australia' },
+  { n: 'Running', t: 'Most played', d: 'parkrun on Saturday mornings and the City2Surf in Sydney are the great mass events.', wk: '' },
+  { n: 'Swimming', t: 'Most played', d: 'In pools, rock baths and the sea. Children have lessons early, and it’s among the most popular activities at every age.', wk: '' },
+  { n: 'Soccer', t: 'Most played', d: 'Not the most watched, but among the most played organised sports, especially among children.', w: 'Soccer in Australia' },
+  { n: 'Netball', t: 'Most played', d: 'For generations, the great girls’ team sport. The Diamonds are among the best teams in the world.', w: 'Netball in Australia' },
+  { n: 'Surfing', t: 'Most played', d: 'More a way of life than a sport on many parts of the coast. Mick Fanning and Stephanie Gilmore made it to the top of the world.', w: 'Surfing in Australia' },
+  { n: 'Backyard cricket', t: 'Most played', d: 'One-hand-one-bounce, and over the fence is out. Often the most serious Christmas Day competition in the family.', w: 'Backyard cricket' },
+  { n: 'Golf and fishing', t: 'Most played', d: 'The relaxed weekend options, with a cold one nearby. Fishing is common from the jetty to the Top End.', wk: '' }
+],
+festas: [
+  { n: 'Anzac Day', t: 'Across the country', d: 'Dawn services on 25 April, then two-up in the pub, the one day it’s legal in most states. The most solemn date on the calendar, and also a big social one.', w: 'Anzac Day' },
+  { n: 'Melbourne Cup', t: 'Across the country', d: '“The race that stops a nation”, on the first Tuesday of November. Fascinators, sweepstakes at work and 84,373 people at Flemington in 2025.', w: 'Melbourne Cup', c: 'Animal welfare groups hold protests and alternative events every year over horse deaths in racing.' },
+  { n: 'Hottest 100', t: 'Across the country', d: 'Triple j’s listener poll fills barbecues with music in late January. In 2025, a special edition of Australian songs drew over 2.6 million votes.', w: 'Triple J Hottest 100' },
+  { n: 'Sydney New Year’s Eve', t: 'Cities', d: 'Fireworks on the Harbour Bridge, seen around the world, with crowds who claim their spot from the morning.', w: 'Sydney New Year’s Eve' },
+  { n: 'Sydney Mardi Gras', t: 'Cities', d: 'The parade born from a 1978 protest and police violence became one of the world’s great LGBTQ+ events.', w: 'Sydney Gay and Lesbian Mardi Gras' },
+  { n: 'Vivid Sydney', t: 'Cities', d: 'For weeks in winter, light shows cover the Opera House and the city comes out in coats.', w: 'Vivid Sydney' },
+  { n: 'Adelaide Fringe', t: 'Cities', d: 'One of the world’s biggest arts festivals, turning the city into a stage every summer.', w: 'Adelaide Fringe' },
+  { n: 'Beer Can Regatta', t: 'Cities', y: 'Darwin', d: 'Since 1974, boats made of empty beer cans have raced at Mindil Beach. It says a lot about Darwin.', w: 'Darwin Beer Can Regatta' },
+  { n: 'Royal Easter Show', t: 'Cities', d: 'Prize cows, showbags and the farm coming to town. Every capital has its own version.', w: 'Sydney Royal Easter Show' },
+  { n: 'Garma Festival', t: 'The bush', d: 'Yolngu culture and national politics meet in north-east Arnhem Land every August. Prime ministers go.', w: 'Garma Festival of Traditional Cultures' },
+  { n: 'Birdsville Races', t: 'The bush', d: 'Since 1882, a town of about 100 people in outback Queensland has received thousands for two days of horse racing in the dust.', w: 'Birdsville Races' },
+  { n: 'Parkes Elvis Festival', t: 'The bush', d: 'Every January since 1993, a town in New South Wales fills up with Elvis impersonators, in the height of summer.', w: 'Parkes Elvis Festival' },
+  { n: 'Tamworth Country Music Festival', t: 'The bush', d: 'The Australian Nashville: country music all over town each January, under the Big Golden Guitar.', w: 'Tamworth Country Music Festival' },
+  { n: 'Deni Ute Muster', t: 'The bush', d: 'Thousands of utes, music and mud at Deniliquin. A proud celebration of life in the country.', w: 'Deni Ute Muster' },
+  { n: 'Bathurst 1000', t: 'The bush', d: 'The great motor race, every October on Mount Panorama. For many, it’s a camping holiday on a hill with a race in it.', w: 'Bathurst 1000' },
+  { n: 'Schoolies', t: 'Across the country', d: 'Teens who finish school invade the Gold Coast and other beach towns in November. Their parents try not to think about it.', w: 'Schoolies' }
+],
+carros: [
+  { n: 'Holden 48-215', t: 'Classics', y: '1948', d: '“Australia’s own car”, launched by Prime Minister Ben Chifley. It’s the car that started the love affair.', w: 'Holden 48-215' },
+  { n: 'The ute', t: 'Classics', y: '1934', d: 'A farmer’s wife asked for a car to take to church and that could carry pigs to market. Ford Australia’s Lew Bandt designed the coupé utility, the ute.', w: 'Coupé utility' },
+  { n: 'Holden against Ford', t: 'Classics', d: 'For generations, you were one or the other, inherited like a footy team. The rivalry played out on Mount Panorama and in every pub.', wk: '' },
+  { n: 'Holden Monaro', t: 'Classics', y: '1968', d: 'The muscle car that turned heads, and which a whole generation still dreams of.', w: 'Holden Monaro' },
+  { n: 'The Mad Max Interceptor', t: 'Classics', y: '1979', d: 'A modified Ford Falcon XB became one of cinema’s most famous cars.', w: 'Pursuit Special' },
+  { n: 'Footy, meat pies, kangaroos and Holden cars', t: 'Classics', d: 'The 1970s ad jingle that summed up the national identity, and was adapted from an American one.', wk: '' },
+  { n: 'Commodore and Falcon', t: 'The end of an era', d: 'The family sedans that were on every street, and the cars of police and taxis for decades. Falcon production ended in 2016.', w: 'Holden Commodore' },
+  { n: 'The end of local manufacturing', t: 'The end of an era', y: '2017', d: 'After Ford and Toyota, Holden shut its Elizabeth plant, and Australia stopped making cars. The brand itself disappeared a few years later, with plenty of grief.', w: 'Automotive industry in Australia' },
+  { n: 'Ford Ranger', t: 'Today', d: 'Best-selling vehicle in the country three years running: about 53,700 in 2025. Designed largely in Victoria, too.', w: 'Ford Ranger' },
+  { n: 'Toyota HiLux', t: 'Today', d: 'The long-time king, second in 2025 with about 45,800. Tradies’ and farmers’ favourite, and now a suburban one.', w: 'Toyota Hilux' },
+  { n: 'LandCruiser', t: 'Today', d: 'The outback’s universal vehicle. In remote places, it’s the car that’s most likely to get you home.', w: 'Toyota Land Cruiser' },
+  { n: 'The caravan', t: 'Passions', d: 'Grey nomads retire, hook up a van and drive around the country for years. The Big Lap is a real life plan.', w: 'Grey nomad' },
+  { n: 'Burnouts', t: 'Passions', d: 'Summernats, in Canberra, is the great festival of smoking tyres. Mostly a bloke thing, and very loud.', w: 'Summernats' },
+  { n: 'Bull bars and road trains', t: 'Passions', d: 'Roos on the road at dusk justify the bull bar, and in the outback you share the highway with trucks of three or four trailers.', w: 'Road train' },
+  { n: 'The Kombi', t: 'Passions', d: 'The surfers’ van, with a board on the roof, on the way to a beach up the coast. Sought after and expensive these days.', w: 'Volkswagen Type 2' }
+],
+internet: [
+  { n: 'A full-time job online', t: 'Habits', d: 'According to the Digital 2026 report, Australians spend about 41 hours a week online, against a world average of 33, including over 19 hours on social media.', wk: '' },
+  { n: 'Banning teens from social media', t: 'Habits', y: '2025', d: 'Australia became the first country with a national ban on social media accounts for under-16s. Parents, teens and platforms are still arguing about it.', w: 'Online Safety Amendment (Social Media Minimum Age) Act 2024' },
+  { n: 'Complaining about the NBN', t: 'Habits', d: 'The national broadband network has been a political fight and a source of everyday frustration for years. A shared national hobby.', w: 'National Broadband Network' },
+  { n: 'Facebook community groups', t: 'Habits', d: 'Local groups for parking disputes, lost dogs, a suspicious van and people asking for a good plumber.', wk: '' },
+  { n: 'Everything wants to kill you', t: 'Memes', d: 'The world’s favourite Australian meme, and Australians are happy to play along. A huntsman on a car’s sun visor is a classic genre. See also Virals and memes.', wk: '' },
+  { n: 'Dry humour', t: 'Memes', d: 'Understatement in a deadpan voice, even in a crisis. If a local says “bit warm today” at 44 °C, that’s a joke.', wk: '' },
+  { n: 'The accent on TikTok', t: 'Memes', d: 'Foreigners try “g’day”, Aussies correct them and everybody disagrees on what “yeah, nah” actually means.', wk: '' },
+  { n: 'Shoey and bin chicken', t: 'Memes', d: 'Drinking from a shoe and an ibis stealing your chips: two local jokes that the rest of the world now gets.', wk: '' },
+  { n: '“Australia isn’t real”', t: 'Abroad', d: 'A joke conspiracy theory that says the whole country is made up. Locals enjoy it, particularly since nobody believes the wildlife anyway.', wk: '' },
+  { n: 'Upside-down jokes', t: 'Abroad', d: 'Toilets flushing backwards, walking on the ceiling and Christmas on the beach. They’ve heard them all, and will still respond politely.', wk: '' },
+  { n: 'Celeste Barber’s bushfire fundraiser', t: 'Abroad', y: '2020', d: 'The comedian asked for donations on Facebook during Black Summer and raised over A$50 million, with money from around the world.', w: 'Celeste Barber' },
+  { n: 'Bluey memes', t: 'Abroad', d: 'The Brisbane cartoon is now a language for parenthood around the world, spoken in clips and screenshots.', w: 'Bluey (2018 TV series)' },
+  { n: '#CensusFail', t: 'Habits', y: '2016', d: 'The online census crashed on census night, and the national response was exactly what you’d expect. A bit of humour for every failure.', wk: '' },
+  { n: 'Misinformation', t: 'Habits', d: 'Chain posts and conspiracies have circulated here too, from the pandemic to the Voice referendum.', c: 'During the 2023 referendum, the electoral commission spent considerable time correcting false claims about how voting works.', wk: '' }
+],
+caramelo: [
+  { n: 'The blue heeler', t: 'The dogs', d: 'The Australian cattle dog: speckled, tough and suspicious of everyone but you. Bred in the 1800s to work cattle over huge distances, with dingo in the family tree.', w: 'Australian Cattle Dog' },
+  { n: 'The kelpie', t: 'The dogs', d: 'A sheepdog who will run across the backs of a flock. Born on Australian stations from Scottish collies, and rarely still for long.', w: 'Australian Kelpie' },
+  { n: 'The dog in the back of the ute', t: 'The dogs', d: 'Ears in the wind, on the way to the farm or the pub. Australia’s national image of contentment (rules on tying them up apply).', wk: '' },
+  { n: 'Bluey', t: 'Famous dogs', y: '2018', d: 'A blue heeler family from Brisbane, and one of the most-watched children’s shows on the planet. Many adults admit to crying at it, alone.', w: 'Bluey (2018 TV series)' },
+  { n: 'Red Dog', t: 'Famous dogs', d: 'A real red kelpie cross who wandered the Pilbara in the 1970s, adopted by a whole town. He has a statue at Dampier and a hit 2011 film.', w: 'Red Dog (film)' },
+  { n: 'The Dog on the Tuckerbox', t: 'Famous dogs', y: '1932', d: 'A statue near Gundagai, from a bush poem about a loyal dog guarding a bullock driver’s lunch. A roadside stop with status.', w: 'Dog on the Tuckerbox' },
+  { n: 'Kelpie Muster at Casterton', t: 'A national affection', d: 'The Victorian town that claims to be the birthplace of the kelpie holds a festival and auction, where working dogs can fetch huge prices.', wk: '' },
+  { n: 'Almost half the homes', t: 'A national affection', d: 'Surveys by Animal Medicines Australia found dogs in 48% of households in 2022, part of one of the world’s highest rates of pet ownership.', wk: '' }
+],
+maisPaixoes: [
+  { n: 'Talking about house prices', t: 'Everyday life', d: 'The real national sport. Any barbecue ends with what the place down the street sold for, and young people can’t afford it.', wk: '' },
+  { n: 'Coles or Woolies', t: 'Everyday life', d: 'Two supermarkets dominate the country, and everyone has opinions on them. Plus Aldi and a treasure hunt at Kmart.', wk: '' },
+  { n: 'Mateship', t: 'Everyday life', d: 'The idea of looking out for your mates, from the Anzac legend to the volunteer fire brigade.', c: 'Historians point out that the classic mateship story centred on white men, leaving out women and First Nations people.', w: 'Mateship' },
+  { n: 'Camping', t: 'Everyday life', d: 'Christmas holidays at the same caravan park every year, sometimes for generations. Book early.', wk: '' },
+  { n: 'Food from everywhere', t: 'Everyday life', d: 'The suburban Thai, the Vietnamese pho, the Greek and Lebanese places. Migration changed the national plate, and most people are glad.', wk: '' },
+  { n: 'A sickie', t: 'At work', d: 'A day off “sick”, especially after a big match or a long weekend. Everyone denies it, and bosses know the pattern.', wk: '' },
+  { n: 'A beer in moderation, or not', t: 'Body', d: 'Drinking is part of many social events, and it’s rude to skip a round. Though younger Australians drink less than their parents.', c: 'Doctors have long warned about the harm alcohol causes, especially for First Nations communities and in family violence.', wk: '' },
+  { n: 'Pokies and punting', t: 'Money', d: 'Poker machines in clubs and pubs, sports betting on phones and a bet on the Cup. Australians are among the world’s biggest gamblers per person.', c: 'Addiction groups and many health experts want tougher rules on gambling advertising and poker machines, an issue that has divided politics for years.', w: 'Gambling in Australia' }
+],
+
 fontes: {
+  paixoes: [['AusPlay', 'https://www.ausport.gov.au/media-centre/news/australians-are-redefining-the-way-they-play'], ['Digital 2026: Australia', 'https://datareportal.com/reports/digital-2026-australia'], ['4x4 Australia: 2025 VFACTS', 'https://www.4x4australia.com.au/news/ford-reigns-supreme-in-2025-4x4-sales'], ['Victoria Racing Club', 'https://www.vrc.com.au/latest-news/mcc-attracts-286-000-attendees-with-spectacular-racing-and-growth-surging-across-all-event-metrics/'], ['Animal Medicines Australia, via Vet Voice', 'https://www.vetvoice.com.au/ec/pet-ownership/pet-ownership-statistics/']],
   famosos: [['Australia Para Todos: popular Australian celebrities', 'https://australiaparatodos.wordpress.com/2025/02/02/celebridades-australianas-mais-populares'], ['Australia Para Todos: most followed Australians on Instagram (Aug 2026)', 'https://australiaparatodos.wordpress.com/2026/08/11/os-australianos-mais-seguidos-no-instagram']],
   musica: [['Australia Para Todos: the history of Australian rock', 'https://australiaparatodos.wordpress.com/2026/07/20/a-historia-do-rock-australiano-e-os-artistas-australianos-de-rock-mais-populares']],
   telas: [['Screen Australia', 'https://www.screenaustralia.gov.au']],
