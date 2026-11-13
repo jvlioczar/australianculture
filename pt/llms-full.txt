@@ -1,0 +1,1287 @@
+# Cultura Australiana: conteúdo completo
+
+Todo o guia de https://australianculture.biblioverse.org/pt/ em Markdown simples, parada por parada, com o link de cada página e do artigo na Wikipedia. Conteúdo atualizado em Novembro/2026.
+
+## Famosos
+
+https://australianculture.biblioverse.org/pt/famosos.html
+
+
+### Famosos no mundo
+
+- **Nicole Kidman**: (Cinema e TV) Oscar por As Horas (2002). De Moulin Rouge! a Big Little Lies, é uma das atrizes mais premiadas da sua geração. Cresceu em Sydney. <https://pt.wikipedia.org/wiki/Nicole_Kidman>
+- **Hugh Jackman**: (Cinema e TV) O Wolverine de X-Men por 17 anos e astro de musicais como O Rei do Show e Os Miseráveis. Nasceu em Sydney. <https://pt.wikipedia.org/wiki/Hugh_Jackman>
+- **Margot Robbie**: (Cinema e TV) Saiu da novela Neighbours para O Lobo de Wall Street, Arlequina e Barbie (2023), que também produziu com a LuckyChap. Nasceu em Dalby (QLD) e cresceu na Gold Coast. <https://pt.wikipedia.org/wiki/Margot_Robbie>
+- **Chris Hemsworth**: (Cinema e TV) O Thor da Marvel e o australiano mais seguido no cinema. Começou em Home and Away. Os irmãos Liam e Luke também são atores. <https://pt.wikipedia.org/wiki/Chris_Hemsworth>
+- **Cate Blanchett**: (Cinema e TV) Dois Oscars, por O Aviador e Blue Jasmine. Foi a Galadriel de O Senhor dos Anéis. Nasceu em Melbourne. <https://pt.wikipedia.org/wiki/Cate_Blanchett>
+- **Heath Ledger**: (Cinema e TV) Nascido em Perth, ganhou o Oscar póstumo pelo Coringa de O Cavaleiro das Trevas (2008). Também marcou O Segredo de Brokeback Mountain. <https://pt.wikipedia.org/wiki/Heath_Ledger>
+- **Russell Crowe**: (Cinema e TV) Nascido na Nova Zelândia e criado em Sydney, ganhou o Oscar por Gladiador (2000). Tem até um time de rugby league, o South Sydney Rabbitohs. <https://pt.wikipedia.org/wiki/Russell_Crowe>
+- **Geoffrey Rush**: (Cinema e TV) Oscar por Shine (1996) e o Barbossa de Piratas do Caribe. Um dos poucos com a "tríplice coroa" da atuação: Oscar, Emmy e Tony. <https://pt.wikipedia.org/wiki/Geoffrey_Rush>
+- **Naomi Watts**: (Cinema e TV) Nascida na Inglaterra e criada em Sydney. Estourou com Cidade dos Sonhos e foi indicada ao Oscar por 21 Gramas e O Impossível. <https://pt.wikipedia.org/wiki/Naomi_Watts>
+- **Hugo Weaving**: (Cinema e TV) O Agente Smith de Matrix, o Elrond de O Senhor dos Anéis e uma das drag queens de Priscilla, a Rainha do Deserto. <https://pt.wikipedia.org/wiki/Hugo_Weaving>
+- **Toni Collette**: (Cinema e TV) Indicada ao Oscar por O Sexto Sentido. Ficou conhecida em O Casamento de Muriel (1994) e voltou a brilhar no terror Hereditário. <https://pt.wikipedia.org/wiki/Toni_Collette>
+- **Jacob Elordi**: (Cinema e TV) De Brisbane para o mundo: Euphoria, A Barraca do Beijo, Saltburn e o Elvis de Priscilla. Viveu a criatura em Frankenstein (2025), de Guillermo del Toro. <https://pt.wikipedia.org/wiki/Jacob_Elordi>
+- **Rebel Wilson**: (Cinema e TV) A Fat Amy de A Escolha Perfeita. Começou na comédia de TV australiana, em séries como Pizza. <https://pt.wikipedia.org/wiki/Rebel_Wilson>
+- **Eric Bana**: (Cinema e TV) Veio da comédia de TV (Full Frontal) para Hulk, Troia e Munique. Seu primeiro grande papel foi o criminoso Chopper (2000). <https://pt.wikipedia.org/wiki/Eric_Bana>
+- **Rose Byrne**: (Cinema e TV) Comédias como Missão Madrinha de Casamento e Vizinhos, o terror Sobrenatural e a série Physical. Nasceu em Sydney. <https://pt.wikipedia.org/wiki/Rose_Byrne>
+- **Guy Pearce**: (Cinema e TV) Revelado em Neighbours, fez Los Angeles: Cidade Proibida, Amnésia e Priscilla. Indicado ao Oscar por O Brutalista (2024). <https://pt.wikipedia.org/wiki/Guy_Pearce>
+- **Mel Gibson**: (Cinema e TV) Nascido nos EUA e criado em Sydney, ficou famoso como Mad Max (1979) e ganhou o Oscar de direção por Coração Valente. <https://pt.wikipedia.org/wiki/Mel_Gibson>
+- **Paul Hogan**: (Cinema e TV) O Crocodilo Dundee (1986), filme que apresentou o "Aussie" ao mundo com a frase "Isso não é uma faca. Isso é uma faca." <https://pt.wikipedia.org/wiki/Paul_Hogan>
+- **Isla Fisher**: (Cinema e TV) Nascida em Omã, criada em Perth. Comédias como Penetras Bons de Bico e Os Delírios de Consumo de Becky Bloom; também escreve livros infantis. <https://pt.wikipedia.org/wiki/Isla_Fisher>
+- **Elizabeth Debicki**: (Cinema e TV) A princesa Diana de The Crown (Globo de Ouro em 2024), também esteve em Tenet e O Grande Gatsby. Cresceu em Melbourne. <https://pt.wikipedia.org/wiki/Elizabeth_Debicki>
+- **Steve Irwin**: (Cinema e TV) "Crikey!" O Caçador de Crocodilos levou a vida selvagem australiana à TV do mundo todo. Morreu em 2006; os filhos Bindi e Robert seguem no Australia Zoo. <https://pt.wikipedia.org/wiki/Steve_Irwin>
+- **Errol Flynn**: (Cinema e TV) O galã espadachim da Hollywood clássica, de Capitão Blood e As Aventuras de Robin Hood (1938). Nasceu em Hobart, Tasmânia. <https://pt.wikipedia.org/wiki/Errol_Flynn>
+- **Baz Luhrmann**: (Cinema e TV) Diretor de Romeu + Julieta, Moulin Rouge!, O Grande Gatsby e Elvis. Estilo exagerado, musical e cheio de cor. <https://pt.wikipedia.org/wiki/Baz_Luhrmann>
+- **George Miller**: (Cinema e TV) Criador de Mad Max (de 1979 a Furiosa, 2024). Também fez Babe e ganhou o Oscar de animação com Happy Feet. <https://pt.wikipedia.org/wiki/George_Miller_(cineasta)>
+- **Elle Macpherson**: (Modelos) "The Body". Supermodelo dos anos 80 e 90, recordista de capas da Sports Illustrated Swimsuit. Nasceu em Sydney. <https://pt.wikipedia.org/wiki/Elle_Macpherson>
+- **Miranda Kerr**: (Modelos) A primeira australiana Angel da Victoria's Secret. Fundou a marca de cosméticos orgânicos Kora Organics. <https://pt.wikipedia.org/wiki/Miranda_Kerr>
+- **Catriona Gray**: (Modelos) Nascida em Cairns, filha de pai escocês-australiano e mãe filipina. Venceu o Miss Universo 2018 representando as Filipinas. <https://pt.wikipedia.org/wiki/Catriona_Gray>
+- **Gemma Ward**: (Modelos) Descoberta aos 14 anos em Perth, virou um dos rostos mais disputados da moda nos anos 2000 (Prada, Chanel, Vogue). <https://pt.wikipedia.org/wiki/Gemma_Ward>
+- **Abbey Lee**: (Modelos) Top model de Melbourne que virou atriz: foi uma das esposas de Immortan Joe em Mad Max: Estrada da Fúria. <https://pt.wikipedia.org/wiki/Abbey_Lee>
+- **Adut Akech**: (Modelos) Nascida no Sudão do Sul e criada em Adelaide como refugiada. Modelo do ano do British Fashion Awards em 2019. <https://en.wikipedia.org/wiki/Adut_Akech>
+- **Jordan Barrett**: (Modelos) Nascido em Byron Bay, um dos modelos masculinos mais famosos do mundo, com campanhas para Versace e Tom Ford. <https://pt.wikipedia.org/wiki/Jordan_Barrett>
+- **Shanina Shaik**: (Modelos) Nascida em Melbourne, desfilou para a Victoria's Secret e ficou conhecida no reality Australia's Next Top Model. <https://en.wikipedia.org/wiki/Shanina_Shaik>
+- **Duckie Thot**: (Modelos) Filha de sul-sudaneses, cresceu em Melbourne. Ganhou fama em Australia's Next Top Model e virou rosto da Fenty Beauty. <https://pt.wikipedia.org/wiki/Duckie_Thot>
+- **Robyn Lawley**: (Modelos) Pioneira do plus size, foi a primeira modelo curvilínea na capa da Vogue Italia e da Sports Illustrated Swimsuit. <https://en.wikipedia.org/wiki/Robyn_Lawley>
+- **Kayla Itsines**: (Criadores digitais) Personal trainer de Adelaide que criou o Bikini Body Guide e o app Sweat. Virou uma das maiores influenciadoras fitness do planeta. <https://en.wikipedia.org/wiki/Kayla_Itsines>
+- **Tammy Hembrow**: (Criadores digitais) Influenciadora fitness da Gold Coast, dona da marca de roupas Saski Collection e do app Tammy Fit.
+- **Supercar Blondie**: (Criadores digitais) Alex Hirschi, de Brisbane, mostra carros de luxo e tecnologia. Uma das maiores criadoras de conteúdo automotivo do mundo. <https://en.wikipedia.org/wiki/Alex_Hirschi>
+- **Celeste Barber**: (Criadores digitais) Comediante que recria fotos de celebridades e modelos de um jeito "vida real". Em 2020, arrecadou mais de A$50 milhões para vítimas dos incêndios. <https://en.wikipedia.org/wiki/Celeste_Barber>
+- **Ben & Zara Tate**: (Criadores digitais) Casal de esquetes cômicos sobre relacionamento, com milhões de seguidores no Instagram e no TikTok.
+- **Vinh Giang**: (Criadores digitais) Mágico e especialista em comunicação de Melbourne. Os vídeos sobre como falar bem rodam o mundo.
+- **How Ridiculous**: (Criadores digitais) Trio de Perth famoso por arremessos impossíveis de lugares altíssimos, com recordes no Guinness e bilhões de visualizações no YouTube. <https://en.wikipedia.org/wiki/How_Ridiculous>
+- **Aunty Donna**: (Criadores digitais) Trupe de comédia absurda de Melbourne que saiu do YouTube para ter série na Netflix (Aunty Donna's Big Ol' House of Fun). <https://en.wikipedia.org/wiki/Aunty_Donna>
+- **Lachlan**: (Criadores digitais) Lachlan Power, gamer de Fortnite e Minecraft com mais de 15 milhões de inscritos. Fundou o grupo PWR e a marca de roupas. <https://en.wikipedia.org/wiki/Lachlan_Power>
+- **Loserfruit**: (Criadores digitais) Kathleen Belsten, de Melbourne, uma das primeiras mulheres com skin própria no Fortnite. <https://en.wikipedia.org/wiki/Loserfruit>
+- **Robert Irwin**: (Criadores digitais) Filho de Steve Irwin, fotógrafo de vida selvagem e apresentador do Australia Zoo. Venceu o Dancing with the Stars dos EUA em 2025. <https://pt.wikipedia.org/wiki/Robert_Irwin>
+- **Patrick White**: (Literatura e ideias) O único australiano a ganhar o Nobel de Literatura, em 1973. Autor de Voss e A Árvore do Homem, retratos densos da vida e da paisagem do país. <https://pt.wikipedia.org/wiki/Patrick_White>
+- **Thomas Keneally**: (Literatura e ideias) Escreveu A Arca de Schindler, Booker Prize de 1982, que virou o filme A Lista de Schindler, de Spielberg, vencedor de sete Oscars. <https://pt.wikipedia.org/wiki/Thomas_Keneally>
+- **Peter Carey**: (Literatura e ideias) Um dos poucos escritores a ganhar o Booker Prize duas vezes: com Oscar e Lucinda (1988) e A Verdadeira História do Bando de Kelly (2001). <https://pt.wikipedia.org/wiki/Peter_Carey_(escritor)>
+- **Markus Zusak**: (Literatura e ideias) Autor de Sydney de A Menina que Roubava Livros (2005), best-seller mundial que virou filme em 2013. <https://pt.wikipedia.org/wiki/Markus_Zusak>
+- **Colleen McCullough**: (Literatura e ideias) Neurofisiologista que virou romancista e escreveu Pássaros Feridos (1977), um dos livros australianos mais vendidos da história e minissérie de sucesso nos anos 80. <https://pt.wikipedia.org/wiki/Colleen_McCullough>
+- **Peter Singer**: (Literatura e ideias) Filósofo nascido em Melbourne, um dos pensadores vivos mais influentes do mundo. Libertação Animal (1975) deu origem ao movimento pelos direitos dos animais, e suas ideias inspiraram o altruísmo eficaz. <https://pt.wikipedia.org/wiki/Peter_Singer>
+- **David Chalmers**: (Literatura e ideias) Filósofo e cientista cognitivo que formulou o “problema difícil da consciência”: por que temos experiência interior? Professor da Universidade de Nova York (NYU), popularizou os famosos zumbis filosóficos. <https://pt.wikipedia.org/wiki/David_Chalmers>
+
+### Famosos na Austrália
+
+- **Ray Martin**: (TV e rádio) Jornalista e apresentador que comandou o 60 Minutes, o Midday e o A Current Affair. Ganhou o Gold Logie, o maior prêmio da TV australiana, cinco vezes. <https://en.wikipedia.org/wiki/Ray_Martin_(television_presenter)>
+- **Bert Newton**: (TV e rádio) O “Mr Television”: mais de 60 anos no ar, de In Melbourne Tonight ao Good Morning Australia, e quatro Gold Logies. Morreu em 2021. <https://en.wikipedia.org/wiki/Bert_Newton>
+- **Karl Stefanovic**: (TV e rádio) Apresentador do Today, o matinal do Channel Nine, de 2005 a 2018 e de novo desde 2020. Ganhou o Gold Logie em 2011. <https://en.wikipedia.org/wiki/Karl_Stefanovic>
+- **Lisa Wilkinson**: (TV e rádio) Virou editora da revista Dolly aos 21 anos e depois apresentou o Today e o The Project. <https://en.wikipedia.org/wiki/Lisa_Wilkinson>
+- **Leigh Sales**: (TV e rádio) Jornalista da ABC que apresentou o 7.30 de 2011 a 2022, famosa pelas entrevistas duras com políticos. <https://en.wikipedia.org/wiki/Leigh_Sales>
+- **Grant Denyer**: (TV e rádio) Apresentador do Family Feud, ex-homem do tempo do Sunrise e piloto de corrida. Ganhou o Gold Logie em 2018. <https://en.wikipedia.org/wiki/Grant_Denyer>
+- **Sonia Kruger**: (TV e rádio) Ex-dançarina que virou uma das apresentadoras mais conhecidas do país, com The Voice e Big Brother. <https://en.wikipedia.org/wiki/Sonia_Kruger>
+- **Andrew Denton**: (TV e rádio) Entrevistador do Enough Rope, na ABC, e criador de programas de humor. Hoje é uma das vozes da morte assistida voluntária. <https://en.wikipedia.org/wiki/Andrew_Denton>
+- **Molly Meldrum**: (TV e rádio) O homem do chapéu de caubói do Countdown (1974–1987), programa que ajudou a lançar nomes como AC/DC e Skyhooks. <https://en.wikipedia.org/wiki/Molly_Meldrum>
+- **Costa Georgiadis**: (TV e rádio) O jardineiro barbudo do Gardening Australia, na ABC, que faz qualquer um querer plantar uma horta. <https://en.wikipedia.org/wiki/Costa_Georgiadis>
+- **Magda Szubanski**: (Cinema e TV) A Sharon de Kath & Kim e a voz de Esme em Babe. Foi uma das caras da campanha pelo casamento igualitário em 2017. <https://pt.wikipedia.org/wiki/Magda_Szubanski>
+- **Deborah Mailman**: (Cinema e TV) Atriz bidjara de The Sapphires, Offspring e Mystery Road. Foi a primeira aborígene a ganhar o prêmio de melhor atriz do AFI, em 1998. <https://pt.wikipedia.org/wiki/Deborah_Mailman>
+- **Ernie Dingo**: (Cinema e TV) Ator e apresentador yamatji, rosto do programa de viagens The Great Outdoors e de filmes como Crocodilo Dundee II. <https://en.wikipedia.org/wiki/Ernie_Dingo>
+- **Cathy Freeman**: (Esporte) Acendeu a pira e ganhou os 400 m nas Olimpíadas de Sydney 2000, um dos momentos mais marcantes da história do país. <https://pt.wikipedia.org/wiki/Cathy_Freeman>
+- **Don Bradman**: (Esporte) O maior jogador de críquete da história, com média de 99,94 nas partidas Test. Todo australiano sabe esse número. <https://pt.wikipedia.org/wiki/Donald_Bradman>
+- **Dawn Fraser**: (Esporte) Nadadora que ganhou os 100 m livre em três Olimpíadas seguidas (1956, 1960 e 1964). <https://pt.wikipedia.org/wiki/Dawn_Fraser>
+- **Johnathan Thurston**: (Esporte) Craque indígena do rugby league, ídolo do North Queensland Cowboys, que deu ao time o título de 2015 com um drop goal na prorrogação. <https://en.wikipedia.org/wiki/Johnathan_Thurston>
+- **Jennifer Hawkins**: (Moda e música) Miss Universo 2004, depois apresentadora e um dos rostos mais conhecidos da moda e da publicidade no país. <https://pt.wikipedia.org/wiki/Jennifer_Hawkins>
+- **Megan Gale**: (Moda e música) Modelo de Perth que virou estrela na Itália e, na Austrália, foi por anos o rosto das lojas David Jones. <https://en.wikipedia.org/wiki/Megan_Gale>
+- **Jessica Origliasso**: (Moda e música) Cantora, compositora e produtora de Brisbane, nascida em 1984. Com a gêmea idêntica Lisa, forma a dupla The Veronicas. <https://en.wikipedia.org/wiki/Jessica_Origliasso>
+- **Lisa Origliasso**: (Moda e música) Cantora e compositora criada em Albany Creek, Queensland. Gêmea idêntica de Jessica e a outra metade do The Veronicas. <https://en.wikipedia.org/wiki/Lisa_Origliasso>
+- **Karl Kruszelnicki**: (Ciência e cultura) O Dr Karl, divulgador científico mais famoso do país. Há décadas responde perguntas de ouvintes no rádio, escreveu dezenas de livros e ganhou o Ig Nobel em 2002 com uma pesquisa sobre o fiapo do umbigo. <https://pt.wikipedia.org/wiki/Karl_Kruszelnicki>
+- **Ita Buttrose**: (Ciência e cultura) Fundou a revista Cleo, comandou a Women’s Weekly e presidiu a ABC de 2019 a 2024. Australiana do Ano em 2013. <https://en.wikipedia.org/wiki/Ita_Buttrose>
+
+### Os mais seguidos no Instagram
+
+- **Rosé (BLACKPINK)**: 83,2 milhões de seguidores no Instagram (Música)
+- **Chris Hemsworth**: 58 milhões de seguidores no Instagram (Cinema)
+- **Katherine Langford**: 38,9 milhões de seguidores no Instagram (Cinema)
+- **Felix (Stray Kids)**: 37 milhões de seguidores no Instagram (Música)
+- **Hugh Jackman**: 33 milhões de seguidores no Instagram (Cinema)
+- **Anne Curtis**: 20,6 milhões de seguidores no Instagram (Cinema)
+- **Kyrie Irving**: 19,8 milhões de seguidores no Instagram (Esporte)
+- **Ruby Rose**: 19,2 milhões de seguidores no Instagram (Cinema)
+- **Supercar Blondie**: 17,4 milhões de seguidores no Instagram (Criador)
+- **Iggy Azalea**: 16,4 milhões de seguidores no Instagram (Música)
+- **Tammy Hembrow**: 16,3 milhões de seguidores no Instagram (Fitness)
+- **Kayla Itsines**: 15,3 milhões de seguidores no Instagram (Fitness)
+- **Troye Sivan**: 15 milhões de seguidores no Instagram (Música)
+- **Miranda Kerr**: 13,9 milhões de seguidores no Instagram (Moda)
+- **Catriona Gray**: 13,2 milhões de seguidores no Instagram (Moda)
+- **Bang Chan (Stray Kids)**: 12 milhões de seguidores no Instagram (Música)
+- **Liam Hemsworth**: 11,5 milhões de seguidores no Instagram (Cinema)
+- **Nicole Kidman**: 11 milhões de seguidores no Instagram (Cinema)
+- **Rebel Wilson**: 10,9 milhões de seguidores no Instagram (Comédia)
+- **David Warner**: 10,3 milhões de seguidores no Instagram (Esporte)
+- **Angela White**: 10 milhões de seguidores no Instagram (Criadora)
+- **Daniel Ricciardo**: 10 milhões de seguidores no Instagram (Esporte)
+- **Robert Irwin**: 9,7 milhões de seguidores no Instagram (TV)
+- **Celeste Barber**: 9,5 milhões de seguidores no Instagram (Comédia)
+- **Maia Mitchell**: 9,4 milhões de seguidores no Instagram (Cinema)
+- **Sia**: 8,2 milhões de seguidores no Instagram (Música)
+
+Fontes: [Australia Para Todos: celebridades australianas](https://australiaparatodos.wordpress.com/2025/02/02/celebridades-australianas-mais-populares); [Australia Para Todos: os mais seguidos no Instagram (ago/2026)](https://australiaparatodos.wordpress.com/2026/08/11/os-australianos-mais-seguidos-no-instagram)
+
+## Música
+
+https://australianculture.biblioverse.org/pt/musica.html
+
+
+### Artistas e bandas
+
+- **AC/DC**: (Rock · 1973) Os irmãos Malcolm e Angus Young (de uniforme escolar) criaram uma das maiores bandas de rock da história. Back in Black é um dos discos mais vendidos de todos os tempos. <https://pt.wikipedia.org/wiki/AC%2FDC>
+- **INXS**: (Rock · 1977) Michael Hutchence e companhia levaram o rock australiano ao topo nos anos 80 com Need You Tonight e Never Tear Us Apart. <https://pt.wikipedia.org/wiki/INXS>
+- **Midnight Oil**: (Rock · 1972) Rock político de Sydney. Beds Are Burning (1987) fala da devolução de terras aos povos aborígenes. <https://pt.wikipedia.org/wiki/Midnight_Oil>
+- **Men at Work**: (Rock · 1978) Down Under (1981), o hino não oficial do país: "Do you come from a land down under?". Chegou ao nº 1 nos EUA e no Reino Unido. <https://pt.wikipedia.org/wiki/Men_at_Work>
+- **Cold Chisel**: (Rock · 1973) O som dos pubs australianos. Khe Sanh e Flame Trees são cantadas em coro até hoje. Jimmy Barnes, o vocalista, tem carreira solo gigante. <https://pt.wikipedia.org/wiki/Cold_Chisel>
+- **Crowded House**: (Rock · 1985) Banda de Melbourne liderada pelo neozelandês Neil Finn. Don't Dream It's Over virou clássico mundial. <https://pt.wikipedia.org/wiki/Crowded_House>
+- **The Easybeats**: (Rock · 1964) Banda de Sydney formada por imigrantes. Friday on My Mind (1966) foi o primeiro rock australiano a fazer sucesso no mundo. <https://pt.wikipedia.org/wiki/The_Easybeats>
+- **Little River Band**: (Rock · 1975) Soft rock de Melbourne que emplacou Reminiscing e Lonesome Loser nas rádios dos EUA. <https://en.wikipedia.org/wiki/Little_River_Band>
+- **Icehouse**: (Rock · 1977) New wave de Sydney. Great Southern Land (1982) é praticamente um retrato musical do país. <https://pt.wikipedia.org/wiki/Icehouse>
+- **The Saints**: (Rock · 1973) Banda de Brisbane cujo (I'm) Stranded (1976) é um dos primeiros discos de punk do mundo. <https://pt.wikipedia.org/wiki/The_Saints>
+- **Hunters & Collectors**: (Rock · 1981) De Melbourne. Holy Grail virou hino da final da AFL, e Throw Your Arms Around Me é cantada em todo casamento. <https://en.wikipedia.org/wiki/Hunters_%26_Collectors>
+- **Divinyls**: (Rock · 1980) A banda da vocalista Chrissy Amphlett, de uniforme escolar no palco. I Touch Myself (1990) fez sucesso no mundo todo. <https://pt.wikipedia.org/wiki/Divinyls>
+- **Hoodoo Gurus**: (Rock · 1981) Rock de garagem de Sydney com refrões grudentos, como What's My Scene? (1987). <https://pt.wikipedia.org/wiki/Hoodoo_Gurus>
+- **The Living End**: (Rock · 1994) Trio de punk e rockabilly de Melbourne, com o contrabaixo acústico. Prisoner of Society é clássico dos anos 90. <https://pt.wikipedia.org/wiki/The_Living_End_(banda)>
+- **Spiderbait**: (Rock · 1991) Banda do interior de NSW. A versão de Black Betty (2004) chegou ao nº 1 na Austrália. <https://pt.wikipedia.org/wiki/Spiderbait>
+- **Jet**: (Rock · 2001) De Melbourne, estourou no mundo com Are You Gonna Be My Girl (2003), embalada por um comercial do iPod. <https://pt.wikipedia.org/wiki/Jet_(banda)>
+- **Wolfmother**: (Rock · 2004) Hard rock de Sydney com cara de anos 70. Ganhou o Grammy de melhor performance de hard rock em 2007, com Woman. <https://pt.wikipedia.org/wiki/Wolfmother>
+- **Gang of Youths**: (Rock · 2012) Rock épico de Sydney. O disco Go Farther in Lightness (2017) levou o ARIA de álbum do ano. <https://en.wikipedia.org/wiki/Gang_of_Youths>
+- **Amyl and the Sniffers**: (Rock · 2016) Punk de Melbourne com a vocalista Amy Taylor. Ganhou o ARIA de melhor álbum de rock em 2019. <https://pt.wikipedia.org/wiki/Amyl_and_the_Sniffers>
+- **Bee Gees**: (Pop · 1958) Os irmãos Gibb nasceram na Ilha de Man, mas começaram a carreira em Brisbane. De Stayin' Alive a How Deep Is Your Love, definiram a era disco. <https://pt.wikipedia.org/wiki/Bee_Gees>
+- **Kylie Minogue**: (Pop · 1987) A "princesa do pop". Saiu de Neighbours para hits como Can't Get You Out of My Head e Padam Padam (Grammy em 2024). <https://pt.wikipedia.org/wiki/Kylie_Minogue>
+- **Olivia Newton-John**: (Pop · 1966) Nascida na Inglaterra e criada em Melbourne. A Sandy de Grease (1978) e a voz de Physical e Xanadu. <https://pt.wikipedia.org/wiki/Olivia_Newton-John>
+- **Savage Garden**: (Pop · 1993) Dupla de Brisbane dos baladões Truly Madly Deeply e I Knew I Loved You, trilhas de muita novela no Brasil. <https://pt.wikipedia.org/wiki/Savage_Garden>
+- **The Veronicas**: (Pop · 2005) Dupla pop rock das gêmeas Jessica e Lisa Origliasso, de Brisbane. O primeiro álbum, The Secret Life Of... (2005), chegou ao 2º lugar na Austrália puxado pelo hit 4ever. <https://pt.wikipedia.org/wiki/The_Veronicas>
+- **Natalie Imbruglia**: (Pop · 1997) Outra atriz de Neighbours que virou cantora: Torn (1997) foi um dos maiores hits dos anos 90. <https://pt.wikipedia.org/wiki/Natalie_Imbruglia>
+- **John Farnham**: (Pop · 1967) You're the Voice (1986) é praticamente um segundo hino nacional. "The Voice" é um dos cantores mais queridos do país. <https://pt.wikipedia.org/wiki/John_Farnham>
+- **Sia**: (Pop · 1997) Cantora e compositora de Adelaide, de Chandelier e Cheap Thrills. Escreveu hits para Rihanna, Beyoncé e Britney. <https://pt.wikipedia.org/wiki/Sia>
+- **Silverchair**: (Rock · 1992) Adolescentes de Newcastle que estouraram no grunge com Tomorrow (1994). Daniel Johns tinha só 15 anos. <https://pt.wikipedia.org/wiki/Silverchair>
+- **Powderfinger**: (Rock · 1989) A banda de Brisbane que dominou o rock alternativo australiano nos anos 90 e 2000, com My Happiness. <https://pt.wikipedia.org/wiki/Powderfinger>
+- **Tame Impala**: (Indie · 2007) Projeto psicodélico de Kevin Parker, de Perth. Currents (2015) virou referência; The Less I Know the Better é hino indie. <https://pt.wikipedia.org/wiki/Tame_Impala>
+- **Gotye**: (Indie · 2003) Somebody That I Used to Know (2011), com Kimbra, ganhou dois Grammys e foi um dos clipes mais vistos da década. <https://pt.wikipedia.org/wiki/Gotye>
+- **5 Seconds of Summer**: (Pop · 2011) Banda pop-punk de Sydney que estourou abrindo shows do One Direction. Youngblood (2018) foi nº 1 na Austrália por 8 semanas. <https://pt.wikipedia.org/wiki/5_Seconds_of_Summer>
+- **Troye Sivan**: (Pop · 2013) Começou no YouTube em Perth e virou ícone pop com Youth e Rush (2023). <https://pt.wikipedia.org/wiki/Troye_Sivan>
+- **The Kid LAROI**: (Hip-hop · 2018) De Sydney, fez Stay (2021) com Justin Bieber, que passou 7 semanas em nº 1 nos EUA. <https://pt.wikipedia.org/wiki/The_Kid_Laroi>
+- **Tones and I**: (Pop · 2019) Tocava na rua em Byron Bay quando lançou Dance Monkey, que ficou 24 semanas seguidas em nº 1 na Austrália. <https://pt.wikipedia.org/wiki/Tones_and_I>
+- **Vance Joy**: (Indie · 2013) Riptide (2013), com seu ukulele, ficou anos na parada e é presença certa em toda roda de violão. <https://pt.wikipedia.org/wiki/Vance_Joy>
+- **Flume**: (Eletrônica · 2011) Produtor de Sydney que ganhou o Grammy de melhor álbum dance/eletrônico em 2017 com Skin. <https://en.wikipedia.org/wiki/Flume_(musician)>
+- **RÜFÜS DU SOL**: (Eletrônica · 2010) Trio de Sydney de house melancólico, com shows enormes no mundo todo. Innerbloom é clássico. <https://pt.wikipedia.org/wiki/R%C3%BCf%C3%BCs_Du_Sol>
+- **Empire of the Sun**: (Eletrônica · 2007) Dupla de synthpop com figurinos teatrais. Walking on a Dream (2008) foi hit mundial. <https://pt.wikipedia.org/wiki/Empire_of_the_Sun_(banda)>
+- **Hilltop Hoods**: (Hip-hop · 1994) O grupo de Adelaide que levou o hip-hop australiano ao mainstream, com Cosby Sweater e Nosebleed Section. <https://en.wikipedia.org/wiki/Hilltop_Hoods>
+- **Yothu Yindi**: (Indígena · 1986) Banda de Arnhem Land que misturou rock com música Yolŋu. Treaty (1991) foi a primeira música em língua aborígene a fazer sucesso nacional. <https://pt.wikipedia.org/wiki/Yothu_Yindi>
+- **Gurrumul**: (Indígena · 2008) Geoffrey Gurrumul Yunupingu, cantor cego de Elcho Island, cantava em Yolŋu. Seu disco de estreia foi platina tripla. <https://en.wikipedia.org/wiki/Geoffrey_Gurrumul_Yunupingu>
+- **Paul Kelly**: (Folk · 1974) O grande cronista do país. How to Make Gravy virou tradição de Natal australiano. <https://en.wikipedia.org/wiki/Paul_Kelly_(Australian_musician)>
+- **Nick Cave & The Bad Seeds**: (Rock · 1983) Rock gótico e literário de Melbourne. Red Right Hand é tema de Peaky Blinders. <https://pt.wikipedia.org/wiki/Nick_Cave_and_the_Bad_Seeds>
+- **King Gizzard & the Lizard Wizard**: (Rock · 2010) Banda de Melbourne que lança discos num ritmo absurdo (mais de 25), passando por psicodelia, thrash metal e jazz. <https://pt.wikipedia.org/wiki/King_Gizzard_%26_the_Lizard_Wizard>
+- **Rosé**: (Pop · 2016) Nascida na Nova Zelândia e criada em Melbourne, a cantora do BLACKPINK lançou APT. (2024) com Bruno Mars, um fenômeno global. <https://pt.wikipedia.org/wiki/Ros%C3%A9_(cantora)>
+- **The Wiggles**: (Infantil · 1991) O grupo infantil de camisetas coloridas é uma das exportações culturais mais lucrativas do país. Hot Potato! <https://en.wikipedia.org/wiki/The_Wiggles>
+
+Fontes: [Australia Para Todos: a história do rock australiano](https://australiaparatodos.wordpress.com/2026/07/20/a-historia-do-rock-australiano-e-os-artistas-australianos-de-rock-mais-populares)
+
+## Filmes e séries
+
+https://australianculture.biblioverse.org/pt/filmes-e-series.html
+
+
+### Feitos na Austrália
+
+- **Mad Max**: (Filme australiano · 1979) Distopia no deserto de George Miller que lançou Mel Gibson. A saga voltou com Estrada da Fúria (2015, 6 Oscars) e Furiosa (2024). <https://pt.wikipedia.org/wiki/Mad_Max_(s%C3%A9rie)>
+- **Crocodilo Dundee**: (Filme australiano · 1986) Paul Hogan como o caçador do outback que vai a Nova York. Até hoje um dos filmes australianos mais lucrativos. <https://pt.wikipedia.org/wiki/Crocodilo_Dundee>
+- **Priscilla, a Rainha do Deserto**: (Filme australiano · 1994) Três drag queens cruzam o outback num ônibus. Oscar de figurino e virou musical de sucesso. <https://pt.wikipedia.org/wiki/The_Adventures_of_Priscilla,_Queen_of_the_Desert>
+- **O Casamento de Muriel**: (Filme australiano · 1994) Toni Collette e muito ABBA numa comédia cult sobre uma garota de cidade pequena. <https://pt.wikipedia.org/wiki/O_Casamento_de_Muriel>
+- **The Castle**: (Filme australiano · 1997) A família Kerrigan luta para não perder a casa ao lado do aeroporto. Pouco visto fora, mas cada australiano sabe as falas de cor: "Tell him he's dreamin'". <https://en.wikipedia.org/wiki/The_Castle_(1997_Australian_film)>
+- **Babe, o Porquinho Atrapalhado**: (Filme australiano · 1995) Produzido por George Miller e filmado em NSW. Indicado a 7 Oscars, ganhou o de efeitos visuais. <https://pt.wikipedia.org/wiki/Babe_(1995)>
+- **Moulin Rouge!**: (Filme australiano · 2001) O musical de Baz Luhrmann com Nicole Kidman, filmado nos estúdios Fox em Sydney. <https://pt.wikipedia.org/wiki/Moulin_Rouge!>
+- **Happy Feet**: (Animação · 2006) Pinguim sapateador animado pelo estúdio Animal Logic, de Sydney. Oscar de melhor animação. <https://pt.wikipedia.org/wiki/Happy_Feet>
+- **Elvis**: (Filme australiano · 2022) Baz Luhrmann de novo, filmado na Gold Coast. 8 indicações ao Oscar. <https://pt.wikipedia.org/wiki/Elvis_(filme_de_2022)>
+- **Picnic at Hanging Rock**: (Filme australiano · 1975) O mistério de alunas que somem num passeio em 1900. Peter Weir e a "nouvelle vague" australiana. <https://pt.wikipedia.org/wiki/Picnic_at_Hanging_Rock>
+- **Gallipoli**: (Filme australiano · 1981) Mel Gibson na batalha de 1915 que forjou a identidade nacional. Fundamental para entender o Anzac Day. <https://pt.wikipedia.org/wiki/Gallipoli_(filme_de_1981)>
+- **Geração Roubada (Rabbit-Proof Fence)**: (Filme australiano · 2002) Três meninas aborígenes fogem de um internato e caminham 2.400 km para casa seguindo uma cerca. História real das Gerações Roubadas. <https://pt.wikipedia.org/wiki/Rabbit-Proof_Fence>
+- **Lion: Uma Jornada para Casa**: (Filme australiano · 2016) Garoto indiano adotado na Tasmânia procura a família pelo Google Earth. Com Dev Patel e Nicole Kidman. <https://pt.wikipedia.org/wiki/Lion_(filme)>
+- **Fale Comigo (Talk to Me)**: (Filme australiano · 2022) Terror dos irmãos Philippou, de Adelaide, ex-youtubers do RackaRacka. Virou sucesso mundial da A24. <https://pt.wikipedia.org/wiki/Talk_to_Me_(filme)>
+- **O Babadook**: (Filme australiano · 2014) Terror psicológico de Jennifer Kent, de Adelaide. O monstro virou até ícone LGBT na internet. <https://pt.wikipedia.org/wiki/The_Babadook>
+- **Bluey**: (Animação · 2018) Desenho de Brisbane sobre uma família de cães blue heeler. Um dos desenhos infantis mais vistos do mundo, sucesso no Disney+ e o programa infantil mais assistido da TV australiana, amado também pelos pais. <https://pt.wikipedia.org/wiki/Bluey_(s%C3%A9rie_de_televis%C3%A3o)>
+- **Mary e Max: Uma Amizade Diferente**: (Animação · 2009) Massinha de Adam Elliot sobre a amizade por cartas entre uma menina de Melbourne e um homem de Nova York. Abriu o Festival de Sundance. <https://pt.wikipedia.org/wiki/Mary_and_Max>
+- **Harvie Krumpet**: (Animação · 2003) Curta em massinha de Adam Elliot, narrado por Geoffrey Rush, que ganhou o Oscar de melhor curta de animação. <https://pt.wikipedia.org/wiki/Harvie_Krumpet>
+- **Memórias de um Caracol**: (Animação · 2024) O terceiro longa em stop-motion de Adam Elliot, sobre uma colecionadora de caracóis. Indicado ao Oscar de melhor animação em 2025. <https://pt.wikipedia.org/wiki/Mem%C3%B3rias_de_um_Caracol>
+- **Uma Aventura LEGO**: (Animação · 2014) A animação foi toda feita pelo estúdio Animal Logic, de Sydney, que também fez A Lenda dos Guardiões (2010) e Pedro Coelho (2018). <https://pt.wikipedia.org/wiki/The_Lego_Movie>
+- **Dot and the Kangaroo**: (Animação · 1977) Menina perdida no bush é adotada por uma canguru. Clássico do estúdio de Yoram Gross, que misturava desenho com paisagens filmadas. <https://en.wikipedia.org/wiki/Dot_and_the_Kangaroo_(film)>
+- **Blinky Bill**: (Animação · 1993) O coala travesso dos livros de Dorothy Wall (1933) virou desenho de TV e, em 2015, filme em computação gráfica. <https://en.wikipedia.org/wiki/Blinky_Bill>
+- **The Magic Pudding**: (Animação · 2000) Adaptação do livro infantil de 1918 de Norman Lindsay sobre um pudim falante que nunca acaba. <https://en.wikipedia.org/wiki/The_Magic_Pudding_(film)>
+- **FernGully: As Aventuras de Zack e Crysta**: (Animação · 1992) Coprodução entre Austrália e EUA sobre fadas que defendem a floresta tropical. Virou cult dos anos 90. <https://pt.wikipedia.org/wiki/FernGully:_The_Last_Rainforest>
+- **Little J & Big Cuz**: (Animação · 2017) Desenho infantil com dois primos aborígenes, falado em inglês e em línguas indígenas. Feito para crianças entenderem a cultura aborígene. <https://en.wikipedia.org/wiki/Little_J_%26_Big_Cuz>
+- **Kangaroo Beach**: (Animação · 2020) Filhotes de animais nativos treinam para ser salva-vidas numa praia australiana. Ensina segurança no mar. <https://en.wikipedia.org/wiki/Kangaroo_Beach>
+- **100% Lobo**: (Animação · 2020) Filme de Sydney sobre um lobisomem que vira um poodle. Também ganhou série. <https://pt.wikipedia.org/wiki/100%25_Wolf>
+- **Kath & Kim**: (Série australiana · 2002) Comédia sobre mãe e filha suburbanas e vaidosas. Bordões como "look at moiye" viraram parte do vocabulário. <https://pt.wikipedia.org/wiki/Kath_%26_Kim>
+- **Summer Heights High**: (Série australiana · 2007) Chris Lilley interpreta vários personagens numa escola. Cult absoluto (e hoje revisto de forma crítica). <https://en.wikipedia.org/wiki/Summer_Heights_High>
+- **H2O: Meninas Sereias**: (Série australiana · 2006) Três adolescentes da Gold Coast viram sereias. Sucesso enorme no Brasil e no mundo. <https://pt.wikipedia.org/wiki/H2O:_Just_Add_Water>
+- **Heartbreak High**: (Série australiana · 2022) Remake na Netflix da série dos anos 90 sobre uma escola em Sydney. Emmy Internacional em 2023. <https://pt.wikipedia.org/wiki/Heartbreak_High>
+- **Wentworth**: (Série australiana · 2013) Drama de presídio feminino, releitura de Prisoner (Cell Block H), dos anos 70. <https://pt.wikipedia.org/wiki/Wentworth_(s%C3%A9rie_de_televis%C3%A3o)>
+- **Mystery Road**: (Série australiana · 2018) Policial no outback com um detetive aborígene. Uma das melhores séries de crime do país. <https://pt.wikipedia.org/wiki/Mystery_Road>
+- **Deadloch**: (Série australiana · 2023) Comédia policial do Prime Video numa cidadezinha da Tasmânia, onde duas detetives que não se suportam investigam corpos que aparecem na praia. Criada por Kate McCartney e Kate McLennan. <https://pt.wikipedia.org/wiki/Deadloch>
+- **Último Destino: Larrimah**: (Série australiana · 2023) Documentário da HBO sobre o sumiço de Paddy Moriarty em Larrimah, cidadezinha do outback no Território do Norte com uns dez moradores, onde todo mundo é suspeito. <https://en.wikipedia.org/wiki/Last_Stop_Larrimah>
+- **Round the Twist (A Família Twist)**: (Série infantil · 1989) A família Twist mora num farol onde as histórias malucas de Paul Jennings viram realidade. Gravada no farol de Split Point, em Aireys Inlet (Victoria), tem uma abertura que toda criança dos anos 90 sabe cantar: “Have you ever...”. <https://pt.wikipedia.org/wiki/Round_the_Twist>
+- **Johnson and Friends**: (Série infantil · 1990) Quando o menino dorme, os brinquedos ganham vida: o elefante Johnson e sua turma vivem aventuras dentro do quarto. <https://en.wikipedia.org/wiki/Johnson_and_Friends>
+- **Bananas de Pijama**: (Série infantil · 1992) B1 e B2, duas bananas de pijama listrado, viraram um dos maiores sucessos infantis da ABC e foram vendidas para dezenas de países. <https://pt.wikipedia.org/wiki/Bananas_in_Pyjamas>
+- **The Ferals**: (Série infantil · 1994) Série da ABC com bonecos de animais ferais que vivem escondidos na casa de uma família e aprontam de tudo, sempre com humor bem australiano. <https://en.wikipedia.org/wiki/The_Ferals>
+- **Ocean Girl**: (Série infantil · 1994) Uma garota misteriosa vive sozinha numa ilha e conversa com uma baleia jubarte. Ficção científica infantil exibida em dezenas de países. <https://en.wikipedia.org/wiki/Ocean_Girl>
+- **Spellbinder**: (Série infantil · 1995) Um adolescente de Sydney atravessa para um mundo paralelo. Coprodução com a Polônia que virou cult. <https://en.wikipedia.org/wiki/Spellbinder_(TV_series)>
+- **The Kangaroo Creek Gang**: (Série infantil · 2002) Desenho do estúdio de Yoram Gross (o mesmo de Dot and the Kangaroo) com uma turma de bichos do bush em aventuras para proteger o seu lar. <https://pt.wikipedia.org/wiki/Kangaroo_Creek_Gang>
+- **Bambaloo**: (Série infantil · 2003) Programa pré-escolar da Seven com bonecos e apresentadores, que marcou as manhãs de quem foi criança nos anos 2000. <https://en.wikipedia.org/wiki/Bambaloo>
+- **Blue Water High**: (Série infantil · 2005) Adolescentes disputam vagas numa academia de surfe nas praias do norte de Sydney. <https://pt.wikipedia.org/wiki/Blue_Water_High>
+- **Mortified**: (Série infantil · 2006) Taylor Fry, de 11 anos, morre de vergonha da família e foge para um mundo de fantasia na própria cabeça. <https://pt.wikipedia.org/wiki/Mortified>
+- **Lockie Leonard**: (Série infantil · 2007) Um surfista de 12 anos se muda para uma cidade pequena na Austrália Ocidental. Baseada nos livros de Tim Winton. <https://pt.wikipedia.org/wiki/Lockie_Leonard>
+- **Dance Academy**: (Série infantil · 2010) Estudantes de balé lutam por uma vaga na academia nacional de dança, em Sydney. Ganhou filme em 2017. <https://pt.wikipedia.org/wiki/Dance_Academy>
+- **Mako Mermaids**: (Série infantil · 2013) Derivada de H2O, com sereias que protegem a ilha de Mako. Fez sucesso no mundo pela Netflix. <https://pt.wikipedia.org/wiki/Mako_Mermaids>
+- **As Novas Aventuras de Blinky Bill**: (Série infantil · 1984) Série da ABC (1984–1987) em que atores contracenavam com bonecos do coala travesso e da turma do bush. Continuou em reprises até 1991. <https://en.wikipedia.org/wiki/The_New_Adventures_of_Blinky_Bill>
+
+### O que os australianos assistem
+
+- **Neighbours**: (Novelas · 1985) Novela da Ramsay Street, em Melbourne. Revelou Kylie Minogue, Margot Robbie, Guy Pearce e Liam Hemsworth. <https://pt.wikipedia.org/wiki/Neighbours>
+- **Home and Away**: (Novelas · 1988) Novela na praia fictícia de Summer Bay (gravada em Palm Beach, Sydney). Lançou Chris Hemsworth e Isla Fisher. <https://pt.wikipedia.org/wiki/Home_and_Away>
+- **MasterChef Australia**: (Reality · 2009) A versão mais amada do formato no mundo, inclusive no Brasil. A final de 2010 é uma das maiores audiências da história da TV australiana. <https://en.wikipedia.org/wiki/MasterChef_Australia>
+- **Married at First Sight**: (Reality · 2015) Desconhecidos que se casam na primeira vez que se veem. Polêmico e campeão de audiência (o famoso "MAFS"). <https://en.wikipedia.org/wiki/Married_at_First_Sight>
+- **The Block**: (Reality · 2003) Casais reformam casas que vão a leilão. Combina com a obsessão australiana por imóveis. <https://pt.wikipedia.org/wiki/The_Block>
+- **Bondi Rescue**: (Reality · 2006) O dia a dia dos salva-vidas da praia de Bondi, em Sydney. Exibido em dezenas de países. <https://en.wikipedia.org/wiki/Bondi_Rescue>
+- **Border Security**: (Reality · 2004) A biossegurança nos aeroportos: aquele maracujá esquecido na mala que vira multa. Ajuda a entender por que tudo é declarado na chegada. <https://en.wikipedia.org/wiki/Border_Security:_Australia%27s_Front_Line>
+- **Gogglebox Australia**: (Reality · 2015) Famílias reais reagindo à TV no sofá. Um retrato bem-humorado de como o australiano fala e pensa. <https://en.wikipedia.org/wiki/Gogglebox_Australia>
+- **Skippy**: (Nostalgia · 1968) O canguru esperto que salvava o dia. Clássico infantil exibido em mais de 100 países. <https://en.wikipedia.org/wiki/Skippy_the_Bush_Kangaroo>
+- **Hi-5**: (Nostalgia · 1999) Grupo infantil de música e dança que marcou a infância dos anos 2000. <https://pt.wikipedia.org/wiki/Hi-5>
+- **Play School**: (Nostalgia · 1966) Programa infantil da ABC no ar desde 1966, um dos mais longevos do mundo. Big Ted e Jemima são instituições. <https://en.wikipedia.org/wiki/Play_School_(Australian_TV_series)>
+- **Countdown**: (Nostalgia · 1974) Programa musical da ABC apresentado por Molly Meldrum, de chapéu de cowboy. Lançou AC/DC, Kylie e muitos outros. <https://en.wikipedia.org/wiki/Countdown_(Australian_TV_program)>
+- **Hey Hey It's Saturday**: (Nostalgia · 1971) Programa de variedades das manhãs (depois noites) de sábado, com o boneco Ossie Ostrich. Ficou 28 anos no ar. <https://en.wikipedia.org/wiki/Hey_Hey_It%27s_Saturday>
+- **Big Brother Australia**: (Nostalgia · 2001) Fenômeno dos anos 2000 gravado no parque Dreamworld, na Gold Coast. <https://en.wikipedia.org/wiki/Big_Brother_(Australian_TV_series)>
+- **Australian Idol**: (Nostalgia · 2003) Revelou Guy Sebastian e Jessica Mauboy. A final de 2003 parou o país. <https://en.wikipedia.org/wiki/Australian_Idol>
+- **Os Simpsons**: (Nostalgia · 1991) Não é australiano, mas reprisa sem parar na TV aberta. O episódio "Bart vs. Australia" (1995) é lendário por zoar o país. <https://pt.wikipedia.org/wiki/Os_Simpsons>
+- **Steve Irwin: O Caçador de Crocodilos**: (Nostalgia · 1996) A série de vida selvagem mais famosa do país, vista no mundo todo. <https://en.wikipedia.org/wiki/The_Crocodile_Hunter>
+- **State of Origin**: (Grandes transmissões · 1980) A série anual de rugby league entre NSW (Blues) e Queensland (Maroons). Divide o país ao meio e está sempre entre os programas mais vistos do ano. <https://pt.wikipedia.org/wiki/Rugby_League_State_of_Origin>
+- **AFL Grand Final**: (Grandes transmissões) A final do futebol australiano, no último sábado de setembro, com 100 mil pessoas no MCG. Em Victoria, a sexta-feira anterior é feriado. <https://en.wikipedia.org/wiki/AFL_Grand_Final>
+- **Carols by Candlelight**: (Grandes transmissões · 1938) O concerto de Natal com velas na véspera, em Melbourne, transmitido para todo o país desde os tempos do rádio. <https://en.wikipedia.org/wiki/Carols_by_Candlelight>
+- **Réveillon na Harbour Bridge**: (Grandes transmissões) Os fogos da virada em Sydney, sobre a ponte e a Opera House, transmitidos para o mundo todo. <https://en.wikipedia.org/wiki/Sydney_New_Year%27s_Eve>
+
+Fontes: [Screen Australia](https://www.screenaustralia.gov.au)
+
+## Empresas e marcas
+
+https://australianculture.biblioverse.org/pt/marcas.html
+
+- **Qantas**: (Transporte · 1920) Nasceu em Queensland como Queensland and Northern Territory Aerial Services. Uma das companhias aéreas mais antigas do mundo em operação, com o canguru na cauda. <https://pt.wikipedia.org/wiki/Qantas>
+- **Canva**: (Tecnologia · 2013) Criado por Melanie Perkins, de Perth, e sediado em Sydney. Ferramenta de design usada em praticamente todos os países. <https://pt.wikipedia.org/wiki/Canva>
+- **Atlassian**: (Tecnologia · 2002) De Sydney: criadora do Jira, do Confluence e do Trello. Nasceu com um cartão de crédito de A$10 mil. <https://pt.wikipedia.org/wiki/Atlassian>
+- **Afterpay**: (Tecnologia · 2014) Popularizou o "compre agora, pague depois" no mundo. Foi vendida em 2022 para a Block (do Square) por cerca de US$29 bilhões. <https://en.wikipedia.org/wiki/Afterpay>
+- **BHP**: (Mineração e energia · 1885) Começou na mina de prata de Broken Hill (NSW) e virou a maior mineradora do mundo. A "Big Australian". <https://pt.wikipedia.org/wiki/BHP>
+- **Rio Tinto**: (Mineração e energia · 1873) Gigante anglo-australiana do minério de ferro, com as grandes minas em Pilbara (WA). <https://pt.wikipedia.org/wiki/Grupo_Rio_Tinto>
+- **Commonwealth Bank**: (Bancos · 1911) O maior banco do país, um dos "Big Four" com Westpac, NAB e ANZ. O losango amarelo e preto está em toda esquina. <https://pt.wikipedia.org/wiki/Commonwealth_Bank>
+- **Woolworths**: (Varejo · 1924) A maior rede de supermercados ("Woolies"), sem relação com a Woolworths americana. Divide o mercado com a Coles. <https://en.wikipedia.org/wiki/Woolworths_(Australia)>
+- **Coles**: (Varejo · 1914) A outra metade do duopólio dos supermercados. Nasceu em Collingwood, Melbourne. <https://en.wikipedia.org/wiki/Coles_Group>
+- **Bunnings**: (Varejo · 1886) Loja de construção e jardim famosa pelo sausage sizzle de fim de semana na porta. Passeio de domingo de muita família. <https://en.wikipedia.org/wiki/Bunnings>
+- **Telstra**: (Telecom · 1975) A maior operadora de telefonia e internet, ex-estatal. A que pega no outback. <https://pt.wikipedia.org/wiki/Telstra>
+- **Billabong**: (Moda e surfe · 1973) Da Gold Coast para o mundo: uma das marcas de surfwear que definiram a moda praia dos anos 80 e 90. <https://pt.wikipedia.org/wiki/Billabong>
+- **Rip Curl**: (Moda e surfe · 1969) Nasceu em Torquay, porta de entrada da Great Ocean Road, fazendo pranchas e roupas de borracha. <https://pt.wikipedia.org/wiki/Rip_Curl>
+- **Quiksilver**: (Moda e surfe · 1969) Também de Torquay, começou com bermudas de surfe. A logo é inspirada na onda de Hokusai. <https://pt.wikipedia.org/wiki/Quiksilver>
+- **UGG**: (Moda e surfe · 1970s) As botas de pele de carneiro que surfistas usavam para se aquecer. Na Austrália "ugg" é nome genérico; a marca UGG global é americana. <https://en.wikipedia.org/wiki/Ugg_boots>
+- **R.M. Williams**: (Moda e surfe · 1932) Botas de couro feitas à mão em Adelaide, ícone do estilo "bushman" e queridinhas de políticos e do rei Charles. <https://en.wikipedia.org/wiki/R._M._Williams>
+- **Akubra**: (Moda e surfe · 1912) O chapéu de feltro de abas largas do outback. Crocodilo Dundee usava um. <https://en.wikipedia.org/wiki/Akubra>
+- **Blundstone**: (Moda e surfe · 1870) As botas Chelsea da Tasmânia. Do canteiro de obras às passarelas. <https://en.wikipedia.org/wiki/Blundstone_Footwear>
+- **Cotton On**: (Moda e surfe · 1991) Rede de moda barata de Geelong, hoje em mais de 15 países. <https://en.wikipedia.org/wiki/Cotton_On_Group>
+- **Zimmermann**: (Moda e surfe · 1991) As irmãs Nicky e Simone Zimmermann levaram o estilo romântico de Sydney para a Semana de Moda de Paris.
+- **Aesop**: (Beleza · 1987) Cosmética minimalista de Melbourne, com lojas de design premiado. Comprada pela L'Oréal em 2023. <https://en.wikipedia.org/wiki/Aesop_(brand)>
+- **Arnott's**: (Alimentos · 1865) A fábrica de biscoitos do Tim Tam, Shapes e Iced VoVo, com o papagaio na logo. <https://en.wikipedia.org/wiki/Arnott%27s_Group>
+- **Bundaberg**: (Alimentos · 1960) A ginger beer (refrigerante de gengibre) de Queensland. A cidade também dá nome ao famoso rum "Bundy". <https://en.wikipedia.org/wiki/Bundaberg_Brewed_Drinks>
+- **Penfolds**: (Alimentos · 1844) Vinícola de Adelaide. O Grange é o vinho mais icônico (e caro) do país. <https://en.wikipedia.org/wiki/Penfolds>
+- **Holden**: (Transporte · 1856) Começou fazendo selas e virou a montadora "nacional" (da GM). O Commodore e a ute reinaram até o fim da marca, em 2020. <https://pt.wikipedia.org/wiki/Holden>
+- **Guzman y Gomez**: (Alimentos · 2006) Rede de comida mexicana de Sydney que virou febre e abriu capital em 2024. <https://en.wikipedia.org/wiki/Guzman_y_Gomez>
+- **Boost Juice**: (Alimentos · 2000) Rede de smoothies de Adelaide, presente em mais de 10 países. <https://en.wikipedia.org/wiki/Boost_Juice>
+- **Westfield**: (Varejo · 1959) Os shoppings Westfield nasceram em Sydney (Blacktown) e se espalharam por EUA e Europa. <https://en.wikipedia.org/wiki/Westfield_Corporation>
+- **Cochlear**: (Tecnologia · 1981) Líder mundial em implantes auditivos, nascida da invenção de Graeme Clark. <https://en.wikipedia.org/wiki/Cochlear_Limited>
+- **CSL**: (Tecnologia · 1916) Começou como laboratório do governo e virou uma das maiores empresas de biotecnologia do mundo. <https://en.wikipedia.org/wiki/CSL_Limited>
+
+### Brasil e Austrália: as marcas gêmeas
+
+- **Caixa / Commonwealth Bank**: Bancos: Caixa (Brasil) = Commonwealth Bank (Austrália)
+- **Banco do Brasil / NAB**: Bancos: Banco do Brasil (Brasil) = NAB (Austrália)
+- **Bradesco / Westpac**: Bancos: Bradesco (Brasil) = Westpac (Austrália)
+- **Itaú / ANZ**: Bancos: Itaú (Brasil) = ANZ (Austrália)
+- **PicPay / Beem It**: Bancos: PicPay (Brasil) = Beem It (Austrália)
+- **Serasa / Equifax**: Bancos: Serasa (Brasil) = Equifax (Austrália)
+- **Porto Seguro / Suncorp**: Bancos: Porto Seguro (Brasil) = Suncorp (Austrália)
+- **Pão de Açúcar / Woolworths**: Mercado: Pão de Açúcar (Brasil) = Woolworths (Austrália)
+- **Carrefour / Coles**: Mercado: Carrefour (Brasil) = Coles (Austrália)
+- **Assaí / Atacadão / Costco**: Mercado: Assaí / Atacadão (Brasil) = Costco (Austrália)
+- **Oba Hortifruti / Harris Farm Markets**: Mercado: Oba Hortifruti (Brasil) = Harris Farm Markets (Austrália)
+- **Petz / Petbarn**: Mercado: Petz (Brasil) = Petbarn (Austrália)
+- **BR Mania / 7-Eleven**: Mercado: BR Mania (Brasil) = 7-Eleven (Austrália)
+- **Leroy Merlin / Bunnings**: Lojas: Leroy Merlin (Brasil) = Bunnings (Austrália)
+- **Magazine Luiza / Harvey Norman**: Lojas: Magazine Luiza (Brasil) = Harvey Norman (Austrália)
+- **Fast Shop / JB Hi-Fi**: Lojas: Fast Shop (Brasil) = JB Hi-Fi (Austrália)
+- **Casas Bahia / The Good Guys**: Lojas: Casas Bahia (Brasil) = The Good Guys (Austrália)
+- **Havan / Kmart**: Lojas: Havan (Brasil) = Kmart (Austrália)
+- **Kalunga / Officeworks**: Lojas: Kalunga (Brasil) = Officeworks (Austrália)
+- **Renner / Cotton On**: Moda: Renner (Brasil) = Cotton On (Austrália)
+- **Riachuelo / Target**: Moda: Riachuelo (Brasil) = Target (Austrália)
+- **Hering / Bonds**: Moda: Hering (Brasil) = Bonds (Austrália)
+- **Centauro / Rebel Sport**: Moda: Centauro (Brasil) = Rebel Sport (Austrália)
+- **Dafiti / The Iconic**: Moda: Dafiti (Brasil) = The Iconic (Austrália)
+- **Track & Field / Lorna Jane**: Moda: Track & Field (Brasil) = Lorna Jane (Austrália)
+- **Chilli Beans / Bailey Nelson**: Moda: Chilli Beans (Brasil) = Bailey Nelson (Austrália)
+- **Bauducco / Arnott's**: Comida: Bauducco (Brasil) = Arnott's (Austrália)
+- **Bis / Tim Tam**: Comida: Bis (Brasil) = Tim Tam (Austrália)
+- **Lacta / Cadbury**: Comida: Lacta (Brasil) = Cadbury (Austrália)
+- **Cacau Show / Koko Black**: Comida: Cacau Show (Brasil) = Koko Black (Austrália)
+- **Nescau / Toddy / Milo**: Comida: Nescau / Toddy (Brasil) = Milo (Austrália)
+- **Guaraná Antarctica / Solo**: Comida: Guaraná Antarctica (Brasil) = Solo (Austrália)
+- **Pullman / Tip Top**: Comida: Pullman (Brasil) = Tip Top (Austrália)
+- **Ambev / Lion**: Comida: Ambev (Brasil) = Lion (Austrália)
+- **3 Corações / Vittoria Coffee**: Comida: 3 Corações (Brasil) = Vittoria Coffee (Austrália)
+- **Suco Bagaço / Boost**: Comida: Suco Bagaço (Brasil) = Boost (Austrália)
+- **Drogasil / Chemist Warehouse**: Farmácia: Drogasil (Brasil) = Chemist Warehouse (Austrália)
+- **Pague Menos / Priceline**: Farmácia: Pague Menos (Brasil) = Priceline (Austrália)
+- **O Boticário / Mecca**: Farmácia: O Boticário (Brasil) = Mecca (Austrália)
+- **Natura / Sukin**: Farmácia: Natura (Brasil) = Sukin (Austrália)
+- **Bombril / Chux**: Casa: Bombril (Brasil) = Chux (Austrália)
+- **Ypê / Cold Power**: Casa: Ypê (Brasil) = Cold Power (Austrália)
+- **iFood / DoorDash**: Apps: iFood (Brasil) = DoorDash (Austrália)
+- **99 / DiDi**: Apps: 99 (Brasil) = DiDi (Austrália)
+- **Mercado Livre / eBay**: Apps: Mercado Livre (Brasil) = eBay (Austrália)
+- **OLX / Gumtree**: Apps: OLX (Brasil) = Gumtree (Austrália)
+- **Webmotors / Carsales**: Apps: Webmotors (Brasil) = Carsales (Austrália)
+- **Catho / Seek**: Apps: Catho (Brasil) = Seek (Austrália)
+- **Reclame Aqui / ProductReview**: Apps: Reclame Aqui (Brasil) = ProductReview (Austrália)
+- **Vivo / Telstra**: Telecom: Vivo (Brasil) = Telstra (Austrália)
+- **TIM / Optus**: Telecom: TIM (Brasil) = Optus (Austrália)
+- **Claro / Vodafone**: Telecom: Claro (Brasil) = Vodafone (Austrália)
+- **Globo / Seven Network**: Mídia: Globo (Brasil) = Seven Network (Austrália)
+- **SBT / Nine Network**: Mídia: SBT (Brasil) = Nine Network (Austrália)
+- **Record / Network 10**: Mídia: Record (Brasil) = Network 10 (Austrália)
+- **TV Cultura / ABC**: Mídia: TV Cultura (Brasil) = ABC (Austrália)
+- **Folha de S.Paulo / The Sydney Morning Herald**: Mídia: Folha de S.Paulo (Brasil) = The Sydney Morning Herald (Austrália)
+- **Estadão / The Australian**: Mídia: Estadão (Brasil) = The Australian (Austrália)
+- **Saraiva / Cultura / Dymocks**: Mídia: Saraiva / Cultura (Brasil) = Dymocks (Austrália)
+- **Petrobras / Woodside**: Energia: Petrobras (Brasil) = Woodside (Austrália)
+- **Vale / BHP**: Energia: Vale (Brasil) = BHP (Austrália)
+- **Ipiranga / Ampol**: Energia: Ipiranga (Brasil) = Ampol (Austrália)
+- **LATAM / Qantas**: Aviação: LATAM (Brasil) = Qantas (Austrália)
+- **Gol / Jetstar**: Aviação: Gol (Brasil) = Jetstar (Austrália)
+- **Azul / Virgin Australia**: Aviação: Azul (Brasil) = Virgin Australia (Austrália)
+- **Localiza / Hertz**: Aviação: Localiza (Brasil) = Hertz (Austrália)
+- **Receita Federal / ATO**: Governo: Receita Federal (Brasil) = ATO (Austrália)
+- **INSS / Centrelink**: Governo: INSS (Brasil) = Centrelink (Austrália)
+- **Correios / Australia Post**: Governo: Correios (Brasil) = Australia Post (Austrália)
+- **IBGE / ABS**: Governo: IBGE (Brasil) = ABS (Austrália)
+- **Banco Central / RBA**: Governo: Banco Central (Brasil) = RBA (Austrália)
+- **Embrapa / CSIRO**: Governo: Embrapa (Brasil) = CSIRO (Austrália)
+- **Anvisa / TGA**: Governo: Anvisa (Brasil) = TGA (Austrália)
+- **Procon / ACCC**: Governo: Procon (Brasil) = ACCC (Austrália)
+- **Polícia Federal / AFP**: Governo: Polícia Federal (Brasil) = AFP (Austrália)
+- **TSE / AEC**: Governo: TSE (Brasil) = AEC (Austrália)
+- **STF / High Court**: Governo: STF (Brasil) = High Court (Austrália)
+- **Inmet / BOM**: Governo: Inmet (Brasil) = BOM (Austrália)
+
+Fontes: [Australia Para Todos: marcas famosas no Brasil e suas gêmeas na Austrália](https://australiaparatodos.wordpress.com/2026/07/21/as-marcas-famosas-no-brasil-e-suas-gemeas-na-australia)
+
+## Comida
+
+https://australianculture.biblioverse.org/pt/comida.html
+
+
+### No prato de todo dia
+
+- **Frutas e verduras**: Manga, abacate, banana e macadâmia, muitas cultivadas no próprio país.
+- **Pão e torrada**: Torrada no café da manhã, com Vegemite ou manteiga.
+- **Comida asiática**: Thai, chinesa, vietnamita e indiana são o "delivery" de todo dia.
+- **Café de cafeteria**: Flat white e long black, nada de café coado.
+- **Fish and chips**: Peixe empanado com fritas, de preferência na praia.
+- **Italiana e grega**: Herança da imigração do pós-guerra, sobretudo em Melbourne.
+
+### Ícones, pratos, doces e bebidas
+
+- **Vegemite**: (Ícones · 1923) Pasta escura e salgada de extrato de levedura, criada por Cyril Callister em Melbourne. Vai em fina camada (bem fina!) sobre torrada com manteiga. Rica em vitaminas B. <https://pt.wikipedia.org/wiki/Vegemite>
+- **Tim Tam**: (Ícones · 1964) Biscoito de chocolate da Arnott's. O ritual é o "Tim Tam Slam": morda as pontas e use como canudo para beber café ou chocolate quente. <https://en.wikipedia.org/wiki/Tim_Tam>
+- **Anzac biscuits**: (Ícones · 1915) Biscoito de aveia, coco e golden syrup, ligado aos soldados da Primeira Guerra. Por lei, o nome "Anzac" é protegido e não pode ser chamado de "cookie". <https://en.wikipedia.org/wiki/Anzac_biscuit>
+- **Meat pie**: (Ícones · 1800s) A torta individual de recheio salgado com tomato sauce, lanche oficial do estádio de footy. Hoje quase toda padaria tem versões vegetarianas e veganas. <https://en.wikipedia.org/wiki/Meat_pie_(Australia_and_New_Zealand)>
+- **Pavlova**: (Ícones · 1920s) Merengue crocante por fora e macio por dentro, com chantili e frutas. Homenageia a bailarina Anna Pavlova. A Nova Zelândia também reivindica a criação. <https://pt.wikipedia.org/wiki/Pavlova>
+- **Lamington**: (Ícones · 1900) Quadradinho de pão de ló coberto de chocolate e coco ralado. Tem até o Dia Nacional do Lamington (21 de julho). <https://en.wikipedia.org/wiki/Lamington>
+- **Fairy bread**: (Ícones · 1920s) Pão de forma com manteiga e granulado colorido, cortado em triângulos. Obrigatório em festa infantil. <https://en.wikipedia.org/wiki/Fairy_bread>
+- **Sausage sizzle**: (Pratos e tradições) Pão com linguiça (hoje quase sempre com opção vegetariana), vendido para arrecadar fundos em feiras, escolas e no dia da eleição: a famosa "democracy sausage". <https://en.wikipedia.org/wiki/Sausage_sizzle>
+- **Barbie (churrasco)**: (Pratos e tradições) Churrasqueiras elétricas públicas e gratuitas em praticamente todo parque. O encontro em volta da churrasqueira é o programa social mais australiano que existe. <https://en.wikipedia.org/wiki/Barbecue>
+- **Smashed avo**: (Pratos e tradições) Torrada com abacate amassado, o símbolo do brunch australiano. Um colunista culpou o prato pelos jovens não conseguirem comprar casa (2016). <https://en.wikipedia.org/wiki/Avocado_toast>
+- **Manga Bowen**: (Pratos e tradições · verão) A manga de Queensland é a fruta do Natal australiano: as caixas chegam aos mercados em dezembro e todo mundo compra. <https://en.wikipedia.org/wiki/Kensington_Pride>
+- **Damper**: (Pratos e tradições) Pão simples de farinha e água assado na brasa, comida dos viajantes do outback. <https://en.wikipedia.org/wiki/Damper_(food)>
+- **Frutos do mar no Natal**: (Pratos e tradições) Como o Natal cai no verão, a ceia é leve e fria, com saladas, frutas, pavlova e sorvete, de preferência na praia ou no parque. <https://en.wikipedia.org/wiki/Christmas_in_Australia>
+- **Golden Gaytime**: (Doces e snacks · 1959) Picolé de toffee com baunilha e cobertura de biscoito. O slogan clássico: "It's hard to have a Gaytime on your own". <https://en.wikipedia.org/wiki/Golden_Gaytime>
+- **Caramello Koala**: (Doces e snacks) Chocolate em formato de coala com recheio de caramelo, da Cadbury. <https://en.wikipedia.org/wiki/Caramello_Koala>
+- **Freddo Frog**: (Doces e snacks · 1930) O sapinho de chocolate da infância australiana. O preço (que já foi 20 centavos) é um termômetro da inflação. <https://en.wikipedia.org/wiki/Freddo>
+- **Iced VoVo**: (Doces e snacks) Biscoito com fondant rosa, geleia de framboesa e coco. <https://en.wikipedia.org/wiki/Iced_VoVo>
+- **Shapes**: (Doces e snacks · 1976) Biscoitos salgados da Arnott's em sabores como Pizza e Barbecue. A mudança de receita em 2015 gerou revolta nacional. <https://en.wikipedia.org/wiki/Arnott%27s_Shapes>
+- **Twisties**: (Doces e snacks) Salgadinho de milho com queijo, primo do Cheetos. <https://en.wikipedia.org/wiki/Twisties>
+- **Cherry Ripe**: (Doces e snacks · 1924) A barra de chocolate mais antiga do país: cereja e coco cobertos de chocolate amargo. <https://en.wikipedia.org/wiki/Cherry_Ripe_(chocolate_bar)>
+- **Weet-Bix**: (Doces e snacks) Bloquinhos de trigo integral do café da manhã. "Aussie kids are Weet-Bix kids". <https://en.wikipedia.org/wiki/Weet-Bix>
+- **Milo**: (Bebidas · 1934) Achocolatado em pó criado em Sydney por Thomas Mayne. Bom mesmo é comer o pó crocante por cima do leite gelado. <https://en.wikipedia.org/wiki/Milo_(drink)>
+- **Flat white**: (Bebidas · 1980s) Espresso com leite vaporizado e pouca espuma. Austrália e Nova Zelândia disputam quem inventou. Melbourne é a capital do café. <https://pt.wikipedia.org/wiki/Flat_white>
+- **Lemon, lime & bitters**: (Bebidas) Refrigerante de limão com gotas de Angostura. A bebida de pub de quem não vai beber álcool. <https://en.wikipedia.org/wiki/Lemon,_lime_and_bitters>
+- **Bundy & Coke**: (Bebidas) Rum Bundaberg com Coca-Cola, com o urso polar na garrafa. <https://en.wikipedia.org/wiki/Bundaberg_Rum>
+- **Macadâmia**: (Bush tucker (nativos)) Nativa de Queensland e NSW, é a única noz australiana cultivada em escala comercial no mundo todo. <https://pt.wikipedia.org/wiki/Macadamia>
+- **Wattleseed**: (Bush tucker (nativos)) Semente de acácia torrada com sabor de café e chocolate, usada há milênios pelos povos aborígenes. <https://en.wikipedia.org/wiki/Wattleseed>
+- **Finger lime**: (Bush tucker (nativos)) O "caviar cítrico": um limão em forma de dedo cheio de bolinhas azedas. Queridinho dos chefs. <https://pt.wikipedia.org/wiki/Citrus_australasica>
+
+Fontes: [Tourism Australia: comida e bebida](https://www.australia.com/en/things-to-do/food-and-drink.html)
+
+## Invenções
+
+https://australianculture.biblioverse.org/pt/invencoes.html
+
+- **Bumerangue**: (Povos originários · milênios) Ferramenta aerodinâmica de caça e de guerra dos povos aborígenes; alguns tipos voltam para quem lança. <https://pt.wikipedia.org/wiki/Bumerangue>
+- **Woomera**: (Povos originários · milênios) Propulsor que aumenta o alcance e a força do arremesso de lanças. <https://en.wikipedia.org/wiki/Woomera_(spear-thrower)>
+- **Didgeridoo**: (Povos originários · milênios) Instrumento de sopro feito de tronco escavado por cupins, do norte da Austrália. <https://pt.wikipedia.org/wiki/Didjeridu>
+- **Refrigeração mecânica**: (Cotidiano · 1856) James Harrison criou uma das primeiras máquinas de fazer gelo em Geelong, abrindo caminho para exportar carne congelada. <https://pt.wikipedia.org/wiki/James_Harrison_(engenheiro)>
+- **Voto secreto**: (Sociedade · 1856) Criado em Victoria e South Australia, o "Australian ballot" foi copiado pelo mundo todo. <https://pt.wikipedia.org/wiki/Voto_secreto>
+- **Futebol australiano**: (Sociedade · 1858) Tom Wills ajudou a criar as regras para manter os jogadores de críquete em forma no inverno. Hoje é a AFL. <https://pt.wikipedia.org/wiki/Futebol_australiano>
+- **Furadeira elétrica**: (Cotidiano · 1889) Arthur James Arnot e William Blanch Brain criaram a primeira, em Melbourne, para perfurar rocha e carvão. <https://en.wikipedia.org/wiki/Arthur_James_Arnot>
+- **Primeiro longa-metragem**: (Sociedade · 1906) The Story of the Kelly Gang, sobre o fora da lei Ned Kelly, é considerado o primeiro longa narrativo do mundo. <https://pt.wikipedia.org/wiki/The_Story_of_the_Kelly_Gang>
+- **Marca-passo**: (Saúde · 1926) Mark Lidwill e o físico Edgar Booth usaram um aparelho portátil para reanimar um bebê em Sydney. <https://pt.wikipedia.org/wiki/Marca-passo>
+- **Penicilina em escala**: (Saúde · 1940s) O australiano Howard Florey transformou a descoberta de Fleming em remédio. Nobel de 1945 e milhões de vidas salvas. <https://pt.wikipedia.org/wiki/Howard_Florey>
+- **Varal giratório Hills Hoist**: (Cotidiano · 1945) O varal em forma de guarda-chuva que existe em todo quintal australiano. Lance Hill o produziu em Adelaide. <https://en.wikipedia.org/wiki/Hills_Hoist>
+- **Caixa-preta**: (Tecnologia · 1956) David Warren, de Melbourne, criou o gravador de voz e de dados de voo, hoje obrigatório em todo avião. <https://pt.wikipedia.org/wiki/Caixa_negra>
+- **Lentes plásticas de óculos**: (Saúde · 1960) Desenvolvidas em Adelaide pela SOLA, cerca de 60% mais leves que as de vidro. <https://en.wikipedia.org/wiki/Timeline_of_Australian_inventions>
+- **Ultrassom médico**: (Saúde · 1960s) O laboratório de pesquisa em ultrassom do governo australiano criou aparelhos pioneiros de imagem para gestantes. <https://pt.wikipedia.org/wiki/Ultrassonografia>
+- **Escorregador inflável de avião**: (Tecnologia · 1965) Jack Grant, funcionário da Qantas, criou a rampa inflável de evacuação que vira bote. <https://en.wikipedia.org/wiki/Evacuation_slide>
+- **Vinho em caixa**: (Cotidiano · 1965) O "goon bag": vinho em bolsa plástica dentro da caixa, criado por Tom Angove. Clássico de mochileiro. <https://en.wikipedia.org/wiki/Box_wine>
+- **Permacultura**: (Sociedade · 1978) Bill Mollison e David Holmgren, da Tasmânia, criaram o sistema de agricultura sustentável hoje usado no mundo todo. <https://pt.wikipedia.org/wiki/Permacultura>
+- **Implante coclear**: (Saúde · 1978) Graeme Clark criou o "ouvido biônico" multicanal em Melbourne, que devolveu a audição a centenas de milhares de pessoas. <https://pt.wikipedia.org/wiki/Implante_coclear>
+- **Descarga dupla**: (Cotidiano · 1980) Bruce Thompson, da Caroma, criou o botão de meia e descarga completa para economizar água. <https://en.wikipedia.org/wiki/Dual_flush_toilet>
+- **CPAP**: (Saúde · 1981) Colin Sullivan, de Sydney, criou a máscara que trata a apneia do sono. Deu origem à empresa ResMed. <https://pt.wikipedia.org/wiki/Press%C3%A3o_positiva_cont%C3%ADnua_na_via_a%C3%A9rea>
+- **Notas de plástico**: (Tecnologia · 1988) O Banco Central e o CSIRO criaram as primeiras notas de polímero: duram mais e são difíceis de falsificar. O Brasil usou o mesmo material na nota de R$10 comemorativa de 2000. <https://en.wikipedia.org/wiki/Polymer_banknote>
+- **Wi-Fi**: (Tecnologia · 1992) Uma equipe do CSIRO, liderada por John O'Sullivan, patenteou a tecnologia que tornou o Wi-Fi rápido e estável. <https://pt.wikipedia.org/wiki/Wi-Fi>
+- **Spray de pele**: (Saúde · 1990s) Fiona Wood, de Perth, criou um spray com células do paciente para tratar queimaduras. Usado nas vítimas do atentado em Bali (2002). <https://en.wikipedia.org/wiki/Fiona_Wood>
+- **Vacina contra HPV**: (Saúde · 2006) Ian Frazer e o chinês Jian Zhou desenvolveram em Brisbane a tecnologia da vacina que previne o câncer de colo de útero. <https://pt.wikipedia.org/wiki/Vacina_contra_o_HPV>
+- **Google Maps**: (Tecnologia · 2005) Os irmãos dinamarqueses Lars e Jens Rasmussen criaram o mapa em Sydney, na startup Where 2, comprada pelo Google em 2004. <https://pt.wikipedia.org/wiki/Google_Maps>
+
+Fontes: [Australia Para Todos: maiores invenções australianas](https://australiaparatodos.wordpress.com/2026/03/12/maiores-invencoes-australianas); [CSIRO](https://www.csiro.au)
+
+## Virais e memes
+
+https://australianculture.biblioverse.org/pt/virais-e-memes.html
+
+
+### Memes e lendas
+
+- **Drop bears**: (Lendas) O "coala carnívoro" que cai das árvores em cima dos turistas. Não existe, mas todo australiano jura que sim. Dica: passe Vegemite atrás da orelha. <https://pt.wikipedia.org/wiki/Drop_bear>
+- **A Guerra dos Emus**: (Lendas · 1932) O exército australiano usou metralhadoras contra 20 mil emus que destruíam plantações em WA. Os emus venceram. É história real. <https://pt.wikipedia.org/wiki/Guerra_aos_Emus>
+- **"Tudo na Austrália quer te matar"**: (Lendas) O meme eterno sobre aranhas, cobras, águas-vivas e crocodilos. Na prática, morre-se muito mais afogado ou no trânsito. <https://pt.wikipedia.org/wiki/Fauna_da_Austr%C3%A1lia>
+- **Shoey**: (Comportamento) Beber cerveja (ou champanhe) no próprio sapato. Daniel Ricciardo levou o ritual para o pódio da Fórmula 1. <https://en.wikipedia.org/wiki/Drinking_from_shoes>
+- **Democracy sausage**: (Comportamento) O cachorro-quente vendido nos locais de votação. Foi eleita palavra do ano em 2016, e tem até site que mapeia onde tem. <https://en.wikipedia.org/wiki/Democracy_sausage>
+- **Cebola em cima ou embaixo?**: (Comportamento · 2018) A Bunnings mandou colocar a cebola embaixo da linguiça "por segurança" (ela escorregava). Virou debate nacional. <https://en.wikipedia.org/wiki/Democracy_sausage>
+- **Bin chicken**: (Comportamento) O apelido do íbis-branco, ave que vive revirando lixeiras em Sydney e Brisbane. Virou mascote não oficial. <https://pt.wikipedia.org/wiki/%C3%8Dbis-branco-australiano>
+- **"Throw another shrimp on the barbie"**: (Frases · 1984) Paul Hogan num comercial de turismo para os EUA. Ironia: australiano não fala "shrimp", fala "prawn". <https://en.wikipedia.org/wiki/Shrimp_on_the_barbie>
+- **"That's not a knife"**: (Frases · 1986) "Isso não é uma faca. ISSO é uma faca." A cena de Crocodilo Dundee é imitada até hoje. <https://pt.wikipedia.org/wiki/Crocodilo_Dundee>
+- **"Tell him he's dreamin'"**: (Frases · 1997) Do filme The Castle. Resposta padrão para qualquer proposta absurda (como um preço alto demais). <https://en.wikipedia.org/wiki/The_Castle_(1997_Australian_film)>
+- **"Crikey!"**: (Frases) A interjeição de Steve Irwin, sinônimo de entusiasmo australiano no mundo todo. <https://pt.wikipedia.org/wiki/Steve_Irwin>
+- **"Yeah, nah"**: (Frases) Quer dizer "não". "Nah, yeah" quer dizer "sim". E "yeah, nah, yeah"... boa sorte. <https://en.wikipedia.org/wiki/Australian_English_vocabulary>
+- **Bob Katter e os crocodilos**: (Internet · 2017) Perguntado sobre o casamento igualitário, o deputado disse "let there be a thousand blossoms bloom" e emendou que "a cada três meses uma pessoa é feita em pedaços por um crocodilo no norte de Queensland". A mudança de assunto virou meme e até caneca. <https://en.wikipedia.org/wiki/Bob_Katter>
+- **“Don’t you dare say that!”**: (Internet · 2025) De novo Bob Katter: em agosto de 2025, numa coletiva de apoio a protestos contra a imigração, um repórter citou sua origem libanesa e o deputado sacudiu o punho na cara dele: "Não diga isso, porque isso me irrita, e eu soco quem diz isso". O vídeo viralizou. <https://en.wikipedia.org/wiki/Bob_Katter>
+- **Peggy and Molly**: (Internet · 2020) A amizade entre Peggy, uma staffy, e Molly, um filhote de magpie resgatado na Gold Coast durante a pandemia, conquistou centenas de milhares de seguidores. Em 2024, Molly foi levada pelo governo por falta de licença e voltou para casa depois de uma campanha dos fãs.
+- **"Democracy manifest"**: (Internet · 1991) Jack Karlson sendo preso em Brisbane depois de uma "suculenta refeição chinesa" e gritando "Gentlemen, this is democracy manifest!". O vídeo viralizou em 2009 e virou lenda. <https://pt.wikipedia.org/wiki/Democracy_Manifest>
+- **"Just waiting for a mate"**: (Internet) No reality policial Highway Patrol, um rapaz parado pela polícia responde a todas as perguntas com "I'm just waiting for a mate". Um clássico da internet australiana. <https://en.wikipedia.org/wiki/Just_waiting_for_a_mate>
+- **Corey Worthington**: (Internet · 2008) Adolescente de Melbourne que anunciou uma festa no MySpace, juntou 500 pessoas e deu entrevista na TV sem tirar os óculos amarelos. Se recusou a pedir desculpas, e o país não esqueceu.
+- **"Doing a Bradbury"**: (Frases · 2002) Steven Bradbury vinha em último na patinação de velocidade das Olimpíadas de Inverno quando todos os rivais caíram, e ele levou o ouro. "Fazer um Bradbury" é ganhar quando ninguém esperava. <https://pt.wikipedia.org/wiki/Steven_Bradbury>
+- **Raygun**: (Internet · 2024) A professora Rachael Gunn competiu no breaking nas Olimpíadas de Paris com o "passo do canguru", tirou zero e virou um dos memes do ano. <https://en.wikipedia.org/wiki/Rachael_Gunn>
+- **Dumb Ways to Die**: (Internet · 2012) Campanha de segurança do metrô de Melbourne com bichinhos morrendo de jeitos bobos. Viralizou e ganhou prêmios em Cannes. <https://pt.wikipedia.org/wiki/Dumb_Ways_to_Die>
+- **Os cães de Johnny Depp**: (Internet · 2015) O ministro Barnaby Joyce ameaçou sacrificar os cães do ator, trazidos sem quarentena. Depp e Amber Heard gravaram um vídeo de desculpas que virou meme. <https://pt.wikipedia.org/wiki/Johnny_Depp>
+- **A cebola de Tony Abbott**: (Internet · 2015) O então primeiro-ministro mordeu uma cebola crua inteira, com casca, numa visita a uma fazenda. Nunca foi esquecido. <https://pt.wikipedia.org/wiki/Tony_Abbott>
+- **Big Things**: (Internet) Mais de 150 esculturas gigantes à beira da estrada: Big Banana, Big Pineapple, Big Prawn, Big Merino... Selfie obrigatória. <https://en.wikipedia.org/wiki/Big_things_(Australia)>
+- **Bluey**: (Internet) Cenas do desenho viraram memes de pais no mundo todo, e o episódio "Keepy Uppy" é usado para explicar a vida adulta. <https://pt.wikipedia.org/wiki/Bluey_(s%C3%A9rie_de_televis%C3%A3o)>
+
+### Comediantes
+
+- **Barry Humphries**: (TV e palco) O criador de Dame Edna Everage, a "dona de casa" de óculos de gatinho que conquistou Londres e a Broadway. Morreu em 2023, aos 89 anos. <https://pt.wikipedia.org/wiki/Barry_Humphries>
+- **Hamish & Andy**: (TV e rádio) Hamish Blake e Andy Lee, a dupla mais querida do rádio e da TV australiana, com programas, viagens e podcasts. <https://en.wikipedia.org/wiki/Hamish_%26_Andy>
+- **Kitty Flanagan**: (TV e rádio) Uma das comediantes mais populares do país, de The Project, Utopia e da série Fisk, que ela criou. <https://en.wikipedia.org/wiki/Kitty_Flanagan>
+- **Wil Anderson**: (TV e rádio) Stand-up e apresentador do Gruen, o programa da ABC que desmonta a publicidade. <https://en.wikipedia.org/wiki/Wil_Anderson>
+- **Tom Gleeson**: (TV e rádio) O apresentador mal-humorado do Hard Quiz. Ganhou o Gold Logie em 2019 com uma campanha de brincadeira. <https://en.wikipedia.org/wiki/Tom_Gleeson>
+- **Adam Hills**: (TV e rádio) De Sydney, fez carreira também no Reino Unido como apresentador do The Last Leg. <https://en.wikipedia.org/wiki/Adam_Hills>
+- **Rove McManus**: (TV e rádio) Dono do talk show Rove, um fenômeno da TV nos anos 2000. <https://en.wikipedia.org/wiki/Rove_McManus>
+- **Chris Lilley**: (TV e rádio) Criador de Summer Heights High, We Can Be Heroes e Angry Boys, em que interpreta quase todos os personagens. <https://en.wikipedia.org/wiki/Chris_Lilley_(comedian)>
+- **Luke McGregor**: (TV e rádio) Tasmaniano de humor tímido e desajeitado, cocriador da série Rosehaven. <https://en.wikipedia.org/wiki/Luke_McGregor>
+- **Merrick Watts**: (TV e rádio) Metade da dupla de rádio Merrick and Rosso, um sucesso dos anos 2000. <https://en.wikipedia.org/wiki/Merrick_Watts>
+- **Hannah Gadsby**: (Stand-up) Da Tasmânia, virou fenômeno mundial com o especial Nanette (2018), na Netflix. <https://pt.wikipedia.org/wiki/Hannah_Gadsby>
+- **Carl Barron**: (Stand-up) Um dos stand-ups mais populares do país, com humor observacional sobre a vida comum australiana. <https://en.wikipedia.org/wiki/Carl_Barron>
+- **Joel Creasey**: (Stand-up) Stand-up e apresentador, comentarista do Eurovision na SBS. <https://en.wikipedia.org/wiki/Joel_Creasey>
+- **Dilruk Jayasinha**: (Stand-up) Nascido no Sri Lanka, deixou a contabilidade pela comédia e atuou na série Utopia. <https://en.wikipedia.org/wiki/Dilruk_Jayasinha>
+- **Ivan Aristeguieta**: (Stand-up) Venezuelano radicado em Melbourne, faz humor sobre ser imigrante na Austrália.
+- **Isaac Butterfield**: (Stand-up) Stand-up de Queensland que estourou no YouTube com humor sem filtro.
+- **Matt Hey**: (Stand-up) Stand-up cujos trechos de shows viralizam nas redes.
+- **Jimmy Rees**: (Internet) Ex-apresentador do Giggle and Hoot, na ABC Kids, que virou fenômeno nas redes com esquetes curtos.
+- **The Inspired Unemployed**: (Internet) Matt Ford e Jack Steele, de Byron Bay, com esquetes sobre a vida de "tradie" e de praia.
+- **Tanya Hennessy**: (Internet) Comediante e radialista com vídeos de humor que fazem sucesso nas redes.
+- **Meghan & Jack**: (Internet) Casal com esquetes sobre a vida a dois.
+- **Punters Politics**: (Internet) Konrad Benjamin explica a política australiana em linguagem de bar, com muito humor.
+- **André Borges (Piana Austrália)**: (Brasileiros na Austrália) Humor sobre o dia a dia de brasileiros na Austrália.
+- **Bia Bastos**: (Brasileiros na Austrália) Brasileira que faz comédia na Austrália.
+- **Bruna Costa**: (Brasileiros na Austrália) Brasileira que faz comédia na Austrália.
+- **Gio Da Vinci**: (Brasileiros na Austrália) Brasileiro que faz comédia na Austrália.
+- **Rodri**: (Brasileiros na Austrália) Brasileiro que faz comédia na Austrália.
+
+Fontes: [Australia Para Todos: vídeos virais australianos](https://australiaparatodos.wordpress.com/2025/02/01/videos-virais-australianos); [Australia Para Todos: comediantes australianos](https://australiaparatodos.wordpress.com/2025/02/03/comediantes-australianos)
+
+## Paixões nacionais
+
+https://australianculture.biblioverse.org/pt/paixoes-nacionais.html
+
+
+### Costumes
+
+- **O pub**: (No pub) Cerveja gelada depois do trabalho, comida de balcão e footy na TV. Quase toda cidade do interior tem um, e muitas vezes ele é o coração do lugar.
+- **Pagar a rodada**: (No pub) O “shout”: você paga para o grupo e cada um faz sua vez. Fugir da sua rodada é um dos piores crimes sociais do país.
+- **Schooner, pot ou middy?**: (No pub) Os copos de cerveja mudam de nome de um estado para outro, então pedir bebida fora de casa pode exigir negociação.
+- **O barbie**: (Na mesa) Linguiça, camarão se der sorte, a salada que alguém trouxe e a churrasqueira pública e gratuita do parque. Um sujeito segura o pegador e a conversa inteira.
+- **Esnobismo do café**: (Na mesa) Um flat white do café do bairro, nunca coado. Australianos discutem os grãos e também se ele foi inventado aqui ou na Nova Zelândia.
+- **Smashed avo**: (Na mesa) O brunch como instituição. Em 2016, um colunista culpou o abacate amassado por os jovens não conseguirem comprar casa, e o país nunca esqueceu.
+- **Torta no posto**: (Na mesa) A meat pie com molho, no posto de gasolina ou no estádio. Nada gourmet, e completamente amada.
+- **Abacaxi na pizza**: (Na mesa) Presunto com abacaxi é presença certa na pizzaria do bairro, e muitos australianos pedem sem nenhuma vergonha. Foi inventada no Canadá e divide as mesas aqui como em todo lugar.
+- **Assistir footy**: (Na tela) O código depende de onde você mora, e o time muitas vezes vem de família. Muita gente não liga para nenhum deles, e ouve falar mesmo assim.
+- **Home and Away e Neighbours**: (Na tela) Décadas de drama na praia e na vizinhança, e a escola de estrelas como Kylie Minogue, Margot Robbie e Chris Hemsworth.
+- **Reality shows**: (Na tela) Married at First Sight, MasterChef e The Block ocupam a sala e o grupo de mensagens. Todo mundo diz que não vê, e todo mundo sabe quem levou o fora.
+- **A praia**: (Na rua) Cooler (esky), toalha, protetor de zinco e banho entre as bandeiras. A maioria mora perto da costa, e o salva-vidas é uma figura nacional.
+- **Slip, slop, slap**: (Na rua) A campanha de protetor solar de 1981 ainda funciona: vista a camiseta, passe o protetor, ponha o chapéu. Checar as manchas da pele faz parte da vida adulta.
+- **Descalço e de chinelo**: (Na rua) Chinelo (thongs) em todo lugar, e pé descalço no mercado nas cidades de praia. Visitantes notam isso rápido.
+- **Palavrão como carinho**: (Na rua) Seu melhor amigo pode ser xingado, e seu inimigo é chamado de “mate”. O tom é tudo.
+- **Síndrome da papoula alta**: (Na rua) Conte vantagem e alguém vai te cortar. Ser humilde, ou fingir que é, é a regra.
+- **O quintal**: (Em casa) O varal giratório Hills Hoist, um galpão e críquete com uma lixeira no lugar dos tocos. Os quintais estão diminuindo, mas a ideia sobrevive.
+- **A Bunnings e a vida de tradie**: (Em casa) A loja gigante de materiais de construção é passeio de fim de semana, e os tradies, os profissionais de obras e reparos, são seus heróis: colete refletivo, ute cheio de ferramentas, batente às 6 da manhã e smoko às 9. Os outros vão atrás de um projeto de reforma que talvez nunca acabe, uns vasos de planta e, claro, a linguiça no pão na porta.
+
+### Esportes
+
+- **Futebol australiano**: (Mais acompanhados) O jogo nacional, inventado em Melbourne nos anos 1850. A grande final da AFL para Victoria, a Austrália do Sul e a Austrália Ocidental todo setembro.
+- **Rugby league**: (Mais acompanhados) A NRL manda em Nova Gales do Sul e Queensland, e o State of Origin transforma os dois estados em inimigos por três noites. A divisão imaginária com a AFL se chama Linha Barassi.
+- **Críquete**: (Mais acompanhados) A trilha sonora do verão. O Boxing Day Test em Melbourne e as Ashes contra a Inglaterra são um ritual nacional.
+- **Rugby union**: (Mais acompanhados) Os Wallabies ganharam duas Copas do Mundo e têm uma rivalidade feroz com a Nova Zelândia, na Bledisloe Cup.
+- **As Matildas**: (Mais acompanhados) A seleção feminina de futebol chegou à semifinal da Copa de 2023, em casa, e conquistou o país, com uma das maiores audiências de TV da história australiana.
+- **Tênis**: (Mais acompanhados) O Australian Open lota todo janeiro. Rod Laver, Evonne Goolagong Cawley e Ash Barty são tesouros nacionais.
+- **Apostas**: (Mais acompanhados) Esporte e aposta andam juntos aqui: odds nos intervalos, aplicativos no celular e uma fezinha no jogo grande. Muitos australianos veem como parte do jogo, e é amplamente considerado um problema social. Olhar indígena: Grupos de apoio a viciados e especialistas em saúde associam as apostas a dívidas e danos às famílias, e pedem limites mais duros para a publicidade durante os esportes.
+- **Natação olímpica**: (Mais acompanhados) A cada quatro anos, o país inteiro de repente tem opinião sobre virada de nado livre. Ian Thorpe, Dawn Fraser e Ariarne Titmus lideram a lista.
+- **Supercars**: (Mais acompanhados) Os V8 e os 1000 km de Bathurst, no Monte Panorama, corrida que já foi decidida entre Holden e Ford.
+- **Caminhada**: (Mais praticados) Segundo a pesquisa AusPlay, é a atividade mais popular entre adultos, à frente da academia e das trilhas.
+- **Academia**: (Mais praticados) A segunda atividade da lista de adultos do AusPlay. Muitas vezes de manhã cedo, com um café depois.
+- **Bushwalking**: (Mais praticados) Trilha, com o nome local. Os parques nacionais começam perto das grandes cidades.
+- **Corrida**: (Mais praticados) O parkrun nas manhãs de sábado e o City2Surf em Sydney são os grandes eventos de massa.
+- **Natação**: (Mais praticados) Em piscinas, piscinas naturais nas pedras e no mar. As crianças têm aula cedo, e está entre as atividades mais populares em todas as idades.
+- **Futebol**: (Mais praticados) Não é o mais assistido, mas está entre os esportes organizados mais praticados, principalmente entre crianças.
+- **Netball**: (Mais praticados) Por gerações, o grande esporte coletivo das meninas. As Diamonds estão entre as melhores seleções do mundo.
+- **Surfe**: (Mais praticados) Mais um jeito de viver do que um esporte em muitas partes da costa. Mick Fanning e Stephanie Gilmore chegaram ao topo do mundo.
+- **Críquete de quintal**: (Mais praticados) Uma mão, um quique, e por cima da cerca é eliminado. Muitas vezes é a competição mais séria da família no Natal.
+- **Golfe**: (Mais praticados) A opção tranquila de fim de semana, com uma gelada no 19º buraco.
+- **Pesca e turfe**: (Mais praticados) A pesca é um ritual de fim de semana, do píer ao Top End. O turfe é mais um passeio, de terno ou chapéu, e muita gente só vai na Melbourne Cup. Olhar indígena: Ativistas pelos direitos dos animais criticam os dois, pela morte de cavalos nas corridas e pelo sofrimento dos peixes, e fazem protestos e eventos alternativos no dia da Cup.
+
+### Festas e eventos
+
+- **Anzac Day**: (País todo) Cerimônias ao amanhecer em 25 de abril, depois two-up no pub, o único dia em que é legal na maioria dos estados. A data mais solene do calendário, e também muito social.
+- **Melbourne Cup**: (País todo) “A corrida que para uma nação”, na primeira terça de novembro. Chapéus, bolão no trabalho e 84.373 pessoas em Flemington em 2025.
+- **Hottest 100**: (País todo) A votação dos ouvintes da rádio triple j enche os churrascos de música no fim de janeiro. Em 2025, uma edição especial de músicas australianas teve mais de 2,6 milhões de votos.
+- **Réveillon de Sydney**: (Cidades) Fogos na Harbour Bridge, vistos no mundo todo, com multidões que garantem o lugar desde a manhã.
+- **Mardi Gras de Sydney**: (Cidades) O desfile nascido de um protesto de 1978 e da violência policial virou um dos grandes eventos LGBTQ+ do mundo.
+- **Vivid Sydney**: (Cidades) Por semanas no inverno, shows de luz cobrem a Opera House e a cidade sai de casaco.
+- **Adelaide Fringe**: (Cidades) Um dos maiores festivais de artes do mundo, que transforma a cidade em palco todo verão.
+- **Beer Can Regatta**: (Cidades · Darwin) Desde 1974, barcos feitos de latas vazias de cerveja correm na praia de Mindil. Isso diz muito sobre Darwin.
+- **Royal Easter Show**: (Cidades) Vacas premiadas, sacolas de doces e a fazenda vindo à cidade. Cada capital tem sua versão.
+- **Festival Garma**: (Interior) A cultura yolngu e a política nacional se encontram em Arnhem Land todo agosto. Primeiros-ministros vão.
+- **Birdsville Races**: (Interior) Desde 1882, uma cidade de cerca de 100 pessoas no interior de Queensland recebe milhares para dois dias de corrida de cavalos na poeira.
+- **Parkes Elvis Festival**: (Interior) Todo janeiro desde 1993, uma cidade de Nova Gales do Sul se enche de sósias de Elvis, em pleno verão.
+- **Festival de Tamworth**: (Interior) A Nashville australiana: música country em toda a cidade a cada janeiro, sob a Big Golden Guitar.
+- **Deni Ute Muster**: (Interior) Milhares de utes (picapes), música e lama em Deniliquin. Uma celebração orgulhosa da vida no campo.
+- **Bathurst 1000**: (Interior) A grande corrida de carros, todo outubro no Monte Panorama. Para muitos, é um acampamento num morro com uma corrida no meio.
+- **Schoolies**: (País todo) Jovens que terminam a escola invadem a Gold Coast e outras cidades de praia em novembro. Os pais tentam não pensar nisso.
+
+### Carros
+
+- **Holden 48-215**: (Clássicos · 1948) “O carro da Austrália”, lançado pelo primeiro-ministro Ben Chifley. Foi o carro que começou a paixão.
+- **O ute**: (Clássicos · 1934) A mulher de um fazendeiro pediu um carro que fosse à igreja e levasse porcos ao mercado. Lew Bandt, da Ford Australia, projetou a picape de passeio, o ute.
+- **Holden contra Ford**: (Clássicos) Por gerações, você era de um ou de outro, por herança, como um time de futebol. A rivalidade se resolvia no Monte Panorama e em todo pub.
+- **Holden Monaro**: (Clássicos · 1968) O muscle car que chamava atenção, e com que uma geração inteira ainda sonha.
+- **A Interceptor de Mad Max**: (Clássicos · 1979) Um Ford Falcon XB modificado virou um dos carros mais famosos do cinema.
+- **Footy, meat pies, kangaroos and Holden cars**: (Clássicos) O jingle dos anos 1970 que resumiu a identidade nacional, e foi adaptado de um americano.
+- **Commodore e Falcon**: (O fim de uma era) Os sedãs de família presentes em toda rua, e os carros da polícia e dos táxis por décadas. O Falcon saiu de produção em 2016.
+- **O fim da fabricação local**: (O fim de uma era · 2017) Depois de Ford e Toyota, a Holden fechou a fábrica de Elizabeth, e a Austrália parou de fazer carros. A própria marca sumiu poucos anos depois, com muito luto.
+- **Ford Ranger**: (Hoje) O veículo mais vendido do país por três anos seguidos: cerca de 53.700 em 2025. Projetado em boa parte em Victoria, aliás.
+- **Toyota Hilux**: (Hoje) O antigo rei, segundo em 2025 com cerca de 45.800. Favorito de pedreiros e fazendeiros, e agora do subúrbio também.
+- **Land Cruiser**: (Hoje) O veículo universal do outback. Em lugares remotos, é o que tem mais chance de te levar de volta.
+- **O trailer**: (Paixões) Os grey nomads se aposentam, engatam um trailer e rodam o país por anos. A Big Lap é um plano de vida de verdade.
+- **Burnouts**: (Paixões) O Summernats, em Canberra, é o grande festival de pneu fumegando. Muito barulhento e muito masculino.
+- **Quebra-mato e road trains**: (Paixões) Cangurus na estrada ao anoitecer justificam o quebra-mato, e no outback a rodovia é dividida com caminhões de três ou quatro carretas.
+- **A Kombi**: (Paixões) A van dos surfistas, com prancha no teto, a caminho de uma praia ao norte. Hoje é disputada e cara.
+
+### Internet e memes
+
+- **Um emprego em tempo integral online**: (Hábitos) Segundo o relatório Digital 2026, os australianos passam cerca de 41 horas por semana online, contra 33 da média mundial, incluindo mais de 19 horas nas redes sociais.
+- **Proibir redes para adolescentes**: (Hábitos · 2025) A Austrália foi o primeiro país com proibição nacional de contas em redes sociais para menores de 16 anos. Pais, jovens e plataformas ainda discutem.
+- **Reclamar da NBN**: (Hábitos) A rede nacional de banda larga é há anos uma briga política e uma fonte de frustração diária. Hobby nacional compartilhado.
+- **Grupos de bairro no Facebook**: (Hábitos) Grupos locais para briga de vaga, cachorro perdido, uma van suspeita e gente pedindo indicação de encanador.
+- **Tudo quer te matar**: (Memes) O meme australiano favorito do mundo, e os australianos entram na brincadeira. Uma aranha huntsman no quebra-sol do carro é um gênero clássico. Veja também Virais e memes.
+- **Humor seco**: (Memes) Eufemismo em voz neutra, mesmo na crise. Se um local diz “meio quente hoje” a 44 °C, é piada.
+- **O sotaque no TikTok**: (Memes) Estrangeiros tentam “g’day”, os australianos corrigem e ninguém concorda sobre o que “yeah, nah” significa.
+- **Shoey e bin chicken**: (Memes) Beber no sapato e um íbis roubando suas batatas: duas piadas locais que o resto do mundo agora entende.
+- **“A Austrália não existe”**: (Lá fora) Uma teoria da conspiração de brincadeira que diz que o país inteiro é inventado. Os locais adoram, ainda mais porque ninguém acredita na fauna mesmo.
+- **Piadas de cabeça para baixo**: (Lá fora) Privada girando ao contrário, andar no teto e Natal na praia. Já ouviram todas, e ainda respondem com educação.
+- **A vaquinha de Celeste Barber**: (Lá fora · 2020) A comediante pediu doações no Facebook durante o Black Summer, os grandes incêndios, e arrecadou mais de A$ 50 milhões, com dinheiro do mundo todo.
+- **Memes de Bluey**: (Lá fora) O desenho de Brisbane virou uma língua sobre maternidade e paternidade no mundo todo, falada em clipes e capturas de tela.
+- **#CensusFail**: (Hábitos · 2016) O censo online caiu na noite do censo, e a reação nacional foi exatamente a esperada. Um pouco de humor para cada falha.
+- **Desinformação**: (Hábitos) Correntes e conspirações também circulam aqui, da pandemia ao referendo da Voz. Olhar indígena: No referendo de 2023, a comissão eleitoral gastou tempo considerável corrigindo alegações falsas sobre como funciona a votação.
+
+### O cachorro australiano
+
+- **O blue heeler**: (Os cães) O boiadeiro australiano: pintado, duro na queda e desconfiado de todos, menos de você. Criado nos anos 1800 para tocar gado em distâncias enormes, com dingo na árvore genealógica.
+- **O kelpie**: (Os cães) O cão pastor que corre por cima das costas do rebanho. Nasceu nas fazendas australianas, de collies escoceses, e raramente fica parado.
+- **O cachorro na caçamba do ute**: (Os cães) Orelhas ao vento, a caminho da fazenda ou do pub. A imagem nacional da felicidade (há regras sobre prender o cachorro).
+- **Bluey**: (Cães famosos · 2018) Uma família de blue heelers de Brisbane e um dos programas infantis mais vistos do planeta. Muitos adultos admitem chorar, sozinhos.
+- **Red Dog**: (Cães famosos) Um cruzamento de kelpie vermelho de verdade, que andou pelo Pilbara nos anos 1970, adotado por uma cidade inteira. Tem estátua em Dampier e um filme de sucesso de 2011.
+- **O Dog on the Tuckerbox**: (Cães famosos · 1932) Estátua perto de Gundagai, de um poema sobre um cão leal que guardava o almoço de um carreiro. Uma parada de estrada com status.
+- **Kelpie Muster de Casterton**: (Um afeto nacional) A cidade de Victoria que se diz berço do kelpie faz um festival e um leilão, em que cães de trabalho chegam a preços altíssimos.
+- **Quase metade das casas**: (Um afeto nacional) Pesquisas da Animal Medicines Australia encontraram cães em 48% das casas em 2022, parte de uma das maiores taxas de pets do mundo.
+
+### E mais
+
+- **Falar do preço das casas**: (Dia a dia) O verdadeiro esporte nacional. Todo churrasco acaba em quanto saiu a casa da rua de baixo, e os jovens não conseguem pagar.
+- **Coles ou Woolies**: (Dia a dia) Dois supermercados dominam o país, e todo mundo tem opinião sobre eles. Mais a Aldi e a caça ao tesouro na Kmart.
+- **Mateship**: (Dia a dia) A ideia de cuidar dos seus amigos, da lenda dos Anzacs à brigada voluntária de incêndio. Olhar indígena: Historiadores lembram que a história clássica do mateship se centrou em homens brancos, deixando de fora mulheres e povos originários.
+- **Acampar**: (Dia a dia) Férias de Natal no mesmo camping todo ano, às vezes por gerações. Reserve cedo.
+- **Comida de todo lugar**: (Dia a dia) O tailandês do bairro, o pho vietnamita, os gregos e libaneses. A imigração mudou o prato nacional, e a maioria agradece.
+- **O sickie**: (No trabalho) Um dia de folga “doente”, principalmente depois de um jogo grande ou de um feriadão. Todo mundo nega, e os chefes conhecem o padrão.
+- **Cerveja com moderação, ou não**: (Corpo) Beber faz parte de muitos eventos sociais, e é falta de educação pular a rodada. Mas os jovens australianos bebem menos que os pais. Olhar indígena: Médicos alertam há muito tempo para os danos do álcool, principalmente em comunidades originárias e na violência doméstica.
+- **Caça-níqueis**: (Dinheiro) As pokies, máquinas em clubes e pubs, principalmente em Nova Gales do Sul. Os australianos estão entre os que mais apostam por pessoa no mundo, e as máquinas levam boa parte. Olhar indígena: Grupos de apoio a viciados e muitos especialistas em saúde pedem regras mais duras para as máquinas, tema que divide a política há anos.
+
+Fontes: [AusPlay](https://www.ausport.gov.au/media-centre/news/australians-are-redefining-the-way-they-play); [Digital 2026: Austrália](https://datareportal.com/reports/digital-2026-australia); [4x4 Australia: VFACTS 2025](https://www.4x4australia.com.au/news/ford-reigns-supreme-in-2025-4x4-sales); [Victoria Racing Club](https://www.vrc.com.au/latest-news/mcc-attracts-286-000-attendees-with-spectacular-racing-and-growth-surging-across-all-event-metrics/); [Animal Medicines Australia, via Vet Voice](https://www.vetvoice.com.au/ec/pet-ownership/pet-ownership-statistics/)
+
+## Dicionário Aussie
+
+https://australianculture.biblioverse.org/pt/dicionario.html
+
+- **Ambo**: Ambulância
+- **Ankle-biter**: Criança pequena
+- **Arro**: Arrogante
+- **Arvo**: Tarde
+- **Aussie**: Australiano(a)
+- **Aussie salute**: Abanar a mão para espantar moscas, gesto típico no interior
+- **Avo**: Abacate
+- **Awks**: Estranho, constrangedor
+- **Barbie / Barby**: Churrasco
+- **Bathers**: Roupa de banho
+- **Berko**: Alguém que fica bravo sem motivo aparente
+- **Bevvies**: Bebidas, drinks
+- **Bikkie**: Biscoito, bolacha
+- **Bizzo**: Negócio
+- **Bloke**: Cara, homem, rapaz
+- **Bloody oath**: Com certeza! (concordância total)
+- **Blotto**: Muito bêbado
+- **Bludger**: Alguém preguiçoso, folgado
+- **Bogan**: Pessoa rude ou sem sofisticação, caipira; estilo de vida simples, sem ligar para a aparência, geralmente associado ao interior ou aos subúrbios
+- **Bogan chic**: Mistura de elementos "bogan" com coisas chiques
+- **Bottle-o**: Loja de bebidas alcoólicas
+- **Brekkie / Brekky**: Café da manhã
+- **Brolly**: Guarda-chuva
+- **Cabbie**: Motorista de táxi
+- **Cactus**: Pessoa desagradável; também algo quebrado, que não funciona
+- **Chewie**: Chiclete
+- **Chockers**: Lotado, totalmente cheio
+- **Chokkie**: Chocolate
+- **Chook**: Galinha, frango
+- **Chrissie**: Natal
+- **Chuck**: Jogar, arremessar
+- **Chuck on**: Colocar, vestir
+- **Chunder**: Vomitar
+- **Clanger**: Comentário inoportuno, gafe
+- **Coldie**: Cerveja bem gelada
+- **Cossies**: Roupa de banho
+- **Crack on**: Vamos começar, vamos continuar
+- **Crook**: Doente
+- **Cunt**: Canalha, idiota (muito ofensivo, mas entre amigos pode ser usado de forma carinhosa)
+- **Cuppa**: Xícara de chá ou café
+- **D’ya**: "Você...?" no começo de uma pergunta
+- **Daggy**: Brega, fora de moda
+- **Dead horse**: Molho de tomate, ketchup
+- **Defo**: Com certeza, definitivamente
+- **Devo**: Arrasado, chateado
+- **Docos**: Documentários
+- **Dog’s eye**: Torta de carne
+- **Drongo**: Idiota
+- **Dunny**: Banheiro, privada
+- **Durry / Duzza**: Cigarro
+- **Eshays**: Grupo de jovens de estilo "quebrada", que podem ser encrenqueiros
+- **Esky**: Caixa térmica portátil
+- **Fair dinkum**: Genuíno, verdadeiro
+- **Feed**: Refeição, comida
+- **Footy / Footie**: Futebol australiano (AFL) ou rugby, dependendo do estado
+- **G’day**: Olá, bom dia
+- **Galah**: Pessoa boba, idiota
+- **Goldie**: Moeda de 1 ou 2 dólares
+- **Good on ya**: Bom trabalho, muito bem
+- **Gorge**: Lindo(a)
+- **Grog**: Bebida alcoólica
+- **Grouse**: Ótimo, excelente
+- **Hard yakka**: Trabalho duro, pesado
+- **Have a crack**: Tentar, dar uma chance
+- **Heaps**: Muito, bastante
+- **Hoon**: Motorista irresponsável
+- **Hooroo**: Tchau
+- **Hospo**: Hospitalidade: trabalho em cafés, bares e restaurantes
+- **Idiot box**: Televisão
+- **Jocks**: Cueca
+- **Joey**: Filhote de canguru
+- **Juice**: Gasolina
+- **Kanga**: Canguru
+- **Knackered**: Cansado, exausto
+- **Layabout**: Pessoa preguiçosa
+- **Lippie**: Batom
+- **Littlies**: Crianças pequenas
+- **Lobster**: Nota de 20 dólares australianos
+- **Lolly**: Doce, bala
+- **Macca’s**: McDonald’s
+- **Mate**: Amigo, companheiro
+- **Minny**: Minuto
+- **Moolah**: Dinheiro
+- **Mozzie**: Mosquito, pernilongo
+- **Mundy**: Segunda-feira
+- **Mushies**: Cogumelos
+- **Nana**: Banana
+- **Narky**: Chateado, mal-humorado
+- **No drama**: Sem problemas
+- **No wozzas**: Sem problemas, relaxa
+- **Noah**: Tubarão
+- **Nuke**: Esquentar no micro-ondas
+- **On the piss**: Sair para beber muito
+- **Oz**: Austrália
+- **Ozzie**: Australiano(a)
+- **Pineapple**: Nota de 50 dólares australianos
+- **Pissed**: Muito bêbado
+- **Polly**: Político
+- **Pommie / Pom**: Pessoa do Reino Unido
+- **Port**: Mala ou mochila escolar
+- **Prawn**: Pessoa que bebeu um pouco demais
+- **Preggers**: Grávida
+- **Pressie**: Presente
+- **Ranga**: Ruivo(a)
+- **Reckon**: Achar, pensar ("I reckon" = eu acho)
+- **Rego**: Registro do carro
+- **Righto**: Beleza, tá bom
+- **Ripper**: Incrível, sensacional
+- **Roomie**: Colega de quarto
+- **Rubbish**: Lixo
+- **Sambo / Sammie / Sanga / Sanger**: Sanduíche
+- **Schoolies**: Tradição de uma a três semanas de festa para quem acabou de terminar o ensino médio
+- **Servo**: Posto de gasolina
+- **Smoko**: Pausa no trabalho
+- **Snag**: Linguiça, salsicha (clássica no churrasco)
+- **Stick**: Prancha de surfe
+- **Stickybeak**: Pessoa curiosa, fofoqueira
+- **Stirrer**: Alguém que causa confusão de propósito
+- **Straya**: Austrália
+- **Stubby**: Garrafinha de cerveja
+- **Sundy**: Domingo
+- **Sunnies**: Óculos escuros
+- **Ta**: Obrigado(a)
+- **Thongs**: Chinelos
+- **Ticker**: Coração
+- **Tinny**: Lata de cerveja; também um barquinho de alumínio
+- **Toddler**: Criança de 1 a 3 anos (também usado nos EUA e no Reino Unido)
+- **Togs**: Roupa de banho
+- **Tot**: Bebê
+- **Truckie**: Caminhoneiro
+- **Tucker**: Comida, refeição
+- **Ute**: Caminhonete
+- **Wadyasay**: O que você disse?
+- **Wee**: Xixi
+- **Woofa**: Cachorro
+- **x**: Beijo. Os australianos colocam um x no fim das mensagens, até entre amigos e colegas de trabalho, como uma despedida carinhosa (“See you soon x”). Quanto mais x, mais carinho: xx, xxx.
+- **Ya**: Você
+- **Yonks**: Há muito tempo
+- **Zonked**: Extremamente cansado
+
+Fontes: [Australia Para Todos: dicionário de termos e gírias australianas](https://australiaparatodos.wordpress.com/2025/01/29/dicionario-de-termos-e-girias-australianas/); [Brasileiros na Austrália: gírias](https://brasileirosnaaustralia.biblioverse.org)
+
+## Recordes e índices
+
+https://australianculture.biblioverse.org/pt/recordes.html
+
+- **Highway 1**: (Geografia · 14.500 km) A maior rodovia nacional do mundo, dando a volta no país inteiro. <https://pt.wikipedia.org/wiki/Highway_1>
+- **Nullarbor Links**: (Geografia · 1.365 km) O maior campo de golfe do mundo: 18 buracos espalhados pela Eyre Highway, entre SA e WA. <https://en.wikipedia.org/wiki/Nullarbor_Links>
+- **Dingo Fence**: (Geografia · 5.614 km) A maior cerca do mundo, construída para manter os dingos longe das ovelhas no sudeste. <https://pt.wikipedia.org/wiki/Cerca_dos_Dingos>
+- **90 Mile Straight**: (Geografia · 146,6 km) A maior reta de estrada asfaltada do país, na Eyre Highway. <https://en.wikipedia.org/wiki/Eyre_Highway>
+- **Reta ferroviária**: (Geografia · 478 km) O trecho de trilho reto mais longo do mundo, na planície de Nullarbor. <https://en.wikipedia.org/wiki/Trans-Australian_Railway>
+- **Grande Barreira de Corais**: (Natureza · 2.300 km) O maior sistema de recifes do planeta, visível do espaço. <https://pt.wikipedia.org/wiki/Grande_Barreira_de_Coral>
+- **K'gari (Fraser Island)**: (Natureza · 1.840 km²) A maior ilha de areia do mundo, com lagos de água doce e floresta tropical. <https://pt.wikipedia.org/wiki/Ilha_Fraser>
+- **Grande Bacia Artesiana**: (Natureza · 1,7 mi km²) Uma das maiores reservas de água subterrânea do mundo, debaixo de 22% do país. <https://en.wikipedia.org/wiki/Great_Artesian_Basin>
+- **Cultura viva mais antiga**: (Sociedade · 60 mil+ anos) Os povos aborígenes e das Ilhas do Estreito de Torres têm a cultura contínua mais antiga da Terra. <https://pt.wikipedia.org/wiki/Abor%C3%ADgenes_australianos>
+- **Maior país**: (Índices · 6º) 7,69 milhões de km², quase o tamanho do Brasil (8,5 milhões). E o único país que ocupa um continente inteiro. <https://pt.wikipedia.org/wiki/Lista_de_Estados_por_%C3%A1rea_territorial>
+- **Salário mínimo**: (Índices · A$ 26,44/h) O salário mínimo nacional desde julho de 2026 (A$1.004,90 por semana), um dos mais altos do mundo. <https://en.wikipedia.org/wiki/Minimum_wage_in_Australia>
+- **Prêmios Nobel**: (Índices · 15) Oito deles em Medicina, como Howard Florey (penicilina) e Peter Doherty (sistema imune). Patrick White ganhou o de Literatura em 1973. <https://en.wikipedia.org/wiki/List_of_Australian_Nobel_laureates>
+- **Comparecimento às urnas**: (Sociedade · ~90%) O voto é obrigatório desde 1924 e quem falta leva multa. O resultado é um dos maiores comparecimentos do mundo. <https://en.wikipedia.org/wiki/Electoral_system_of_Australia>
+- **Voto feminino**: (Sociedade · 1902) Um dos primeiros países a dar às mulheres o direito de votar e de se candidatar em eleições nacionais. <https://en.wikipedia.org/wiki/Women%27s_suffrage_in_Australia>
+- **MCG**: (Sociedade · 100.024) O Melbourne Cricket Ground é o maior estádio do hemisfério sul e o maior de críquete do mundo. <https://pt.wikipedia.org/wiki/Melbourne_Cricket_Ground>
+- **Perdas com apostas**: (Índices · 1º) Australianos são os que mais perdem dinheiro com jogos de azar por pessoa no mundo, puxados pelas "pokies" (caça-níqueis). <https://en.wikipedia.org/wiki/Gambling_in_Australia>
+- **Cobra mais venenosa**: (Natureza · 1ª) A taipan-do-interior tem o veneno mais potente entre as cobras terrestres. Ela é tímida e vive longe de tudo. <https://pt.wikipedia.org/wiki/Taipan-do-interior>
+- **Monte Augustus**: (Natureza · 858 m) Considerado o maior monólito do mundo, com o dobro do tamanho do Uluru. <https://en.wikipedia.org/wiki/Mount_Augustus_National_Park>
+
+Fontes: [Fair Work Ombudsman: salário mínimo desde 1º de julho de 2026](https://www.fairwork.gov.au/about-us/workplace-laws/annual-wage-review/annual-wage-review-2026); [Wikipedia: List of Australian Nobel laureates](https://en.wikipedia.org/wiki/List_of_Australian_Nobel_laureates); [Geoscience Australia](https://www.ga.gov.au)
+
+## Curiosidades
+
+https://australianculture.biblioverse.org/pt/curiosidades.html
+
+- **Nome e cores oficiais**: O nome oficial é Comunidade da Austrália (Commonwealth of Australia). As cores nacionais são o verde e o dourado, das flores e folhas da acácia-dourada (golden wattle), oficializadas em 1984 e usadas pelas seleções do país.
+- **Um hino sem guerra nem religião**: O hino, Advance Australia Fair, não tem referências militares nem religiosas. A versão original, de 1879, era bem mais imperial: uma estrofe elogiava o Capitão Cook e terminava com “Britannia rules the wave” (a Britânia governa as ondas), verso tirado da canção patriótica britânica Rule, Britannia!, e outra chamava os australianos às armas contra invasores. Essas estrofes caíram quando a música virou o hino oficial, em 1984. Em 2021, “young and free” (jovens e livres) virou “one and free” (unidos e livres), em reconhecimento aos povos indígenas.
+- **Mais canguru que gente**: São mais de 40 milhões de cangurus para cerca de 28 milhões de pessoas.
+- **Todo mundo no litoral**: Cerca de 85% da população vive a menos de 50 km da costa. O interior é praticamente vazio.
+- **Um país seco**: Cerca de 70% do território é árido ou semiárido. É o continente habitado mais seco do planeta.
+- **Mais larga que a Lua**: De leste a oeste a Austrália tem uns 4.000 km. O diâmetro da Lua é de 3.474 km.
+- **O continente anda**: A placa australiana se move uns 7 cm por ano para o norte. Em 2017 o país ajustou as coordenadas de GPS em 1,8 m.
+- **Capital por empate**: Sydney e Melbourne brigavam para ser a capital, então construíram Canberra no meio do caminho, de propósito.
+- **Natal no verão**: Papai Noel de bermuda, ceia de frutos do mar e o teste de críquete de Boxing Day (26 de dezembro).
+- **Thongs são chinelos**: Se um australiano disser que esqueceu os thongs, ele está falando de chinelo de dedo.
+- **Tudo é abreviado**: Brekkie (café da manhã), arvo (tarde), servo (posto), avo (abacate), sunnies (óculos de sol), Chrissie (Natal).
+- **Sem idioma oficial**: O inglês é a língua principal, mas nenhuma lei o define como oficial. Antes da colonização havia mais de 250 línguas indígenas.
+- **Um terço nasceu fora**: Cerca de 32% da população nasceu em outro país. Quase metade tem pai ou mãe estrangeiro.
+- **Cocô em cubo**: O wombat é o único animal conhecido que faz cocô em formato de cubo.
+- **O ornitorrinco**: Mamífero que bota ovos, tem bico de pato e o macho tem esporão venenoso. Os cientistas europeus acharam que era fraude.
+- **O brasão que não anda para trás**: Canguru e emu estão no brasão, e diz a tradição que é porque raramente andam para trás, só para frente.
+- **Slip, Slop, Slap**: O país tem uma das maiores taxas de câncer de pele do mundo. Nas escolas vale a regra "No hat, no play".
+- **Mão inglesa**: Dirige-se do lado esquerdo, herança britânica. Pedestre, olhe para a direita primeiro!
+- **Gorjeta não é obrigatória**: Os salários são altos, então ninguém espera gorjeta, embora seja bem-vinda em restaurante.
+- **O ar mais limpo**: A estação de Cape Grim, na Tasmânia, mede um dos ares mais puros do planeta.
+- **O premiê que sumiu**: O primeiro-ministro Harold Holt desapareceu nadando no mar em 1967. Anos depois inauguraram uma piscina com o nome dele.
+- **Coala dorme 20 horas**: A dieta de eucalipto dá pouquíssima energia, então o coala dorme quase o dia inteiro.
+- **Mais de 10 mil praias**: São 10.685 praias. Visitando uma por dia, levaria quase 30 anos.
+- **Biossegurança é sério**: Esquecer de declarar uma fruta ou semente na chegada pode dar multa de milhares de dólares.
+- **Fusos que mudam**: São 3 fusos principais, mas como QLD, WA e NT não adotam horário de verão, no verão o país chega a ter 5 horários diferentes.
+
+Fontes: [ABS: população](https://www.abs.gov.au/statistics/people/population); [Tourism Australia: Key facts](https://www.australia.com/en/facts-and-planning/about-australia/key-facts-about-australia.html); [Geoscience Australia](https://www.ga.gov.au); [Advance Australia Fair (Wikipedia)](https://pt.wikipedia.org/wiki/Advance_Australia_Fair)
+
+## Fauna e flora
+
+https://australianculture.biblioverse.org/pt/natureza.html
+
+- **Canguru-cinzento**: (Mamíferos) O canguru mais visto no leste do país, em parques, campos de golfe e beiras de estrada ao entardecer. Vive em grupos chamados "mobs". <https://pt.wikipedia.org/wiki/Macropus_giganteus>
+- **Canguru-vermelho**: (Mamíferos) O maior marsupial do mundo: um macho pode passar de 1,8 m. Vive no interior árido e salta a mais de 50 km/h. <https://pt.wikipedia.org/wiki/Canguru-vermelho>
+- **Wallaby**: (Mamíferos) Parece um canguru em miniatura. Há dezenas de espécies, como o wallaby-de-pescoço-vermelho, comum na Tasmânia e no leste. <https://pt.wikipedia.org/wiki/Ualabi>
+- **Coala**: (Mamíferos) Não é urso: é um marsupial que come quase só folhas de eucalipto e dorme até 20 horas por dia. Está ameaçado em boa parte do leste. <https://pt.wikipedia.org/wiki/Coala>
+- **Vombate (wombat)**: (Mamíferos) Marsupial robusto que cava tocas enormes. É o único animal conhecido que faz cocô em formato de cubo. <https://pt.wikipedia.org/wiki/Vombate>
+- **Ornitorrinco**: (Mamíferos) Mamífero que bota ovos, tem bico de pato e o macho tem esporão venenoso. Vive em rios do leste e é difícil de ver. <https://pt.wikipedia.org/wiki/Ornitorrinco>
+- **Equidna**: (Mamíferos) O outro mamífero que bota ovos. Coberto de espinhos, come formigas e cupins com uma língua comprida. <https://pt.wikipedia.org/wiki/Tachyglossidae>
+- **Quokka**: (Mamíferos) O "animal mais feliz do mundo", famoso pelas selfies na Rottnest Island, perto de Perth. É proibido tocar ou alimentar. <https://pt.wikipedia.org/wiki/Setonix_brachyurus>
+- **Diabo-da-tasmânia**: (Mamíferos) O maior marsupial carnívoro vivo, só existe na Tasmânia. Grita alto e foi a inspiração do Taz, dos Looney Tunes. <https://pt.wikipedia.org/wiki/Diabo-da-tasm%C3%A2nia>
+- **Gambá-de-cauda-escovada (possum)**: (Mamíferos) Vive nas cidades, no telhado das casas e nos parques. À noite faz barulho e pode ser visto nas árvores. <https://pt.wikipedia.org/wiki/Trichosurus_vulpecula>
+- **Raposa-voadora**: (Mamíferos) Morcego frugívoro gigante, com até 1 m de envergadura. Ao pôr do sol, colônias inteiras cruzam o céu de Sydney e Brisbane. <https://pt.wikipedia.org/wiki/Pteropus>
+- **Dingo**: (Mamíferos) Cão selvagem que chegou há cerca de 3.500 a 4.000 anos com povos navegadores. Hoje é considerado parte da fauna nativa. <https://pt.wikipedia.org/wiki/Dingo>
+- **Magpie-australiano**: (Aves) Pássaro preto e branco com um canto lindo. Na primavera alguns machos dão rasantes em quem passa perto do ninho: é a "swooping season". <https://pt.wikipedia.org/wiki/Gymnorhina_tibicen>
+- **Íbis-branco**: (Aves) O "bin chicken", que revira lixeiras nas cidades. Na verdade é uma ave de áreas úmidas que se adaptou à vida urbana. <https://pt.wikipedia.org/wiki/%C3%8Dbis-branco-australiano>
+- **Cacatua-de-crista-amarela**: (Aves) Barulhenta e muito inteligente. Em Sydney, aprendeu a abrir lixeiras e ensinou a técnica a outras cacatuas. <https://pt.wikipedia.org/wiki/Cacatua-de-crista-amarela>
+- **Galah**: (Aves) Cacatua cor-de-rosa e cinza, comum em bandos. "Galah" também é gíria para pessoa boba. <https://pt.wikipedia.org/wiki/Galah>
+- **Kookaburra**: (Aves) O pássaro cujo canto parece uma gargalhada. É o despertador natural de muitos bairros australianos. <https://pt.wikipedia.org/wiki/Cucaburra-grande>
+- **Lorikeet-arco-íris**: (Aves) Pequeno papagaio de todas as cores, que vive em bandos nas árvores floridas das cidades do leste. <https://pt.wikipedia.org/wiki/L%C3%B3ris-molucano>
+- **Emu**: (Aves) A segunda ave mais alta do mundo, depois do avestruz. Não voa, mas corre a 50 km/h. Está no brasão nacional. <https://pt.wikipedia.org/wiki/Emu>
+- **Casuar**: (Aves) Ave enorme das florestas tropicais do norte de Queensland, com um capacete na cabeça. Importante dispersor de sementes. <https://pt.wikipedia.org/wiki/Casuar-do-sul>
+- **Peru-do-mato (brush turkey)**: (Aves) Comum nos quintais de Brisbane e Sydney. O macho constrói montes de folhas que funcionam como chocadeira. <https://pt.wikipedia.org/wiki/Peru-do-mato>
+- **Pelicano-australiano**: (Aves) Tem o maior bico entre as aves do mundo. Aparece em praias, rios e lagos de todo o país. <https://pt.wikipedia.org/wiki/Pelicano-australiano>
+- **Pinguim-azul**: (Aves) O menor pinguim do mundo, com cerca de 30 cm. Na Phillip Island, perto de Melbourne, desfila ao anoitecer. <https://pt.wikipedia.org/wiki/Pinguim-azul>
+- **Lagarto-de-língua-azul**: (Répteis e outros) Lagarto tranquilo dos jardins, que mostra a língua azul quando se assusta. Ajuda a controlar caracóis. <https://en.wikipedia.org/wiki/Blue-tongued_skink>
+- **Goanna**: (Répteis e outros) Lagarto-monitor que pode passar de 2 m. Comum em parques nacionais e áreas de piquenique. <https://pt.wikipedia.org/wiki/Goanna>
+- **Crocodilo-de-água-salgada**: (Répteis e outros) O maior réptil vivo do mundo, nos rios e no litoral do norte. Respeite as placas: não se nada onde há aviso. <https://pt.wikipedia.org/wiki/Crocodilo-de-%C3%A1gua-salgada>
+- **Aranha caçadora (huntsman)**: (Répteis e outros) Grande e assustadora, mas inofensiva para pessoas. Costuma aparecer dentro de carros e casas. <https://pt.wikipedia.org/wiki/Esparass%C3%ADdeos>
+- **Eucalipto**: (Plantas e flores) São mais de 700 espécies de "gum trees", a árvore que define a paisagem australiana. O cheiro do bush é de eucalipto. <https://pt.wikipedia.org/wiki/Eucalyptus>
+- **Acácia dourada (golden wattle)**: (Plantas e flores) A flor símbolo da Austrália, que inspira o verde e dourado nacionais. Floresce no fim do inverno; 1º de setembro é o Wattle Day. <https://pt.wikipedia.org/wiki/Acacia_pycnantha>
+- **Banksia**: (Plantas e flores) Flores em forma de cone que alimentam aves e marsupiais. Muitas só liberam sementes depois de um incêndio. <https://pt.wikipedia.org/wiki/Banksia>
+- **Grevílea**: (Plantas e flores) Arbustos de flores curvas e coloridas, cheias de néctar. Presentes em quase todo jardim australiano. <https://pt.wikipedia.org/wiki/Grevillea>
+- **Waratah**: (Plantas e flores) A flor vermelha e enorme que é o emblema de New South Wales. <https://en.wikipedia.org/wiki/Telopea_speciosissima>
+- **Kangaroo paw**: (Plantas e flores) Flor em forma de pata de canguru, emblema de Western Australia. <https://pt.wikipedia.org/wiki/Anigozanthos>
+- **Escova-de-garrafa (bottlebrush)**: (Plantas e flores) Flores vermelhas que parecem escovas de lavar garrafa. Atraem lorikeets e abelhas. <https://pt.wikipedia.org/wiki/Callistemon>
+- **Melaleuca (paperbark)**: (Plantas e flores) Árvore de casca que solta como papel. Uma espécie dá o óleo de tea tree, usado em cosméticos. <https://pt.wikipedia.org/wiki/Melaleuca>
+- **Grass tree**: (Plantas e flores) Planta de tronco escuro e tufo de folhas finas, que cresce cerca de 1 cm por ano. Algumas têm centenas de anos. <https://pt.wikipedia.org/wiki/Xanthorrhoeoideae>
+- **Boab**: (Plantas e flores) O baobá australiano, de tronco gordo como uma garrafa, típico da região de Kimberley. <https://pt.wikipedia.org/wiki/Adansonia_gregorii>
+- **Figueira-de-Moreton-Bay**: (Plantas e flores) Figueira gigante de raízes aéreas, comum em parques de Sydney e Brisbane. Sombra garantida. <https://pt.wikipedia.org/wiki/Ficus_macrophylla>
+- **Pinheiro-de-Wollemi**: (Plantas e flores) Árvore da época dos dinossauros, conhecida por fósseis, encontrada viva em 1994 num cânion perto de Sydney. <https://pt.wikipedia.org/wiki/Wollemia>
+- **Spinifex**: (Plantas e flores) Capim espinhoso que cobre boa parte do outback e segura a areia vermelha do deserto. <https://pt.wikipedia.org/wiki/Triodia>
+- **Macadâmia**: (Plantas e flores) Árvore nativa de Queensland e NSW. A noz australiana mais famosa do mundo. <https://pt.wikipedia.org/wiki/Macadamia>
+- **Bilby**: (Mamíferos) Marsupial do deserto de orelhas compridas. Na Páscoa, muitos australianos trocam o coelho de chocolate pelo bilby de chocolate. <https://pt.wikipedia.org/wiki/Macrotis_lagotis>
+- **Petauro-do-açúcar (sugar glider)**: (Mamíferos) Pequeno gambá noturno que plana de árvore em árvore com uma membrana entre as patas. <https://pt.wikipedia.org/wiki/Petaurus_breviceps>
+- **Numbat**: (Mamíferos) Marsupial listrado que come milhares de cupins por dia. Emblema de Western Australia e ameaçado de extinção. <https://pt.wikipedia.org/wiki/Mirmec%C3%B3bio>
+- **Canguru-arborícola**: (Mamíferos) Sim, existe canguru que vive em árvore. O de Lumholtz mora nas florestas tropicais do norte de Queensland. <https://pt.wikipedia.org/wiki/Dendrolagus>
+- **Corruíra-azul (superb fairywren)**: (Aves) Passarinho minúsculo; na época de reprodução o macho fica azul-elétrico. Comum em jardins e parques. <https://pt.wikipedia.org/wiki/Malurus_cyaneus>
+- **Cisne-negro**: (Aves) Na Europa se achava que cisne negro não existia, até ver os da Austrália. É o emblema de Western Australia. <https://pt.wikipedia.org/wiki/Cisne-negro>
+- **Willie wagtail**: (Aves) Pequeno, preto e branco e sem medo de gente. Abana o rabo de um lado para o outro o tempo todo. <https://pt.wikipedia.org/wiki/Rhipidura_leucophrys>
+- **Tawny frogmouth**: (Aves) Parece uma coruja, mas não é. De dia fica imóvel num galho e se disfarça de pedaço de árvore. <https://pt.wikipedia.org/wiki/Boca-de-sapo-australiano>
+- **Pássaro-lira (lyrebird)**: (Aves) O maior imitador do mundo das aves: reproduz outros pássaros, motosserras e cliques de câmera. Está na moeda de 10 centavos. <https://pt.wikipedia.org/wiki/Ave-lira-soberba>
+- **Águia-de-cauda-em-cunha**: (Aves) A maior ave de rapina da Austrália, planando alto sobre o outback. <https://pt.wikipedia.org/wiki/%C3%81guia-audaz>
+- **Rosela-carmesim**: (Aves) Papagaio vermelho e azul das florestas do leste, frequentador de piqueniques nas montanhas. <https://pt.wikipedia.org/wiki/Rosela-elegante>
+- **Lagarto-de-gola (frill-necked lizard)**: (Répteis e outros) Abre uma gola enorme em volta da cabeça para assustar quem chega perto. Já estampou a moeda de 2 centavos. <https://pt.wikipedia.org/wiki/Lagarto-de-gola>
+- **Perereca-verde**: (Répteis e outros) Perereca gordinha e sorridente que adora aparecer em banheiros e caixas-d'água de Queensland. <https://pt.wikipedia.org/wiki/R%C3%A3-arbor%C3%ADcola-de-white>
+- **Diabo-espinhoso (thorny devil)**: (Répteis e outros) Lagarto do deserto coberto de espinhos que bebe água pela pele, por canaletas que levam a gota até a boca. <https://pt.wikipedia.org/wiki/Diabo-espinhoso>
+- **Baleia-jubarte**: (Vida marinha) Entre maio e novembro, dezenas de milhares migram pelas costas leste e oeste. Dá para vê-las da praia. <https://pt.wikipedia.org/wiki/Baleia-jubarte>
+- **Tartaruga-verde**: (Vida marinha) Desova nas praias da Grande Barreira de Corais. Os filhotes correm para o mar à noite. <https://pt.wikipedia.org/wiki/Tartaruga-verde>
+- **Dugongo**: (Vida marinha) A "vaca-marinha" que pasta capim no fundo do mar, em lugares como Moreton Bay e Shark Bay. <https://pt.wikipedia.org/wiki/Dugongo>
+- **Dragão-marinho-folhado**: (Vida marinha) Parente do cavalo-marinho que parece uma alga flutuando. Emblema marinho de South Australia. <https://pt.wikipedia.org/wiki/Drag%C3%A3o-marinho-folhado>
+- **Ervilha-do-deserto de Sturt**: (Plantas e flores) Flor vermelha com o centro preto e brilhante, que pinta o deserto. Emblema de South Australia. <https://en.wikipedia.org/wiki/Swainsona_formosa>
+- **Orquídea de Cooktown**: (Plantas e flores) Orquídea roxa das florestas do norte, emblema de Queensland. <https://en.wikipedia.org/wiki/Dendrobium_bigibbum>
+- **Urze-comum (common heath)**: (Plantas e flores) Arbusto de flores em sininho, rosas ou brancas. Emblema de Victoria. <https://en.wikipedia.org/wiki/Epacris_impressa>
+- **Rosa-do-deserto de Sturt**: (Plantas e flores) Flor lilás das regiões áridas, emblema do Northern Territory. <https://en.wikipedia.org/wiki/Gossypium_sturtianum>
+- **Eucalipto-azul da Tasmânia**: (Plantas e flores) Árvore alta de folhas azuladas, emblema da Tasmânia e uma das mais plantadas no mundo. <https://pt.wikipedia.org/wiki/Eucalyptus_globulus>
+- **Campânula-real (royal bluebell)**: (Plantas e flores) Florzinha azul das campinas, emblema do Território da Capital (ACT). <https://en.wikipedia.org/wiki/Wahlenbergia_gloriosa>
+- **Eucalipto-vermelho-dos-rios (river red gum)**: (Plantas e flores) O eucalipto gigante que acompanha os rios do interior. Pode viver mais de 500 anos. <https://pt.wikipedia.org/wiki/Eucalyptus_camaldulensis>
+- **Samambaia-arbórea**: (Plantas e flores) Samambaias com tronco de vários metros, típicas das florestas frias do sudeste e da Tasmânia. <https://pt.wikipedia.org/wiki/Dicksonia_antarctica>
+- **Lilly pilly**: (Plantas e flores) Árvore de frutinhas cor-de-rosa comestíveis, muito usada como cerca viva nos quintais. <https://pt.wikipedia.org/wiki/Syzygium>
+- **Árvore-garrafa de Queensland**: (Plantas e flores) Tronco gordo em forma de garrafa, onde a árvore guarda água para a seca. <https://pt.wikipedia.org/wiki/%C3%81rvore-garrafa-de-queensland>
+
+Fontes: [Atlas of Living Australia](https://www.ala.org.au); [Australian Museum](https://australian.museum); [Australian National Botanic Gardens](https://www.anbg.gov.au)
+
+## Principais cidades
+
+https://australianculture.biblioverse.org/pt/cidades.html
+
+- **Grande Sydney**: NSW: 5.450.496 habitantes. Nome aborígene: Gadi (Gadigal)
+- **Grande Melbourne**: VIC: 5.207.145 habitantes. Nome aborígene: Naarm (Wurundjeri e Bunurong)
+- **Grande Brisbane**: QLD: 2.706.966 habitantes. Nome aborígene: Meanjin (Turrbal e Yuggera)
+- **Grande Perth**: WA: 2.309.338 habitantes. Nome aborígene: Boorloo (Whadjuk Noongar)
+- **Grande Adelaide**: SA: 1.446.380 habitantes. Nome aborígene: Tarntanya (Kaurna)
+- **Gold Coast**: QLD: 666.087 habitantes. Nome aborígene: None (Yugambeh)
+- **Canberra**: ACT: 466.566 habitantes. Nome aborígene: Kanbarra (Ngunnawal e Ngambri)
+- **Sunshine Coast**: QLD: 365.942 habitantes. Nome aborígene: None (Kabi Kabi e Jinibara)
+- **Central Coast**: NSW: 351.934 habitantes. Nome aborígene: None (Darkinjung)
+- **Grande Geelong**: VIC: 282.809 habitantes. Nome aborígene: Djilang (Wadawurrung)
+- **Grande Hobart**: TAS: 253.654 habitantes. Nome aborígene: nipaluna (muwinina)
+- **Wollongong**: NSW: 219.141 habitantes. Nome aborígene: None (Dharawal)
+- **Townsville**: QLD: 201.433 habitantes. Nome aborígene: Gurambilbarra (Wulgurukaba e Bindal)
+- **Toowoomba**: QLD: 181.821 habitantes. Nome aborígene: None (Jarowair e Giabal)
+- **Cairns**: QLD: 175.398 habitantes. Nome aborígene: Gimuy (Yidinji)
+- **Newcastle**: NSW: 174.294 habitantes. Nome aborígene: Mulubinba (Awabakal e Worimi)
+- **Grande Darwin**: NT: 150.736 habitantes. Nome aborígene: Garramilla (Larrakia)
+- **Mackay**: QLD: 126.907 habitantes. Nome aborígene: None (Yuwibara)
+- **Grande Bendigo**: VIC: 124.174 habitantes. Nome aborígene: None (Dja Dja Wurrung)
+- **Ballarat**: VIC: 118.137 habitantes. Nome aborígene: None (Wadawurrung)
+- **Bundaberg**: QLD: 104.166 habitantes. Nome aborígene: None (Taribelang Bunda e Gooreng Gooreng)
+- **Port Macquarie-Hastings**: NSW: 89.596 habitantes. Nome aborígene: None (Birpai)
+- **Rockhampton**: QLD: 84.517 habitantes. Nome aborígene: None (Darumbal)
+- **Coffs Harbour**: NSW: 80.489 habitantes. Nome aborígene: None (Gumbaynggirr)
+- **Launceston**: TAS: 71.788 habitantes. Nome aborígene: None (palawa)
+
+### O jeito de cada capital
+
+- **Sydney**: (NSW · Harbour City) A maior e mais cara. Opera House, Harbour Bridge, Bondi e Manly. Fundada em 1788, é a cidade mais antiga do país.
+- **Melbourne**: (VIC · Capital cultural) Café, vielas grafitadas, bondes e esporte (AFL, Australian Open, F1 e críquete no MCG). Quatro estações num só dia.
+- **Brisbane**: (QLD · Brisvegas) Sol o ano inteiro e ritmo mais tranquilo. Vai sediar as Olimpíadas de 2032.
+- **Perth**: (WA · A capital isolada) Uma das cidades grandes mais isoladas do mundo, com praias vazias e economia da mineração. Os quokkas de Rottnest ficam pertinho.
+- **Adelaide**: (SA · Cidade das igrejas) Planejada, tranquila e cercada de vinícolas (Barossa, McLaren Vale). Tem o Fringe, um dos maiores festivais de arte do mundo.
+- **Gold Coast**: (QLD · Glitter Strip) Arranha-céus à beira-mar, parques temáticos e surfe. Uma das maiores comunidades brasileiras do país.
+- **Canberra**: (ACT · A capital planejada) Projetada pelos arquitetos americanos Walter e Marion Griffin. Parlamento, museus nacionais e muita natureza.
+- **Hobart**: (TAS · Porta para a Antártida) Segunda cidade mais antiga, aos pés do kunanyi/Mount Wellington. Tem o museu MONA e o festival de inverno Dark Mofo.
+- **Darwin**: (NT · Top End) Tropical, com estação seca e chuvosa, crocodilos e pôr do sol no mercado de Mindil Beach. Mais perto da Ásia que de Sydney.
+
+Fontes: [ABS: Regional population (2023)](https://www.abs.gov.au/statistics/people/population/regional-population/latest-release); [Brasileiros na Austrália: Conheça a Austrália](https://brasileirosnaaustralia.biblioverse.org)
+
+## Lugares
+
+https://australianculture.biblioverse.org/pt/lugares.html
+
+- **Bondi Beach**: (Praias · NSW) A praia mais famosa do país, a 7 km do centro de Sydney. Tem a piscina oceânica Icebergs, os salva-vidas do programa Bondi Rescue e a trilha costeira de 6 km até Coogee. <https://pt.wikipedia.org/wiki/Praia_de_Bondi>
+- **Whitehaven Beach**: (Praias · QLD) Sete quilômetros de areia de sílica quase pura nas ilhas Whitsunday. Do mirante de Hill Inlet, a maré desenha redemoinhos de areia e água turquesa. <https://en.wikipedia.org/wiki/Whitehaven_Beach>
+- **Manly Beach**: (Praias · NSW) A meia hora de balsa de Circular Quay, passando pela Opera House. Praia de surfe com o calçadão do Corso e clima de cidade praiana. <https://en.wikipedia.org/wiki/Manly_Beach>
+- **Bells Beach**: (Praias · VIC) Onda lendária perto de Torquay, no início da Great Ocean Road. Recebe todo ano na Páscoa o Rip Curl Pro, um dos campeonatos de surfe mais tradicionais do mundo. <https://pt.wikipedia.org/wiki/Bells_Beach>
+- **Byron Bay**: (Praias · NSW) Cidade de surfe e estilo de vida alternativo. O farol do Cape Byron marca o ponto mais a leste do continente australiano. <https://pt.wikipedia.org/wiki/Byron_Bay>
+- **Cable Beach**: (Praias · WA) São 22 km de areia branca em Broome, no noroeste. O pôr do sol sobre o Oceano Índico é o grande espetáculo do dia. <https://en.wikipedia.org/wiki/Cable_Beach>
+- **Cottesloe Beach**: (Praias · WA) A praia de Perth, com águas calmas e pôr do sol no mar. Todo ano recebe a exposição de esculturas ao ar livre Sculpture by the Sea. <https://en.wikipedia.org/wiki/Cottesloe_Beach>
+- **Hyams Beach**: (Praias · NSW) Na baía de Jervis, ao sul de Sydney, é famosa pela areia branquíssima e pela água transparente. <https://en.wikipedia.org/wiki/Hyams_Beach>
+- **Wineglass Bay**: (Praias · TAS) A baía em forma de taça no Parque Nacional Freycinet. A trilha até o mirante é uma das caminhadas mais fotografadas da Tasmânia. <https://en.wikipedia.org/wiki/Freycinet_National_Park>
+- **Surfers Paradise**: (Praias · QLD) O coração da Gold Coast: arranha-céus colados na areia, ondas o ano inteiro e vida noturna agitada. <https://pt.wikipedia.org/wiki/Surfers_Paradise>
+- **Rottnest Island**: (Praias · WA) Wadjemup para os Noongar. Ilha sem carros a 18 km de Fremantle, rodada de bicicleta entre enseadas de água transparente. É a casa dos quokkas, famosos pelas selfies em que parecem sorrir. <https://en.wikipedia.org/wiki/Rottnest_Island>
+- **Uluṟu-Kata Tjuṯa**: (Parques · NT) O parque dos Anangu, donos tradicionais da terra. Uluru tem 348 m de altura e a escalada é proibida desde 2019 em respeito a eles; ao lado, Kata Tjuta reúne 36 domos de rocha. <https://pt.wikipedia.org/wiki/Parque_Nacional_Uluru-Kata_Tjuta>
+- **Kakadu**: (Parques · NT) O segundo maior parque nacional do país (depois do Munga-Thirri–Simpson Desert), Patrimônio Mundial natural e cultural. Em Ubirr e Burrungkuy há pinturas rupestres aborígenes com milhares de anos. <https://pt.wikipedia.org/wiki/Parque_Nacional_de_Kakadu>
+- **Blue Mountains**: (Parques · NSW) A duas horas de Sydney, com as rochas das Three Sisters e a névoa azulada que sobe dos eucaliptos. Patrimônio Mundial desde 2000. <https://pt.wikipedia.org/wiki/Montanhas_Azuis_(Austr%C3%A1lia)>
+- **Floresta de Daintree**: (Parques · QLD) Uma das florestas tropicais mais antigas do mundo. Em Cape Tribulation, a mata encontra o mar e a Grande Barreira de Corais. <https://en.wikipedia.org/wiki/Daintree_Rainforest>
+- **Royal National Park**: (Parques · NSW) Criado em 1879, é o segundo parque nacional mais antigo do mundo, depois de Yellowstone. Fica no limite sul de Sydney, com trilhas no penhasco e piscinas naturais. <https://en.wikipedia.org/wiki/Royal_National_Park>
+- **Cradle Mountain**: (Parques · TAS) Montanha de picos recortados sobre o lago Dove. É o início da Overland Track, travessia de 65 km pela natureza selvagem da Tasmânia. <https://pt.wikipedia.org/wiki/Parque_Nacional_Cradle_Mountain-Lake_St._Clair>
+- **Gariwerd (Grampians)**: (Parques · VIC) Serras de arenito no oeste de Victoria, com mirantes como o Pinnacle e o Balconies e muitos sítios de arte rupestre aborígene. <https://en.wikipedia.org/wiki/Grampians_National_Park>
+- **Karijini**: (Parques · WA) Gargantas vermelhas profundas no Pilbara, com piscinas naturais e cachoeiras escondidas entre paredões de rocha de bilhões de anos. <https://en.wikipedia.org/wiki/Karijini_National_Park>
+- **Kings Park**: (Parques · WA) Um dos maiores parques urbanos do mundo, maior que o Central Park de Nova York, com vista para o centro de Perth e o rio Swan. <https://en.wikipedia.org/wiki/Kings_Park,_Western_Australia>
+- **Royal Botanic Garden Sydney**: (Parques · NSW) Aberto em 1816 ao lado da Opera House. Da cadeira de Mrs Macquarie se vê a ponte e a ópera na mesma foto. <https://pt.wikipedia.org/wiki/Royal_Botanic_Garden_(Sydney)>
+- **South Bank e Streets Beach**: (Parques · QLD) O parque à beira do rio Brisbane, no terreno da Expo 88, tem a Streets Beach: uma praia artificial com areia e lagoa no meio da cidade, de graça e com salva-vidas. Do outro lado do rio fica o Queen’s Wharf, o complexo com o cassino The Star, hotéis e restaurantes. <https://en.wikipedia.org/wiki/South_Bank_Parklands>
+- **Grande Barreira de Corais**: (Paisagens · QLD) O maior sistema de recifes de coral do mundo, com cerca de 2.300 km. Patrimônio Mundial desde 1981 e visível do espaço. <https://pt.wikipedia.org/wiki/Grande_Barreira_de_Coral>
+- **Doze Apóstolos**: (Paisagens · VIC) Colunas de calcário que saem do mar ao longo da Great Ocean Road. Apesar do nome, hoje restam só sete de pé: a erosão vai derrubando uma a uma. <https://en.wikipedia.org/wiki/The_Twelve_Apostles_(Victoria)>
+- **K’gari**: (Paisagens · QLD) A maior ilha de areia do mundo, antes chamada Fraser Island. Em 2023 voltou oficialmente ao nome dado pelos Butchulla, que significa “paraíso”. <https://pt.wikipedia.org/wiki/Ilha_Fraser>
+- **Pinnacles**: (Paisagens · WA) Milhares de pilares de calcário espalhados pela areia amarela do Parque Nacional Nambung, ao norte de Perth. Parece outro planeta. <https://pt.wikipedia.org/wiki/Deserto_dos_Pin%C3%A1culos>
+- **Lago Hillier**: (Paisagens · WA) Um lago cor-de-rosa na Middle Island, no arquipélago de Recherche. A cor vem de algas e bactérias que vivem na água salgada. <https://pt.wikipedia.org/wiki/Lago_Hillier>
+- **Wave Rock**: (Paisagens · WA) Uma parede de granito de 15 m de altura com o formato de uma onda prestes a quebrar, perto da cidadezinha de Hyden. <https://pt.wikipedia.org/wiki/Wave_Rock>
+- **Purnululu (Bungle Bungle)**: (Paisagens · WA) Domos de arenito com listras laranja e pretas, no Kimberley. O mundo de fora só os conheceu nos anos 1980; hoje são Patrimônio Mundial. <https://pt.wikipedia.org/wiki/Parque_Nacional_Purnululu>
+- **Ikara (Wilpena Pound)**: (Paisagens · SA) Um imenso anfiteatro natural de montanhas nas Flinders Ranges, lugar sagrado para os Adnyamathanha. <https://en.wikipedia.org/wiki/Wilpena_Pound>
+- **Ilhas Whitsunday**: (Paisagens · QLD) Setenta e quatro ilhas no meio da Grande Barreira de Corais, para velejar, mergulhar e visitar a praia de Whitehaven. <https://pt.wikipedia.org/wiki/Ilhas_Whitsunday>
+- **Sydney Opera House**: (Edifícios · NSW) Inaugurada em 1973, com as velas projetadas pelo arquiteto dinamarquês Jørn Utzon. Patrimônio Mundial desde 2007 e o símbolo do país. <https://pt.wikipedia.org/wiki/%C3%93pera_de_Sydney>
+- **Parliament House**: (Edifícios · ACT) O parlamento de Canberra, inaugurado em 1988, foi construído dentro de uma colina e tem teto de grama por onde se pode caminhar. No alto, um mastro de 81 m. <https://pt.wikipedia.org/wiki/Casa_do_Parlamento_da_Austr%C3%A1lia>
+- **Flinders Street Station**: (Edifícios · VIC) A estação amarela de 1910 é o cartão-postal de Melbourne. “Te encontro embaixo dos relógios” é o ponto de encontro clássico da cidade. <https://pt.wikipedia.org/wiki/Flinders_Street_Station>
+- **Royal Exhibition Building**: (Edifícios · VIC) Palácio de exposições de 1880 em Melbourne, onde o primeiro parlamento federal se reuniu em 1901. Patrimônio Mundial desde 2004. <https://pt.wikipedia.org/wiki/Edif%C3%ADcio_da_Exposi%C3%A7%C3%A3o_Real>
+- **Queen Victoria Building**: (Edifícios · NSW) Galeria de compras de 1898 no centro de Sydney, com cúpulas, vitrais e relógios mecânicos. Quase foi demolida nos anos 1950. <https://en.wikipedia.org/wiki/Queen_Victoria_Building>
+- **Federation Square**: (Edifícios · VIC) Praça cultural de 2002 em frente à Flinders Street, com fachadas geométricas, museus e telão para grandes eventos. <https://pt.wikipedia.org/wiki/Federation_Square>
+- **Sydney Tower Eye**: (Edifícios · NSW) A torre de 309 m é a estrutura mais alta de Sydney desde 1981. Do deck se vê do oceano às Blue Mountains. <https://pt.wikipedia.org/wiki/Torre_de_Sydney>
+- **Q1**: (Edifícios · QLD) Torre residencial de 322 m em Surfers Paradise, com o observatório SkyPoint no topo e vista de toda a Gold Coast. <https://pt.wikipedia.org/wiki/Q1_(edif%C3%ADcio)>
+- **MONA**: (Edifícios · TAS) O Museu de Arte Antiga e Nova de Hobart, aberto em 2011 e escavado na rocha à beira do rio Derwent. Provocador de propósito. <https://en.wikipedia.org/wiki/Museum_of_Old_and_New_Art>
+- **Sydney Harbour Bridge**: (Pontes · NSW) O “Coathanger” (cabide), de 1932, é um dos maiores arcos de aço do mundo. Dá para subir no arco com o BridgeClimb, a 134 m da água, e o réveillon explode em fogos sobre ela. <https://pt.wikipedia.org/wiki/Ponte_da_Ba%C3%ADa_de_Sydney>
+- **Story Bridge**: (Pontes · QLD) Ponte de aço de 1940 sobre o rio Brisbane, o cartão-postal da cidade. Também tem escalada guiada. <https://en.wikipedia.org/wiki/Story_Bridge>
+- **West Gate Bridge**: (Pontes · VIC) A ponte que cruza o rio Yarra em Melbourne. Durante a construção, em 1970, um vão desabou e matou 35 trabalhadores, a pior tragédia industrial do país. <https://en.wikipedia.org/wiki/West_Gate_Bridge>
+- **Anzac Bridge**: (Pontes · NSW) Ponte estaiada de 1995 em Sydney, com estátuas de um soldado australiano e de um neozelandês em homenagem aos Anzacs. <https://en.wikipedia.org/wiki/Anzac_Bridge>
+- **Sea Cliff Bridge**: (Pontes · NSW) Uma ponte que contorna o penhasco por cima do mar, na Grand Pacific Drive, perto de Wollongong. Cenário de comercial de carro. <https://en.wikipedia.org/wiki/Sea_Cliff_Bridge>
+- **Richmond Bridge**: (Pontes · TAS) Construída por condenados em 1823, é a ponte de pedra mais antiga da Austrália ainda em uso. <https://en.wikipedia.org/wiki/Richmond_Bridge_(Tasmania)>
+- **Kurilpa Bridge**: (Pontes · QLD) Passarela de 2009 em Brisbane com mastros e cabos em ângulos malucos. É a maior ponte do tipo tensegridade do mundo. <https://en.wikipedia.org/wiki/Kurilpa_Bridge>
+- **Tasman Bridge**: (Pontes · TAS) Liga as duas margens de Hobart. Em 1975 um navio bateu nos pilares e derrubou parte da ponte, deixando a cidade dividida por quase dois anos. <https://pt.wikipedia.org/wiki/Ponte_Tasman>
+- **Australian War Memorial**: (Monumentos · ACT) Memorial e museu de Canberra, aberto em 1941. Todo fim de tarde a cerimônia do Last Post conta a história de um dos nomes do Muro de Honra. <https://pt.wikipedia.org/wiki/Memorial_de_Guerra_Australiano>
+- **Shrine of Remembrance**: (Monumentos · VIC) Memorial de guerra de 1934 em Melbourne. Às 11h do dia 11 de novembro, um raio de sol entra por uma abertura no teto e ilumina a palavra “Love” na Pedra da Lembrança. <https://pt.wikipedia.org/wiki/Santu%C3%A1rio_da_Lembran%C3%A7a>
+- **Great Ocean Road**: (Monumentos · VIC) Os 243 km de estrada à beira-mar foram construídos por soldados que voltaram da Primeira Guerra. É o maior memorial de guerra do mundo. <https://pt.wikipedia.org/wiki/Great_Ocean_Road>
+- **Embaixada Aborígene da Tenda**: (Monumentos · ACT) Montada em 1972 diante do antigo parlamento para reivindicar direitos à terra. É um dos protestos permanentes mais antigos do mundo. <https://pt.wikipedia.org/wiki/Embaixada_Abor%C3%ADgene>
+- **Port Arthur**: (Monumentos · TAS) Antiga colônia penal de 1830, hoje sítio histórico. Faz parte dos Sítios de Condenados da Austrália, Patrimônio Mundial. <https://pt.wikipedia.org/wiki/Port_Arthur_(Tasm%C3%A2nia)>
+- **Fremantle Prison**: (Monumentos · WA) Prisão construída por condenados nos anos 1850 e usada até 1991. Também integra os Sítios de Condenados, Patrimônio Mundial. <https://en.wikipedia.org/wiki/Fremantle_Prison>
+- **Old Parliament House**: (Monumentos · ACT) O parlamento de 1927 a 1988, em Canberra. Hoje abriga o Museu da Democracia Australiana. <https://en.wikipedia.org/wiki/Old_Parliament_House,_Canberra>
+- **Big Banana**: (Big Things · NSW) A banana gigante de Coffs Harbour, de 1964, inaugurou a mania das “Big Things”: hoje são mais de 150 esculturas gigantes espalhadas pelas estradas do país. <https://pt.wikipedia.org/wiki/Big_Banana>
+- **Big Pineapple**: (Big Things · QLD) Um abacaxi de 16 m na Sunshine Coast, aberto em 1971. Já recebeu até a visita do príncipe Charles e da princesa Diana. <https://en.wikipedia.org/wiki/Big_Pineapple>
+- **Golden Guitar**: (Big Things · NSW) Violão dourado de 12 m em Tamworth, a capital da música country australiana, onde acontece todo janeiro o Tamworth Country Music Festival. <https://en.wikipedia.org/wiki/Big_Golden_Guitar>
+
+Fontes: [Tourism Australia: lugares para visitar](https://www.australia.com/en/places.html); [Parks Australia](https://parksaustralia.gov.au); [UNESCO: patrimônio mundial na Austrália](https://whc.unesco.org/en/statesparties/au); [Big Things of Australia (Wikipedia)](https://en.wikipedia.org/wiki/Australia%27s_big_things)
+
+## Fatos históricos
+
+https://australianculture.biblioverse.org/pt/historia.html
+
+- **Os primeiros povos**: (Povos originários · 65–50 mil a.C.) Os ancestrais dos aborígenes chegam ao continente. Nasce a cultura viva contínua mais antiga da Terra, com centenas de nações e línguas.
+- **Os holandeses**: (Colonização · 1606) Willem Janszoon, no navio Duyfken, é o primeiro europeu registrado a pisar na Austrália, no Cabo York.
+- **James Cook**: (Colonização · 1770) O capitão britânico mapeia a costa leste, desembarca em Botany Bay e reivindica a terra para a Coroa.
+- **A Primeira Frota**: (Colonização · 26/01/1788) 11 navios com cerca de 1.400 pessoas, metade condenados, fundam a colônia penal de Sydney Cove. A data é o Australia Day, que muitos indígenas chamam de Invasion Day.
+- **Colônia de condenados**: (Colonização · 1788–1868) Cerca de 162 mil condenados são enviados do Reino Unido. O último navio chega em 1868, a Western Australia.
+- **Corrida do ouro**: (Nação · 1851) O ouro em NSW e Victoria multiplica a população e enriquece Melbourne, que vira uma das cidades mais ricas do mundo.
+- **Eureka Stockade**: (Nação · 1854) Mineiros de Ballarat se rebelam contra o governo colonial. A revolta é vista como o berço da democracia australiana.
+- **Ned Kelly**: (Nação · 1880) O fora da lei de armadura de ferro é enforcado em Melbourne e vira lenda nacional.
+- **Federação**: (Nação · 01/01/1901) As seis colônias se unem e formam a Commonwealth of Australia. No mesmo ano começa a política da "Austrália Branca".
+- **Voto das mulheres**: (Nação · 1902) As mulheres (não indígenas) ganham o direito de votar e de se candidatar em eleições federais.
+- **Gallipoli**: (Guerras · 25/04/1915) As tropas do ANZAC desembarcam na Turquia. A derrota vira mito fundador; o 25 de abril é o Anzac Day.
+- **Harbour Bridge**: (Nação · 1932) A ponte de Sydney é inaugurada. No mesmo ano acontece a Guerra dos Emus.
+- **Darwin bombardeada**: (Guerras · 1942) Na Segunda Guerra, o Japão ataca Darwin, o maior ataque estrangeiro em solo australiano.
+- **"Populate or perish"**: (Sociedade · 1945) Começa a imigração em massa do pós-guerra, com britânicos, italianos, gregos e outros europeus. Mais de 7 milhões chegariam nas décadas seguintes.
+- **Olimpíadas de Melbourne**: (Sociedade · 1956) Os primeiros Jogos do hemisfério sul. No mesmo ano chega a televisão.
+- **Nasce o dólar**: (Sociedade · 1966) A moeda decimal substitui a libra australiana.
+- **Referendo histórico**: (Povos originários · 1967) 90,77% votam para que os aborígenes sejam contados no censo e cobertos pelas leis federais.
+- **Fim da Austrália Branca**: (Sociedade · 1973) O governo Whitlam abandona de vez a política racial de imigração. A Opera House é inaugurada.
+- **A demissão**: (Nação · 1975) O governador-geral demite o primeiro-ministro Gough Whitlam, a maior crise constitucional do país.
+- **America's Cup**: (Sociedade · 1983) O iate Australia II quebra 132 anos de domínio americano na regata. O premiê Bob Hawke diz que patrão que demitir quem faltar ao trabalho naquele dia "é um vagabundo".
+- **Australia Act**: (Nação · 1986) Cortam-se os últimos laços legais com o Parlamento britânico.
+- **Decisão Mabo**: (Povos originários · 1992) A Suprema Corte derruba a ideia de "terra nullius" (terra de ninguém) e reconhece o título nativo das terras.
+- **Port Arthur e as armas**: (Sociedade · 1996) Após o massacre de 35 pessoas na Tasmânia, o país aprova um rígido controle de armas, com recompra de 650 mil armas.
+- **Referendo da república**: (Nação · 1999) Os eleitores rejeitam trocar a monarquia por uma república. O rei britânico segue chefe de Estado.
+- **Olimpíadas de Sydney**: (Sociedade · 2000) Cathy Freeman, atleta aborígene, acende a pira e vence os 400 m.
+- **O pedido de desculpas**: (Povos originários · 2008) O premiê Kevin Rudd pede perdão às Gerações Roubadas, crianças indígenas tiradas das famílias.
+- **Casamento igualitário**: (Sociedade · 2017) Depois de uma consulta postal com 61,6% de "sim", o casamento entre pessoas do mesmo sexo é aprovado.
+- **Black Summer**: (Sociedade · 2019–20) Incêndios florestais queimam mais de 24 milhões de hectares e matam cerca de 3 bilhões de animais.
+- **Matildas e o Voice**: (Povos originários · 2023) A seleção feminina chega à semifinal da Copa em casa e para o país. Em outubro, o referendo do Voice indígena no Parlamento é rejeitado.
+- **Brisbane Olímpica**: (Sociedade · 2032) Brisbane será a terceira cidade australiana a sediar os Jogos Olímpicos.
+
+Fontes: [National Museum of Australia: Defining Moments](https://www.nma.gov.au/defining-moments); [AIATSIS](https://aiatsis.gov.au)
+
+## Datas importantes
+
+https://australianculture.biblioverse.org/pt/datas.html
+
+- **Ano-Novo e a Federação**: (Feriados · 1º de janeiro) O ano começa com os fogos sobre a Harbour Bridge e a Opera House, assistidos no mundo inteiro. A data também marca a Federação: em 1º de janeiro de 1901 as seis colônias se uniram e nasceu a Comunidade da Austrália. Olhar indígena: A Constituição de 1901 mandava não contar os aborígenes na população. Esse trecho só caiu no referendo de 1967. <https://pt.wikipedia.org/wiki/Federação_da_Austrália>
+- **Australia Day**: (Feriados · 26 de janeiro) Feriado nacional que lembra a chegada da Primeira Frota a Sydney Cove em 1788. Tem churrasco, praia, cerimônias de cidadania e, na véspera, o anúncio do Australiano do Ano. Olhar indígena: Para muitos aborígenes e ilhéus do Estreito de Torres é o Invasion Day (Dia da Invasão) ou Survival Day (Dia da Sobrevivência), com marchas em todo o país. O protesto vem de longe: em 26 de janeiro de 1938 houve o Day of Mourning (Dia de Luto) em Sydney. O debate sobre mudar a data cresce, e em 2018 a rádio triple j tirou dela o seu Hottest 100. <https://pt.wikipedia.org/wiki/Dia_da_Austrália>
+- **Aniversário do Pedido de Desculpas**: (Datas indígenas · 13 de fevereiro) Em 13 de fevereiro de 2008 o primeiro-ministro Kevin Rudd pediu desculpas, no Parlamento, às Gerações Roubadas: as crianças aborígenes tiradas das famílias por políticas do governo. A data é lembrada todo ano. <https://en.wikipedia.org/wiki/Apology_to_Australia%27s_Indigenous_peoples>
+- **Sydney Mardi Gras**: (Cultura e comunidade · Fevereiro ou março) O desfile LGBTQIA+ da Oxford Street, um dos maiores do mundo. Começou em 1978 como protesto, quando dezenas de manifestantes foram presos pela polícia. <https://en.wikipedia.org/wiki/Sydney_Gay_and_Lesbian_Mardi_Gras>
+- **Clean Up Australia Day**: (Cultura e comunidade · Primeiro domingo de março) Voluntários do país inteiro recolhem lixo de praias, parques e rios. A ideia nasceu em 1989 com o velejador Ian Kiernan, revoltado com a sujeira que viu no mar. <https://en.wikipedia.org/wiki/Clean_Up_Australia>
+- **Labour Day**: (Feriados · Março, maio ou outubro) O feriado do trabalhador cai em datas diferentes em cada estado. Celebra a conquista das oito horas de trabalho por dia, arrancada pelos pedreiros de Melbourne em 1856, uma das primeiras do mundo. <https://en.wikipedia.org/wiki/Labour_Day>
+- **Harmony Day**: (Cultura e comunidade · 21 de março) Dia da diversidade cultural, com escolas e escritórios vestidos de laranja. Cai no Dia Internacional da ONU pela Eliminação da Discriminação Racial. Olhar indígena: Críticos, incluindo lideranças indígenas, dizem que o nome “harmonia” suaviza a data e tira o foco do combate ao racismo, que era o objetivo da ONU. <https://en.wikipedia.org/wiki/Harmony_Day>
+- **Páscoa**: (Feriados · Março ou abril) Feriado prolongado, da Sexta-Feira Santa à segunda-feira de Páscoa. Além do coelho, há o bilby de chocolate: os coelhos são uma praga no país, e o bilby é um marsupial nativo ameaçado. <https://pt.wikipedia.org/wiki/Páscoa>
+- **Anzac Day**: (Memória · 25 de abril) O dia mais solene do país lembra o desembarque em Gallipoli, em 1915, e todos os que serviram nas guerras. Começa com cerimônias ao amanhecer e segue com desfiles e o jogo de two-up nos pubs. Olhar indígena: Soldados aborígenes lutaram nas guerras mundiais e, de volta, foram excluídos de terras e benefícios dados aos outros veteranos. Muitos também pedem que as Guerras de Fronteira, entre colonos e povos aborígenes, sejam lembradas como as outras guerras. <https://pt.wikipedia.org/wiki/Dia_ANZAC>
+- **Dia das Mães**: (Cultura e comunidade · Segundo domingo de maio) Café na cama e flores, como no Brasil. A flor tradicional é o crisântemo: floresce em maio, e o apelido dele em inglês, mum, também quer dizer mãe. <https://pt.wikipedia.org/wiki/Dia_das_Mães>
+- **National Sorry Day**: (Datas indígenas · 26 de maio) Dia de lembrar as Gerações Roubadas. É realizado desde 1998, um ano depois do relatório Bringing Them Home, que revelou a dimensão das retiradas de crianças. <https://en.wikipedia.org/wiki/National_Sorry_Day>
+- **Semana Nacional da Reconciliação**: (Datas indígenas · 27 de maio a 3 de junho) Semana para aproximar os australianos dos povos originários. As datas lembram duas vitórias: o referendo de 1967 (27 de maio) e a decisão Mabo de 1992 (3 de junho), que reconheceu o direito indígena à terra. <https://en.wikipedia.org/wiki/National_Reconciliation_Week>
+- **Aniversário do Rei**: (Feriados · Segunda segunda-feira de junho) Feriado em homenagem ao monarca, na maioria dos estados em junho (Queensland e Austrália Ocidental usam outras datas). Não é o aniversário de verdade do rei Charles III, que é em novembro. Olhar indígena: Para muitos indígenas, a Coroa é a origem da colonização, e a data costuma vir junto com o debate sobre a Austrália virar república. <https://pt.wikipedia.org/wiki/Aniversário_do_Rei>
+- **Semana NAIDOC**: (Datas indígenas · Primeira semana de julho) A grande celebração da história, da cultura e das conquistas dos aborígenes e ilhéus do Estreito de Torres, com eventos no país inteiro. As raízes estão nos protestos de 1938. <https://en.wikipedia.org/wiki/NAIDOC_Week>
+- **Dia das Crianças Aborígenes e Ilhéus**: (Datas indígenas · 4 de agosto) Celebra as crianças dos povos originários desde 1988. A data foi escolhida porque, nas Gerações Roubadas, muitas crianças não sabiam o próprio aniversário e comemoravam nesse dia.
+- **Dia dos Pais**: (Cultura e comunidade · Primeiro domingo de setembro) Diferente do Brasil, onde é em agosto: aqui o Dia dos Pais cai na primavera, em setembro. <https://pt.wikipedia.org/wiki/Dia_dos_Pais>
+- **R U OK? Day**: (Cultura e comunidade · Segunda quinta-feira de setembro) Dia para perguntar a amigos, família e colegas: “Are you OK?” (Você está bem?). Criado em 2009 para combater o suicídio e incentivar conversas sobre saúde mental. <https://en.wikipedia.org/wiki/R_U_OK%3F>
+- **AFL Grand Final**: (Cultura e comunidade · Fim de setembro) A final do futebol australiano no MCG, em Melbourne. Em Victoria a sexta-feira antes do jogo é feriado. <https://en.wikipedia.org/wiki/AFL_Grand_Final>
+- **Remembrance Day**: (Memória · 11 de novembro) Às 11h o país faz um minuto de silêncio, a hora em que a Primeira Guerra terminou, em 1918. As pessoas usam papoulas vermelhas na lapela. <https://pt.wikipedia.org/wiki/Dia_da_Lembrança>
+- **Natal**: (Feriados · 25 de dezembro) Natal no verão: praia, piscina, pavlova e o Carols by Candlelight, o concerto de canções natalinas à luz de velas em Melbourne. <https://en.wikipedia.org/wiki/Christmas_in_Australia>
+- **Boxing Day**: (Feriados · 26 de dezembro) Dia de liquidações, do Boxing Day Test de críquete no MCG e da largada da regata Sydney–Hobart, que lota a baía de Sydney de barcos. <https://en.wikipedia.org/wiki/Boxing_Day_Test>
+
+Fontes: [Governo da Austrália: feriados](https://www.australia.gov.au/public-holidays); [Reconciliation Australia](https://www.reconciliation.org.au); [NAIDOC](https://www.naidoc.org.au); [AIATSIS](https://aiatsis.gov.au)
+
+## Política e economia
+
+https://australianculture.biblioverse.org/pt/politica-e-economia.html
+
+
+### Como funciona
+
+- **Uma monarquia que funciona como república**: (Estrutura) O chefe de Estado é o rei Charles III, representado no país pela governadora-geral (Sam Mostyn, desde 2024). O papel é simbólico: quem governa de fato é o primeiro-ministro. <https://pt.wikipedia.org/wiki/Monarquia_na_Austr%C3%A1lia>
+- **Três níveis de governo**: (Estrutura) O federal, em Canberra, cuida de defesa, imigração, Medicare e imposto de renda. Os estados e territórios cuidam de escolas, hospitais, polícia e transporte. As prefeituras (councils) cuidam de lixo, parques e bibliotecas. <https://pt.wikipedia.org/wiki/Federalismo_na_Austr%C3%A1lia>
+- **Duas casas no Parlamento**: (Estrutura) A Câmara dos Representantes tem 150 deputados e define quem governa. O Senado tem 76 senadores, 12 por estado e 2 por território, e revisa as leis. <https://pt.wikipedia.org/wiki/Parlamento_da_Austr%C3%A1lia>
+- **O primeiro-ministro**: (Estrutura) Lidera o partido com maioria na Câmara. Desde maio de 2022 é Anthony Albanese, do Partido Trabalhista, reeleito com folga em 2025. <https://pt.wikipedia.org/wiki/Primeiro-ministro_da_Austr%C3%A1lia>
+- **Modelo de Westminster**: (Estrutura) Herdado do Reino Unido: os ministros são parlamentares e respondem a perguntas da oposição todos os dias de sessão, no Question Time. <https://pt.wikipedia.org/wiki/Sistema_Westminster>
+- **Voto obrigatório**: (Eleições) Desde 1924, todo cidadão adulto precisa votar, ou paga multa. As eleições são sempre num sábado, com direito a democracy sausage. <https://pt.wikipedia.org/wiki/Voto_compuls%C3%B3rio>
+- **Voto preferencial**: (Eleições) O eleitor numera os candidatos por ordem de preferência. Se ninguém tem mais da metade, os menos votados saem e seus votos passam para a próxima escolha. <https://pt.wikipedia.org/wiki/Voto_preferencial>
+- **Eleição a cada três anos**: (Eleições) Os mandatos na Câmara duram até 3 anos, um dos mais curtos do mundo. Os senadores ficam 6 anos, e metade do Senado é renovada a cada eleição. <https://en.wikipedia.org/wiki/Elections_in_Australia>
+- **Mudar a Constituição é difícil**: (Eleições) Precisa de referendo com maioria nacional e maioria em pelo menos quatro dos seis estados. Dos 45 referendos já feitos, só 8 passaram. <https://en.wikipedia.org/wiki/Referendums_in_Australia>
+
+### A economia em números
+
+- **Tamanho da economia**: (Riqueza · US$ 1,8 tri) PIB de 2025, por volta do 15º maior do mundo, com só 28 milhões de habitantes.
+- **PIB por pessoa**: (Riqueza · US$ 65 mil) Um dos 15 mais altos do mundo (FMI, 2025).
+- **Salário mínimo**: (Trabalho · A$ 26,44/h) A$1.004,90 por semana de 38 horas, desde 1º de julho de 2026.
+- **Salário médio semanal**: (Trabalho · A$ 2.084) Média de quem trabalha em tempo integral (ABS, maio de 2026).
+- **Desemprego**: (Trabalho · 4,7%) Em setembro de 2026, o maior nível em cinco anos.
+- **Aluguel semanal**: (Custo de vida · A$ 700) Mediana anunciada nas capitais em setembro de 2026. Em Sydney passa de A$800.
+- **Inflação**: (Custo de vida · 4,0%) Em 12 meses até agosto de 2026, acima da meta de 2% a 3% do Banco Central.
+- **Juros básicos**: (Custo de vida · 4,60%) Taxa do Reserva Bank of Australia após a quarta alta de 2026, em setembro.
+- **Superannuation**: (Trabalho · 12%) O patrão deposita 12% do salário num fundo de aposentadoria do trabalhador, obrigatoriamente.
+
+### De onde vem o dinheiro
+
+- **Minério de ferro**: (Exportações) O maior produto de exportação do país: cerca de A$121 bilhões em 2025, a maior parte de Pilbara (WA) e a maior parte para a China. <https://pt.wikipedia.org/wiki/Min%C3%A9rio_de_ferro>
+- **Carvão**: (Exportações) Cerca de A$64 bilhões em 2025, em queda. A transição energética faz desse um dos temas mais disputados da política. <https://pt.wikipedia.org/wiki/Carv%C3%A3o_mineral>
+- **Gás natural**: (Exportações) Cerca de A$60 bilhões em 2025. A Austrália é um dos maiores exportadores de gás natural liquefeito (GNL) do mundo. <https://pt.wikipedia.org/wiki/G%C3%A1s_natural>
+- **Ouro**: (Exportações) Cerca de A$60 bilhões em 2025, alta de 67% com a disparada do preço. A corrida do ouro nunca acabou de verdade. <https://pt.wikipedia.org/wiki/Ouro>
+- **Educação internacional**: (Serviços) Cerca de A$55 bilhões em 2025: o maior "produto" de serviços que o país vende ao mundo. Estudantes estrangeiros movimentam cidades inteiras. <https://en.wikipedia.org/wiki/International_education>
+- **Turismo**: (Serviços) Praias, Grande Barreira de Corais, Uluru e cidades atraem milhões de visitantes por ano. <https://pt.wikipedia.org/wiki/Turismo>
+- **Saúde e assistência social**: (Serviços) O setor que mais emprega no país, com hospitais, clínicas, cuidado de idosos e o NDIS (programa para pessoas com deficiência). <https://pt.wikipedia.org/wiki/Sa%C3%BAde_na_Austr%C3%A1lia>
+- **Fundos de aposentadoria**: (Serviços) Graças à superannuation obrigatória, os fundos de pensão somam mais de A$4 trilhões, um dos maiores do mundo. <https://en.wikipedia.org/wiki/Superannuation_in_Australia>
+- **Grãos, frutas e vinho**: (Agricultura) Trigo, cevada, canola, frutas e vinhos de regiões como Barossa e Margaret River são vendidos para a Ásia e o mundo. <https://en.wikipedia.org/wiki/Agriculture_in_Australia>
+- **China, a grande parceira**: (Comércio) A China é de longe a maior compradora dos produtos australianos, seguida de Japão, Coreia do Sul, Índia e EUA. <https://pt.wikipedia.org/wiki/Rela%C3%A7%C3%B5es_entre_Austr%C3%A1lia_e_China>
+- **Um país caro**: (Custo de vida) Aluguel, casa própria e mercado pesam: comprar um imóvel em Sydney custa muitas vezes a renda anual de uma família. Em compensação, os salários estão entre os mais altos do mundo. <https://pt.wikipedia.org/wiki/Economia_da_Austr%C3%A1lia>
+- **Medicare e impostos**: (Custo de vida) O sistema público de saúde é pago por uma taxa de 2% sobre a renda. O imposto sobre consumo (GST) é de 10% e já vem incluído no preço. <https://pt.wikipedia.org/wiki/Medicare_(Austr%C3%A1lia)>
+
+### Bilionários e magnatas
+
+- **Gina Rinehart**: (Mineração) Dona da Hancock Prospecting, herdada do pai e multiplicada com o minério de ferro de Pilbara. Costuma ser a pessoa mais rica do país. <https://pt.wikipedia.org/wiki/Gina_Rinehart>
+- **Andrew "Twiggy" Forrest**: (Mineração) Fundador da Fortescue, gigante do minério de ferro que agora aposta em energia verde. Doa fortunas pela fundação Minderoo. <https://en.wikipedia.org/wiki/Andrew_Forrest>
+- **Clive Palmer**: (Mineração) Magnata da mineração que entrou na política com partido próprio e prometeu construir um Titanic II. <https://pt.wikipedia.org/wiki/Clive_Palmer>
+- **Mike Cannon-Brookes e Scott Farquhar**: (Tecnologia) Os fundadores da Atlassian, que começaram com um cartão de crédito. Cannon-Brookes virou um dos maiores investidores em energia limpa do país. <https://en.wikipedia.org/wiki/Mike_Cannon-Brookes>
+- **Melanie Perkins e Cliff Obrecht**: (Tecnologia) O casal que criou o Canva e prometeu doar a maior parte da sua participação na empresa. <https://pt.wikipedia.org/wiki/Melanie_Perkins>
+- **Rupert Murdoch**: (Mídia) Nascido em Melbourne, construiu a News Corp e a Fox a partir de um jornal de Adelaide. Virou cidadão americano em 1985. <https://pt.wikipedia.org/wiki/Rupert_Murdoch>
+- **Kerry Packer**: (Mídia) Dono do Channel Nine, revolucionou o críquete com a World Series em 1977. Morreu em 2005. <https://en.wikipedia.org/wiki/Kerry_Packer>
+- **James Packer**: (Mídia) Filho de Kerry Packer, apostou nos cassinos com a Crown Resorts. <https://en.wikipedia.org/wiki/James_Packer>
+- **Frank Lowy**: (Varejo e imóveis) Sobrevivente do Holocausto, cofundou os shoppings Westfield em Sydney e os levou para o mundo. <https://pt.wikipedia.org/wiki/Frank_Lowy>
+- **Harry Triguboff**: (Varejo e imóveis) O "High-rise Harry", fundador da Meriton, construtora de milhares de apartamentos em Sydney e Brisbane. <https://pt.wikipedia.org/wiki/Harry_Triguboff>
+- **Gerry Harvey**: (Varejo e imóveis) Cofundador da Harvey Norman, a rede de eletrodomésticos e móveis. <https://en.wikipedia.org/wiki/Gerry_Harvey>
+- **Anthony Pratt**: (Indústria) Comanda a Visy, gigante de embalagens e reciclagem de papelão. <https://pt.wikipedia.org/wiki/Anthony_Pratt>
+- **Lindsay Fox**: (Indústria) Começou com um caminhão e construiu a Linfox, uma das maiores transportadoras da Ásia-Pacífico. <https://en.wikipedia.org/wiki/Lindsay_Fox>
+
+### Os partidos
+
+- **Partido Trabalhista (Labor)**: (Grandes partidos · 1891) Centro-esquerda, nascido dos sindicatos. Governa o país desde 2022 com Anthony Albanese. Criou o Medicare e a superannuation. <https://pt.wikipedia.org/wiki/Partido_Trabalhista_Australiano>
+- **Partido Liberal**: (Grandes partidos · 1944) Centro-direita, fundado por Robert Menzies. Lidera a oposição; desde fevereiro de 2026 o líder é Angus Taylor. <https://pt.wikipedia.org/wiki/Partido_Liberal_da_Austr%C3%A1lia>
+- **Nationals**: (Grandes partidos · 1920) O partido do interior e dos agricultores. Costuma governar junto com os Liberais, na chamada Coalition. Líder: Matt Canavan, desde março de 2026. <https://pt.wikipedia.org/wiki/Partido_Nacional_da_Austr%C3%A1lia>
+- **Greens**: (Grandes partidos · 1992) Clima, meio ambiente e justiça social. Forte no Senado e nas cidades. Líder: o senador David Shoebridge, desde setembro de 2026. <https://pt.wikipedia.org/wiki/Verdes_Australianos>
+- **One Nation**: (Partidos menores · 1997) Direita populista de Pauline Hanson, crítica à imigração. Tem presença no Senado. <https://pt.wikipedia.org/wiki/Uma_Na%C3%A7%C3%A3o_de_Pauline_Hanson>
+- **Os "teals"**: (Partidos menores · 2022) Independentes de bairro, em geral mulheres, que defendem ação climática e integridade na política. Tomaram cadeiras liberais tradicionais em 2022. <https://en.wikipedia.org/wiki/Teal_independents>
+- **Katter's Australian Party**: (Partidos menores · 2011) O partido de Bob Katter, voltado ao norte de Queensland e ao interior. <https://en.wikipedia.org/wiki/Katter%27s_Australian_Party>
+- **Jacqui Lambie Network**: (Partidos menores · 2015) Da senadora tasmaniana Jacqui Lambie, ex-militar, conhecida por falar sem filtro. <https://en.wikipedia.org/wiki/Jacqui_Lambie_Network>
+
+### Políticos
+
+- **Anthony Albanese**: (Hoje) Primeiro-ministro desde 2022. Cresceu num conjunto habitacional em Sydney, criado pela mãe solo, e virou o primeiro premiê com sobrenome de origem não anglo-celta. <https://pt.wikipedia.org/wiki/Anthony_Albanese>
+- **Jim Chalmers**: (Hoje) O tesoureiro (ministro da Fazenda) do governo trabalhista, de Queensland. <https://en.wikipedia.org/wiki/Jim_Chalmers>
+- **Penny Wong**: (Hoje) Ministra das Relações Exteriores, nascida na Malásia. Uma das políticas mais respeitadas do país. <https://en.wikipedia.org/wiki/Penny_Wong>
+- **Angus Taylor**: (Hoje) Líder do Partido Liberal e da oposição desde fevereiro de 2026, depois de derrubar Sussan Ley numa disputa interna. <https://en.wikipedia.org/wiki/Angus_Taylor>
+- **David Shoebridge**: (Hoje) Senador por Nova Gales do Sul e ex-advogado, líder dos Greens desde setembro de 2026. <https://en.wikipedia.org/wiki/David_Shoebridge>
+- **Matt Canavan**: (Hoje) Senador de Queensland e líder dos Nationals desde março de 2026, defensor da mineração de carvão. <https://en.wikipedia.org/wiki/Matt_Canavan>
+- **Pauline Hanson**: (Hoje) Fundadora do One Nation, no Senado por Queensland. Figura polêmica da política há quase 30 anos. <https://pt.wikipedia.org/wiki/Pauline_Hanson>
+- **David Pocock**: (Hoje) Ex-capitão da seleção de rugby (Wallabies), virou senador independente pelo ACT. <https://pt.wikipedia.org/wiki/David_Pocock>
+- **Lidia Thorpe**: (Hoje) Senadora independente e ativista aborígene, conhecida por protestar contra o rei Charles na visita de 2024. <https://en.wikipedia.org/wiki/Lidia_Thorpe>
+- **Robert Menzies**: (Ex-premiês) O premiê que ficou mais tempo no cargo, 18 anos ao todo (1939–41 e 1949–66). Fundou o Partido Liberal. <https://pt.wikipedia.org/wiki/Robert_Menzies>
+- **Gough Whitlam**: (Ex-premiês) Em só três anos (1972–75) criou a universidade gratuita e o Medibank, antecessor do Medicare. Foi demitido pelo governador-geral. <https://pt.wikipedia.org/wiki/Gough_Whitlam>
+- **Bob Hawke**: (Ex-premiês) Premiê de 1983 a 1991, criou o Medicare e abriu a economia. Popularíssimo, tinha até recorde de beber cerveja. <https://pt.wikipedia.org/wiki/Bob_Hawke>
+- **Paul Keating**: (Ex-premiês) Premiê de 1991 a 1996, famoso pela língua afiada e pelo discurso de Redfern (1992) sobre as injustiças contra os povos aborígenes. <https://pt.wikipedia.org/wiki/Paul_Keating>
+- **John Howard**: (Ex-premiês) Premiê de 1996 a 2007, o segundo mais longevo. Fez a lei de controle de armas e criou o GST. <https://pt.wikipedia.org/wiki/John_Howard_(pol%C3%ADtico_australiano)>
+- **Kevin Rudd**: (Ex-premiês) Premiê em 2007–10 e em 2013. Fez o pedido de desculpas às Gerações Roubadas em 2008. <https://pt.wikipedia.org/wiki/Kevin_Rudd>
+- **Julia Gillard**: (Ex-premiês) Primeira mulher a ser primeira-ministra (2010–13). Seu "discurso da misoginia" (2012) rodou o mundo. <https://pt.wikipedia.org/wiki/Julia_Gillard>
+- **Malcolm Turnbull**: (Ex-premiês) Premiê de 2015 a 2018, no governo que aprovou o casamento igualitário depois da consulta postal de 2017. <https://pt.wikipedia.org/wiki/Malcolm_Turnbull>
+- **Scott Morrison**: (Ex-premiês) Premiê de 2018 a 2022, criticado por viajar ao Havaí durante os incêndios do Black Summer. <https://pt.wikipedia.org/wiki/Scott_Morrison>
+
+### Comparando com o Brasil
+
+- **Australian Greens**: Equivalente mais próximo no Brasil: PSOL / REDE (Esquerda progressista e ecologista). Justiça social, clima em primeiro lugar (com o fim dos combustíveis fósseis) e direitos das minorias. Como o PSOL, crescem nas grandes cidades e entre os jovens; como a REDE, nasceram do movimento ambientalista.
+- **Labor (ALP)**: Equivalente mais próximo no Brasil: PT / PDT (Centro-esquerda trabalhista). Nasceu dos sindicatos, nos anos 1890, e defende o Medicare, a escola pública e os direitos trabalhistas, como o trabalhismo brasileiro. A diferença: desde os anos 80 o Labor é mais pró-mercado que o PT (foi ele que abriu a economia e privatizou a Qantas).
+- **Os “teals”**: Equivalente mais próximo no Brasil: Sem equivalente (Novo + REDE) (Centro liberal-progressista). Não há equivalente direto: lembram o Novo na economia e a REDE no clima. Não são um partido, e sim independentes, em geral mulheres profissionais liberais, eleitas em bairros ricos que votavam nos Liberais. São pró-mercado na economia, mas exigentes em clima e em integridade política. O MDB e o PSD não servem de comparação: são partidos de centro fisiológico, algo que a Austrália não tem.
+- **Liberal Party**: Equivalente mais próximo no Brasil: PSDB (o de FHC) / Novo (Centro-direita liberal). O principal partido da direita, forte nas cidades: livre mercado, impostos menores e privatizações (o governo Howard vendeu a Telstra). Hoje convive com uma ala mais conservadora nos costumes. União Brasil e PP lembram mais o centrão, que não tem paralelo australiano.
+- **The Nationals**: Equivalente mais próximo no Brasil: Bancada ruralista (PP, PSD, PL) (Direita agrarista). O partido do interior e do agro, sempre em coalizão com os Liberais: defende fazendeiros, mineração e os valores das cidades pequenas. Como a Frente Parlamentar da Agropecuária, vota em bloco pelos interesses do campo.
+- **One Nation**: Equivalente mais próximo no Brasil: PL (ala bolsonarista) (Direita populista e nacionalista). Fundado por Pauline Hanson em 1997: contra a imigração em massa, contra o “globalismo” e as pautas climáticas e de gênero, com discurso de segurança e nacionalismo econômico. Ganhou força recente, inclusive com a entrada do ex-vice-primeiro-ministro Barnaby Joyce.
+- **Katter’s Australian Party**: Equivalente mais próximo no Brasil: Sem equivalente (Prona + ruralistas) (Populismo agrário). Não há equivalente direto: lembra o Prona de Enéas somado à bancada ruralista. Mistura economia protecionista, quase estatizante, com conservadorismo nos costumes: subsídio ao campo, porte de armas para fazendeiros e o sertão profundo de Queensland. É praticamente o partido de uma família, os Katter.
+- **Anthony Albanese**: Equivalente mais próximo no Brasil: Lula (Os governantes de centro-esquerda). Os dois vêm de origem humilde: Albanese cresceu num conjunto habitacional, criado pela mãe; Lula foi operário e sindicalista. Pragmáticos, conciliam com o mercado e priorizam programas sociais. A diferença: Albanese é primeiro-ministro, escolhido pelo partido com maioria no Parlamento; Lula é presidente, eleito direto.
+- **Jim Chalmers**: Equivalente mais próximo no Brasil: Fernando Haddad / Dario Durigan (Os ministros da economia). Chalmers é o Tesoureiro (ministro da Fazenda) desde 2022 e tenta equilibrar contas e gastos sociais. No Brasil, Haddad ocupou a Fazenda de 2023 a março de 2026, quando foi sucedido por Dario Durigan, seu secretário-executivo.
+- **David Shoebridge**: Equivalente mais próximo no Brasil: Guilherme Boulos (A esquerda à esquerda do governo). Líder dos Greens desde setembro de 2026 (antes dele vieram Adam Bandt e Larissa Waters). Como Boulos no PSOL, empurra o governo de centro-esquerda para reformas sociais e climáticas mais ousadas. A diferença: os Greens estão fora do governo, e Boulos virou ministro de Lula.
+- **Angus Taylor**: Equivalente mais próximo no Brasil: Tarcísio de Freitas / Romeu Zema (A direita técnica). Líder da oposição desde 2026. Economista, ex-consultor e ex-ministro da Energia, vende competência de gestão e foco em economia, como Tarcísio (engenheiro e ex-ministro da Infraestrutura) e Zema (empresário).
+- **Peter Dutton**: Equivalente mais próximo no Brasil: Sergio Moro (A linha-dura da segurança). Ex-policial, foi ministro de Assuntos Internos e da Defesa e líder da oposição de 2022 a 2025, até perder a própria cadeira. Bandeiras de fronteira fechada, combate ao crime e segurança nacional, como Moro, ex-juiz e ex-ministro da Justiça.
+- **Pauline Hanson**: Equivalente mais próximo no Brasil: Jair Bolsonaro (A direita populista). A fundadora do One Nation é a grande figura antissistema da direita australiana há quase 30 anos: discurso contra imigração, contra a “elite” de Canberra e contra pautas progressistas, com fãs fiéis e muita polêmica.
+- **Alex Antic**: Equivalente mais próximo no Brasil: Eduardo Bolsonaro (A ala ideológica e religiosa). Senador da Austrália do Sul e líder da ala mais à direita dos Liberais, ligado à direita cristã e cético das vacinas. Como Eduardo, representa a ala mais ideológica e religiosa dentro de um campo político maior.
+- **Turning Point Australia**: Equivalente mais próximo no Brasil: Nikolas Ferreira (A nova direita digital). Braço australiano do grupo americano Turning Point, criado em 2023 para levar valores conservadores e cristãos aos jovens pelas redes, como faz Nikolas Ferreira, o deputado mais votado do Brasil em 2022.
+- **Matt Canavan**: Equivalente mais próximo no Brasil: Ronaldo Caiado (O interior e o agro). Líder dos Nationals desde 2026, defensor do carvão, da mineração e do interior. Lembra Caiado, médico que fundou a UDR, a entidade dos ruralistas, e governou Goiás de 2019 a 2026.
+- **Bob Katter**: Equivalente mais próximo no Brasil: Enéas Carneiro / Sérgio Reis (O populismo rústico e imprevisível). O “caubói” do Parlamento, de chapéu de abas largas: nacionalismo econômico, pauta pró-armas, sotaque do interior e falas que viram meme, como a de Enéas, com o jeitão sertanejo de Sérgio Reis.
+- **Lidia Thorpe**: Equivalente mais próximo no Brasil: Sônia Guajajara (As vozes indígenas). Primeira senadora aborígene de Victoria, saiu dos Greens em 2023 e virou a voz indígena mais combativa do Parlamento. Como Sônia Guajajara, líder guajajara que foi a primeira ministra dos Povos Indígenas.
+- **David Pocock**: Equivalente mais próximo no Brasil: Romário (Do esporte ao Senado). Ex-jogador da seleção australiana de rúgbi, eleito senador independente pelo Território da Capital em 2022, com pautas de clima e integridade. A semelhança com Romário é a trajetória do esporte ao Senado; as bandeiras são bem diferentes.
+
+### Ativistas
+
+- **Eddie Mabo**: (Direitos indígenas) Das Ilhas do Estreito de Torres, levou à Suprema Corte a luta pela terra do seu povo. A decisão de 1992 acabou com a ideia de "terra nullius". <https://en.wikipedia.org/wiki/Eddie_Mabo>
+- **Vincent Lingiari**: (Direitos indígenas) Liderou a greve de Wave Hill (1966), quando trabalhadores gurindji deixaram uma fazenda. Em 1975, Whitlam despejou terra na mão dele, devolvendo parte do território. <https://en.wikipedia.org/wiki/Vincent_Lingiari>
+- **Charles Perkins**: (Direitos indígenas) Liderou a Freedom Ride de 1965, uma viagem de ônibus pelo interior de NSW denunciando a segregação racial. <https://pt.wikipedia.org/wiki/Charles_Perkins>
+- **Faith Bandler**: (Direitos indígenas) Uma das principais vozes da campanha pelo "sim" no referendo de 1967. <https://pt.wikipedia.org/wiki/Faith_Bandler>
+- **Megan Davis**: (Direitos indígenas) Jurista aborígene, uma das autoras da Uluru Statement from the Heart (2017), que pediu uma Voz indígena no Parlamento. <https://en.wikipedia.org/wiki/Megan_Davis>
+- **Thomas Mayo**: (Direitos indígenas) Sindicalista das Ilhas do Estreito de Torres que levou a Uluru Statement pelo país durante a campanha de 2023. <https://en.wikipedia.org/wiki/Thomas_Mayo_(author)>
+- **Adam Goodes**: (Direitos indígenas) Craque da AFL e Australiano do Ano de 2014, virou símbolo da luta contra o racismo no esporte. <https://en.wikipedia.org/wiki/Adam_Goodes>
+- **Bob Brown**: (Clima e meio ambiente) Liderou a campanha que salvou o rio Franklin, na Tasmânia, em 1983, e fundou os Greens. <https://pt.wikipedia.org/wiki/Bob_Brown>
+- **Tim Flannery**: (Clima e meio ambiente) Cientista e escritor, uma das vozes mais conhecidas sobre mudança climática. Australiano do Ano de 2007. <https://pt.wikipedia.org/wiki/Tim_Flannery>
+- **Anjali Sharma**: (Clima e meio ambiente) Aos 16 anos, liderou um grupo de estudantes que processou o governo pelos danos climáticos de uma mina de carvão (2021). <https://en.wikipedia.org/wiki/Anjali_Sharma_(climate_activist)>
+- **Vida Goldstein**: (Mulheres) Sufragista de Melbourne, foi em 1903 uma das primeiras mulheres do Império Britânico a disputar uma vaga num parlamento nacional. <https://pt.wikipedia.org/wiki/Vida_Goldstein>
+- **Edith Cowan**: (Mulheres) Primeira mulher eleita para um parlamento australiano, em 1921, em Western Australia. Está na nota de A$50. <https://pt.wikipedia.org/wiki/Edith_Cowan>
+- **Rosie Batty**: (Sociedade) Depois de perder o filho para a violência do ex-companheiro, virou a voz nacional contra a violência doméstica. Australiana do Ano de 2015. <https://en.wikipedia.org/wiki/Rosie_Batty>
+- **Grace Tame**: (Sociedade) Sobrevivente de abuso sexual que lutou para poder contar sua história. Australiana do Ano de 2021. <https://pt.wikipedia.org/wiki/Grace_Tame>
+- **Dylan Alcott**: (Sociedade) Campeão paralímpico de tênis e basquete, ativista pelos direitos das pessoas com deficiência. Australiano do Ano de 2022. <https://pt.wikipedia.org/wiki/Dylan_Alcott>
+- **Taryn Brumfitt**: (Sociedade) Criadora do movimento Body Image, contra a pressão estética. Australiana do Ano de 2023. <https://en.wikipedia.org/wiki/Taryn_Brumfitt>
+- **Peter Singer**: (Direitos dos animais) Filósofo nascido em Melbourne cujo livro Libertação Animal (1975) moldou o movimento moderno pelos direitos dos animais. Professor emérito de bioética em Princeton. <https://pt.wikipedia.org/wiki/Peter_Singer>
+- **Georgie Purcell**: (Direitos dos animais) Deputada do Animal Justice Party na câmara alta de Victoria (o Legislative Council) desde 2022, na luta pela proibição da caça de patos e pelo bem-estar animal. <https://en.wikipedia.org/wiki/Georgie_Purcell>
+- **Joey Carbstrong**: (Direitos dos animais) Ex-criminoso que virou ativista pelos direitos dos animais e pelo veganismo, com investigações secretas e debates que viralizam nas redes. <https://en.wikipedia.org/wiki/Joey_Carbstrong>
+
+Fontes: [AEC: como funcionam as eleições](https://www.aec.gov.au); [Parlamento da Austrália](https://www.aph.gov.au); [ABS: salários (mai/2026) e desemprego (set/2026)](https://www.abs.gov.au); [RBA: juros](https://www.rba.gov.au); [Fair Work Ombudsman: salário mínimo](https://www.fairwork.gov.au); [DFAT: exportações de 2025](https://www.dfat.gov.au/trade/trade-and-investment-data-information-and-publications); [PropTrack/realestate.com.au: aluguel (set/2026)](https://www.realestate.com.au/insights/); [FMI: World Economic Outlook](https://www.imf.org/en/Publications/WEO)
+
+## Para conhecer mais
+
+https://australianculture.biblioverse.org/pt/sites.html
+
+- **Australia.com**: (Turismo e imagem · Tourism Australia) O site oficial de turismo: destinos, roteiros, eventos e o "jeito australiano" explicado para visitantes. <https://www.australia.com>
+- **Australia's Nation Brand**: (Turismo e imagem · Governo australiano) A marca-país: como a Austrália se apresenta ao mundo, com o logo do canguru, cores, fotos e histórias para usar. <https://www.brandaustralia.com>
+- **Study Australia**: (Turismo e imagem · Austrade) O portal oficial para estudantes internacionais: cursos, custo de vida e como é morar no país. <https://www.studyaustralia.gov.au>
+- **DFAT: About Australia**: (Turismo e imagem · Ministério das Relações Exteriores) Um resumo oficial do país: povo, governo, economia, cultura e o livreto "Australia in Brief". <https://www.dfat.gov.au/about-australia>
+- **Digital Atlas of Australia**: (Dados e mapas · Geoscience Australia) Atlas interativo do governo: cruza mapas de população, clima, terra, infraestrutura e muito mais. <https://digital.atlas.gov.au>
+- **ABS**: (Dados e mapas · Australian Bureau of Statistics) O IBGE australiano: censo, população, economia e o "Data by Region" para comparar qualquer cidade. <https://www.abs.gov.au>
+- **Geoscience Australia**: (Dados e mapas · Governo australiano) Geologia, terremotos, mapas oficiais e curiosidades como os pontos extremos do continente. <https://www.ga.gov.au>
+- **Bureau of Meteorology**: (Dados e mapas · BOM) Previsão do tempo, radar, médias de clima de cada cidade e o índice UV, que todo australiano consulta. <https://www.bom.gov.au>
+- **AIATSIS**: (Povos originários · Instituto de estudos aborígenes e das Ilhas do Estreito de Torres) O principal centro de pesquisa e acervo sobre os povos originários, com o famoso mapa das nações indígenas. <https://aiatsis.gov.au>
+- **First Languages Australia**: (Povos originários · Organização indígena) Trabalha para manter vivas as línguas indígenas. O mapa Gambay reúne centenas de línguas e dialetos. <https://www.firstlanguages.org.au>
+- **Reconciliation Australia**: (Povos originários · Organização independente) Explica a reconciliação entre povos indígenas e não indígenas, o Acknowledgement of Country e as datas importantes. <https://www.reconciliation.org.au>
+- **Indigenous.gov.au**: (Povos originários · National Indigenous Australians Agency) Notícias, programas e histórias de comunidades aborígenes e das Ilhas do Estreito de Torres. <https://www.indigenous.gov.au>
+- **National Archives of Australia**: (Cultura e história · Arquivo Nacional) Documentos que contam a história do país, da Federação aos registros de imigrantes. <https://www.naa.gov.au>
+- **Trove**: (Cultura e história · National Library of Australia) Milhões de jornais antigos digitalizados, fotos, livros e mapas. Dá para ler notícias de 1803 em diante. <https://trove.nla.gov.au>
+- **National Museum of Australia**: (Cultura e história · Museu Nacional) O museu de história e cultura do país, em Canberra, com coleções e exposições online. <https://www.nma.gov.au>
+- **Australian War Memorial**: (Cultura e história · Memorial de guerra) Para entender o Anzac Day e o peso das guerras na identidade australiana. <https://www.awm.gov.au>
+- **Australian Museum**: (Cultura e história · O museu mais antigo do país) Fundado em 1827, em Sydney. Ótimo para conhecer a fauna (inclusive a perigosa) e as culturas indígenas. <https://australian.museum>
+- **Screen Australia**: (Cultura e história · Agência de cinema e TV) Dados e catálogos de filmes, séries e animações australianas. <https://www.screenaustralia.gov.au>
+- **ABC**: (Mídia · Emissora pública) A "BBC australiana": notícias, rádio, podcasts e o ABC iview, com séries e desenhos como Bluey. <https://www.abc.net.au>
+- **SBS**: (Mídia · Emissora pública multicultural) A emissora das comunidades imigrantes, com conteúdo em dezenas de línguas, incluindo o SBS Portuguese. <https://www.sbs.com.au>
+- **Parks Australia**: (Natureza · Parques nacionais) Uluru-Kata Tjuta, Kakadu, Booderee e outros parques federais, com dicas de visita e cultura local. <https://parksaustralia.gov.au>
+- **Atlas of Living Australia**: (Natureza · CSIRO e parceiros) Milhões de registros de plantas e animais. Descubra o que vive perto de qualquer endereço. <https://www.ala.org.au>
+
+## Você é true blue?
+
+https://australianculture.biblioverse.org/pt/quiz.html
+
+- **O que é Vegemite?**: Resposta: Uma pasta de extrato de levedura
+- **Qual é a capital da Austrália?**: Resposta: Canberra
+- **Qual invenção saiu de um laboratório do CSIRO?**: Resposta: O Wi-Fi rápido
+- **Se um australiano fala em "thongs", ele quer dizer...**: Resposta: Chinelos de dedo
+- **Quem venceu a "Guerra dos Emus", em 1932?**: Resposta: Os emus
+- **Qual atriz australiana fez Barbie (2023)?**: Resposta: Margot Robbie
+- **Qual é a flor símbolo da Austrália?**: Resposta: Acácia dourada (golden wattle)
+- **Qual destes mamíferos bota ovos?**: Resposta: Ornitorrinco
+- **Qual a maior cerca do mundo, com 5.614 km?**: Resposta: Dingo Fence
+- **Qual banda gravou "Down Under"?**: Resposta: Men at Work
+- **Que dia é o Anzac Day?**: Resposta: 25 de abril
+- **Qual animal faz cocô em formato de cubo?**: Resposta: Wombat
+- **Qual pássaro australiano tem um canto que parece uma gargalhada?**: Resposta: Kookaburra
+- **O que significa “shout” no pub?**: Resposta: Pagar uma rodada
+- **De que raça é a Bluey?**: Resposta: Blue heeler

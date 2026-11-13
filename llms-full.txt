@@ -1,0 +1,1177 @@
+# Australian Culture: full content
+
+Everything in the guide at https://australianculture.biblioverse.org/ as plain Markdown, stop by stop, with a link to each page and to the matching Wikipedia article. Content updated November 2026.
+
+## Famous Aussies
+
+https://australianculture.biblioverse.org/famous-aussies.html
+
+
+### Famous worldwide
+
+- **Nicole Kidman**: (Film and TV) Won the Oscar for The Hours (2002). From Moulin Rouge! to Big Little Lies, she’s one of the most awarded actors of her generation. Grew up in Sydney. <https://en.wikipedia.org/wiki/Nicole_Kidman>
+- **Hugh Jackman**: (Film and TV) Played Wolverine in X-Men for 17 years and starred in musicals like The Greatest Showman and Les Misérables. Born in Sydney. <https://en.wikipedia.org/wiki/Hugh_Jackman>
+- **Margot Robbie**: (Film and TV) Went from Neighbours to The Wolf of Wall Street, Harley Quinn and Barbie (2023), which she also produced through LuckyChap. Born in Dalby, Queensland, and raised on the Gold Coast. <https://en.wikipedia.org/wiki/Margot_Robbie>
+- **Chris Hemsworth**: (Film and TV) Marvel’s Thor and the most followed Australian actor. Got his start on Home and Away. Brothers Liam and Luke act too. <https://en.wikipedia.org/wiki/Chris_Hemsworth>
+- **Cate Blanchett**: (Film and TV) Two Oscars, for The Aviator and Blue Jasmine, and Galadriel in The Lord of the Rings. Born in Melbourne. <https://en.wikipedia.org/wiki/Cate_Blanchett>
+- **Heath Ledger**: (Film and TV) Born in Perth, he won a posthumous Oscar as the Joker in The Dark Knight (2008). Also unforgettable in Brokeback Mountain. <https://en.wikipedia.org/wiki/Heath_Ledger>
+- **Russell Crowe**: (Film and TV) Born in New Zealand and raised in Sydney, he won the Oscar for Gladiator (2000). He even co-owns a rugby league club, the South Sydney Rabbitohs. <https://en.wikipedia.org/wiki/Russell_Crowe>
+- **Geoffrey Rush**: (Film and TV) Oscar for Shine (1996) and Barbossa in Pirates of the Caribbean. One of the few actors with the “triple crown”: an Oscar, an Emmy and a Tony. <https://en.wikipedia.org/wiki/Geoffrey_Rush>
+- **Naomi Watts**: (Film and TV) Born in England and raised in Sydney. Broke through in Mulholland Drive and was Oscar-nominated for 21 Grams and The Impossible. <https://en.wikipedia.org/wiki/Naomi_Watts>
+- **Hugo Weaving**: (Film and TV) Agent Smith in The Matrix, Elrond in The Lord of the Rings and one of the drag queens in The Adventures of Priscilla, Queen of the Desert. <https://en.wikipedia.org/wiki/Hugo_Weaving>
+- **Toni Collette**: (Film and TV) Oscar-nominated for The Sixth Sense. Made her name in Muriel’s Wedding (1994) and shone again in the horror film Hereditary. <https://en.wikipedia.org/wiki/Toni_Collette>
+- **Jacob Elordi**: (Film and TV) From Brisbane to the world: Euphoria, The Kissing Booth, Saltburn and Elvis in Priscilla. Played the creature in Guillermo del Toro’s Frankenstein (2025). <https://en.wikipedia.org/wiki/Jacob_Elordi>
+- **Rebel Wilson**: (Film and TV) Fat Amy in Pitch Perfect. Started out in Aussie TV comedy, in shows like Pizza. <https://en.wikipedia.org/wiki/Rebel_Wilson>
+- **Eric Bana**: (Film and TV) Went from sketch comedy (Full Frontal) to Hulk, Troy and Munich. His first big role was the criminal Chopper (2000). <https://en.wikipedia.org/wiki/Eric_Bana>
+- **Rose Byrne**: (Film and TV) Comedies like Bridesmaids and Neighbors, the horror Insidious and the series Physical. Born in Sydney. <https://en.wikipedia.org/wiki/Rose_Byrne>
+- **Guy Pearce**: (Film and TV) Discovered on Neighbours, then L.A. Confidential, Memento and Priscilla. Oscar-nominated for The Brutalist (2024). <https://en.wikipedia.org/wiki/Guy_Pearce>
+- **Mel Gibson**: (Film and TV) Born in the US and raised in Sydney, he became famous as Mad Max (1979) and won the Best Director Oscar for Braveheart. <https://en.wikipedia.org/wiki/Mel_Gibson>
+- **Paul Hogan**: (Film and TV) Crocodile Dundee (1986), the film that introduced the “Aussie” to the world with “That’s not a knife. That’s a knife.” <https://en.wikipedia.org/wiki/Paul_Hogan>
+- **Isla Fisher**: (Film and TV) Born in Oman and raised in Perth. Comedies like Wedding Crashers and Confessions of a Shopaholic; she also writes children’s books. <https://en.wikipedia.org/wiki/Isla_Fisher>
+- **Elizabeth Debicki**: (Film and TV) Princess Diana in The Crown (Golden Globe in 2024), and also in Tenet and The Great Gatsby. Grew up in Melbourne. <https://en.wikipedia.org/wiki/Elizabeth_Debicki>
+- **Steve Irwin**: (Film and TV) “Crikey!” The Crocodile Hunter brought Australian wildlife to TV screens around the world. He died in 2006; his kids Bindi and Robert carry on at Australia Zoo. <https://en.wikipedia.org/wiki/Steve_Irwin>
+- **Errol Flynn**: (Film and TV) Classic Hollywood’s swashbuckling heart-throb, star of Captain Blood and The Adventures of Robin Hood (1938). Born in Hobart, Tasmania. <https://en.wikipedia.org/wiki/Errol_Flynn>
+- **Baz Luhrmann**: (Film and TV) Director of Romeo + Juliet, Moulin Rouge!, The Great Gatsby and Elvis. Over the top, musical and bursting with colour. <https://en.wikipedia.org/wiki/Baz_Luhrmann>
+- **George Miller**: (Film and TV) Creator of Mad Max (from 1979 to Furiosa in 2024). He also made Babe and won the Best Animated Feature Oscar for Happy Feet. <https://en.wikipedia.org/wiki/George_Miller_(filmmaker)>
+- **Elle Macpherson**: (Models) “The Body”. Supermodel of the 80s and 90s and record holder for Sports Illustrated Swimsuit covers. Born in Sydney. <https://en.wikipedia.org/wiki/Elle_Macpherson>
+- **Miranda Kerr**: (Models) The first Australian Victoria’s Secret Angel. Founded the organic skincare brand Kora Organics. <https://en.wikipedia.org/wiki/Miranda_Kerr>
+- **Catriona Gray**: (Models) Born in Cairns to a Scottish-Australian dad and a Filipino mum. Won Miss Universe 2018 representing the Philippines. <https://en.wikipedia.org/wiki/Catriona_Gray>
+- **Gemma Ward**: (Models) Discovered at 14 in Perth, she became one of the most sought-after faces in fashion in the 2000s (Prada, Chanel, Vogue). <https://en.wikipedia.org/wiki/Gemma_Ward>
+- **Abbey Lee**: (Models) Melbourne supermodel turned actor: one of Immortan Joe’s wives in Mad Max: Fury Road. <https://en.wikipedia.org/wiki/Abbey_Lee>
+- **Adut Akech**: (Models) Born in South Sudan and raised in Adelaide after arriving as a refugee. Model of the Year at the British Fashion Awards in 2019. <https://en.wikipedia.org/wiki/Adut_Akech>
+- **Jordan Barrett**: (Models) From Byron Bay, one of the world’s best-known male models, with campaigns for Versace and Tom Ford. <https://en.wikipedia.org/wiki/Jordan_Barrett>
+- **Shanina Shaik**: (Models) Born in Melbourne, she walked for Victoria’s Secret and first got noticed on Australia’s Next Top Model. <https://en.wikipedia.org/wiki/Shanina_Shaik>
+- **Duckie Thot**: (Models) Daughter of South Sudanese parents, raised in Melbourne. Found fame on Australia’s Next Top Model and became a face of Fenty Beauty. <https://en.wikipedia.org/wiki/Duckie_Thot>
+- **Robyn Lawley**: (Models) A plus-size pioneer: the first curve model on the cover of Vogue Italia and in Sports Illustrated Swimsuit. <https://en.wikipedia.org/wiki/Robyn_Lawley>
+- **Kayla Itsines**: (Content creators) Adelaide personal trainer who created the Bikini Body Guide and the Sweat app, and became one of the biggest fitness influencers on the planet. <https://en.wikipedia.org/wiki/Kayla_Itsines>
+- **Tammy Hembrow**: (Content creators) Gold Coast fitness influencer behind the Saski Collection clothing label and the Tammy Fit app.
+- **Supercar Blondie**: (Content creators) Alex Hirschi, from Brisbane, shows off luxury cars and tech. One of the biggest motoring creators in the world. <https://en.wikipedia.org/wiki/Alex_Hirschi>
+- **Celeste Barber**: (Content creators) Comedian who recreates celebrity and model photos, “real life” style. In 2020 she raised more than A$50 million for bushfire relief. <https://en.wikipedia.org/wiki/Celeste_Barber>
+- **Ben & Zara Tate**: (Content creators) A couple making comedy sketches about relationships, with millions of followers on Instagram and TikTok.
+- **Vinh Giang**: (Content creators) Melbourne magician and communication coach whose videos on how to speak well go viral worldwide.
+- **How Ridiculous**: (Content creators) Perth trio famous for impossible trick shots from crazy heights, with Guinness records and billions of YouTube views. <https://en.wikipedia.org/wiki/How_Ridiculous>
+- **Aunty Donna**: (Content creators) Absurdist Melbourne comedy troupe that went from YouTube to their own Netflix series (Aunty Donna’s Big Ol’ House of Fun). <https://en.wikipedia.org/wiki/Aunty_Donna>
+- **Lachlan**: (Content creators) Lachlan Power, Fortnite and Minecraft gamer with more than 15 million subscribers. Founded the PWR group and its clothing brand. <https://en.wikipedia.org/wiki/Lachlan_Power>
+- **Loserfruit**: (Content creators) Kathleen Belsten, from Melbourne, one of the first women to get her own skin in Fortnite. <https://en.wikipedia.org/wiki/Loserfruit>
+- **Robert Irwin**: (Content creators) Steve Irwin’s son, a wildlife photographer and Australia Zoo presenter. Won the US Dancing with the Stars in 2025. <https://en.wikipedia.org/wiki/Robert_Irwin>
+- **Patrick White**: (Literature and ideas) The only Australian to win the Nobel Prize in Literature, in 1973. Author of Voss and The Tree of Man, dense portraits of the country’s people and landscape. <https://en.wikipedia.org/wiki/Patrick_White>
+- **Thomas Keneally**: (Literature and ideas) Wrote Schindler’s Ark, winner of the 1982 Booker Prize, which became Spielberg’s Schindler’s List and won seven Oscars. <https://en.wikipedia.org/wiki/Thomas_Keneally>
+- **Peter Carey**: (Literature and ideas) One of only a handful of writers to win the Booker Prize twice: for Oscar and Lucinda (1988) and True History of the Kelly Gang (2001). <https://en.wikipedia.org/wiki/Peter_Carey_(novelist)>
+- **Markus Zusak**: (Literature and ideas) Sydney author of The Book Thief (2005), a worldwide bestseller that became a film in 2013. <https://en.wikipedia.org/wiki/Markus_Zusak>
+- **Colleen McCullough**: (Literature and ideas) A neurophysiologist turned novelist who wrote The Thorn Birds (1977), one of the best-selling Australian books ever and a hit TV miniseries in the 80s. <https://en.wikipedia.org/wiki/Colleen_McCullough>
+- **Peter Singer**: (Literature and ideas) Moral philosopher born in Melbourne, one of the most influential thinkers alive. Animal Liberation (1975) launched the animal rights movement, and his ideas inspired effective altruism. <https://en.wikipedia.org/wiki/Peter_Singer>
+- **David Chalmers**: (Literature and ideas) Philosopher and cognitive scientist who coined the “hard problem of consciousness”: why do we have inner experience at all? Professor at NYU, he also popularised the famous philosophical zombies. <https://en.wikipedia.org/wiki/David_Chalmers>
+
+### Famous in Australia
+
+- **Ray Martin**: (TV and radio) Journalist and presenter of 60 Minutes, Midday and A Current Affair. He won the Gold Logie, Australian TV’s top award, five times. <https://en.wikipedia.org/wiki/Ray_Martin_(television_presenter)>
+- **Bert Newton**: (TV and radio) “Mr Television”: more than 60 years on air, from In Melbourne Tonight to Good Morning Australia, and four Gold Logies. He died in 2021. <https://en.wikipedia.org/wiki/Bert_Newton>
+- **Karl Stefanovic**: (TV and radio) Co-host of Nine’s Today breakfast show from 2005 to 2018 and again since 2020. He won the Gold Logie in 2011. <https://en.wikipedia.org/wiki/Karl_Stefanovic>
+- **Lisa Wilkinson**: (TV and radio) Became editor of Dolly magazine at 21, then co-hosted Today and The Project. <https://en.wikipedia.org/wiki/Lisa_Wilkinson>
+- **Leigh Sales**: (TV and radio) ABC journalist who hosted 7.30 from 2011 to 2022, known for tough interviews with politicians. <https://en.wikipedia.org/wiki/Leigh_Sales>
+- **Grant Denyer**: (TV and radio) Host of Family Feud, former Sunrise weatherman and racing driver. He won the Gold Logie in 2018. <https://en.wikipedia.org/wiki/Grant_Denyer>
+- **Sonia Kruger**: (TV and radio) Former dancer turned one of the country’s best-known hosts, fronting The Voice and Big Brother. <https://en.wikipedia.org/wiki/Sonia_Kruger>
+- **Andrew Denton**: (TV and radio) Interviewer on the ABC’s Enough Rope and creator of comedy shows. Now a leading voice for voluntary assisted dying. <https://en.wikipedia.org/wiki/Andrew_Denton>
+- **Molly Meldrum**: (TV and radio) The man in the cowboy hat on Countdown (1974–1987), the show that helped launch acts like AC/DC and Skyhooks. <https://en.wikipedia.org/wiki/Molly_Meldrum>
+- **Costa Georgiadis**: (TV and radio) The bearded gardener of the ABC’s Gardening Australia, who makes everyone want to start a veggie patch. <https://en.wikipedia.org/wiki/Costa_Georgiadis>
+- **Magda Szubanski**: (Film and TV) Sharon in Kath & Kim and Esme in Babe. She was one of the faces of the 2017 marriage equality campaign. <https://en.wikipedia.org/wiki/Magda_Szubanski>
+- **Deborah Mailman**: (Film and TV) Bidjara actor from The Sapphires, Offspring and Mystery Road. The first Aboriginal woman to win the AFI award for best actress, in 1998. <https://en.wikipedia.org/wiki/Deborah_Mailman>
+- **Ernie Dingo**: (Film and TV) Yamatji actor and presenter, the face of travel show The Great Outdoors and films like Crocodile Dundee II. <https://en.wikipedia.org/wiki/Ernie_Dingo>
+- **Cathy Freeman**: (Sport) Lit the cauldron and won the 400 m at the Sydney 2000 Olympics, one of the most moving moments in the nation’s history. <https://en.wikipedia.org/wiki/Cathy_Freeman>
+- **Don Bradman**: (Sport) The greatest cricketer of all time, with a Test batting average of 99.94. Every Aussie knows that number. <https://en.wikipedia.org/wiki/Don_Bradman>
+- **Dawn Fraser**: (Sport) Swimmer who won the 100 m freestyle at three Olympics in a row (1956, 1960 and 1964). <https://en.wikipedia.org/wiki/Dawn_Fraser>
+- **Johnathan Thurston**: (Sport) Indigenous rugby league great and North Queensland Cowboys hero, who won them the 2015 premiership with a field goal in golden point. <https://en.wikipedia.org/wiki/Johnathan_Thurston>
+- **Jennifer Hawkins**: (Fashion and music) Miss Universe 2004, then a TV host and one of the best-known faces in Australian fashion and advertising. <https://en.wikipedia.org/wiki/Jennifer_Hawkins>
+- **Megan Gale**: (Fashion and music) Perth model who became a star in Italy and was, for years, the face of David Jones at home. <https://en.wikipedia.org/wiki/Megan_Gale>
+- **Jessica Origliasso**: (Fashion and music) Brisbane singer, songwriter and producer, born in 1984. With her identical twin Lisa, she makes up The Veronicas. <https://en.wikipedia.org/wiki/Jessica_Origliasso>
+- **Lisa Origliasso**: (Fashion and music) Singer and songwriter raised in Albany Creek, Queensland. Jessica’s identical twin and the other half of The Veronicas. <https://en.wikipedia.org/wiki/Lisa_Origliasso>
+- **Karl Kruszelnicki**: (Science and culture) Dr Karl, the country’s best-known science communicator. He has answered listeners’ questions on radio for decades, written dozens of books and won an Ig Nobel Prize in 2002 for research into belly-button lint. <https://en.wikipedia.org/wiki/Karl_Kruszelnicki>
+- **Ita Buttrose**: (Science and culture) Founding editor of Cleo, editor of The Women’s Weekly and ABC chair from 2019 to 2024. Australian of the Year in 2013. <https://en.wikipedia.org/wiki/Ita_Buttrose>
+
+### Most followed on Instagram
+
+- **Rosé (BLACKPINK)**: 83.2 million followers on Instagram (Music)
+- **Chris Hemsworth**: 58 million followers on Instagram (Film)
+- **Katherine Langford**: 38.9 million followers on Instagram (Film)
+- **Felix (Stray Kids)**: 37 million followers on Instagram (Music)
+- **Hugh Jackman**: 33 million followers on Instagram (Film)
+- **Anne Curtis**: 20.6 million followers on Instagram (Film)
+- **Kyrie Irving**: 19.8 million followers on Instagram (Sport)
+- **Ruby Rose**: 19.2 million followers on Instagram (Film)
+- **Supercar Blondie**: 17.4 million followers on Instagram (Creator)
+- **Iggy Azalea**: 16.4 million followers on Instagram (Music)
+- **Tammy Hembrow**: 16.3 million followers on Instagram (Fitness)
+- **Kayla Itsines**: 15.3 million followers on Instagram (Fitness)
+- **Troye Sivan**: 15 million followers on Instagram (Music)
+- **Miranda Kerr**: 13.9 million followers on Instagram (Fashion)
+- **Catriona Gray**: 13.2 million followers on Instagram (Fashion)
+- **Bang Chan (Stray Kids)**: 12 million followers on Instagram (Music)
+- **Liam Hemsworth**: 11.5 million followers on Instagram (Film)
+- **Nicole Kidman**: 11 million followers on Instagram (Film)
+- **Rebel Wilson**: 10.9 million followers on Instagram (Comedy)
+- **David Warner**: 10.3 million followers on Instagram (Sport)
+- **Angela White**: 10 million followers on Instagram (Creator)
+- **Daniel Ricciardo**: 10 million followers on Instagram (Sport)
+- **Robert Irwin**: 9.7 million followers on Instagram (TV)
+- **Celeste Barber**: 9.5 million followers on Instagram (Comedy)
+- **Maia Mitchell**: 9.4 million followers on Instagram (Film)
+- **Sia**: 8.2 million followers on Instagram (Music)
+
+Sources: [Australia Para Todos: popular Australian celebrities](https://australiaparatodos.wordpress.com/2025/02/02/celebridades-australianas-mais-populares); [Australia Para Todos: most followed Australians on Instagram (Aug 2026)](https://australiaparatodos.wordpress.com/2026/08/11/os-australianos-mais-seguidos-no-instagram)
+
+## Music
+
+https://australianculture.biblioverse.org/music.html
+
+
+### Artists and bands
+
+- **AC/DC**: (Rock · 1973) Brothers Malcolm and Angus Young (in his school uniform) built one of the biggest rock bands in history. Back in Black is one of the best-selling albums of all time. <https://en.wikipedia.org/wiki/AC%2FDC>
+- **INXS**: (Rock · 1977) Michael Hutchence and co. took Aussie rock to the top in the 80s with Need You Tonight and Never Tear Us Apart. <https://en.wikipedia.org/wiki/INXS>
+- **Midnight Oil**: (Rock · 1972) Political rock from Sydney. Beds Are Burning (1987) is about handing land back to Aboriginal people. <https://en.wikipedia.org/wiki/Midnight_Oil>
+- **Men at Work**: (Rock · 1978) Down Under (1981), the country’s unofficial anthem: “Do you come from a land down under?” It went to No. 1 in the US and the UK. <https://en.wikipedia.org/wiki/Men_at_Work>
+- **Cold Chisel**: (Rock · 1973) The sound of the Aussie pub. Khe Sanh and Flame Trees still get sung in chorus. Frontman Jimmy Barnes has a huge solo career too. <https://en.wikipedia.org/wiki/Cold_Chisel>
+- **Crowded House**: (Rock · 1985) Melbourne band led by New Zealander Neil Finn. Don’t Dream It’s Over became a worldwide classic. <https://en.wikipedia.org/wiki/Crowded_House>
+- **The Easybeats**: (Rock · 1964) A Sydney band of young migrants. Friday on My Mind (1966) was the first Aussie rock song to become a worldwide hit. <https://en.wikipedia.org/wiki/The_Easybeats>
+- **Little River Band**: (Rock · 1975) Melbourne soft rock that landed Reminiscing and Lonesome Loser on American radio. <https://en.wikipedia.org/wiki/Little_River_Band>
+- **Icehouse**: (Rock · 1977) Sydney new wave. Great Southern Land (1982) is practically a musical portrait of the country. <https://en.wikipedia.org/wiki/Icehouse_(band)>
+- **The Saints**: (Rock · 1973) Brisbane band whose (I’m) Stranded (1976) is one of the first punk records anywhere. <https://en.wikipedia.org/wiki/The_Saints_(Australian_band)>
+- **Hunters & Collectors**: (Rock · 1981) From Melbourne. Holy Grail became an AFL Grand Final anthem, and Throw Your Arms Around Me gets sung at every wedding. <https://en.wikipedia.org/wiki/Hunters_%26_Collectors>
+- **Divinyls**: (Rock · 1980) Fronted by Chrissy Amphlett in a school uniform. I Touch Myself (1990) was a hit around the world. <https://en.wikipedia.org/wiki/Divinyls>
+- **Hoodoo Gurus**: (Rock · 1981) Sydney garage rock with huge hooks, like What’s My Scene? (1987). <https://en.wikipedia.org/wiki/Hoodoo_Gurus>
+- **The Living End**: (Rock · 1994) Melbourne punk and rockabilly trio with a double bass. Prisoner of Society is a 90s classic. <https://en.wikipedia.org/wiki/The_Living_End>
+- **Spiderbait**: (Rock · 1991) From country NSW. Their version of Black Betty (2004) went to No. 1 in Australia. <https://en.wikipedia.org/wiki/Spiderbait>
+- **Jet**: (Rock · 2001) Melbourne band that went global with Are You Gonna Be My Girl (2003), helped along by an iPod ad. <https://en.wikipedia.org/wiki/Jet_(band)>
+- **Wolfmother**: (Rock · 2004) Seventies-flavoured hard rock from Sydney. Won the 2007 Grammy for Best Hard Rock Performance with Woman. <https://en.wikipedia.org/wiki/Wolfmother>
+- **Gang of Youths**: (Rock · 2012) Big-hearted Sydney rock. Go Farther in Lightness (2017) won the ARIA for Album of the Year. <https://en.wikipedia.org/wiki/Gang_of_Youths>
+- **Amyl and the Sniffers**: (Rock · 2016) Melbourne punk fronted by Amy Taylor. Won the ARIA for Best Rock Album in 2019. <https://en.wikipedia.org/wiki/Amyl_and_the_Sniffers>
+- **Bee Gees**: (Pop · 1958) The Gibb brothers were born on the Isle of Man but started their career in Brisbane. From Stayin’ Alive to How Deep Is Your Love, they defined the disco era. <https://en.wikipedia.org/wiki/Bee_Gees>
+- **Kylie Minogue**: (Pop · 1987) The “princess of pop”. Went from Neighbours to hits like Can’t Get You Out of My Head and Padam Padam (a Grammy in 2024). <https://en.wikipedia.org/wiki/Kylie_Minogue>
+- **Olivia Newton-John**: (Pop · 1966) Born in England and raised in Melbourne. Sandy in Grease (1978) and the voice of Physical and Xanadu. <https://en.wikipedia.org/wiki/Olivia_Newton-John>
+- **Savage Garden**: (Pop · 1993) Brisbane duo behind the big ballads Truly Madly Deeply and I Knew I Loved You, which topped the charts in the US and around the world. <https://en.wikipedia.org/wiki/Savage_Garden>
+- **The Veronicas**: (Pop · 2005) Pop rock duo of Brisbane twins Jessica and Lisa Origliasso. Their debut album, The Secret Life Of... (2005), went to number two in Australia on the back of the hit 4ever. <https://en.wikipedia.org/wiki/The_Veronicas>
+- **Natalie Imbruglia**: (Pop · 1997) Another Neighbours actor turned singer: Torn (1997) was one of the biggest hits of the 90s. <https://en.wikipedia.org/wiki/Natalie_Imbruglia>
+- **John Farnham**: (Pop · 1967) You’re the Voice (1986) is practically a second national anthem. “The Voice” is one of the country’s most loved singers. <https://en.wikipedia.org/wiki/John_Farnham>
+- **Sia**: (Pop · 1997) Adelaide singer-songwriter behind Chandelier and Cheap Thrills. She’s also written hits for Rihanna, Beyoncé and Britney. <https://en.wikipedia.org/wiki/Sia>
+- **Silverchair**: (Rock · 1992) Newcastle teenagers who blew up in the grunge era with Tomorrow (1994). Daniel Johns was just 15. <https://en.wikipedia.org/wiki/Silverchair>
+- **Powderfinger**: (Rock · 1989) The Brisbane band that ruled Aussie alternative rock through the 90s and 2000s, with My Happiness. <https://en.wikipedia.org/wiki/Powderfinger>
+- **Tame Impala**: (Indie · 2007) Kevin Parker’s psychedelic project from Perth. Currents (2015) became a touchstone; The Less I Know the Better is an indie anthem. <https://en.wikipedia.org/wiki/Tame_Impala>
+- **Gotye**: (Indie · 2003) Somebody That I Used to Know (2011), with Kimbra, won two Grammys and had one of the most watched music videos of the decade. <https://en.wikipedia.org/wiki/Gotye>
+- **5 Seconds of Summer**: (Pop · 2011) Sydney pop-punk band that broke through supporting One Direction. Youngblood (2018) spent 8 weeks at No. 1 in Australia. <https://en.wikipedia.org/wiki/5_Seconds_of_Summer>
+- **Troye Sivan**: (Pop · 2013) Started on YouTube in Perth and became a pop icon with Youth and Rush (2023). <https://en.wikipedia.org/wiki/Troye_Sivan>
+- **The Kid LAROI**: (Hip-hop · 2018) From Sydney, he made Stay (2021) with Justin Bieber, which spent 7 weeks at No. 1 in the US. <https://en.wikipedia.org/wiki/The_Kid_Laroi>
+- **Tones and I**: (Pop · 2019) Was busking in Byron Bay when she released Dance Monkey, which spent a record 24 straight weeks at No. 1 in Australia. <https://en.wikipedia.org/wiki/Tones_and_I>
+- **Vance Joy**: (Indie · 2013) Riptide (2013) and its ukulele stayed in the charts for years and turn up at every singalong. <https://en.wikipedia.org/wiki/Vance_Joy>
+- **Flume**: (Electronic · 2011) Sydney producer who won the Grammy for Best Dance/Electronic Album in 2017 with Skin. <https://en.wikipedia.org/wiki/Flume_(musician)>
+- **RÜFÜS DU SOL**: (Electronic · 2010) Sydney trio making moody house music, with massive shows around the world. Innerbloom is a classic. <https://en.wikipedia.org/wiki/R%C3%BCf%C3%BCs_Du_Sol>
+- **Empire of the Sun**: (Electronic · 2007) Synth-pop duo with theatrical costumes. Walking on a Dream (2008) was a global hit. <https://en.wikipedia.org/wiki/Empire_of_the_Sun_(band)>
+- **Hilltop Hoods**: (Hip-hop · 1994) The Adelaide crew that took Aussie hip-hop mainstream, with Cosby Sweater and Nosebleed Section. <https://en.wikipedia.org/wiki/Hilltop_Hoods>
+- **Yothu Yindi**: (Indigenous · 1986) Arnhem Land band that blended rock with Yolŋu music. Treaty (1991) was the first song in an Aboriginal language to become a national hit. <https://en.wikipedia.org/wiki/Yothu_Yindi>
+- **Gurrumul**: (Indigenous · 2008) Geoffrey Gurrumul Yunupingu, a blind singer from Elcho Island, sang in Yolŋu. His debut album went triple platinum. <https://en.wikipedia.org/wiki/Geoffrey_Gurrumul_Yunupingu>
+- **Paul Kelly**: (Folk · 1974) The country’s great storyteller in song. How to Make Gravy has become an Aussie Christmas tradition. <https://en.wikipedia.org/wiki/Paul_Kelly_(Australian_musician)>
+- **Nick Cave & The Bad Seeds**: (Rock · 1983) Gothic, literary rock from Melbourne. Red Right Hand is the theme of Peaky Blinders. <https://en.wikipedia.org/wiki/Nick_Cave_and_the_Bad_Seeds>
+- **King Gizzard & the Lizard Wizard**: (Rock · 2010) Melbourne band that releases albums at a ridiculous pace (more than 25), from psychedelia to thrash metal to jazz. <https://en.wikipedia.org/wiki/King_Gizzard_%26_the_Lizard_Wizard>
+- **Rosé**: (Pop · 2016) Born in New Zealand and raised in Melbourne, the BLACKPINK singer released APT. (2024) with Bruno Mars, a global phenomenon. <https://en.wikipedia.org/wiki/Ros%C3%A9_(singer)>
+- **The Wiggles**: (Kids · 1991) The kids’ group in coloured skivvies is one of the country’s most lucrative cultural exports. Hot Potato! <https://en.wikipedia.org/wiki/The_Wiggles>
+
+Sources: [Australia Para Todos: the history of Australian rock](https://australiaparatodos.wordpress.com/2026/07/20/a-historia-do-rock-australiano-e-os-artistas-australianos-de-rock-mais-populares)
+
+## Film and TV
+
+https://australianculture.biblioverse.org/film-and-tv.html
+
+
+### Made in Australia
+
+- **Mad Max**: (Aussie film · 1979) George Miller’s desert dystopia that launched Mel Gibson. The saga came roaring back with Fury Road (2015, 6 Oscars) and Furiosa (2024). <https://en.wikipedia.org/wiki/Mad_Max>
+- **Crocodile Dundee**: (Aussie film · 1986) Paul Hogan as the outback bushman let loose in New York. Still one of the most successful Australian films ever. <https://en.wikipedia.org/wiki/Crocodile_Dundee>
+- **The Adventures of Priscilla, Queen of the Desert**: (Aussie film · 1994) Three drag queens cross the outback in a bus. Won the Oscar for costume design and became a hit musical. <https://en.wikipedia.org/wiki/The_Adventures_of_Priscilla,_Queen_of_the_Desert>
+- **Muriel’s Wedding**: (Aussie film · 1994) Toni Collette and a lot of ABBA in a cult comedy about a small-town girl. <https://en.wikipedia.org/wiki/Muriel%27s_Wedding>
+- **The Castle**: (Aussie film · 1997) The Kerrigans fight to keep their home next to the airport. Barely seen overseas, but every Australian can quote it: “Tell him he’s dreamin’.” <https://en.wikipedia.org/wiki/The_Castle_(1997_Australian_film)>
+- **Babe**: (Aussie film · 1995) Produced by George Miller and shot in NSW. Nominated for 7 Oscars and won for visual effects. <https://en.wikipedia.org/wiki/Babe_(film)>
+- **Moulin Rouge!**: (Aussie film · 2001) Baz Luhrmann’s musical with Nicole Kidman, shot at Fox Studios in Sydney. <https://en.wikipedia.org/wiki/Moulin_Rouge!>
+- **Happy Feet**: (Animation · 2006) A tap-dancing penguin animated by Sydney studio Animal Logic. Won the Oscar for Best Animated Feature. <https://en.wikipedia.org/wiki/Happy_Feet>
+- **Elvis**: (Aussie film · 2022) Baz Luhrmann again, shot on the Gold Coast. Eight Oscar nominations. <https://en.wikipedia.org/wiki/Elvis_(2022_film)>
+- **Picnic at Hanging Rock**: (Aussie film · 1975) The mystery of schoolgirls who vanish on an outing in 1900. Peter Weir and the Australian New Wave. <https://en.wikipedia.org/wiki/Picnic_at_Hanging_Rock_(film)>
+- **Gallipoli**: (Aussie film · 1981) Mel Gibson in the 1915 battle that shaped the national identity. Essential for understanding Anzac Day. <https://en.wikipedia.org/wiki/Gallipoli_(1981_film)>
+- **Rabbit-Proof Fence**: (Aussie film · 2002) Three Aboriginal girls escape a settlement and walk 2,400 km home along a fence. A true story of the Stolen Generations. <https://en.wikipedia.org/wiki/Rabbit-Proof_Fence>
+- **Lion**: (Aussie film · 2016) A boy from India adopted in Tasmania searches for his family using Google Earth. With Dev Patel and Nicole Kidman. <https://en.wikipedia.org/wiki/Lion_(2016_film)>
+- **Talk to Me**: (Aussie film · 2022) Horror from Adelaide’s Philippou brothers, the former RackaRacka YouTubers. A worldwide hit for A24. <https://en.wikipedia.org/wiki/Talk_to_Me_(2022_film)>
+- **The Babadook**: (Aussie film · 2014) Psychological horror from Adelaide’s Jennifer Kent. The monster even became an unlikely LGBTQ+ icon online. <https://en.wikipedia.org/wiki/The_Babadook>
+- **Bluey**: (Animation · 2018) Brisbane-made cartoon about a family of blue heelers. One of the most watched kids’ shows in the world, a hit on Disney+ and the most watched children’s program on Australian TV, loved just as much by the parents. <https://en.wikipedia.org/wiki/Bluey_(TV_series)>
+- **Mary and Max**: (Animation · 2009) Adam Elliot’s claymation about a pen-pal friendship between a Melbourne girl and a man in New York. Opened the Sundance Film Festival. <https://en.wikipedia.org/wiki/Mary_and_Max>
+- **Harvie Krumpet**: (Animation · 2003) Adam Elliot’s claymation short, narrated by Geoffrey Rush, which won the Oscar for Best Animated Short. <https://en.wikipedia.org/wiki/Harvie_Krumpet>
+- **Memoir of a Snail**: (Animation · 2024) Adam Elliot’s third stop-motion feature, about a woman who collects snails. Oscar-nominated for Best Animated Feature in 2025. <https://en.wikipedia.org/wiki/Memoir_of_a_Snail>
+- **The Lego Movie**: (Animation · 2014) All the animation was done by Sydney’s Animal Logic, the studio that also made Legend of the Guardians (2010) and Peter Rabbit (2018). <https://en.wikipedia.org/wiki/The_Lego_Movie>
+- **Dot and the Kangaroo**: (Animation · 1977) A girl lost in the bush is taken in by a kangaroo. A classic from Yoram Gross’s studio, mixing drawings with filmed landscapes. <https://en.wikipedia.org/wiki/Dot_and_the_Kangaroo_(film)>
+- **Blinky Bill**: (Animation · 1993) The cheeky koala from Dorothy Wall’s books (1933) became a TV cartoon and, in 2015, a CGI film. <https://en.wikipedia.org/wiki/Blinky_Bill>
+- **The Magic Pudding**: (Animation · 2000) Adapted from Norman Lindsay’s 1918 children’s book about a talking pudding that never runs out. <https://en.wikipedia.org/wiki/The_Magic_Pudding_(film)>
+- **FernGully: The Last Rainforest**: (Animation · 1992) An Australian–US co-production about fairies defending the rainforest. A 90s cult favourite. <https://en.wikipedia.org/wiki/FernGully:_The_Last_Rainforest>
+- **Little J & Big Cuz**: (Animation · 2017) Kids’ cartoon about two Aboriginal cousins, in English and Indigenous languages. Made to help children understand Aboriginal culture. <https://en.wikipedia.org/wiki/Little_J_%26_Big_Cuz>
+- **Kangaroo Beach**: (Animation · 2020) Young native animals train as lifeguards on an Aussie beach. Teaches water safety. <https://en.wikipedia.org/wiki/Kangaroo_Beach>
+- **100% Wolf**: (Animation · 2020) Sydney-made film about a werewolf who turns into a poodle. It became a series too. <https://en.wikipedia.org/wiki/100%25_Wolf>
+- **Kath & Kim**: (Aussie series · 2002) Comedy about a vain suburban mother and daughter. Catchphrases like “look at moiye” entered the language. <https://en.wikipedia.org/wiki/Kath_%26_Kim>
+- **Summer Heights High**: (Aussie series · 2007) Chris Lilley plays several characters at a high school. A huge cult hit (and looked at more critically today). <https://en.wikipedia.org/wiki/Summer_Heights_High>
+- **H2O: Just Add Water**: (Aussie series · 2006) Three Gold Coast teenagers become mermaids. A massive hit with kids around the world. <https://en.wikipedia.org/wiki/H2O:_Just_Add_Water>
+- **Heartbreak High**: (Aussie series · 2022) Netflix reboot of the 90s series about a Sydney high school. Won an International Emmy in 2023. <https://en.wikipedia.org/wiki/Heartbreak_High>
+- **Wentworth**: (Aussie series · 2013) Women’s prison drama, a reimagining of the 70s series Prisoner (Cell Block H). <https://en.wikipedia.org/wiki/Wentworth_(TV_series)>
+- **Mystery Road**: (Aussie series · 2018) Outback crime drama with an Aboriginal detective. One of the country’s best crime series. <https://en.wikipedia.org/wiki/Mystery_Road_(TV_series)>
+- **Deadloch**: (Aussie series · 2023) Prime Video crime comedy set in a small Tasmanian town, where two detectives who can’t stand each other investigate the bodies turning up on the beach. Created by Kate McCartney and Kate McLennan. <https://en.wikipedia.org/wiki/Deadloch>
+- **Last Stop Larrimah**: (Aussie series · 2023) HBO documentary about the disappearance of Paddy Moriarty in Larrimah, an outback town in the Northern Territory with about ten residents, where everyone is a suspect. <https://en.wikipedia.org/wiki/Last_Stop_Larrimah>
+- **Round the Twist**: (Kids’ series · 1989) The Twist family live in a lighthouse where Paul Jennings’ weird and wonderful stories come true. Shot at Split Point Lighthouse in Aireys Inlet, Victoria, with a theme every 90s kid can sing: “Have you ever...”. <https://en.wikipedia.org/wiki/Round_the_Twist>
+- **Johnson and Friends**: (Kids’ series · 1990) When the boy falls asleep, his toys come to life: Johnson the elephant and his mates have adventures in the bedroom. <https://en.wikipedia.org/wiki/Johnson_and_Friends>
+- **Bananas in Pyjamas**: (Kids’ series · 1992) B1 and B2, two bananas in striped pyjamas, became one of the ABC’s biggest kids’ hits and sold to dozens of countries. <https://en.wikipedia.org/wiki/Bananas_in_Pyjamas>
+- **The Ferals**: (Kids’ series · 1994) ABC series with puppets of feral animals living secretly in a family home and causing chaos, with very Aussie humour. <https://en.wikipedia.org/wiki/The_Ferals>
+- **Ocean Girl**: (Kids’ series · 1994) A mysterious girl lives alone on an island and talks to a humpback whale. Kids’ sci-fi that screened in dozens of countries. <https://en.wikipedia.org/wiki/Ocean_Girl>
+- **Spellbinder**: (Kids’ series · 1995) A Sydney teenager crosses into a parallel world. An Australian–Polish co-production that became a cult hit. <https://en.wikipedia.org/wiki/Spellbinder_(TV_series)>
+- **The Kangaroo Creek Gang**: (Kids’ series · 2002) Cartoon from Yoram Gross’s studio (the team behind Dot and the Kangaroo) about a gang of bush animals on adventures to protect their home. <https://en.wikipedia.org/wiki/Kangaroo_Creek_Gang>
+- **Bambaloo**: (Kids’ series · 2003) Seven’s preschool show with puppets and presenters, part of every early morning for kids growing up in the 2000s. <https://en.wikipedia.org/wiki/Bambaloo>
+- **Blue Water High**: (Kids’ series · 2005) Teenagers compete for a spot at a surf academy on Sydney’s northern beaches. <https://en.wikipedia.org/wiki/Blue_Water_High>
+- **Mortified**: (Kids’ series · 2006) Eleven-year-old Taylor Fry is mortified by her family and escapes into a fantasy world in her own head. <https://en.wikipedia.org/wiki/Mortified>
+- **Lockie Leonard**: (Kids’ series · 2007) A 12-year-old surfer moves to a small town in Western Australia. Based on Tim Winton’s books. <https://en.wikipedia.org/wiki/Lockie_Leonard_(TV_series)>
+- **Dance Academy**: (Kids’ series · 2010) Ballet students fight for a place at the national dance academy in Sydney. It got a film in 2017. <https://en.wikipedia.org/wiki/Dance_Academy>
+- **Mako Mermaids**: (Kids’ series · 2013) A spin-off of H2O, with mermaids guarding Mako Island. A worldwide hit on Netflix. <https://en.wikipedia.org/wiki/Mako:_Island_of_Secrets>
+- **The New Adventures of Blinky Bill**: (Kids’ series · 1984) ABC series (1984–1987) where actors shared the screen with puppets of the cheeky koala and his bush mates. It stayed on air in repeats until 1991. <https://en.wikipedia.org/wiki/The_New_Adventures_of_Blinky_Bill>
+
+### What Australians watch
+
+- **Neighbours**: (Soaps · 1985) The soap set on Ramsay Street in Melbourne. It launched Kylie Minogue, Margot Robbie, Guy Pearce and Liam Hemsworth. <https://en.wikipedia.org/wiki/Neighbours>
+- **Home and Away**: (Soaps · 1988) Soap set in the fictional beach town of Summer Bay (filmed at Palm Beach, Sydney). Launched Chris Hemsworth and Isla Fisher. <https://en.wikipedia.org/wiki/Home_and_Away>
+- **MasterChef Australia**: (Reality · 2009) The most loved version of the format anywhere. The 2010 finale is one of the most watched broadcasts in Australian TV history. <https://en.wikipedia.org/wiki/MasterChef_Australia>
+- **Married at First Sight**: (Reality · 2015) Strangers who marry the first time they meet. Controversial and a ratings juggernaut (the famous “MAFS”). <https://en.wikipedia.org/wiki/Married_at_First_Sight>
+- **The Block**: (Reality · 2003) Couples renovate houses that go to auction. Perfect for the national obsession with property. <https://en.wikipedia.org/wiki/The_Block_(Australian_TV_series)>
+- **Bondi Rescue**: (Reality · 2006) A day in the life of the lifeguards at Bondi Beach, Sydney. Shown in dozens of countries. <https://en.wikipedia.org/wiki/Bondi_Rescue>
+- **Border Security**: (Reality · 2004) Biosecurity at the airport: that forgotten mango in your bag that turns into a fine. Explains why you declare everything on arrival. <https://en.wikipedia.org/wiki/Border_Security:_Australia%27s_Front_Line>
+- **Gogglebox Australia**: (Reality · 2015) Real families reacting to TV on the couch. A funny portrait of how Australians talk and think. <https://en.wikipedia.org/wiki/Gogglebox_Australia>
+- **Skippy**: (Nostalgia · 1968) The clever kangaroo who saved the day. A kids’ classic shown in more than 100 countries. <https://en.wikipedia.org/wiki/Skippy_the_Bush_Kangaroo>
+- **Hi-5**: (Nostalgia · 1999) Kids’ music and dance group that defined a 2000s childhood. <https://en.wikipedia.org/wiki/Hi-5_(Australian_TV_series)>
+- **Play School**: (Nostalgia · 1966) ABC kids’ show on air since 1966, one of the longest-running in the world. Big Ted and Jemima are institutions. <https://en.wikipedia.org/wiki/Play_School_(Australian_TV_series)>
+- **Countdown**: (Nostalgia · 1974) ABC music show hosted by Molly Meldrum in his cowboy hat. It launched AC/DC, Kylie and many more. <https://en.wikipedia.org/wiki/Countdown_(Australian_TV_program)>
+- **Hey Hey It’s Saturday**: (Nostalgia · 1971) Saturday morning (later night-time) variety show with the puppet Ossie Ostrich. Ran for 28 years. <https://en.wikipedia.org/wiki/Hey_Hey_It%27s_Saturday>
+- **Big Brother Australia**: (Nostalgia · 2001) A 2000s phenomenon, filmed at Dreamworld on the Gold Coast. <https://en.wikipedia.org/wiki/Big_Brother_(Australian_TV_series)>
+- **Australian Idol**: (Nostalgia · 2003) Launched Guy Sebastian and Jessica Mauboy. The 2003 final stopped the nation. <https://en.wikipedia.org/wiki/Australian_Idol>
+- **The Simpsons**: (Nostalgia · 1991) Not Australian, but endlessly repeated on free-to-air TV. The episode “Bart vs. Australia” (1995) is legendary for sending up the country. <https://en.wikipedia.org/wiki/The_Simpsons>
+- **The Crocodile Hunter**: (Nostalgia · 1996) The country’s most famous wildlife series, watched all over the world. <https://en.wikipedia.org/wiki/The_Crocodile_Hunter>
+- **State of Origin**: (Big broadcasts · 1980) The yearly rugby league series between NSW (the Blues) and Queensland (the Maroons). It splits the country in two and is always among the most watched programs of the year. <https://en.wikipedia.org/wiki/State_of_Origin_series>
+- **AFL Grand Final**: (Big broadcasts) The footy decider on the last Saturday of September, with 100,000 people at the MCG. In Victoria the Friday before is a public holiday. <https://en.wikipedia.org/wiki/AFL_Grand_Final>
+- **Carols by Candlelight**: (Big broadcasts · 1938) The Christmas Eve candlelit concert in Melbourne, broadcast nationally since the days of radio. <https://en.wikipedia.org/wiki/Carols_by_Candlelight>
+- **New Year’s Eve on the Harbour**: (Big broadcasts) Sydney’s midnight fireworks over the Harbour Bridge and the Opera House, broadcast around the world. <https://en.wikipedia.org/wiki/Sydney_New_Year%27s_Eve>
+
+Sources: [Screen Australia](https://www.screenaustralia.gov.au)
+
+## Companies and brands
+
+https://australianculture.biblioverse.org/brands.html
+
+- **Qantas**: (Transport · 1920) Born in Queensland as Queensland and Northern Territory Aerial Services. One of the oldest airlines still flying, with the kangaroo on its tail. <https://en.wikipedia.org/wiki/Qantas>
+- **Canva**: (Tech · 2013) Founded by Perth’s Melanie Perkins and based in Sydney. A design tool used in just about every country. <https://en.wikipedia.org/wiki/Canva>
+- **Atlassian**: (Tech · 2002) Sydney company behind Jira, Confluence and Trello. Started on a A$10,000 credit card. <https://en.wikipedia.org/wiki/Atlassian>
+- **Afterpay**: (Tech · 2014) Took “buy now, pay later” global. Sold in 2022 to Block (the Square company) for about US$29 billion. <https://en.wikipedia.org/wiki/Afterpay>
+- **BHP**: (Mining and energy · 1885) Started at the Broken Hill silver mine (NSW) and became the biggest mining company in the world. “The Big Australian”. <https://en.wikipedia.org/wiki/BHP>
+- **Rio Tinto**: (Mining and energy · 1873) Anglo-Australian iron ore giant, with its big mines in the Pilbara (WA). <https://en.wikipedia.org/wiki/Rio_Tinto_(corporation)>
+- **Commonwealth Bank**: (Banks · 1911) The country’s biggest bank, one of the “Big Four” with Westpac, NAB and ANZ. The yellow and black diamond is on every corner. <https://en.wikipedia.org/wiki/Commonwealth_Bank>
+- **Woolworths**: (Retail · 1924) The biggest supermarket chain (“Woolies”), no relation to the American Woolworth. Shares the market with Coles. <https://en.wikipedia.org/wiki/Woolworths_(Australia)>
+- **Coles**: (Retail · 1914) The other half of the supermarket duopoly. Started in Collingwood, Melbourne. <https://en.wikipedia.org/wiki/Coles_Group>
+- **Bunnings**: (Retail · 1886) Hardware and garden giant, famous for the weekend sausage sizzle out the front. A Sunday outing for plenty of families. <https://en.wikipedia.org/wiki/Bunnings>
+- **Telstra**: (Telco · 1975) The biggest phone and internet provider, formerly government-owned. The one that gets reception in the outback. <https://en.wikipedia.org/wiki/Telstra>
+- **Billabong**: (Fashion and surf · 1973) From the Gold Coast to the world: one of the surfwear brands that defined beachwear in the 80s and 90s. <https://en.wikipedia.org/wiki/Billabong_(clothing)>
+- **Rip Curl**: (Fashion and surf · 1969) Born in Torquay, gateway to the Great Ocean Road, making surfboards and wetsuits. <https://en.wikipedia.org/wiki/Rip_Curl>
+- **Quiksilver**: (Fashion and surf · 1969) Also from Torquay, it started with boardshorts. The logo is inspired by Hokusai’s wave. <https://en.wikipedia.org/wiki/Quiksilver>
+- **UGG**: (Fashion and surf · 1970s) The sheepskin boots surfers wore to warm up. In Australia “ugg” is a generic word; the global UGG brand is American. <https://en.wikipedia.org/wiki/Ugg_boots>
+- **R.M. Williams**: (Fashion and surf · 1932) Handmade leather boots from Adelaide, an icon of the bushman look and a favourite of politicians and King Charles. <https://en.wikipedia.org/wiki/R._M._Williams>
+- **Akubra**: (Fashion and surf · 1912) The wide-brimmed felt hat of the outback. Crocodile Dundee wore one. <https://en.wikipedia.org/wiki/Akubra>
+- **Blundstone**: (Fashion and surf · 1870) Tasmania’s Chelsea boots. From building sites to catwalks. <https://en.wikipedia.org/wiki/Blundstone_Footwear>
+- **Cotton On**: (Fashion and surf · 1991) Affordable fashion chain from Geelong, now in more than 15 countries. <https://en.wikipedia.org/wiki/Cotton_On_Group>
+- **Zimmermann**: (Fashion and surf · 1991) Sisters Nicky and Simone Zimmermann took Sydney’s romantic style to Paris Fashion Week.
+- **Aesop**: (Beauty · 1987) Minimalist skincare from Melbourne, with award-winning store design. Bought by L’Oréal in 2023. <https://en.wikipedia.org/wiki/Aesop_(brand)>
+- **Arnott’s**: (Food · 1865) The biscuit maker behind Tim Tams, Shapes and Iced VoVos, with the parrot on the logo. <https://en.wikipedia.org/wiki/Arnott%27s_Group>
+- **Bundaberg**: (Food · 1960) Queensland’s ginger beer. The town also gives its name to the famous “Bundy” rum. <https://en.wikipedia.org/wiki/Bundaberg_Brewed_Drinks>
+- **Penfolds**: (Food · 1844) Adelaide winery. Its Grange is the country’s most iconic (and expensive) wine. <https://en.wikipedia.org/wiki/Penfolds>
+- **Holden**: (Transport · 1856) Started out making saddles and became the “national” car maker (owned by GM). The Commodore and the ute reigned until the brand closed in 2020. <https://en.wikipedia.org/wiki/Holden>
+- **Guzman y Gomez**: (Food · 2006) Sydney Mexican chain that became a craze and listed on the stock exchange in 2024. <https://en.wikipedia.org/wiki/Guzman_y_Gomez>
+- **Boost Juice**: (Food · 2000) Adelaide smoothie chain, now in more than 10 countries. <https://en.wikipedia.org/wiki/Boost_Juice>
+- **Westfield**: (Retail · 1959) Westfield shopping centres started in Sydney (Blacktown) and spread to the US and Europe. <https://en.wikipedia.org/wiki/Westfield_Corporation>
+- **Cochlear**: (Tech · 1981) World leader in hearing implants, born from Graeme Clark’s invention. <https://en.wikipedia.org/wiki/Cochlear_Limited>
+- **CSL**: (Tech · 1916) Started as a government lab and grew into one of the biggest biotech companies in the world. <https://en.wikipedia.org/wiki/CSL_Limited>
+
+## Food
+
+https://australianculture.biblioverse.org/food.html
+
+
+### On the plate every day
+
+- **Fruit and veg**: Mangoes, avocados, bananas and macadamias, many of them grown right here.
+- **Bread and toast**: Toast for brekkie, with Vegemite or butter.
+- **Asian food**: Thai, Chinese, Vietnamese and Indian are the everyday takeaway.
+- **Café coffee**: Flat whites and long blacks, never filter coffee.
+- **Fish and chips**: Battered fish and chips, ideally eaten at the beach.
+- **Italian and Greek**: A legacy of post-war migration, especially in Melbourne.
+
+### Icons, dishes, sweets and drinks
+
+- **Vegemite**: (Icons · 1923) Dark, salty yeast-extract spread created by Cyril Callister in Melbourne. Goes on buttered toast in a thin layer (very thin!). Packed with B vitamins. <https://en.wikipedia.org/wiki/Vegemite>
+- **Tim Tam**: (Icons · 1964) Arnott’s chocolate biscuit. The ritual is the “Tim Tam Slam”: bite off the ends and use it as a straw for coffee or hot chocolate. <https://en.wikipedia.org/wiki/Tim_Tam>
+- **Anzac biscuits**: (Icons · 1915) Oat, coconut and golden syrup biscuits linked to the soldiers of World War I. The name “Anzac” is protected by law, and they must never be called “cookies”. <https://en.wikipedia.org/wiki/Anzac_biscuit>
+- **Pie**: (Icons · 1800s) The single-serve savoury pie with tomato sauce, the official snack of the footy. These days nearly every bakery does vegetarian and vegan versions. <https://en.wikipedia.org/wiki/Meat_pie_(Australia_and_New_Zealand)>
+- **Pavlova**: (Icons · 1920s) Meringue that’s crisp outside and soft inside, topped with cream and fruit. Named after the ballerina Anna Pavlova. New Zealand claims it too. <https://en.wikipedia.org/wiki/Pavlova>
+- **Lamington**: (Icons · 1900) A square of sponge cake dipped in chocolate and rolled in coconut. There’s even a National Lamington Day (21 July). <https://en.wikipedia.org/wiki/Lamington>
+- **Fairy bread**: (Icons · 1920s) White bread with butter and hundreds and thousands, cut into triangles. Compulsory at every kids’ party. <https://en.wikipedia.org/wiki/Fairy_bread>
+- **Sausage sizzle**: (Dishes and traditions) A snag in a slice of bread (these days almost always with a veggie option), sold to raise funds at fetes, schools and on election day: the famous “democracy sausage”. <https://en.wikipedia.org/wiki/Sausage_sizzle>
+- **The barbie**: (Dishes and traditions) Free public electric barbecues in practically every park. Getting together around the barbie is the most Australian social occasion there is. <https://en.wikipedia.org/wiki/Barbecue>
+- **Smashed avo**: (Dishes and traditions) Toast with smashed avocado, the symbol of Aussie brunch. A columnist famously blamed it for young people not being able to buy a house (2016). <https://en.wikipedia.org/wiki/Avocado_toast>
+- **Bowen mango**: (Dishes and traditions · summer) The Queensland mango is the fruit of an Aussie Christmas: the trays hit the shops in December and everyone buys them. <https://en.wikipedia.org/wiki/Kensington_Pride>
+- **Damper**: (Dishes and traditions) Simple bread of flour and water baked in the coals, the food of outback travellers. <https://en.wikipedia.org/wiki/Damper_(food)>
+- **Christmas in summer**: (Dishes and traditions) Because Christmas falls in summer, lunch is light and cold, with salads, fruit, pavlova and ice cream, ideally at the beach or in the park. <https://en.wikipedia.org/wiki/Christmas_in_Australia>
+- **Golden Gaytime**: (Sweets and snacks · 1959) Toffee and vanilla ice cream coated in biscuit crumbs. The classic slogan: “It’s hard to have a Gaytime on your own”. <https://en.wikipedia.org/wiki/Golden_Gaytime>
+- **Caramello Koala**: (Sweets and snacks) Cadbury’s koala-shaped chocolate with a caramel centre. <https://en.wikipedia.org/wiki/Caramello_Koala>
+- **Freddo Frog**: (Sweets and snacks · 1930) The chocolate frog of every Aussie childhood. Its price (once 20 cents) is a running joke about inflation. <https://en.wikipedia.org/wiki/Freddo>
+- **Iced VoVo**: (Sweets and snacks) A biscuit topped with pink fondant, raspberry jam and coconut. <https://en.wikipedia.org/wiki/Iced_VoVo>
+- **Shapes**: (Sweets and snacks · 1976) Arnott’s savoury biscuits in flavours like Pizza and Barbecue. The 2015 recipe change caused a national uproar. <https://en.wikipedia.org/wiki/Arnott%27s_Shapes>
+- **Twisties**: (Sweets and snacks) Cheesy corn snack, a cousin of Cheetos. <https://en.wikipedia.org/wiki/Twisties>
+- **Cherry Ripe**: (Sweets and snacks · 1924) The country’s oldest chocolate bar: cherry and coconut covered in dark chocolate. <https://en.wikipedia.org/wiki/Cherry_Ripe_(chocolate_bar)>
+- **Weet-Bix**: (Sweets and snacks) Whole-wheat breakfast biscuits. “Aussie kids are Weet-Bix kids.” <https://en.wikipedia.org/wiki/Weet-Bix>
+- **Milo**: (Drinks · 1934) Chocolate malt powder created in Sydney by Thomas Mayne. The best bit is the crunchy powder floating on cold milk. <https://en.wikipedia.org/wiki/Milo_(drink)>
+- **Flat white**: (Drinks · 1980s) Espresso with steamed milk and a thin layer of foam. Australia and New Zealand both claim it. Melbourne is the coffee capital. <https://en.wikipedia.org/wiki/Flat_white>
+- **Lemon, lime & bitters**: (Drinks) Lemonade with lime cordial and a few dashes of Angostura. The pub drink for when you’re not drinking. <https://en.wikipedia.org/wiki/Lemon,_lime_and_bitters>
+- **Bundy & Coke**: (Drinks) Bundaberg rum and Coke, with the polar bear on the bottle. <https://en.wikipedia.org/wiki/Bundaberg_Rum>
+- **Macadamia**: (Bush tucker (native)) Native to Queensland and NSW, it’s the only Australian native nut grown commercially around the world. <https://en.wikipedia.org/wiki/Macadamia>
+- **Wattleseed**: (Bush tucker (native)) Roasted acacia seed with a coffee and chocolate flavour, used by Aboriginal people for thousands of years. <https://en.wikipedia.org/wiki/Wattleseed>
+- **Finger lime**: (Bush tucker (native)) The “citrus caviar”: a finger-shaped lime full of tangy little pearls. A chef’s favourite. <https://en.wikipedia.org/wiki/Citrus_australasica>
+
+Sources: [Tourism Australia: food and drink](https://www.australia.com/en/things-to-do/food-and-drink.html)
+
+## Inventions
+
+https://australianculture.biblioverse.org/inventions.html
+
+- **Boomerang**: (First Peoples · millennia) An aerodynamic hunting and fighting tool of Aboriginal peoples; some kinds come back to the thrower. <https://en.wikipedia.org/wiki/Boomerang>
+- **Woomera**: (First Peoples · millennia) A spear-thrower that adds range and power to the throw. <https://en.wikipedia.org/wiki/Woomera_(spear-thrower)>
+- **Didgeridoo**: (First Peoples · millennia) A wind instrument made from a trunk hollowed out by termites, from northern Australia. <https://en.wikipedia.org/wiki/Didgeridoo>
+- **Mechanical refrigeration**: (Everyday life · 1856) James Harrison built one of the first ice-making machines in Geelong, paving the way for frozen exports. <https://en.wikipedia.org/wiki/James_Harrison_(engineer)>
+- **Secret ballot**: (Society · 1856) Created in Victoria and South Australia, the “Australian ballot” was copied all over the world. <https://en.wikipedia.org/wiki/Secret_ballot>
+- **Aussie rules football**: (Society · 1858) Tom Wills helped write the rules to keep cricketers fit over winter. Today it’s the AFL. <https://en.wikipedia.org/wiki/Australian_rules_football>
+- **Electric drill**: (Everyday life · 1889) Arthur James Arnot and William Blanch Brain built the first one in Melbourne, to bore through rock and coal. <https://en.wikipedia.org/wiki/Arthur_James_Arnot>
+- **First feature film**: (Society · 1906) The Story of the Kelly Gang, about the outlaw Ned Kelly, is considered the world’s first feature-length narrative film. <https://en.wikipedia.org/wiki/The_Story_of_the_Kelly_Gang>
+- **Pacemaker**: (Health · 1926) Mark Lidwill and physicist Edgar Booth used a portable device to revive a baby in Sydney. <https://en.wikipedia.org/wiki/Pacemaker>
+- **Penicillin at scale**: (Health · 1940s) Australian Howard Florey turned Fleming’s discovery into a medicine. A Nobel Prize in 1945 and millions of lives saved. <https://en.wikipedia.org/wiki/Howard_Florey>
+- **Hills Hoist**: (Everyday life · 1945) The rotary clothesline found in every Aussie backyard. Lance Hill made it in Adelaide. <https://en.wikipedia.org/wiki/Hills_Hoist>
+- **Black box**: (Technology · 1956) Melbourne’s David Warren invented the cockpit voice and flight data recorder, now required in every plane. <https://en.wikipedia.org/wiki/Flight_recorder>
+- **Plastic spectacle lenses**: (Health · 1960) Developed in Adelaide by SOLA, around 60% lighter than glass. <https://en.wikipedia.org/wiki/Timeline_of_Australian_inventions>
+- **Medical ultrasound**: (Health · 1960s) The government’s Ultrasonics Institute built pioneering imaging machines for pregnancy scans. <https://en.wikipedia.org/wiki/Medical_ultrasound>
+- **Inflatable escape slide**: (Technology · 1965) Qantas employee Jack Grant invented the inflatable evacuation slide that doubles as a raft. <https://en.wikipedia.org/wiki/Evacuation_slide>
+- **Cask wine**: (Everyday life · 1965) The “goon bag”: wine in a plastic bladder inside a box, invented by Tom Angove. A backpacker classic. <https://en.wikipedia.org/wiki/Box_wine>
+- **Permaculture**: (Society · 1978) Bill Mollison and David Holmgren, from Tasmania, created the sustainable farming system now used worldwide. <https://en.wikipedia.org/wiki/Permaculture>
+- **Cochlear implant**: (Health · 1978) Graeme Clark created the multi-channel “bionic ear” in Melbourne, restoring hearing to hundreds of thousands of people. <https://en.wikipedia.org/wiki/Cochlear_implant>
+- **Dual-flush toilet**: (Everyday life · 1980) Bruce Thompson at Caroma came up with the half and full flush buttons to save water. <https://en.wikipedia.org/wiki/Dual_flush_toilet>
+- **CPAP**: (Health · 1981) Sydney’s Colin Sullivan invented the mask that treats sleep apnoea. It led to the company ResMed. <https://en.wikipedia.org/wiki/Continuous_positive_airway_pressure>
+- **Polymer banknotes**: (Technology · 1988) The Reserve Bank and CSIRO created the first plastic notes: longer-lasting and hard to forge. Dozens of countries now use them. <https://en.wikipedia.org/wiki/Polymer_banknote>
+- **Wi-Fi**: (Technology · 1992) A CSIRO team led by John O’Sullivan patented the technology that made Wi-Fi fast and reliable. <https://en.wikipedia.org/wiki/Wi-Fi>
+- **Spray-on skin**: (Health · 1990s) Perth’s Fiona Wood developed a spray of the patient’s own cells to treat burns. Used on victims of the 2002 Bali bombings. <https://en.wikipedia.org/wiki/Fiona_Wood>
+- **HPV vaccine**: (Health · 2006) Ian Frazer and Chinese scientist Jian Zhou developed the technology in Brisbane for the vaccine that prevents cervical cancer. <https://en.wikipedia.org/wiki/HPV_vaccine>
+- **Google Maps**: (Technology · 2005) Danish brothers Lars and Jens Rasmussen created it in Sydney at the startup Where 2, bought by Google in 2004. <https://en.wikipedia.org/wiki/Google_Maps>
+
+Sources: [Australia Para Todos: greatest Australian inventions](https://australiaparatodos.wordpress.com/2026/03/12/maiores-invencoes-australianas); [CSIRO](https://www.csiro.au)
+
+## Virals and memes
+
+https://australianculture.biblioverse.org/virals-and-memes.html
+
+
+### Memes and legends
+
+- **Drop bears**: (Legends) The “carnivorous koala” that drops out of trees onto tourists. It doesn’t exist, but every Aussie swears it does. Tip: dab Vegemite behind your ears. <https://en.wikipedia.org/wiki/Drop_bear>
+- **The Great Emu War**: (Legends · 1932) The Australian Army took machine guns to 20,000 emus wrecking crops in WA. The emus won. It really happened. <https://en.wikipedia.org/wiki/Emu_War>
+- **“Everything in Australia wants to kill you”**: (Legends) The eternal meme about spiders, snakes, jellyfish and crocs. In reality, far more people drown or die on the roads. <https://en.wikipedia.org/wiki/Fauna_of_Australia>
+- **Shoey**: (Behaviour) Drinking beer (or champagne) out of your own shoe. Daniel Ricciardo took the ritual to the Formula 1 podium. <https://en.wikipedia.org/wiki/Drinking_from_shoes>
+- **Democracy sausage**: (Behaviour) The sausage in bread sold at polling places. It was named word of the year in 2016, and there’s even a site that maps where to get one. <https://en.wikipedia.org/wiki/Democracy_sausage>
+- **Onion on top or underneath?**: (Behaviour · 2018) Bunnings told its sizzles to put the onion under the sausage “for safety” (it was slipping off). It became a national debate. <https://en.wikipedia.org/wiki/Democracy_sausage>
+- **Bin chicken**: (Behaviour) The nickname for the Australian white ibis, which raids bins in Sydney and Brisbane. Now an unofficial mascot. <https://en.wikipedia.org/wiki/Australian_white_ibis>
+- **“Throw another shrimp on the barbie”**: (Catchphrases · 1984) Paul Hogan in a tourism ad for the US. The irony: no Aussie says “shrimp”. It’s a “prawn”. <https://en.wikipedia.org/wiki/Shrimp_on_the_barbie>
+- **“That’s not a knife”**: (Catchphrases · 1986) “That’s not a knife. THAT’s a knife.” The Crocodile Dundee scene still gets quoted today. <https://en.wikipedia.org/wiki/Crocodile_Dundee>
+- **“Tell him he’s dreamin’”**: (Catchphrases · 1997) From The Castle. The standard reply to any ridiculous offer (like a price that’s way too high). <https://en.wikipedia.org/wiki/The_Castle_(1997_Australian_film)>
+- **“Crikey!”**: (Catchphrases) Steve Irwin’s catchcry, shorthand for Aussie enthusiasm all over the world. <https://en.wikipedia.org/wiki/Steve_Irwin>
+- **“Yeah, nah”**: (Catchphrases) Means “no”. “Nah, yeah” means “yes”. And “yeah, nah, yeah”... good luck. <https://en.wikipedia.org/wiki/Australian_English_vocabulary>
+- **Bob Katter and the crocs**: (Internet · 2017) Asked about marriage equality, the MP said “let there be a thousand blossoms bloom” and then that “every three months, a person is torn to pieces by a crocodile in north Queensland”. The swerve became a meme, and a mug. <https://en.wikipedia.org/wiki/Bob_Katter>
+- **“Don’t you dare say that!”**: (Internet · 2025) Bob Katter again: in August 2025, at a press conference backing anti-immigration rallies, a reporter raised his Lebanese heritage and the MP waved his fist in his face: “Don’t say that, because that irritates me, and I punch blokes in the mouth for saying that.” The clip went viral. <https://en.wikipedia.org/wiki/Bob_Katter>
+- **Peggy and Molly**: (Internet · 2020) The friendship between Peggy, a staffy, and Molly, a magpie chick rescued on the Gold Coast during lockdown, won over hundreds of thousands of followers. In 2024 Molly was taken by wildlife authorities over a missing permit, and came home after a campaign by fans.
+- **“Democracy manifest”**: (Internet · 1991) Jack Karlson being arrested in Brisbane after a “succulent Chinese meal”, shouting “Gentlemen, this is democracy manifest!”. The clip went viral in 2009 and became legend. <https://en.wikipedia.org/wiki/Democracy_Manifest>
+- **“Just waiting for a mate”**: (Internet) On Highway Patrol, a bloke pulled over by police answers every question with “I’m just waiting for a mate”. A classic of the Aussie internet. <https://en.wikipedia.org/wiki/Just_waiting_for_a_mate>
+- **Corey Worthington**: (Internet · 2008) The Melbourne teenager who advertised a party on MySpace, drew 500 people and then went on TV refusing to take off his yellow sunglasses. He wouldn’t apologise, and the country never forgot.
+- **“Doing a Bradbury”**: (Catchphrases · 2002) Steven Bradbury was dead last in the Winter Olympics speed skating final when everyone in front of him crashed, and he took gold. “Doing a Bradbury” means winning when nobody expected it. <https://en.wikipedia.org/wiki/Steven_Bradbury>
+- **Raygun**: (Internet · 2024) University lecturer Rachael Gunn competed in breaking at the Paris Olympics with a “kangaroo hop”, scored zero and became one of the memes of the year. <https://en.wikipedia.org/wiki/Rachael_Gunn>
+- **Dumb Ways to Die**: (Internet · 2012) Metro Trains Melbourne safety campaign with little characters dying in silly ways. It went viral and won big at Cannes. <https://en.wikipedia.org/wiki/Dumb_Ways_to_Die>
+- **Johnny Depp’s dogs**: (Internet · 2015) Minister Barnaby Joyce threatened to put down the actor’s dogs, brought in without quarantine. Depp and Amber Heard’s apology video became a meme. <https://en.wikipedia.org/wiki/Johnny_Depp>
+- **Tony Abbott’s onion**: (Internet · 2015) The then prime minister bit into a whole raw onion, skin and all, on a farm visit. Never forgotten. <https://en.wikipedia.org/wiki/Tony_Abbott>
+- **Big Things**: (Internet) More than 150 giant roadside sculptures: the Big Banana, the Big Pineapple, the Big Prawn, the Big Merino... A selfie is compulsory. <https://en.wikipedia.org/wiki/Big_things_(Australia)>
+- **Bluey**: (Internet) Scenes from the cartoon became parenting memes everywhere, and the episode “Keepy Uppy” gets used to explain adult life. <https://en.wikipedia.org/wiki/Bluey_(TV_series)>
+
+### Comedians
+
+- **Barry Humphries**: (TV and stage) The creator of Dame Edna Everage, the cat-eye-glasses housewife who conquered London and Broadway. He died in 2023, aged 89. <https://en.wikipedia.org/wiki/Barry_Humphries>
+- **Hamish & Andy**: (TV and radio) Hamish Blake and Andy Lee, the country’s best-loved radio and TV duo, with shows, trips and podcasts. <https://en.wikipedia.org/wiki/Hamish_%26_Andy>
+- **Kitty Flanagan**: (TV and radio) One of the country’s most popular comedians, from The Project, Utopia and her own series, Fisk. <https://en.wikipedia.org/wiki/Kitty_Flanagan>
+- **Wil Anderson**: (TV and radio) Stand-up and host of Gruen, the ABC show that pulls advertising apart. <https://en.wikipedia.org/wiki/Wil_Anderson>
+- **Tom Gleeson**: (TV and radio) The grumpy host of Hard Quiz. Won the 2019 Gold Logie with a tongue-in-cheek campaign. <https://en.wikipedia.org/wiki/Tom_Gleeson>
+- **Adam Hills**: (TV and radio) Sydney-born, he also made his name in the UK as host of The Last Leg. <https://en.wikipedia.org/wiki/Adam_Hills>
+- **Rove McManus**: (TV and radio) Host of the talk show Rove, a 2000s TV phenomenon. <https://en.wikipedia.org/wiki/Rove_McManus>
+- **Chris Lilley**: (TV and radio) Creator of Summer Heights High, We Can Be Heroes and Angry Boys, playing almost every character himself. <https://en.wikipedia.org/wiki/Chris_Lilley_(comedian)>
+- **Luke McGregor**: (TV and radio) Tasmanian master of awkward, shy humour and co-creator of Rosehaven. <https://en.wikipedia.org/wiki/Luke_McGregor>
+- **Merrick Watts**: (TV and radio) One half of the radio duo Merrick and Rosso, a 2000s hit. <https://en.wikipedia.org/wiki/Merrick_Watts>
+- **Hannah Gadsby**: (Stand-up) From Tasmania, a worldwide phenomenon with the Netflix special Nanette (2018). <https://en.wikipedia.org/wiki/Hannah_Gadsby>
+- **Carl Barron**: (Stand-up) One of the country’s most popular stand-ups, with observational comedy about everyday Aussie life. <https://en.wikipedia.org/wiki/Carl_Barron>
+- **Joel Creasey**: (Stand-up) Stand-up and presenter, and SBS’s Eurovision commentator. <https://en.wikipedia.org/wiki/Joel_Creasey>
+- **Dilruk Jayasinha**: (Stand-up) Born in Sri Lanka, he swapped accounting for comedy and acted in the series Utopia. <https://en.wikipedia.org/wiki/Dilruk_Jayasinha>
+- **Ivan Aristeguieta**: (Stand-up) Venezuelan-born and Melbourne-based, he jokes about life as a migrant in Australia.
+- **Isaac Butterfield**: (Stand-up) Queensland stand-up who took off on YouTube with unfiltered humour.
+- **Matt Hey**: (Stand-up) Stand-up whose show clips go viral online.
+- **Jimmy Rees**: (Online) Former host of Giggle and Hoot on ABC Kids who became a social media sensation with short sketches.
+- **The Inspired Unemployed**: (Online) Matt Ford and Jack Steele from Byron Bay, with sketches about tradie and beach life.
+- **Tanya Hennessy**: (Online) Comedian and radio host whose funny videos do the rounds online.
+- **Meghan & Jack**: (Online) A couple making sketches about life together.
+- **Punters Politics**: (Online) Konrad Benjamin explains Australian politics in pub language, with plenty of laughs.
+
+Sources: [Australia Para Todos: Australian viral videos](https://australiaparatodos.wordpress.com/2025/02/01/videos-virais-australianos); [Australia Para Todos: Australian comedians](https://australiaparatodos.wordpress.com/2025/02/03/comediantes-australianos)
+
+## National passions
+
+https://australianculture.biblioverse.org/national-passions.html
+
+
+### Customs
+
+- **The pub**: (At the pub) A cold beer after work, a counter meal and footy on the TV. Most country towns have one, and often it’s the heart of the place.
+- **Shouting a round**: (At the pub) You buy for the group and everyone takes a turn. Skipping your shout is one of the worst social crimes in the country.
+- **Schooner, pot or middy?**: (At the pub) Beer glasses change name from state to state, so ordering a drink interstate can take some negotiating.
+- **The barbie**: (At the table) Snags, prawns if you’re lucky, a salad someone brought and a free public barbecue in the park. One bloke holds the tongs and the whole conversation.
+- **Coffee snobbery**: (At the table) A flat white from the local café, never filter. Australians will argue about the beans, and about whether it was invented here or in New Zealand.
+- **Smashed avo**: (At the table) Brunch as an institution. In 2016, a columnist blamed it for young people being unable to buy houses, and the country has not let it go.
+- **A pie at the servo**: (At the table) A meat pie with sauce at the petrol station or the footy. Not gourmet, and completely loved.
+- **Pineapple on pizza**: (At the table) Ham and pineapple is a fixture at the local pizza shop, and many Australians order it with no shame. It was invented in Canada, and it divides dinner tables here as it does everywhere else.
+- **Watching the footy**: (On screen) Which code depends on where you live, and which team often comes from your family. Plenty of people care about neither, and hear about it anyway.
+- **Home and Away and Neighbours**: (On screen) Decades of beach and cul-de-sac drama, and the training ground for stars such as Kylie Minogue, Margot Robbie and Chris Hemsworth.
+- **Reality TV**: (On screen) Married at First Sight, MasterChef and The Block fill the living room and the group chat. Everyone says they don’t watch, and everyone knows who got dumped.
+- **The beach**: (Out and about) Esky, towel, zinc and swimming between the flags. Most Australians live near the coast, and the surf lifesaver is a national figure.
+- **Slip, slop, slap**: (Out and about) The 1981 sunscreen campaign still works: slip on a shirt, slop on sunscreen, slap on a hat. Skin checks are a part of adult life.
+- **Barefoot and in thongs**: (Out and about) Thongs (flip-flops) everywhere, and bare feet in the supermarket in beach towns. Visitors notice this quickly.
+- **Swearing as affection**: (Out and about) Your best mate may get called a rude name, and your enemies get called “mate”. Tone is everything.
+- **Tall poppy syndrome**: (Out and about) Boast about your success and you’ll be cut down to size. Being humble, or pretending to be, is the rule.
+- **The backyard**: (At home) The Hills Hoist clothes line, a shed, a cricket game with a bin for stumps. It’s getting smaller, but the idea survives.
+- **Bunnings and the tradie life**: (At home) The giant hardware store is a weekend outing, and tradies are its heroes: hi-vis, a ute full of tools, a 6 am start and smoko at 9. Everyone else comes for a DIY project that may never end, some pot plants and, of course, the sausage sizzle at the door.
+
+### Sports
+
+- **Australian rules football**: (Most followed) The national game invented in Melbourne in the 1850s. The AFL grand final stops Victoria, South Australia and Western Australia every September.
+- **Rugby league**: (Most followed) The NRL rules New South Wales and Queensland, and State of Origin turns the two states into enemies for three nights. The imaginary divide with AFL is called the Barassi Line.
+- **Cricket**: (Most followed) The summer soundtrack. The Boxing Day Test in Melbourne and the Ashes against England are a national ritual.
+- **Rugby union**: (Most followed) The Wallabies have won two World Cups and have a fierce rivalry with New Zealand, the Bledisloe Cup.
+- **The Matildas**: (Most followed) The women’s football team reached the 2023 home World Cup semi-final and captured the country, with one of the biggest TV audiences in Australian history.
+- **Tennis**: (Most followed) The Australian Open fills every January. Rod Laver, Evonne Goolagong Cawley and Ash Barty are national treasures.
+- **Betting**: (Most followed) Sport and gambling go hand in hand here: odds in the ad breaks, apps on phones and a flutter on the big match. Many Australians see it as part of the game, and it’s widely considered a social problem. First Nations view: Addiction groups and health experts link it to debt and family harm, and want tougher limits on gambling advertising during sport.
+- **Olympic swimming**: (Most followed) Every four years, the whole country suddenly has opinions on freestyle turns. Ian Thorpe, Dawn Fraser and Ariarne Titmus lead the way.
+- **Supercars**: (Most followed) V8s and the Bathurst 1000 on Mount Panorama, a race once decided by Holden against Ford.
+- **Walking**: (Most played) According to the AusPlay survey, it’s the most popular activity among adults, ahead of the gym and bushwalking.
+- **The gym**: (Most played) The second activity on AusPlay’s adult list. Often with an early start and a coffee afterwards.
+- **Bushwalking**: (Most played) Hiking, with a local name. National parks start close to the big cities.
+- **Running**: (Most played) parkrun on Saturday mornings and the City2Surf in Sydney are the great mass events.
+- **Swimming**: (Most played) In pools, rock baths and the sea. Children have lessons early, and it’s among the most popular activities at every age.
+- **Soccer**: (Most played) Not the most watched, but among the most played organised sports, especially among children.
+- **Netball**: (Most played) For generations, the great girls’ team sport. The Diamonds are among the best teams in the world.
+- **Surfing**: (Most played) More a way of life than a sport on many parts of the coast. Mick Fanning and Stephanie Gilmore made it to the top of the world.
+- **Backyard cricket**: (Most played) One-hand-one-bounce, and over the fence is out. Often the most serious Christmas Day competition in the family.
+- **Golf**: (Most played) The relaxed weekend option, with a cold one at the 19th hole.
+- **Fishing and the races**: (Most played) Fishing is a weekend ritual from the jetty to the Top End. The races are more of a day out, in a suit or a fascinator, and many people only go for the Melbourne Cup. First Nations view: Animal rights activists criticise both, over horse deaths in racing and the suffering of fish, and hold protests and alternative events on Cup Day.
+
+### Festivals and events
+
+- **Anzac Day**: (Across the country) Dawn services on 25 April, then two-up in the pub, the one day it’s legal in most states. The most solemn date on the calendar, and also a big social one.
+- **Melbourne Cup**: (Across the country) “The race that stops a nation”, on the first Tuesday of November. Fascinators, sweepstakes at work and 84,373 people at Flemington in 2025.
+- **Hottest 100**: (Across the country) Triple j’s listener poll fills barbecues with music in late January. In 2025, a special edition of Australian songs drew over 2.6 million votes.
+- **Sydney New Year’s Eve**: (Cities) Fireworks on the Harbour Bridge, seen around the world, with crowds who claim their spot from the morning.
+- **Sydney Mardi Gras**: (Cities) The parade born from a 1978 protest and police violence became one of the world’s great LGBTQ+ events.
+- **Vivid Sydney**: (Cities) For weeks in winter, light shows cover the Opera House and the city comes out in coats.
+- **Adelaide Fringe**: (Cities) One of the world’s biggest arts festivals, turning the city into a stage every summer.
+- **Beer Can Regatta**: (Cities · Darwin) Since 1974, boats made of empty beer cans have raced at Mindil Beach. It says a lot about Darwin.
+- **Royal Easter Show**: (Cities) Prize cows, showbags and the farm coming to town. Every capital has its own version.
+- **Garma Festival**: (The bush) Yolngu culture and national politics meet in north-east Arnhem Land every August. Prime ministers go.
+- **Birdsville Races**: (The bush) Since 1882, a town of about 100 people in outback Queensland has received thousands for two days of horse racing in the dust.
+- **Parkes Elvis Festival**: (The bush) Every January since 1993, a town in New South Wales fills up with Elvis impersonators, in the height of summer.
+- **Tamworth Country Music Festival**: (The bush) The Australian Nashville: country music all over town each January, under the Big Golden Guitar.
+- **Deni Ute Muster**: (The bush) Thousands of utes, music and mud at Deniliquin. A proud celebration of life in the country.
+- **Bathurst 1000**: (The bush) The great motor race, every October on Mount Panorama. For many, it’s a camping holiday on a hill with a race in it.
+- **Schoolies**: (Across the country) Teens who finish school invade the Gold Coast and other beach towns in November. Their parents try not to think about it.
+
+### Cars
+
+- **Holden 48-215**: (Classics · 1948) “Australia’s own car”, launched by Prime Minister Ben Chifley. It’s the car that started the love affair.
+- **The ute**: (Classics · 1934) A farmer’s wife asked for a car to take to church and that could carry pigs to market. Ford Australia’s Lew Bandt designed the coupé utility, the ute.
+- **Holden against Ford**: (Classics) For generations, you were one or the other, inherited like a footy team. The rivalry played out on Mount Panorama and in every pub.
+- **Holden Monaro**: (Classics · 1968) The muscle car that turned heads, and which a whole generation still dreams of.
+- **The Mad Max Interceptor**: (Classics · 1979) A modified Ford Falcon XB became one of cinema’s most famous cars.
+- **Footy, meat pies, kangaroos and Holden cars**: (Classics) The 1970s ad jingle that summed up the national identity, and was adapted from an American one.
+- **Commodore and Falcon**: (The end of an era) The family sedans that were on every street, and the cars of police and taxis for decades. Falcon production ended in 2016.
+- **The end of local manufacturing**: (The end of an era · 2017) After Ford and Toyota, Holden shut its Elizabeth plant, and Australia stopped making cars. The brand itself disappeared a few years later, with plenty of grief.
+- **Ford Ranger**: (Today) Best-selling vehicle in the country three years running: about 53,700 in 2025. Designed largely in Victoria, too.
+- **Toyota HiLux**: (Today) The long-time king, second in 2025 with about 45,800. Tradies’ and farmers’ favourite, and now a suburban one.
+- **LandCruiser**: (Today) The outback’s universal vehicle. In remote places, it’s the car that’s most likely to get you home.
+- **The caravan**: (Passions) Grey nomads retire, hook up a van and drive around the country for years. The Big Lap is a real life plan.
+- **Burnouts**: (Passions) Summernats, in Canberra, is the great festival of smoking tyres. Mostly a bloke thing, and very loud.
+- **Bull bars and road trains**: (Passions) Roos on the road at dusk justify the bull bar, and in the outback you share the highway with trucks of three or four trailers.
+- **The Kombi**: (Passions) The surfers’ van, with a board on the roof, on the way to a beach up the coast. Sought after and expensive these days.
+
+### Internet and memes
+
+- **A full-time job online**: (Habits) According to the Digital 2026 report, Australians spend about 41 hours a week online, against a world average of 33, including over 19 hours on social media.
+- **Banning teens from social media**: (Habits · 2025) Australia became the first country with a national ban on social media accounts for under-16s. Parents, teens and platforms are still arguing about it.
+- **Complaining about the NBN**: (Habits) The national broadband network has been a political fight and a source of everyday frustration for years. A shared national hobby.
+- **Facebook community groups**: (Habits) Local groups for parking disputes, lost dogs, a suspicious van and people asking for a good plumber.
+- **Everything wants to kill you**: (Memes) The world’s favourite Australian meme, and Australians are happy to play along. A huntsman on a car’s sun visor is a classic genre. See also Virals and memes.
+- **Dry humour**: (Memes) Understatement in a deadpan voice, even in a crisis. If a local says “bit warm today” at 44 °C, that’s a joke.
+- **The accent on TikTok**: (Memes) Foreigners try “g’day”, Aussies correct them and everybody disagrees on what “yeah, nah” actually means.
+- **Shoey and bin chicken**: (Memes) Drinking from a shoe and an ibis stealing your chips: two local jokes that the rest of the world now gets.
+- **“Australia isn’t real”**: (Abroad) A joke conspiracy theory that says the whole country is made up. Locals enjoy it, particularly since nobody believes the wildlife anyway.
+- **Upside-down jokes**: (Abroad) Toilets flushing backwards, walking on the ceiling and Christmas on the beach. They’ve heard them all, and will still respond politely.
+- **Celeste Barber’s bushfire fundraiser**: (Abroad · 2020) The comedian asked for donations on Facebook during Black Summer and raised over A$50 million, with money from around the world.
+- **Bluey memes**: (Abroad) The Brisbane cartoon is now a language for parenthood around the world, spoken in clips and screenshots.
+- **#CensusFail**: (Habits · 2016) The online census crashed on census night, and the national response was exactly what you’d expect. A bit of humour for every failure.
+- **Misinformation**: (Habits) Chain posts and conspiracies have circulated here too, from the pandemic to the Voice referendum. First Nations view: During the 2023 referendum, the electoral commission spent considerable time correcting false claims about how voting works.
+
+### The Aussie dog
+
+- **The blue heeler**: (The dogs) The Australian cattle dog: speckled, tough and suspicious of everyone but you. Bred in the 1800s to work cattle over huge distances, with dingo in the family tree.
+- **The kelpie**: (The dogs) A sheepdog who will run across the backs of a flock. Born on Australian stations from Scottish collies, and rarely still for long.
+- **The dog in the back of the ute**: (The dogs) Ears in the wind, on the way to the farm or the pub. Australia’s national image of contentment (rules on tying them up apply).
+- **Bluey**: (Famous dogs · 2018) A blue heeler family from Brisbane, and one of the most-watched children’s shows on the planet. Many adults admit to crying at it, alone.
+- **Red Dog**: (Famous dogs) A real red kelpie cross who wandered the Pilbara in the 1970s, adopted by a whole town. He has a statue at Dampier and a hit 2011 film.
+- **The Dog on the Tuckerbox**: (Famous dogs · 1932) A statue near Gundagai, from a bush poem about a loyal dog guarding a bullock driver’s lunch. A roadside stop with status.
+- **Kelpie Muster at Casterton**: (A national affection) The Victorian town that claims to be the birthplace of the kelpie holds a festival and auction, where working dogs can fetch huge prices.
+- **Almost half the homes**: (A national affection) Surveys by Animal Medicines Australia found dogs in 48% of households in 2022, part of one of the world’s highest rates of pet ownership.
+
+### And more
+
+- **Talking about house prices**: (Everyday life) The real national sport. Any barbecue ends with what the place down the street sold for, and young people can’t afford it.
+- **Coles or Woolies**: (Everyday life) Two supermarkets dominate the country, and everyone has opinions on them. Plus Aldi and a treasure hunt at Kmart.
+- **Mateship**: (Everyday life) The idea of looking out for your mates, from the Anzac legend to the volunteer fire brigade. First Nations view: Historians point out that the classic mateship story centred on white men, leaving out women and First Nations people.
+- **Camping**: (Everyday life) Christmas holidays at the same caravan park every year, sometimes for generations. Book early.
+- **Food from everywhere**: (Everyday life) The suburban Thai, the Vietnamese pho, the Greek and Lebanese places. Migration changed the national plate, and most people are glad.
+- **A sickie**: (At work) A day off “sick”, especially after a big match or a long weekend. Everyone denies it, and bosses know the pattern.
+- **A beer in moderation, or not**: (Body) Drinking is part of many social events, and it’s rude to skip a round. Though younger Australians drink less than their parents. First Nations view: Doctors have long warned about the harm alcohol causes, especially for First Nations communities and in family violence.
+- **Pokies**: (Money) Poker machines in clubs and pubs, especially in New South Wales. Australians are among the world’s biggest gamblers per person, and the machines take a big share. First Nations view: Addiction groups and many health experts want tougher rules on poker machines, an issue that has divided politics for years.
+
+Sources: [AusPlay](https://www.ausport.gov.au/media-centre/news/australians-are-redefining-the-way-they-play); [Digital 2026: Australia](https://datareportal.com/reports/digital-2026-australia); [4x4 Australia: 2025 VFACTS](https://www.4x4australia.com.au/news/ford-reigns-supreme-in-2025-4x4-sales); [Victoria Racing Club](https://www.vrc.com.au/latest-news/mcc-attracts-286-000-attendees-with-spectacular-racing-and-growth-surging-across-all-event-metrics/); [Animal Medicines Australia, via Vet Voice](https://www.vetvoice.com.au/ec/pet-ownership/pet-ownership-statistics/)
+
+## Aussie Dictionary
+
+https://australianculture.biblioverse.org/aussie-dictionary.html
+
+- **Ambo**: Ambulance
+- **Ankle-biter**: Small child
+- **Arro**: Arrogant
+- **Arvo**: Afternoon
+- **Aussie**: Australian
+- **Aussie salute**: Waving a hand to swat away flies
+- **Avo**: Avocado
+- **Awks**: Awkward
+- **Barbie / Barby**: Barbecue
+- **Bathers**: Swimsuit
+- **Berko**: Someone who gets angry for no apparent reason
+- **Bevvies**: Drinks
+- **Bikkie**: Biscuit
+- **Bizzo**: Business
+- **Bloke**: Man
+- **Bloody oath**: Of course, complete agreement
+- **Blotto**: Very drunk
+- **Bludger**: Someone who is lazy
+- **Bogan**: An uncouth or unsophisticated person
+- **Bogan chic**: A mix of bogan style with fancy, fashionable things
+- **Bottle-o**: Bottle shop, liquor store
+- **Brekkie / Brekky**: Breakfast
+- **Brolly**: Umbrella
+- **Cabbie**: Taxi driver
+- **Cactus**: An unpleasant, obnoxious person; also something broken
+- **Chewie**: Chewing gum
+- **Chockers**: Completely full
+- **Chokkie**: Chocolate
+- **Chook**: Chicken
+- **Chrissie**: Christmas
+- **Chuck**: Throw
+- **Chuck on**: Put on
+- **Chunder**: Throw up
+- **Clanger**: An inappropriate comment
+- **Coldie**: A nice, cold beer
+- **Cossies**: Swimmers, swimming costume
+- **Crack on**: Let’s get started, keep going
+- **Crook**: Sick
+- **Cunt**: Fool (very offensive, though mates may use it affectionately)
+- **Cuppa**: A cup of tea or coffee
+- **D’ya**: Do you
+- **Daggy**: Uncool, unfashionable
+- **Dead horse**: Tomato sauce
+- **Defo**: Definitely
+- **Devo**: Devastated, upset
+- **Docos**: Documentaries
+- **Dog’s eye**: Meat pie
+- **Drongo**: Idiot
+- **Dunny**: Toilet
+- **Durry / Duzza**: Cigarette
+- **Eshays**: Young troublemakers, often from the outer suburbs
+- **Esky**: A portable cooler
+- **Fair dinkum**: Genuine, real
+- **Feed**: Meal
+- **Footy / Footie**: Football (AFL or rugby league)
+- **G’day**: Hello, good day
+- **Galah**: A foolish person
+- **Goldie**: $1 or $2 coin
+- **Good on ya**: Good job, well done
+- **Gorge**: Gorgeous
+- **Grog**: Alcohol
+- **Grouse**: Great, excellent
+- **Hard yakka**: Hard work
+- **Have a crack**: Give it a try
+- **Heaps**: A lot
+- **Hoon**: A reckless driver
+- **Hooroo**: Goodbye
+- **Hospo**: Hospitality (cafés, bars and restaurants)
+- **Idiot box**: Television
+- **Jocks**: Underwear
+- **Joey**: Baby kangaroo
+- **Juice**: Petrol
+- **Kanga**: Kangaroo
+- **Knackered**: Tired
+- **Layabout**: A lazy person
+- **Lippie**: Lipstick
+- **Littlies**: Small children
+- **Lobster**: $20 note
+- **Lolly**: Sweet, candy
+- **Macca’s**: McDonald’s
+- **Mate**: Friend
+- **Minny**: Minute
+- **Moolah**: Money
+- **Mozzie**: Mosquito
+- **Mundy**: Monday
+- **Mushies**: Mushrooms
+- **Nana**: Banana
+- **Narky**: Grumpy, moody
+- **No drama**: No problem
+- **No wozzas**: No worries
+- **Noah**: Shark (from "Noah’s ark")
+- **Nuke**: To microwave something
+- **On the piss**: Out drinking a lot
+- **Oz**: Australia
+- **Ozzie**: Aussie
+- **Pineapple**: $50 note
+- **Pissed**: Very drunk
+- **Polly**: Politician
+- **Pommie / Pom**: Person from the UK
+- **Port**: Suitcase or school bag
+- **Prawn**: Someone who’s had a bit too much to drink
+- **Preggers**: Pregnant
+- **Pressie**: Present, gift
+- **Ranga**: Redhead
+- **Reckon**: To think, to believe ("I reckon...")
+- **Rego**: Car registration
+- **Righto**: OK, all right
+- **Ripper**: Awesome
+- **Roomie**: Roommate
+- **Rubbish**: Garbage, trash
+- **Sambo / Sammie / Sanga / Sanger**: Sandwich
+- **Schoolies**: Celebration week for school leavers
+- **Servo**: Service station, petrol station
+- **Smoko**: A short break from work
+- **Snag**: Sausage
+- **Stick**: Surfboard
+- **Stickybeak**: A nosy person
+- **Stirrer**: Someone who deliberately causes trouble
+- **Straya**: Australia
+- **Stubby**: A small bottle of beer
+- **Sundy**: Sunday
+- **Sunnies**: Sunglasses
+- **Ta**: Thank you
+- **Thongs**: Flip-flops
+- **Ticker**: Heart
+- **Tinny**: Can of beer; also a small aluminium boat
+- **Toddler**: A small child aged 1 to 3
+- **Togs**: Swimwear
+- **Tot**: A baby, toddler
+- **Truckie**: Truck driver
+- **Tucker**: Food
+- **Ute**: Utility vehicle, pick-up
+- **Wadyasay**: What did you say?
+- **Wee**: Pee
+- **Woofa**: Dog
+- **x**: A kiss. Aussies pop an x at the end of messages, even to mates and workmates, as a friendly sign-off (“See you soon x”). The more x’s, the more affection: xx, xxx.
+- **Ya**: You
+- **Yonks**: A long time
+- **Zonked**: Exhausted
+
+Sources: [Australia Para Todos: Aussie terms and slang (in Portuguese)](https://australiaparatodos.wordpress.com/2025/01/29/dicionario-de-termos-e-girias-australianas/); [Brazilians in Australia: slang](https://brasileirosnaaustralia.biblioverse.org)
+
+## Records and rankings
+
+https://australianculture.biblioverse.org/records.html
+
+- **Highway 1**: (Geography · 14,500 km) The longest national highway in the world, looping right around the country. <https://en.wikipedia.org/wiki/Highway_1_(Australia)>
+- **Nullarbor Links**: (Geography · 1,365 km) The longest golf course in the world: 18 holes spread along the Eyre Highway between SA and WA. <https://en.wikipedia.org/wiki/Nullarbor_Links>
+- **Dingo Fence**: (Geography · 5,614 km) The longest fence in the world, built to keep dingoes away from sheep in the south-east. <https://en.wikipedia.org/wiki/Dingo_Fence>
+- **90 Mile Straight**: (Geography · 146.6 km) The longest straight stretch of sealed road in the country, on the Eyre Highway. <https://en.wikipedia.org/wiki/Eyre_Highway>
+- **Straight railway**: (Geography · 478 km) The longest stretch of dead-straight railway in the world, across the Nullarbor Plain. <https://en.wikipedia.org/wiki/Trans-Australian_Railway>
+- **Great Barrier Reef**: (Nature · 2,300 km) The biggest reef system on the planet, visible from space. <https://en.wikipedia.org/wiki/Great_Barrier_Reef>
+- **K’gari (Fraser Island)**: (Nature · 1,840 km²) The biggest sand island in the world, with freshwater lakes and rainforest. <https://en.wikipedia.org/wiki/K%27gari>
+- **Great Artesian Basin**: (Nature · 1.7m km²) One of the largest underground water reserves in the world, beneath 22% of the country. <https://en.wikipedia.org/wiki/Great_Artesian_Basin>
+- **Oldest living culture**: (Society · 60,000+ years) Aboriginal and Torres Strait Islander peoples have the oldest continuous culture on Earth. <https://en.wikipedia.org/wiki/Aboriginal_Australians>
+- **Biggest country**: (Rankings · 6th) 7.69 million km², and the only country that covers a whole continent. <https://en.wikipedia.org/wiki/List_of_countries_and_dependencies_by_area>
+- **Minimum wage**: (Rankings · A$26.44/hr) The national minimum wage since July 2026 (A$1,004.90 a week), one of the highest in the world. <https://en.wikipedia.org/wiki/Minimum_wage_in_Australia>
+- **Nobel Prizes**: (Rankings · 15) Eight in Medicine, including Howard Florey (penicillin) and Peter Doherty (the immune system). Patrick White won for Literature in 1973. <https://en.wikipedia.org/wiki/List_of_Australian_Nobel_laureates>
+- **Voter turnout**: (Society · ~90%) Voting has been compulsory since 1924 and you get fined if you don’t. The result is one of the highest turnouts in the world. <https://en.wikipedia.org/wiki/Electoral_system_of_Australia>
+- **Women’s vote**: (Society · 1902) One of the first countries to give women the right to vote and stand in national elections. <https://en.wikipedia.org/wiki/Women%27s_suffrage_in_Australia>
+- **The MCG**: (Society · 100,024) The Melbourne Cricket Ground is the biggest stadium in the southern hemisphere and the biggest cricket ground in the world. <https://en.wikipedia.org/wiki/Melbourne_Cricket_Ground>
+- **Gambling losses**: (Rankings · 1st) Australians lose more money gambling per person than anyone in the world, driven by the “pokies”. <https://en.wikipedia.org/wiki/Gambling_in_Australia>
+- **Most venomous snake**: (Nature · 1st) The inland taipan has the most potent venom of any land snake. It’s shy and lives far from everything. <https://en.wikipedia.org/wiki/Inland_taipan>
+- **Mount Augustus**: (Nature · 858 m) Often called the biggest monolith in the world, twice the size of Uluru. <https://en.wikipedia.org/wiki/Mount_Augustus_National_Park>
+
+Sources: [Fair Work Ombudsman: minimum wages from 1 July 2026](https://www.fairwork.gov.au/about-us/workplace-laws/annual-wage-review/annual-wage-review-2026); [Wikipedia: List of Australian Nobel laureates](https://en.wikipedia.org/wiki/List_of_Australian_Nobel_laureates); [Geoscience Australia](https://www.ga.gov.au)
+
+## Fun facts
+
+https://australianculture.biblioverse.org/fun-facts.html
+
+- **Official name and colours**: The official name is the Commonwealth of Australia. The national colours are green and gold, from the leaves and blossom of the golden wattle, proclaimed in 1984 and worn by the national sporting teams.
+- **An anthem without God or guns**: Advance Australia Fair has no military or religious references. The 1879 original was more imperial: one verse praised Captain Cook and ended with “Britannia rules the wave”, and another called on Australians to rouse to arms. Those verses were dropped when it became the official anthem in 1984. In 2021, “young and free” became “one and free”, recognising First Nations peoples.
+- **More roos than people**: There are more than 40 million kangaroos and about 28 million people.
+- **Everyone’s on the coast**: Around 85% of people live within 50 km of the coast. The interior is practically empty.
+- **A dry country**: Around 70% of the land is arid or semi-arid. It’s the driest inhabited continent on the planet.
+- **Wider than the Moon**: From east to west Australia is about 4,000 km across. The Moon is 3,474 km in diameter.
+- **The continent is moving**: The Australian plate moves about 7 cm north every year. In 2017 the country shifted its GPS coordinates by 1.8 m.
+- **A capital by compromise**: Sydney and Melbourne both wanted to be the capital, so Canberra was built in between, on purpose.
+- **Christmas in summer**: Santa in boardshorts, Christmas lunch at the beach and the Boxing Day Test (26 December).
+- **Thongs are flip-flops**: If an Aussie says they forgot their thongs, they’re talking about their footwear.
+- **Everything gets shortened**: Brekkie (breakfast), arvo (afternoon), servo (service station), avo (avocado), sunnies (sunglasses), Chrissie (Christmas).
+- **No official language**: English is the main language, but no law makes it official. Before colonisation there were more than 250 Indigenous languages.
+- **A third born overseas**: About 32% of the population was born in another country. Almost half have at least one parent born overseas.
+- **Cube-shaped poo**: The wombat is the only animal known to make cube-shaped poo.
+- **The platypus**: A mammal that lays eggs, has a duck’s bill and the males have a venomous spur. European scientists thought it was a hoax.
+- **A coat of arms that doesn’t go backwards**: The kangaroo and emu are on the coat of arms, and tradition says it’s because they rarely move backwards, only forwards.
+- **Slip, Slop, Slap**: The country has one of the highest skin cancer rates in the world. At school the rule is “No hat, no play”.
+- **Driving on the left**: A British legacy. Pedestrians, look right first!
+- **No tipping required**: Wages are high, so nobody expects a tip, though it’s appreciated at restaurants.
+- **The cleanest air**: The Cape Grim station in Tasmania measures some of the purest air on the planet.
+- **The PM who vanished**: Prime Minister Harold Holt disappeared while swimming in 1967. A swimming pool was later named after him.
+- **Koalas sleep 20 hours**: A diet of gum leaves gives very little energy, so koalas sleep most of the day.
+- **Over 10,000 beaches**: There are 10,685 beaches. Visiting one a day would take almost 30 years.
+- **Biosecurity is serious**: Forgetting to declare a piece of fruit or some seeds on arrival can cost you thousands of dollars.
+- **Shifting time zones**: There are three main time zones, but because QLD, WA and the NT don’t do daylight saving, in summer the country runs on five different times.
+
+Sources: [ABS: population](https://www.abs.gov.au/statistics/people/population); [Tourism Australia: Key facts](https://www.australia.com/en/facts-and-planning/about-australia/key-facts-about-australia.html); [Geoscience Australia](https://www.ga.gov.au); [Advance Australia Fair (Wikipedia)](https://en.wikipedia.org/wiki/Advance_Australia_Fair)
+
+## Wildlife and plants
+
+https://australianculture.biblioverse.org/wildlife-and-plants.html
+
+- **Eastern grey kangaroo**: (Mammals) The kangaroo you’ll see most in the east, in parks, on golf courses and by the roadside at dusk. Lives in groups called “mobs”. <https://en.wikipedia.org/wiki/Eastern_grey_kangaroo>
+- **Red kangaroo**: (Mammals) The biggest marsupial in the world: a male can stand over 1.8 m. Lives in the arid interior and bounds along at more than 50 km/h. <https://en.wikipedia.org/wiki/Red_kangaroo>
+- **Wallaby**: (Mammals) Looks like a mini kangaroo. There are dozens of species, like the red-necked wallaby, common in Tasmania and the east. <https://en.wikipedia.org/wiki/Wallaby>
+- **Koala**: (Mammals) Not a bear: a marsupial that eats almost nothing but gum leaves and sleeps up to 20 hours a day. Endangered across much of the east. <https://en.wikipedia.org/wiki/Koala>
+- **Wombat**: (Mammals) A sturdy marsupial that digs enormous burrows. The only animal known to make cube-shaped poo. <https://en.wikipedia.org/wiki/Wombat>
+- **Platypus**: (Mammals) An egg-laying mammal with a duck’s bill, and the males have a venomous spur. Lives in eastern rivers and is hard to spot. <https://en.wikipedia.org/wiki/Platypus>
+- **Echidna**: (Mammals) The other egg-laying mammal. Covered in spines, it eats ants and termites with a long tongue. <https://en.wikipedia.org/wiki/Echidna>
+- **Quokka**: (Mammals) The “happiest animal in the world”, famous for selfies on Rottnest Island near Perth. Touching or feeding them is banned. <https://en.wikipedia.org/wiki/Quokka>
+- **Tasmanian devil**: (Mammals) The biggest living carnivorous marsupial, found only in Tasmania. It screeches loudly and inspired Looney Tunes’ Taz. <https://en.wikipedia.org/wiki/Tasmanian_devil>
+- **Brushtail possum**: (Mammals) Lives in the suburbs, in roofs and in parks. Noisy at night and easy to spot up in the trees. <https://en.wikipedia.org/wiki/Common_brushtail_possum>
+- **Flying fox**: (Mammals) A giant fruit bat with a wingspan of up to 1 m. At sunset whole colonies cross the skies of Sydney and Brisbane. <https://en.wikipedia.org/wiki/Pteropus>
+- **Dingo**: (Mammals) A wild dog that arrived around 3,500 to 4,000 years ago with seafaring peoples. Today it’s considered part of the native fauna. <https://en.wikipedia.org/wiki/Dingo>
+- **Australian magpie**: (Birds) A black-and-white bird with a beautiful song. In spring some males swoop anyone who gets too close to the nest: it’s swooping season. <https://en.wikipedia.org/wiki/Australian_magpie>
+- **Australian white ibis**: (Birds) The “bin chicken” that raids bins in the city. Really a wetland bird that has adapted to urban life. <https://en.wikipedia.org/wiki/Australian_white_ibis>
+- **Sulphur-crested cockatoo**: (Birds) Loud and very clever. In Sydney it learned to open wheelie bins and taught the trick to other cockatoos. <https://en.wikipedia.org/wiki/Sulphur-crested_cockatoo>
+- **Galah**: (Birds) A pink-and-grey cockatoo, common in flocks. “Galah” is also slang for a silly person. <https://en.wikipedia.org/wiki/Galah>
+- **Kookaburra**: (Birds) The bird whose call sounds like laughter. The natural alarm clock of many Aussie suburbs. <https://en.wikipedia.org/wiki/Laughing_kookaburra>
+- **Rainbow lorikeet**: (Birds) A small parrot in every colour, living in flocks in the flowering trees of eastern cities. <https://en.wikipedia.org/wiki/Rainbow_lorikeet>
+- **Emu**: (Birds) The second-tallest bird in the world after the ostrich. Can’t fly but runs at 50 km/h. It’s on the national coat of arms. <https://en.wikipedia.org/wiki/Emu>
+- **Cassowary**: (Birds) A huge bird of the far north Queensland rainforest, with a helmet on its head. An important seed spreader. <https://en.wikipedia.org/wiki/Southern_cassowary>
+- **Brush turkey**: (Birds) Common in Brisbane and Sydney backyards. The male builds mounds of leaves that work as an incubator. <https://en.wikipedia.org/wiki/Australian_brushturkey>
+- **Australian pelican**: (Birds) Has the biggest bill of any bird in the world. Turns up on beaches, rivers and lakes right around the country. <https://en.wikipedia.org/wiki/Australian_pelican>
+- **Little penguin**: (Birds) The smallest penguin in the world, about 30 cm tall. On Phillip Island, near Melbourne, they parade ashore at dusk. <https://en.wikipedia.org/wiki/Little_penguin>
+- **Blue-tongue lizard**: (Reptiles and others) A placid garden lizard that flashes its blue tongue when startled. Helps keep snails under control. <https://en.wikipedia.org/wiki/Blue-tongued_skink>
+- **Goanna**: (Reptiles and others) A monitor lizard that can grow over 2 m. Common in national parks and picnic areas. <https://en.wikipedia.org/wiki/Goanna>
+- **Saltwater crocodile**: (Reptiles and others) The biggest living reptile in the world, in northern rivers and coastlines. Obey the signs: no swimming where there’s a warning. <https://en.wikipedia.org/wiki/Saltwater_crocodile>
+- **Huntsman spider**: (Reptiles and others) Big and scary-looking, but harmless to people. Often turns up inside cars and houses. <https://en.wikipedia.org/wiki/Huntsman_spider>
+- **Eucalyptus**: (Plants and flowers) More than 700 species of “gum trees”, the tree that defines the Aussie landscape. The smell of the bush is the smell of eucalyptus. <https://en.wikipedia.org/wiki/Eucalyptus>
+- **Golden wattle**: (Plants and flowers) The national floral emblem, which inspired the green and gold. It flowers at the end of winter; 1 September is Wattle Day. <https://en.wikipedia.org/wiki/Acacia_pycnantha>
+- **Banksia**: (Plants and flowers) Cone-shaped flowers that feed birds and marsupials. Many only release their seeds after a fire. <https://en.wikipedia.org/wiki/Banksia>
+- **Grevillea**: (Plants and flowers) Shrubs with curly, colourful, nectar-rich flowers. Found in almost every Aussie garden. <https://en.wikipedia.org/wiki/Grevillea>
+- **Waratah**: (Plants and flowers) The huge red flower that is the emblem of New South Wales. <https://en.wikipedia.org/wiki/Telopea_speciosissima>
+- **Kangaroo paw**: (Plants and flowers) A flower shaped like a kangaroo’s paw, the emblem of Western Australia. <https://en.wikipedia.org/wiki/Anigozanthos>
+- **Bottlebrush**: (Plants and flowers) Red flowers that look just like the brushes used to clean bottles. They draw in lorikeets and bees. <https://en.wikipedia.org/wiki/Callistemon>
+- **Paperbark**: (Plants and flowers) A tree whose bark peels off like paper. One species gives us tea tree oil, used in cosmetics. <https://en.wikipedia.org/wiki/Melaleuca>
+- **Grass tree**: (Plants and flowers) A plant with a dark trunk and a tuft of fine leaves that grows about 1 cm a year. Some are hundreds of years old. <https://en.wikipedia.org/wiki/Xanthorrhoea>
+- **Boab**: (Plants and flowers) The Australian baobab, with a fat bottle-shaped trunk, typical of the Kimberley. <https://en.wikipedia.org/wiki/Adansonia_gregorii>
+- **Moreton Bay fig**: (Plants and flowers) A giant fig with aerial roots, common in Sydney and Brisbane parks. Shade guaranteed. <https://en.wikipedia.org/wiki/Ficus_macrophylla>
+- **Wollemi pine**: (Plants and flowers) A tree from the age of the dinosaurs, known only from fossils until it was found alive in 1994 in a canyon near Sydney. <https://en.wikipedia.org/wiki/Wollemia>
+- **Spinifex**: (Plants and flowers) Spiky grass that covers much of the outback and holds the red desert sand in place. <https://en.wikipedia.org/wiki/Triodia_(plant)>
+- **Macadamia**: (Plants and flowers) A tree native to Queensland and NSW. The world’s most famous Australian nut. <https://en.wikipedia.org/wiki/Macadamia>
+- **Bilby**: (Mammals) A long-eared desert marsupial. At Easter, plenty of Aussies swap the chocolate bunny for a chocolate bilby. <https://en.wikipedia.org/wiki/Greater_bilby>
+- **Sugar glider**: (Mammals) A small nocturnal possum that glides from tree to tree on a membrane stretched between its legs. <https://en.wikipedia.org/wiki/Sugar_glider>
+- **Numbat**: (Mammals) A striped marsupial that eats thousands of termites a day. Western Australia’s emblem, and endangered. <https://en.wikipedia.org/wiki/Numbat>
+- **Tree-kangaroo**: (Mammals) Yes, some kangaroos live in trees. Lumholtz’s tree-kangaroo lives in the rainforests of far north Queensland. <https://en.wikipedia.org/wiki/Tree-kangaroo>
+- **Superb fairywren**: (Birds) A tiny bird; in breeding season the male turns electric blue. Common in gardens and parks. <https://en.wikipedia.org/wiki/Superb_fairywren>
+- **Black swan**: (Birds) Europeans thought black swans didn’t exist until they saw Australia’s. It’s the emblem of Western Australia. <https://en.wikipedia.org/wiki/Black_swan>
+- **Willie wagtail**: (Birds) Small, black and white and not the least bit shy. Wags its tail from side to side non-stop. <https://en.wikipedia.org/wiki/Willie_wagtail>
+- **Tawny frogmouth**: (Birds) Looks like an owl but isn’t. By day it sits dead still on a branch, disguised as a bit of tree. <https://en.wikipedia.org/wiki/Tawny_frogmouth>
+- **Superb lyrebird**: (Birds) The bird world’s greatest mimic: it copies other birds, chainsaws and camera shutters. It’s on the 10-cent coin. <https://en.wikipedia.org/wiki/Superb_lyrebird>
+- **Wedge-tailed eagle**: (Birds) Australia’s biggest bird of prey, soaring high over the outback. <https://en.wikipedia.org/wiki/Wedge-tailed_eagle>
+- **Crimson rosella**: (Birds) A red-and-blue parrot of the eastern forests and a regular at mountain picnics. <https://en.wikipedia.org/wiki/Crimson_rosella>
+- **Frill-necked lizard**: (Reptiles and others) Flares a huge frill around its head to scare off anyone who gets too close. It used to be on the 2-cent coin. <https://en.wikipedia.org/wiki/Frilled_lizard>
+- **Green tree frog**: (Reptiles and others) A chubby, smiley frog that loves turning up in Queensland bathrooms and water tanks. <https://en.wikipedia.org/wiki/Australian_green_tree_frog>
+- **Thorny devil**: (Reptiles and others) A spiky desert lizard that drinks through its skin, along channels that carry water to its mouth. <https://en.wikipedia.org/wiki/Thorny_devil>
+- **Humpback whale**: (Marine life) Between May and November, tens of thousands migrate along the east and west coasts. You can spot them from the beach. <https://en.wikipedia.org/wiki/Humpback_whale>
+- **Green sea turtle**: (Marine life) Nests on Great Barrier Reef beaches. The hatchlings race to the sea at night. <https://en.wikipedia.org/wiki/Green_sea_turtle>
+- **Dugong**: (Marine life) The “sea cow” that grazes on seagrass in places like Moreton Bay and Shark Bay. <https://en.wikipedia.org/wiki/Dugong>
+- **Leafy seadragon**: (Marine life) A seahorse relative that looks like floating seaweed. South Australia’s marine emblem. <https://en.wikipedia.org/wiki/Leafy_seadragon>
+- **Sturt’s desert pea**: (Plants and flowers) A red flower with a glossy black centre that paints the desert. South Australia’s floral emblem. <https://en.wikipedia.org/wiki/Swainsona_formosa>
+- **Cooktown orchid**: (Plants and flowers) A purple orchid from the northern forests, Queensland’s floral emblem. <https://en.wikipedia.org/wiki/Dendrobium_bigibbum>
+- **Common heath**: (Plants and flowers) A shrub with little bell-shaped pink or white flowers. Victoria’s floral emblem. <https://en.wikipedia.org/wiki/Epacris_impressa>
+- **Sturt’s desert rose**: (Plants and flowers) A mauve flower of the arid lands, the Northern Territory’s floral emblem. <https://en.wikipedia.org/wiki/Gossypium_sturtianum>
+- **Tasmanian blue gum**: (Plants and flowers) A tall tree with bluish leaves, Tasmania’s floral emblem and one of the most planted trees in the world. <https://en.wikipedia.org/wiki/Eucalyptus_globulus>
+- **Royal bluebell**: (Plants and flowers) A little blue grassland flower, the ACT’s floral emblem. <https://en.wikipedia.org/wiki/Wahlenbergia_gloriosa>
+- **River red gum**: (Plants and flowers) The giant eucalypt that lines inland rivers. It can live for more than 500 years. <https://en.wikipedia.org/wiki/Eucalyptus_camaldulensis>
+- **Tree fern**: (Plants and flowers) Ferns with trunks several metres tall, typical of the cool forests of the south-east and Tasmania. <https://en.wikipedia.org/wiki/Dicksonia_antarctica>
+- **Lilly pilly**: (Plants and flowers) A tree with edible pink berries, very popular as a backyard hedge. <https://en.wikipedia.org/wiki/Syzygium>
+- **Queensland bottle tree**: (Plants and flowers) A fat, bottle-shaped trunk where the tree stores water for the dry. <https://en.wikipedia.org/wiki/Brachychiton_rupestris>
+
+Sources: [Atlas of Living Australia](https://www.ala.org.au); [Australian Museum](https://australian.museum); [Australian National Botanic Gardens](https://www.anbg.gov.au)
+
+## Major cities
+
+https://australianculture.biblioverse.org/cities.html
+
+- **Greater Sydney**: NSW: 5,450,496 people. Aboriginal name: Gadi (Gadigal)
+- **Greater Melbourne**: VIC: 5,207,145 people. Aboriginal name: Naarm (Wurundjeri and Bunurong)
+- **Greater Brisbane**: QLD: 2,706,966 people. Aboriginal name: Meanjin (Turrbal and Yuggera)
+- **Greater Perth**: WA: 2,309,338 people. Aboriginal name: Boorloo (Whadjuk Noongar)
+- **Greater Adelaide**: SA: 1,446,380 people. Aboriginal name: Tarntanya (Kaurna)
+- **Gold Coast**: QLD: 666,087 people. Aboriginal name: None (Yugambeh)
+- **Canberra**: ACT: 466,566 people. Aboriginal name: Kanbarra (Ngunnawal and Ngambri)
+- **Sunshine Coast**: QLD: 365,942 people. Aboriginal name: None (Kabi Kabi and Jinibara)
+- **Central Coast**: NSW: 351,934 people. Aboriginal name: None (Darkinjung)
+- **Greater Geelong**: VIC: 282,809 people. Aboriginal name: Djilang (Wadawurrung)
+- **Greater Hobart**: TAS: 253,654 people. Aboriginal name: nipaluna (muwinina)
+- **Wollongong**: NSW: 219,141 people. Aboriginal name: None (Dharawal)
+- **Townsville**: QLD: 201,433 people. Aboriginal name: Gurambilbarra (Wulgurukaba and Bindal)
+- **Toowoomba**: QLD: 181,821 people. Aboriginal name: None (Jarowair and Giabal)
+- **Cairns**: QLD: 175,398 people. Aboriginal name: Gimuy (Yidinji)
+- **Newcastle**: NSW: 174,294 people. Aboriginal name: Mulubinba (Awabakal and Worimi)
+- **Greater Darwin**: NT: 150,736 people. Aboriginal name: Garramilla (Larrakia)
+- **Mackay**: QLD: 126,907 people. Aboriginal name: None (Yuwibara)
+- **Greater Bendigo**: VIC: 124,174 people. Aboriginal name: None (Dja Dja Wurrung)
+- **Ballarat**: VIC: 118,137 people. Aboriginal name: None (Wadawurrung)
+- **Bundaberg**: QLD: 104,166 people. Aboriginal name: None (Taribelang Bunda and Gooreng Gooreng)
+- **Port Macquarie-Hastings**: NSW: 89,596 people. Aboriginal name: None (Birpai)
+- **Rockhampton**: QLD: 84,517 people. Aboriginal name: None (Darumbal)
+- **Coffs Harbour**: NSW: 80,489 people. Aboriginal name: None (Gumbaynggirr)
+- **Launceston**: TAS: 71,788 people. Aboriginal name: None (palawa)
+
+### The personality of each capital
+
+- **Sydney**: (NSW · Harbour City) The biggest and the priciest. The Opera House, the Harbour Bridge, Bondi and Manly. Founded in 1788, it’s the oldest city in the country.
+- **Melbourne**: (VIC · Cultural capital) Coffee, graffitied laneways, trams and sport (AFL, the Australian Open, the F1 and cricket at the MCG). Four seasons in one day.
+- **Brisbane**: (QLD · Brisvegas) Sunshine all year and a more relaxed pace. Host of the 2032 Olympics.
+- **Perth**: (WA · The isolated capital) One of the most isolated big cities in the world, with empty beaches and a mining economy. Rottnest’s quokkas are just offshore.
+- **Adelaide**: (SA · City of Churches) Planned, laid-back and surrounded by wine regions (the Barossa, McLaren Vale). Home to the Fringe, one of the biggest arts festivals in the world.
+- **Gold Coast**: (QLD · Glitter Strip) Beachfront high-rises, theme parks and surf.
+- **Canberra**: (ACT · The planned capital) Designed by American architects Walter and Marion Griffin. Parliament, national museums and plenty of nature.
+- **Hobart**: (TAS · Gateway to Antarctica) The second-oldest city, at the foot of kunanyi/Mount Wellington. Home to the MONA museum and the Dark Mofo winter festival.
+- **Darwin**: (NT · The Top End) Tropical, with a wet and a dry season, crocs and sunsets at the Mindil Beach markets. Closer to Asia than to Sydney.
+
+Sources: [ABS: Regional population (2023)](https://www.abs.gov.au/statistics/people/population/regional-population/latest-release); [Brazilians in Australia: Get to know Australia](https://brasileirosnaaustralia.biblioverse.org)
+
+## Places
+
+https://australianculture.biblioverse.org/places.html
+
+- **Bondi Beach**: (Beaches · NSW) The country’s most famous beach, 7 km from the Sydney CBD. Home to the Icebergs ocean pool, the lifeguards of Bondi Rescue and the 6 km coastal walk to Coogee. <https://en.wikipedia.org/wiki/Bondi_Beach>
+- **Whitehaven Beach**: (Beaches · QLD) Seven kilometres of almost pure silica sand in the Whitsundays. From the Hill Inlet lookout, the tide swirls white sand through turquoise water. <https://en.wikipedia.org/wiki/Whitehaven_Beach>
+- **Manly Beach**: (Beaches · NSW) Half an hour by ferry from Circular Quay, past the Opera House. A surf beach with the Corso promenade and a proper beach-town feel. <https://en.wikipedia.org/wiki/Manly_Beach>
+- **Bells Beach**: (Beaches · VIC) A legendary break near Torquay, at the start of the Great Ocean Road. Every Easter it hosts the Rip Curl Pro, one of the world’s most storied surf contests. <https://en.wikipedia.org/wiki/Bells_Beach>
+- **Byron Bay**: (Beaches · NSW) Surf town with an alternative streak. The Cape Byron lighthouse marks the most easterly point of mainland Australia. <https://en.wikipedia.org/wiki/Byron_Bay>
+- **Cable Beach**: (Beaches · WA) 22 km of white sand at Broome in the north-west. Sunset over the Indian Ocean is the main event of the day. <https://en.wikipedia.org/wiki/Cable_Beach>
+- **Cottesloe Beach**: (Beaches · WA) Perth’s beach, with calm water and sunsets over the sea. Every year it hosts the open-air Sculpture by the Sea exhibition. <https://en.wikipedia.org/wiki/Cottesloe_Beach>
+- **Hyams Beach**: (Beaches · NSW) On Jervis Bay, south of Sydney, it’s famous for its dazzling white sand and crystal-clear water. <https://en.wikipedia.org/wiki/Hyams_Beach>
+- **Wineglass Bay**: (Beaches · TAS) The wineglass-shaped bay in Freycinet National Park. The track up to the lookout is one of Tasmania’s most photographed walks. <https://en.wikipedia.org/wiki/Freycinet_National_Park>
+- **Surfers Paradise**: (Beaches · QLD) The heart of the Gold Coast: high-rises right on the sand, waves all year and a lively nightlife. <https://en.wikipedia.org/wiki/Surfers_Paradise>
+- **Rottnest Island**: (Beaches · WA) Wadjemup to the Noongar people. A car-free island 18 km off Fremantle, explored by bike between bays of crystal-clear water. Home of the quokkas, famous for selfies where they seem to smile. <https://en.wikipedia.org/wiki/Rottnest_Island>
+- **Uluṟu-Kata Tjuṯa**: (Parks · NT) Country of the Anangu, the Traditional Owners. Uluru stands 348 m high and climbing it has been banned since 2019 out of respect; nearby, Kata Tjuta is a cluster of 36 rock domes. <https://en.wikipedia.org/wiki/Ulu%E1%B9%9Fu-Kata_Tju%E1%B9%AFa_National_Park>
+- **Kakadu**: (Parks · NT) The country’s second-biggest national park (after Munga-Thirri–Simpson Desert), World Heritage-listed for both nature and culture. Ubirr and Burrungkuy hold Aboriginal rock art thousands of years old. <https://en.wikipedia.org/wiki/Kakadu_National_Park>
+- **Blue Mountains**: (Parks · NSW) Two hours from Sydney, with the Three Sisters rock formation and the blue haze rising off the gum trees. World Heritage-listed since 2000. <https://en.wikipedia.org/wiki/Blue_Mountains_(New_South_Wales)>
+- **Daintree Rainforest**: (Parks · QLD) One of the oldest rainforests on Earth. At Cape Tribulation, the forest runs right down to the sea and the Great Barrier Reef. <https://en.wikipedia.org/wiki/Daintree_Rainforest>
+- **Royal National Park**: (Parks · NSW) Created in 1879, it’s the world’s second-oldest national park after Yellowstone. On Sydney’s southern edge, with clifftop walks and rock pools. <https://en.wikipedia.org/wiki/Royal_National_Park>
+- **Cradle Mountain**: (Parks · TAS) Jagged peaks above Dove Lake. It’s the start of the Overland Track, a 65 km hike through Tasmania’s wilderness. <https://en.wikipedia.org/wiki/Cradle_Mountain-Lake_St_Clair_National_Park>
+- **Gariwerd (Grampians)**: (Parks · VIC) Sandstone ranges in western Victoria, with lookouts like the Pinnacle and the Balconies and many Aboriginal rock art sites. <https://en.wikipedia.org/wiki/Grampians_National_Park>
+- **Karijini**: (Parks · WA) Deep red gorges in the Pilbara, with natural pools and waterfalls tucked between rock walls billions of years old. <https://en.wikipedia.org/wiki/Karijini_National_Park>
+- **Kings Park**: (Parks · WA) One of the biggest inner-city parks in the world, larger than New York’s Central Park, looking over the Perth CBD and the Swan River. <https://en.wikipedia.org/wiki/Kings_Park,_Western_Australia>
+- **Royal Botanic Garden Sydney**: (Parks · NSW) Opened in 1816 next to the Opera House. From Mrs Macquarie’s Chair you get the bridge and the Opera House in one shot. <https://en.wikipedia.org/wiki/Royal_Botanic_Garden,_Sydney>
+- **South Bank and Streets Beach**: (Parks · QLD) Riverside parklands on the old Expo 88 site in Brisbane, home to Streets Beach: a man-made beach with sand and a lagoon right in the city, free and patrolled by lifeguards. Across the river sits Queen’s Wharf, the precinct with The Star casino, hotels and restaurants. <https://en.wikipedia.org/wiki/South_Bank_Parklands>
+- **Great Barrier Reef**: (Natural wonders · QLD) The world’s largest coral reef system, around 2,300 km long. World Heritage-listed since 1981 and visible from space. <https://en.wikipedia.org/wiki/Great_Barrier_Reef>
+- **Twelve Apostles**: (Natural wonders · VIC) Limestone stacks rising out of the sea along the Great Ocean Road. Despite the name, only seven are still standing: erosion knocks them down one by one. <https://en.wikipedia.org/wiki/The_Twelve_Apostles_(Victoria)>
+- **K’gari**: (Natural wonders · QLD) The world’s largest sand island, formerly Fraser Island. In 2023 it officially went back to its Butchulla name, which means “paradise”. <https://en.wikipedia.org/wiki/K%27gari>
+- **The Pinnacles**: (Natural wonders · WA) Thousands of limestone pillars scattered across the yellow sand of Nambung National Park, north of Perth. It looks like another planet. <https://en.wikipedia.org/wiki/The_Pinnacles_(Western_Australia)>
+- **Lake Hillier**: (Natural wonders · WA) A bubblegum-pink lake on Middle Island in the Recherche Archipelago. The colour comes from algae and bacteria living in the salty water. <https://en.wikipedia.org/wiki/Lake_Hillier>
+- **Wave Rock**: (Natural wonders · WA) A 15-metre granite wall shaped like a wave about to break, near the small town of Hyden. <https://en.wikipedia.org/wiki/Wave_Rock>
+- **Purnululu (Bungle Bungle)**: (Natural wonders · WA) Beehive-shaped sandstone domes striped orange and black, in the Kimberley. The wider world only learned of them in the 1980s; they’re now World Heritage-listed. <https://en.wikipedia.org/wiki/Purnululu_National_Park>
+- **Ikara (Wilpena Pound)**: (Natural wonders · SA) A vast natural amphitheatre of mountains in the Flinders Ranges, a sacred place for the Adnyamathanha people. <https://en.wikipedia.org/wiki/Wilpena_Pound>
+- **Whitsunday Islands**: (Natural wonders · QLD) Seventy-four islands in the middle of the Great Barrier Reef, made for sailing, snorkelling and Whitehaven Beach. <https://en.wikipedia.org/wiki/Whitsunday_Islands>
+- **Sydney Opera House**: (Buildings · NSW) Opened in 1973, with sails designed by Danish architect Jørn Utzon. World Heritage-listed since 2007 and the symbol of the nation. <https://en.wikipedia.org/wiki/Sydney_Opera_House>
+- **Parliament House**: (Buildings · ACT) Canberra’s parliament, opened in 1988, is built into a hill with a grassed roof you can walk over. On top sits an 81-metre flagpole. <https://en.wikipedia.org/wiki/Parliament_House,_Canberra>
+- **Flinders Street Station**: (Buildings · VIC) The yellow 1910 station is Melbourne’s postcard. “Meet you under the clocks” is the city’s classic meeting spot. <https://en.wikipedia.org/wiki/Flinders_Street_railway_station>
+- **Royal Exhibition Building**: (Buildings · VIC) An 1880 exhibition palace in Melbourne, where the first federal parliament sat in 1901. World Heritage-listed since 2004. <https://en.wikipedia.org/wiki/Royal_Exhibition_Building>
+- **Queen Victoria Building**: (Buildings · NSW) An 1898 shopping arcade in the Sydney CBD, with domes, stained glass and mechanical clocks. It was nearly demolished in the 1950s. <https://en.wikipedia.org/wiki/Queen_Victoria_Building>
+- **Federation Square**: (Buildings · VIC) A 2002 cultural square opposite Flinders Street, with geometric facades, galleries and a big screen for major events. <https://en.wikipedia.org/wiki/Federation_Square>
+- **Sydney Tower Eye**: (Buildings · NSW) At 309 metres, the tallest structure in Sydney since 1981. From the deck you can see from the ocean to the Blue Mountains. <https://en.wikipedia.org/wiki/Sydney_Tower>
+- **Q1**: (Buildings · QLD) A 322-metre residential tower in Surfers Paradise, with the SkyPoint observation deck up top and views of the whole Gold Coast. <https://en.wikipedia.org/wiki/Q1_(building)>
+- **MONA**: (Buildings · TAS) Hobart’s Museum of Old and New Art, opened in 2011 and dug into the rock beside the Derwent River. Deliberately provocative. <https://en.wikipedia.org/wiki/Museum_of_Old_and_New_Art>
+- **Sydney Harbour Bridge**: (Bridges · NSW) The “Coathanger”, opened in 1932, is one of the world’s largest steel arch bridges. You can walk over the arch on the BridgeClimb, 134 m above the water, and it’s the centrepiece of the New Year’s Eve fireworks. <https://en.wikipedia.org/wiki/Sydney_Harbour_Bridge>
+- **Story Bridge**: (Bridges · QLD) A 1940 steel bridge over the Brisbane River and the city’s postcard. It has a guided climb too. <https://en.wikipedia.org/wiki/Story_Bridge>
+- **West Gate Bridge**: (Bridges · VIC) The bridge over the Yarra in Melbourne. During construction in 1970 a span collapsed, killing 35 workers: Australia’s worst industrial accident. <https://en.wikipedia.org/wiki/West_Gate_Bridge>
+- **Anzac Bridge**: (Bridges · NSW) A 1995 cable-stayed bridge in Sydney, with statues of an Australian and a New Zealand soldier honouring the Anzacs. <https://en.wikipedia.org/wiki/Anzac_Bridge>
+- **Sea Cliff Bridge**: (Bridges · NSW) A bridge that curves around the cliff out over the ocean, on the Grand Pacific Drive near Wollongong. Straight out of a car ad. <https://en.wikipedia.org/wiki/Sea_Cliff_Bridge>
+- **Richmond Bridge**: (Bridges · TAS) Built by convicts in 1823, it’s the oldest stone bridge still in use in Australia. <https://en.wikipedia.org/wiki/Richmond_Bridge_(Tasmania)>
+- **Kurilpa Bridge**: (Bridges · QLD) A 2009 footbridge in Brisbane with masts and cables at wild angles. It’s the world’s largest tensegrity bridge. <https://en.wikipedia.org/wiki/Kurilpa_Bridge>
+- **Tasman Bridge**: (Bridges · TAS) It links the two sides of Hobart. In 1975 a ship hit its pylons and brought down part of the bridge, splitting the city for nearly two years. <https://en.wikipedia.org/wiki/Tasman_Bridge>
+- **Australian War Memorial**: (Monuments · ACT) Canberra’s memorial and museum, opened in 1941. Every afternoon the Last Post Ceremony tells the story of one name on the Roll of Honour. <https://en.wikipedia.org/wiki/Australian_War_Memorial>
+- **Shrine of Remembrance**: (Monuments · VIC) Melbourne’s 1934 war memorial. At 11 am on 11 November, a ray of sunlight falls through the roof onto the word “Love” on the Stone of Remembrance. <https://en.wikipedia.org/wiki/Shrine_of_Remembrance>
+- **Great Ocean Road**: (Monuments · VIC) 243 km of coastal road built by soldiers returned from the First World War. It’s the largest war memorial in the world. <https://en.wikipedia.org/wiki/Great_Ocean_Road>
+- **Aboriginal Tent Embassy**: (Monuments · ACT) Set up in 1972 outside Old Parliament House to demand land rights. It’s one of the longest-running protest sites in the world. <https://en.wikipedia.org/wiki/Aboriginal_Tent_Embassy>
+- **Port Arthur**: (Monuments · TAS) A former convict settlement from 1830, now a historic site. Part of the World Heritage-listed Australian Convict Sites. <https://en.wikipedia.org/wiki/Port_Arthur,_Tasmania>
+- **Fremantle Prison**: (Monuments · WA) A prison built by convicts in the 1850s and used until 1991. Also part of the World Heritage-listed Australian Convict Sites. <https://en.wikipedia.org/wiki/Fremantle_Prison>
+- **Old Parliament House**: (Monuments · ACT) Home of federal parliament from 1927 to 1988, in Canberra. It now houses the Museum of Australian Democracy. <https://en.wikipedia.org/wiki/Old_Parliament_House,_Canberra>
+- **Big Banana**: (Big Things · NSW) Coffs Harbour’s giant banana, from 1964, kicked off the Big Things craze: there are now more than 150 oversized roadside sculptures around the country. <https://en.wikipedia.org/wiki/Big_Banana>
+- **Big Pineapple**: (Big Things · QLD) A 16-metre pineapple on the Sunshine Coast, opened in 1971. Prince Charles and Princess Diana even dropped by. <https://en.wikipedia.org/wiki/Big_Pineapple>
+- **Golden Guitar**: (Big Things · NSW) A 12-metre golden guitar in Tamworth, the home of Australian country music, where the Tamworth Country Music Festival runs every January. <https://en.wikipedia.org/wiki/Big_Golden_Guitar>
+
+Sources: [Tourism Australia: places to go](https://www.australia.com/en/places.html); [Parks Australia](https://parksaustralia.gov.au); [UNESCO: World Heritage in Australia](https://whc.unesco.org/en/statesparties/au); [Australia’s big things (Wikipedia)](https://en.wikipedia.org/wiki/Australia%27s_big_things)
+
+## Moments in history
+
+https://australianculture.biblioverse.org/history.html
+
+- **The First Peoples**: (First Peoples · 65,000–50,000 BC) The ancestors of Aboriginal people arrive on the continent. The oldest continuous living culture on Earth begins, with hundreds of nations and languages.
+- **The Dutch**: (Colonisation · 1606) Willem Janszoon, aboard the Duyfken, is the first recorded European to set foot in Australia, on Cape York.
+- **James Cook**: (Colonisation · 1770) The British captain charts the east coast, lands at Botany Bay and claims the land for the Crown.
+- **The First Fleet**: (Colonisation · 26 Jan 1788) Eleven ships carrying about 1,400 people, half of them convicts, found the penal colony at Sydney Cove. The date is Australia Day, which many Indigenous people call Invasion Day.
+- **A convict colony**: (Colonisation · 1788–1868) Around 162,000 convicts are transported from Britain. The last ship arrives in Western Australia in 1868.
+- **The gold rush**: (Nation · 1851) Gold in NSW and Victoria sends the population soaring and makes Melbourne one of the richest cities in the world.
+- **Eureka Stockade**: (Nation · 1854) Miners at Ballarat rebel against the colonial government. The uprising is seen as the birthplace of Australian democracy.
+- **Ned Kelly**: (Nation · 1880) The outlaw in iron armour is hanged in Melbourne and becomes a national legend.
+- **Federation**: (Nation · 1 Jan 1901) The six colonies unite to form the Commonwealth of Australia. The same year, the White Australia policy begins.
+- **Votes for women**: (Nation · 1902) Women (but not Indigenous women) win the right to vote and stand in federal elections.
+- **Gallipoli**: (War · 25 Apr 1915) ANZAC troops land in Turkey. The defeat becomes a founding myth; 25 April is Anzac Day.
+- **Harbour Bridge**: (Nation · 1932) Sydney’s bridge opens. The same year, the Great Emu War takes place.
+- **Darwin bombed**: (War · 1942) In World War II Japan attacks Darwin, the biggest foreign attack ever on Australian soil.
+- **“Populate or perish”**: (Society · 1945) Mass post-war migration begins, with British, Italian, Greek and other European arrivals. More than 7 million people would come in the following decades.
+- **Melbourne Olympics**: (Society · 1956) The first Games in the southern hemisphere. Television arrives the same year.
+- **The dollar arrives**: (Society · 1966) Decimal currency replaces the Australian pound.
+- **A historic referendum**: (First Peoples · 1967) 90.77% vote for Aboriginal people to be counted in the Census and covered by federal laws.
+- **White Australia ends**: (Society · 1973) The Whitlam government finally abandons race-based immigration policy. The Opera House opens.
+- **The Dismissal**: (Nation · 1975) The Governor-General sacks Prime Minister Gough Whitlam, the country’s biggest constitutional crisis.
+- **America’s Cup**: (Society · 1983) Australia II ends 132 years of American dominance in the race. PM Bob Hawke says any boss who sacks someone for not turning up to work that day “is a bum”.
+- **Australia Act**: (Nation · 1986) The last legal ties with the British Parliament are cut.
+- **The Mabo decision**: (First Peoples · 1992) The High Court overturns the idea of “terra nullius” (nobody’s land) and recognises native title.
+- **Port Arthur and guns**: (Society · 1996) After 35 people are killed in Tasmania, the country passes strict gun laws, with a buyback of 650,000 firearms.
+- **The republic referendum**: (Nation · 1999) Voters reject swapping the monarchy for a republic. The British monarch remains head of state.
+- **Sydney Olympics**: (Society · 2000) Aboriginal athlete Cathy Freeman lights the cauldron and wins the 400 m.
+- **The Apology**: (First Peoples · 2008) PM Kevin Rudd apologises to the Stolen Generations, Indigenous children taken from their families.
+- **Marriage equality**: (Society · 2017) After a postal survey returns 61.6% “yes”, same-sex marriage becomes law.
+- **Black Summer**: (Society · 2019–20) Bushfires burn more than 24 million hectares and kill or displace around 3 billion animals.
+- **The Matildas and the Voice**: (First Peoples · 2023) The women’s team reaches the World Cup semi-final at home and stops the nation. In October, the referendum on an Indigenous Voice to Parliament is defeated.
+- **Olympic Brisbane**: (Society · 2032) Brisbane will be the third Australian city to host the Olympic Games.
+
+Sources: [National Museum of Australia: Defining Moments](https://www.nma.gov.au/defining-moments); [AIATSIS](https://aiatsis.gov.au)
+
+## Key dates
+
+https://australianculture.biblioverse.org/key-dates.html
+
+- **New Year and Federation**: (Public holidays · 1 January) The year opens with fireworks over the Harbour Bridge and the Opera House, watched around the world. It also marks Federation: on 1 January 1901 the six colonies united and the Commonwealth of Australia was born. First Nations view: The 1901 Constitution said Aboriginal people were not to be counted in the population. That clause only went in the 1967 referendum. <https://en.wikipedia.org/wiki/Federation_of_Australia>
+- **Australia Day**: (Public holidays · 26 January) National public holiday marking the arrival of the First Fleet at Sydney Cove in 1788. Expect barbies, the beach, citizenship ceremonies and, the evening before, the Australian of the Year announcement. First Nations view: For many Aboriginal and Torres Strait Islander people it is Invasion Day or Survival Day, with marches around the country. The protest goes back a long way: 26 January 1938 was the Day of Mourning in Sydney. The push to change the date keeps growing, and in 2018 triple j moved its Hottest 100 off the day. <https://en.wikipedia.org/wiki/Australia_Day>
+- **Anniversary of the Apology**: (First Nations dates · 13 February) On 13 February 2008 Prime Minister Kevin Rudd apologised in Parliament to the Stolen Generations: Aboriginal children taken from their families under government policy. The day is marked every year. <https://en.wikipedia.org/wiki/Apology_to_Australia%27s_Indigenous_peoples>
+- **Sydney Mardi Gras**: (Culture and community · February or March) The LGBTQIA+ parade down Oxford Street, one of the biggest in the world. It began in 1978 as a protest, when dozens of marchers were arrested by police. <https://en.wikipedia.org/wiki/Sydney_Gay_and_Lesbian_Mardi_Gras>
+- **Clean Up Australia Day**: (Culture and community · First Sunday in March) Volunteers across the country pick up rubbish from beaches, parks and rivers. It started in 1989 with sailor Ian Kiernan, appalled by the rubbish he saw at sea. <https://en.wikipedia.org/wiki/Clean_Up_Australia>
+- **Labour Day**: (Public holidays · March, May or October) The workers’ holiday falls on different dates in each state. It celebrates the eight-hour day, won by Melbourne stonemasons in 1856, one of the first in the world. <https://en.wikipedia.org/wiki/Labour_Day>
+- **Harmony Day**: (Culture and community · 21 March) A day celebrating cultural diversity, with schools and offices dressed in orange. It falls on the UN International Day for the Elimination of Racial Discrimination. First Nations view: Critics, including First Nations leaders, say the name “harmony” softens the day and takes the focus off fighting racism, which was the UN’s point. <https://en.wikipedia.org/wiki/Harmony_Day>
+- **Easter**: (Public holidays · March or April) A long weekend from Good Friday to Easter Monday. Alongside the bunny there’s the chocolate bilby: rabbits are a pest here, and the bilby is a threatened native marsupial. <https://en.wikipedia.org/wiki/Easter>
+- **Anzac Day**: (Remembrance · 25 April) The country’s most solemn day remembers the Gallipoli landing in 1915 and everyone who has served. It starts with dawn services and carries on with marches and two-up in the pubs. First Nations view: Aboriginal soldiers fought in the world wars and came home to be shut out of the land and benefits other veterans got. Many also want the Frontier Wars, fought between settlers and Aboriginal peoples, remembered like other wars. <https://en.wikipedia.org/wiki/Anzac_Day>
+- **Mother’s Day**: (Culture and community · Second Sunday in May) Breakfast in bed and flowers. The traditional flower is the chrysanthemum: it blooms in May, and its nickname, mum, says it all. <https://en.wikipedia.org/wiki/Mother%27s_Day>
+- **National Sorry Day**: (First Nations dates · 26 May) A day to remember the Stolen Generations, held since 1998, a year after the Bringing Them Home report revealed the scale of the removals. <https://en.wikipedia.org/wiki/National_Sorry_Day>
+- **National Reconciliation Week**: (First Nations dates · 27 May to 3 June) A week for building relationships between all Australians and First Nations peoples. The dates mark two wins: the 1967 referendum (27 May) and the 1992 Mabo decision (3 June), which recognised native title. <https://en.wikipedia.org/wiki/National_Reconciliation_Week>
+- **King’s Birthday**: (Public holidays · Second Monday in June) A holiday for the monarch, in June in most states (Queensland and WA use other dates). It isn’t King Charles III’s actual birthday, which is in November. First Nations view: For many First Nations people the Crown is where colonisation began, and the day tends to bring up the debate about Australia becoming a republic. <https://en.wikipedia.org/wiki/King%27s_Official_Birthday>
+- **NAIDOC Week**: (First Nations dates · First week of July) The big celebration of the history, culture and achievements of Aboriginal and Torres Strait Islander peoples, with events all over the country. Its roots go back to the protests of 1938. <https://en.wikipedia.org/wiki/NAIDOC_Week>
+- **Aboriginal and Torres Strait Islander Children’s Day**: (First Nations dates · 4 August) Celebrating First Nations children since 1988. The date was chosen because many Stolen Generations children never knew their birthday and celebrated on this day.
+- **Father’s Day**: (Culture and community · First Sunday in September) Celebrated in spring, on the first Sunday in September, with breakfasts, barbies and the footy. <https://en.wikipedia.org/wiki/Father%27s_Day>
+- **R U OK? Day**: (Culture and community · Second Thursday in September) A day to ask family, friends and workmates: “Are you OK?” Started in 2009 to help prevent suicide and get people talking about mental health. <https://en.wikipedia.org/wiki/R_U_OK%3F>
+- **AFL Grand Final**: (Culture and community · Late September) The Aussie rules decider at the MCG in Melbourne. In Victoria, the Friday before the game is a public holiday. <https://en.wikipedia.org/wiki/AFL_Grand_Final>
+- **Remembrance Day**: (Remembrance · 11 November) At 11 am the country stops for a minute’s silence, the hour the First World War ended in 1918. People wear red poppies on their lapels. <https://en.wikipedia.org/wiki/Remembrance_Day>
+- **Christmas**: (Public holidays · 25 December) Christmas in summer: the beach, the pool, pavlova and Carols by Candlelight in Melbourne. <https://en.wikipedia.org/wiki/Christmas_in_Australia>
+- **Boxing Day**: (Public holidays · 26 December) Sales day, the Boxing Day Test at the MCG and the start of the Sydney to Hobart yacht race, with the harbour full of boats. <https://en.wikipedia.org/wiki/Boxing_Day_Test>
+
+Sources: [Australian Government: public holidays](https://www.australia.gov.au/public-holidays); [Reconciliation Australia](https://www.reconciliation.org.au); [NAIDOC](https://www.naidoc.org.au); [AIATSIS](https://aiatsis.gov.au)
+
+## Politics and economy
+
+https://australianculture.biblioverse.org/politics-and-economy.html
+
+
+### How it works
+
+- **A monarchy that runs like a republic**: (Structure) The head of state is King Charles III, represented here by the Governor-General (Sam Mostyn, since 2024). The role is ceremonial: the Prime Minister actually runs the country. <https://en.wikipedia.org/wiki/Monarchy_of_Australia>
+- **Three levels of government**: (Structure) The federal government in Canberra handles defence, immigration, Medicare and income tax. The states and territories run schools, hospitals, police and transport. Local councils look after bins, parks and libraries. <https://en.wikipedia.org/wiki/Federalism_in_Australia>
+- **Two houses of Parliament**: (Structure) The House of Representatives has 150 members and decides who governs. The Senate has 76 senators, 12 per state and 2 per territory, and reviews the laws. <https://en.wikipedia.org/wiki/Parliament_of_Australia>
+- **The Prime Minister**: (Structure) Leads the party with a majority in the House. Since May 2022 that’s Anthony Albanese of the Labor Party, re-elected comfortably in 2025. <https://en.wikipedia.org/wiki/Prime_Minister_of_Australia>
+- **The Westminster model**: (Structure) Inherited from the UK: ministers sit in Parliament and face questions from the Opposition every sitting day, in Question Time. <https://en.wikipedia.org/wiki/Westminster_system>
+- **Compulsory voting**: (Elections) Since 1924 every adult citizen has to vote or cop a fine. Elections are always on a Saturday, democracy sausage included. <https://en.wikipedia.org/wiki/Electoral_system_of_Australia>
+- **Preferential voting**: (Elections) Voters number the candidates in order of preference. If nobody gets more than half, the lowest drop out and their votes flow to the next choice. <https://en.wikipedia.org/wiki/Instant-runoff_voting>
+- **Elections every three years**: (Elections) House terms last up to 3 years, among the shortest in the world. Senators serve 6 years, with half the Senate up at each election. <https://en.wikipedia.org/wiki/Elections_in_Australia>
+- **Changing the Constitution is hard**: (Elections) It takes a referendum with a national majority plus a majority in at least four of the six states. Of 45 referendums, only 8 have passed. <https://en.wikipedia.org/wiki/Referendums_in_Australia>
+
+### The economy in numbers
+
+- **Size of the economy**: (Wealth · US$1.8 trillion) 2025 GDP, around the 15th biggest in the world, with only 28 million people.
+- **GDP per person**: (Wealth · US$65,000) One of the 15 highest in the world (IMF, 2025).
+- **Minimum wage**: (Work · A$26.44/hr) A$1,004.90 for a 38-hour week, since 1 July 2026.
+- **Average weekly earnings**: (Work · A$2,084) Average for full-time adults (ABS, May 2026).
+- **Unemployment**: (Work · 4.7%) In September 2026, a five-year high.
+- **Weekly rent**: (Cost of living · A$700) Median advertised rent across the capitals in September 2026. In Sydney it’s over A$800.
+- **Inflation**: (Cost of living · 4.0%) Over the 12 months to August 2026, above the Reserve Bank’s 2–3% target.
+- **Cash rate**: (Cost of living · 4.60%) The Reserve Bank of Australia’s rate after its fourth rise of 2026, in September.
+- **Superannuation**: (Work · 12%) Employers must pay 12% on top of wages into each worker’s retirement fund.
+
+### Where the money comes from
+
+- **Iron ore**: (Exports) The country’s biggest export: around A$121 billion in 2025, mostly from the Pilbara (WA) and mostly to China. <https://en.wikipedia.org/wiki/Mining_in_Australia>
+- **Coal**: (Exports) Around A$64 billion in 2025 and falling. The energy transition makes it one of the most fought-over topics in politics. <https://en.wikipedia.org/wiki/Coal_in_Australia>
+- **Natural gas**: (Exports) Around A$60 billion in 2025. Australia is one of the world’s biggest exporters of liquefied natural gas (LNG). <https://en.wikipedia.org/wiki/Energy_in_Australia>
+- **Gold**: (Exports) Around A$60 billion in 2025, up 67% as prices soared. The gold rush never really ended. <https://en.wikipedia.org/wiki/Mining_in_Australia>
+- **International education**: (Services) Around A$55 billion in 2025: the biggest service the country sells to the world. International students keep whole suburbs humming. <https://en.wikipedia.org/wiki/International_education>
+- **Tourism**: (Services) Beaches, the Great Barrier Reef, Uluru and the cities draw millions of visitors a year. <https://en.wikipedia.org/wiki/Tourism_in_Australia>
+- **Health care and social assistance**: (Services) The country’s biggest employer, with hospitals, clinics, aged care and the NDIS (the disability scheme). <https://en.wikipedia.org/wiki/Health_care_in_Australia>
+- **Super funds**: (Services) Thanks to compulsory superannuation, retirement savings top A$4 trillion, one of the biggest pension pools in the world. <https://en.wikipedia.org/wiki/Superannuation_in_Australia>
+- **Grain, fruit and wine**: (Agriculture) Wheat, barley, canola, fruit and wine from regions like the Barossa and Margaret River are sold across Asia and the world. <https://en.wikipedia.org/wiki/Agriculture_in_Australia>
+- **China, the big partner**: (Trade) China is by far the biggest buyer of Australian goods, followed by Japan, South Korea, India and the US. <https://en.wikipedia.org/wiki/Australia%E2%80%93China_relations>
+- **An expensive country**: (Cost of living) Rent, mortgages and groceries add up: a house in Sydney costs many times a family’s annual income. On the flip side, wages are among the highest in the world. <https://en.wikipedia.org/wiki/Economy_of_Australia>
+- **Medicare and tax**: (Cost of living) Public health care is funded partly by a 2% levy on income. The goods and services tax (GST) is 10% and already included in the price. <https://en.wikipedia.org/wiki/Medicare_(Australia)>
+
+### Billionaires and tycoons
+
+- **Gina Rinehart**: (Mining) Owner of Hancock Prospecting, inherited from her father and multiplied on Pilbara iron ore. Usually the richest person in the country. <https://en.wikipedia.org/wiki/Gina_Rinehart>
+- **Andrew “Twiggy” Forrest**: (Mining) Founder of Fortescue, the iron ore giant now betting on green energy. Gives away fortunes through the Minderoo Foundation. <https://en.wikipedia.org/wiki/Andrew_Forrest>
+- **Clive Palmer**: (Mining) Mining magnate who launched his own political party and promised to build a Titanic II. <https://en.wikipedia.org/wiki/Clive_Palmer>
+- **Mike Cannon-Brookes and Scott Farquhar**: (Tech) The Atlassian founders who started out on a credit card. Cannon-Brookes has become one of the country’s biggest clean-energy investors. <https://en.wikipedia.org/wiki/Mike_Cannon-Brookes>
+- **Melanie Perkins and Cliff Obrecht**: (Tech) The couple who created Canva and pledged to give away most of their stake in the company. <https://en.wikipedia.org/wiki/Melanie_Perkins>
+- **Rupert Murdoch**: (Media) Born in Melbourne, he built News Corp and Fox from a single Adelaide newspaper. Became a US citizen in 1985. <https://en.wikipedia.org/wiki/Rupert_Murdoch>
+- **Kerry Packer**: (Media) Owner of Channel Nine who shook up cricket with World Series Cricket in 1977. He died in 2005. <https://en.wikipedia.org/wiki/Kerry_Packer>
+- **James Packer**: (Media) Kerry Packer’s son, who bet big on casinos with Crown Resorts. <https://en.wikipedia.org/wiki/James_Packer>
+- **Frank Lowy**: (Retail and property) A Holocaust survivor who co-founded Westfield in Sydney and took its shopping centres global. <https://en.wikipedia.org/wiki/Frank_Lowy>
+- **Harry Triguboff**: (Retail and property) “High-rise Harry”, founder of Meriton, builder of thousands of apartments in Sydney and Brisbane. <https://en.wikipedia.org/wiki/Harry_Triguboff>
+- **Gerry Harvey**: (Retail and property) Co-founder of Harvey Norman, the appliance and furniture chain. <https://en.wikipedia.org/wiki/Gerry_Harvey>
+- **Anthony Pratt**: (Industry) Runs Visy, the packaging and cardboard recycling giant. <https://en.wikipedia.org/wiki/Anthony_Pratt>
+- **Lindsay Fox**: (Industry) Started with one truck and built Linfox, one of the biggest logistics companies in the Asia-Pacific. <https://en.wikipedia.org/wiki/Lindsay_Fox>
+
+### The parties
+
+- **Australian Labor Party**: (Major parties · 1891) Centre-left, born from the union movement. In government since 2022 under Anthony Albanese. Created Medicare and compulsory super. <https://en.wikipedia.org/wiki/Australian_Labor_Party>
+- **Liberal Party**: (Major parties · 1944) Centre-right, founded by Robert Menzies. Leads the Opposition; since February 2026 its leader is Angus Taylor. <https://en.wikipedia.org/wiki/Liberal_Party_of_Australia>
+- **The Nationals**: (Major parties · 1920) The party of the bush and the farmers. Usually governs alongside the Liberals as the Coalition. Leader: Matt Canavan, since March 2026. <https://en.wikipedia.org/wiki/National_Party_of_Australia>
+- **The Greens**: (Major parties · 1992) Climate, the environment and social justice. Strong in the Senate and the inner cities. Leader: Senator David Shoebridge, since September 2026. <https://en.wikipedia.org/wiki/Australian_Greens>
+- **One Nation**: (Minor parties · 1997) Pauline Hanson’s right-wing populist party, critical of immigration. Holds seats in the Senate. <https://en.wikipedia.org/wiki/One_Nation>
+- **The “teals”**: (Minor parties · 2022) Community independents, mostly women, campaigning on climate action and integrity in politics. They took traditionally Liberal seats in 2022. <https://en.wikipedia.org/wiki/Teal_independents>
+- **Katter’s Australian Party**: (Minor parties · 2011) Bob Katter’s party, focused on north Queensland and the bush. <https://en.wikipedia.org/wiki/Katter%27s_Australian_Party>
+- **Jacqui Lambie Network**: (Minor parties · 2015) Led by Tasmanian senator and ex-soldier Jacqui Lambie, known for speaking her mind. <https://en.wikipedia.org/wiki/Jacqui_Lambie_Network>
+
+### Politicians
+
+- **Anthony Albanese**: (Today) Prime Minister since 2022. Grew up in public housing in Sydney, raised by a single mum, and became the first PM with a non-Anglo-Celtic surname. <https://en.wikipedia.org/wiki/Anthony_Albanese>
+- **Jim Chalmers**: (Today) Treasurer in the Labor government, from Queensland. <https://en.wikipedia.org/wiki/Jim_Chalmers>
+- **Penny Wong**: (Today) Foreign Minister, born in Malaysia. One of the country’s most respected politicians. <https://en.wikipedia.org/wiki/Penny_Wong>
+- **Angus Taylor**: (Today) Leader of the Liberal Party and the Opposition since February 2026, after toppling Sussan Ley in a spill. <https://en.wikipedia.org/wiki/Angus_Taylor>
+- **David Shoebridge**: (Today) New South Wales senator and former barrister, leader of the Greens since September 2026. <https://en.wikipedia.org/wiki/David_Shoebridge>
+- **Matt Canavan**: (Today) Queensland senator and leader of the Nationals since March 2026, a champion of coal mining. <https://en.wikipedia.org/wiki/Matt_Canavan>
+- **Pauline Hanson**: (Today) Founder of One Nation, a Queensland senator. A divisive figure in politics for almost 30 years. <https://en.wikipedia.org/wiki/Pauline_Hanson>
+- **David Pocock**: (Today) Former Wallabies captain turned independent senator for the ACT. <https://en.wikipedia.org/wiki/David_Pocock>
+- **Lidia Thorpe**: (Today) Independent senator and Aboriginal activist, known for protesting at King Charles during his 2024 visit. <https://en.wikipedia.org/wiki/Lidia_Thorpe>
+- **Robert Menzies**: (Former PMs) The longest-serving PM, 18 years in all (1939–41 and 1949–66). Founded the Liberal Party. <https://en.wikipedia.org/wiki/Robert_Menzies>
+- **Gough Whitlam**: (Former PMs) In just three years (1972–75) he brought in free university and Medibank, the forerunner of Medicare. Dismissed by the Governor-General. <https://en.wikipedia.org/wiki/Gough_Whitlam>
+- **Bob Hawke**: (Former PMs) PM from 1983 to 1991, created Medicare and opened up the economy. Hugely popular, he even held a beer-drinking record. <https://en.wikipedia.org/wiki/Bob_Hawke>
+- **Paul Keating**: (Former PMs) PM from 1991 to 1996, famous for his sharp tongue and the Redfern speech (1992) on injustices against Aboriginal people. <https://en.wikipedia.org/wiki/Paul_Keating>
+- **John Howard**: (Former PMs) PM from 1996 to 2007, the second-longest serving. Brought in the gun laws and the GST. <https://en.wikipedia.org/wiki/John_Howard>
+- **Kevin Rudd**: (Former PMs) PM in 2007–10 and again in 2013. Delivered the Apology to the Stolen Generations in 2008. <https://en.wikipedia.org/wiki/Kevin_Rudd>
+- **Julia Gillard**: (Former PMs) The first woman to be prime minister (2010–13). Her 2012 “misogyny speech” went around the world. <https://en.wikipedia.org/wiki/Julia_Gillard>
+- **Malcolm Turnbull**: (Former PMs) PM from 2015 to 2018, leading the government that legalised marriage equality after the 2017 postal survey. <https://en.wikipedia.org/wiki/Malcolm_Turnbull>
+- **Scott Morrison**: (Former PMs) PM from 2018 to 2022, criticised for holidaying in Hawaii during the Black Summer bushfires. <https://en.wikipedia.org/wiki/Scott_Morrison>
+
+### Activists
+
+- **Eddie Mabo**: (Indigenous rights) A Torres Strait Islander who took his people’s fight for their land to the High Court. The 1992 decision ended the idea of “terra nullius”. <https://en.wikipedia.org/wiki/Eddie_Mabo>
+- **Vincent Lingiari**: (Indigenous rights) Led the Wave Hill walk-off (1966), when Gurindji workers walked off a cattle station. In 1975 Whitlam poured soil into his hand, returning part of their land. <https://en.wikipedia.org/wiki/Vincent_Lingiari>
+- **Charles Perkins**: (Indigenous rights) Led the 1965 Freedom Ride, a bus trip through country NSW exposing racial segregation. <https://en.wikipedia.org/wiki/Charles_Perkins_(Aboriginal_activist)>
+- **Faith Bandler**: (Indigenous rights) One of the leading voices of the “yes” campaign in the 1967 referendum. <https://en.wikipedia.org/wiki/Faith_Bandler>
+- **Megan Davis**: (Indigenous rights) Aboriginal legal scholar and one of the authors of the Uluru Statement from the Heart (2017), which called for an Indigenous Voice to Parliament. <https://en.wikipedia.org/wiki/Megan_Davis>
+- **Thomas Mayo**: (Indigenous rights) Torres Strait Islander unionist who carried the Uluru Statement around the country during the 2023 campaign. <https://en.wikipedia.org/wiki/Thomas_Mayo_(author)>
+- **Adam Goodes**: (Indigenous rights) AFL champion and 2014 Australian of the Year who became a symbol of the fight against racism in sport. <https://en.wikipedia.org/wiki/Adam_Goodes>
+- **Bob Brown**: (Climate and environment) Led the campaign that saved Tasmania’s Franklin River in 1983 and founded the Greens. <https://en.wikipedia.org/wiki/Bob_Brown>
+- **Tim Flannery**: (Climate and environment) Scientist and author, one of the best-known voices on climate change. 2007 Australian of the Year. <https://en.wikipedia.org/wiki/Tim_Flannery>
+- **Anjali Sharma**: (Climate and environment) At 16, led a group of students who took the government to court over the climate harm of a coal mine (2021). <https://en.wikipedia.org/wiki/Anjali_Sharma_(climate_activist)>
+- **Vida Goldstein**: (Women) Melbourne suffragist who in 1903 was one of the first women in the British Empire to stand for a national parliament. <https://en.wikipedia.org/wiki/Vida_Goldstein>
+- **Edith Cowan**: (Women) The first woman elected to an Australian parliament, in Western Australia in 1921. She’s on the $50 note. <https://en.wikipedia.org/wiki/Edith_Cowan>
+- **Rosie Batty**: (Society) After losing her son to her former partner’s violence, she became the national voice against family violence. 2015 Australian of the Year. <https://en.wikipedia.org/wiki/Rosie_Batty>
+- **Grace Tame**: (Society) A survivor of child sexual abuse who fought for the right to tell her story. 2021 Australian of the Year. <https://en.wikipedia.org/wiki/Grace_Tame>
+- **Dylan Alcott**: (Society) Paralympic tennis and basketball champion and disability rights advocate. 2022 Australian of the Year. <https://en.wikipedia.org/wiki/Dylan_Alcott>
+- **Taryn Brumfitt**: (Society) Founder of the Body Image Movement, pushing back against beauty pressure. 2023 Australian of the Year. <https://en.wikipedia.org/wiki/Taryn_Brumfitt>
+- **Peter Singer**: (Animal rights) Melbourne-born moral philosopher whose book Animal Liberation (1975) shaped the modern animal rights movement. Emeritus professor of bioethics at Princeton. <https://en.wikipedia.org/wiki/Peter_Singer>
+- **Georgie Purcell**: (Animal rights) Animal Justice Party MP in Victoria’s upper house since 2022, campaigning for a ban on duck hunting and for animal welfare. <https://en.wikipedia.org/wiki/Georgie_Purcell>
+- **Joey Carbstrong**: (Animal rights) Former criminal turned animal rights activist and vegan advocate, with undercover investigations and viral debates on social media. <https://en.wikipedia.org/wiki/Joey_Carbstrong>
+
+Sources: [AEC: how elections work](https://www.aec.gov.au); [Parliament of Australia](https://www.aph.gov.au); [ABS: earnings (May 2026) and unemployment (Sep 2026)](https://www.abs.gov.au); [RBA: cash rate](https://www.rba.gov.au); [Fair Work Ombudsman: minimum wage](https://www.fairwork.gov.au); [DFAT: 2025 exports](https://www.dfat.gov.au/trade/trade-and-investment-data-information-and-publications); [PropTrack/realestate.com.au: rents (Sep 2026)](https://www.realestate.com.au/insights/); [IMF: World Economic Outlook](https://www.imf.org/en/Publications/WEO)
+
+## Find out more
+
+https://australianculture.biblioverse.org/websites.html
+
+- **Australia.com**: (Tourism and image · Tourism Australia) The official tourism site: destinations, itineraries, events and the Aussie way of life explained for visitors. <https://www.australia.com>
+- **Australia’s Nation Brand**: (Tourism and image · Australian Government) How Australia presents itself to the world, with the kangaroo logo, colours, photos and stories to use. <https://www.brandaustralia.com>
+- **Study Australia**: (Tourism and image · Austrade) The official portal for international students: courses, cost of living and what it’s like to live here. <https://www.studyaustralia.gov.au>
+- **DFAT: About Australia**: (Tourism and image · Department of Foreign Affairs and Trade) An official overview of the country: people, government, economy, culture and the “Australia in Brief” booklet. <https://www.dfat.gov.au/about-australia>
+- **Digital Atlas of Australia**: (Data and maps · Geoscience Australia) The government’s interactive atlas: layer up maps of population, climate, land, infrastructure and much more. <https://digital.atlas.gov.au>
+- **ABS**: (Data and maps · Australian Bureau of Statistics) The national statistics agency: the Census, population, the economy and “Data by Region” to compare any town. <https://www.abs.gov.au>
+- **Geoscience Australia**: (Data and maps · Australian Government) Geology, earthquakes, official maps and trivia like the continent’s extreme points. <https://www.ga.gov.au>
+- **Bureau of Meteorology**: (Data and maps · BOM) Forecasts, radar, climate averages for every town and the UV index that every Aussie checks. <https://www.bom.gov.au>
+- **AIATSIS**: (First Peoples · Australian Institute of Aboriginal and Torres Strait Islander Studies) The leading research centre and collection on First Peoples, home of the well-known map of Indigenous Australia. <https://aiatsis.gov.au>
+- **First Languages Australia**: (First Peoples · Indigenous organisation) Works to keep Indigenous languages alive. Its Gambay map brings together hundreds of languages and dialects. <https://www.firstlanguages.org.au>
+- **Reconciliation Australia**: (First Peoples · Independent organisation) Explains reconciliation between Indigenous and non-Indigenous Australians, Acknowledgement of Country and the key dates. <https://www.reconciliation.org.au>
+- **Indigenous.gov.au**: (First Peoples · National Indigenous Australians Agency) News, programs and stories from Aboriginal and Torres Strait Islander communities. <https://www.indigenous.gov.au>
+- **National Archives of Australia**: (Culture and history · National Archives) Records that tell the country’s story, from Federation to migrant arrivals. <https://www.naa.gov.au>
+- **Trove**: (Culture and history · National Library of Australia) Millions of digitised old newspapers, photos, books and maps. You can read the news from 1803 onwards. <https://trove.nla.gov.au>
+- **National Museum of Australia**: (Culture and history · National Museum) The museum of the country’s history and culture, in Canberra, with collections and exhibitions online. <https://www.nma.gov.au>
+- **Australian War Memorial**: (Culture and history · War memorial) For understanding Anzac Day and the weight of war in the national identity. <https://www.awm.gov.au>
+- **Australian Museum**: (Culture and history · The country’s oldest museum) Founded in Sydney in 1827. Great for getting to know the wildlife (dangerous ones included) and Indigenous cultures. <https://australian.museum>
+- **Screen Australia**: (Culture and history · Screen agency) Data and catalogues of Australian films, series and animation. <https://www.screenaustralia.gov.au>
+- **ABC**: (Media · Public broadcaster) Aunty: news, radio, podcasts and ABC iview, home of shows like Bluey. <https://www.abc.net.au>
+- **SBS**: (Media · Multicultural public broadcaster) The broadcaster for migrant communities, with content in dozens of languages, including SBS Portuguese. <https://www.sbs.com.au>
+- **Parks Australia**: (Nature · National parks) Uluru-Kata Tjuta, Kakadu, Booderee and the other Commonwealth parks, with visitor tips and local culture. <https://parksaustralia.gov.au>
+- **Atlas of Living Australia**: (Nature · CSIRO and partners) Millions of records of plants and animals. Find out what lives near any address. <https://www.ala.org.au>
+
+## Are you true blue?
+
+https://australianculture.biblioverse.org/quiz.html
+
+- **What is Vegemite?**: Answer: A yeast-extract spread
+- **What’s the capital of Australia?**: Answer: Canberra
+- **Which invention came out of a CSIRO lab?**: Answer: Fast Wi-Fi
+- **When an Aussie talks about “thongs”, they mean...**: Answer: Flip-flops
+- **Who won the Great Emu War of 1932?**: Answer: The emus
+- **Which Australian actor starred in Barbie (2023)?**: Answer: Margot Robbie
+- **What is Australia’s national floral emblem?**: Answer: Golden wattle
+- **Which of these mammals lays eggs?**: Answer: Platypus
+- **Which is the longest fence in the world, at 5,614 km?**: Answer: Dingo Fence
+- **Which band recorded “Down Under”?**: Answer: Men at Work
+- **When is Anzac Day?**: Answer: 25 April
+- **Which animal makes cube-shaped poo?**: Answer: Wombat
+- **Which Aussie bird has a call that sounds like laughter?**: Answer: Kookaburra
+- **What does it mean to “shout” at the pub?**: Answer: Buy a round
+- **Which dog breed is Bluey?**: Answer: Blue heeler
