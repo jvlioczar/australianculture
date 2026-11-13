@@ -193,7 +193,7 @@ $('foot').innerHTML = `<div class="wrap">
     <button id="shareBtn" type="button">${t('Compartilhar', 'Share')}</button>
     <a href="https://biblioverse.org" rel="noopener noreferrer" target="_blank">BiblioVerse</a>
   </div>
-  <p class="small">${t('Última atualização', 'Last updated')}: ${esc(A.updated)} · ${t('Acesse as bibliotecas de outros temas no BiblioVerse. Obrigado pela visita!', 'Explore libraries on other topics at BiblioVerse. Thanks for visiting!')}</p>
+  <p class="small">${t('Última atualização', 'Last updated')}: ${esc(A.updated)} · ${t('Acesse as bibliotecas de outros temas na BiblioVerse. Obrigado pela visita!', 'Explore libraries on other topics at BiblioVerse. Thanks for visiting!')}</p>
   <p class="small">© ${new Date().getFullYear()} BiblioVerse · Julio Cesar Prava. ${t('Todos os direitos reservados.', 'All rights reserved.')}</p>
   <p class="small ack">${t('Reconhecemos os Guardiões Tradicionais das terras da Austrália e prestamos respeito aos Anciãos do passado e do presente.', 'We acknowledge the Traditional Custodians of the lands across Australia and pay our respects to Elders past and present.')}</p>
 </div>`;
