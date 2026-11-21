@@ -602,6 +602,17 @@ dialog.search::backdrop{background:rgba(20,10,4,.5);backdrop-filter:blur(4px)}
 
 .toast{position:fixed;left:50%;bottom:76px;transform:translate(-50%,30px);opacity:0;background:var(--ink);color:var(--bg);padding:10px 16px;border-radius:999px;font-size:14px;font-weight:600;z-index:9999;transition:.3s;pointer-events:none}
 .toast.on{opacity:1;transform:translate(-50%,0)}
+/* aviso de cookies: cartão no canto, sobe devagar; abaixo da abertura (.gate) e acima do resto */
+.consent{position:fixed;left:16px;bottom:16px;z-index:9000;width:min(400px,calc(100% - 32px));padding:18px 18px 16px;border-radius:18px;background:var(--ink);color:var(--bg);box-shadow:0 18px 50px rgba(0,0,0,.28);font:400 15px/1.45 var(--body);opacity:0;transform:translateY(24px);transition:opacity .45s var(--e-out),transform .6s var(--e-out)}
+.consent.on{opacity:1;transform:none}
+.consent p{margin:0 0 14px}
+.consent a{color:inherit;text-decoration:underline;text-underline-offset:3px}
+.consent-btns{display:flex;gap:10px;justify-content:flex-end}
+.consent button{min-height:44px;padding:0 20px;border-radius:999px;border:1.5px solid currentColor;background:transparent;color:inherit;font:600 15px var(--body);cursor:pointer}
+.consent button.yes{border-color:var(--wattle);background:var(--wattle);color:#1b120c}
+.consent button:focus-visible{outline:2px solid var(--wattle);outline-offset:3px}
+@media (max-width:599px){.consent{left:12px;right:12px;bottom:12px;width:auto}.consent-btns button{flex:1}}
+.privacy .consent-again{margin-top:4px;min-height:44px;padding:0 20px;border-radius:999px;border:1.5px solid var(--ink);background:transparent;color:var(--ink);font:600 15px var(--body);cursor:pointer}
 .totop{position:fixed;right:16px;bottom:16px;z-index:40;width:46px;height:46px;display:grid;place-items:center;border-radius:50%;border:0;background:var(--ink);color:var(--bg);cursor:pointer;opacity:0;pointer-events:none;transition:.25s}
 .totop.on{opacity:1;pointer-events:auto}
 
@@ -912,6 +923,7 @@ main:focus{outline:none}
 
 /* impressão: só o conteúdo, em preto no branco, sem a moldura interativa */
 @media print{
+  .consent,.consent-again{display:none!important}
   @page{margin:16mm}
   :root{--bg:#fff;--paper:#fff;--paper-2:#fff;--ink:#000;--ink-2:#222;--muted:#444;--line:#bbb}
   html,body{background:#fff!important;color:#000!important;font-size:11pt}

@@ -1,13 +1,14 @@
 <!DOCTYPE html>
 <html lang="en-AU">
 <head>
-<!-- Google tag (gtag.js) -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-H56GN9N5TC"></script>
+<!-- Google tag (gtag.js): só carrega depois do aceite no aviso de cookies -->
 <script>
   window.dataLayer = window.dataLayer || [];
   function gtag(){dataLayer.push(arguments);}
   gtag('js', new Date());
   gtag('config', 'G-H56GN9N5TC');
+  window.acLoadGA = function(){ if (window.acGA) return; window.acGA = 1; var s = document.createElement('script'); s.async = true; s.src = 'https://www.googletagmanager.com/gtag/js?id=G-H56GN9N5TC'; document.head.appendChild(s); };
+  try { if (localStorage.getItem('ac-consent') === 'yes') acLoadGA(); } catch (e) {}
 </script>
 <meta charset="utf-8"/>
 <meta content="width=device-width, initial-scale=1" name="viewport"/>

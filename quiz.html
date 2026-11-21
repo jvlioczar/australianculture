@@ -1,13 +1,14 @@
 <!DOCTYPE html>
 <html lang="en-AU">
 <head>
-<!-- Google tag (gtag.js) -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-H56GN9N5TC"></script>
+<!-- Google tag (gtag.js): só carrega depois do aceite no aviso de cookies -->
 <script>
   window.dataLayer = window.dataLayer || [];
   function gtag(){dataLayer.push(arguments);}
   gtag('js', new Date());
   gtag('config', 'G-H56GN9N5TC');
+  window.acLoadGA = function(){ if (window.acGA) return; window.acGA = 1; var s = document.createElement('script'); s.async = true; s.src = 'https://www.googletagmanager.com/gtag/js?id=G-H56GN9N5TC'; document.head.appendChild(s); };
+  try { if (localStorage.getItem('ac-consent') === 'yes') acLoadGA(); } catch (e) {}
 </script>
 <meta charset="utf-8"/>
 <meta content="width=device-width, initial-scale=1, viewport-fit=cover" name="viewport"/>
@@ -38,7 +39,7 @@
 <link href="https://fonts.googleapis.com" rel="preconnect"/>
 <link crossorigin="anonymous" href="https://fonts.gstatic.com" rel="preconnect"/>
 <link href="https://fonts.googleapis.com/css2?family=Jaro:opsz@6..72&amp;family=Google+Sans+Flex:wght@300..800&amp;family=Caveat+Brush&amp;display=swap" rel="stylesheet"/>
-<link href="styles.css?v=2026110101" rel="stylesheet"/>
+<link href="styles.css?v=2026112201" rel="stylesheet"/>
 <script src="https://biblioverse.org/superbar.js" defer></script>
 <script type="application/ld+json">{"@context":"https://schema.org","@graph":[{"@type":"WebPage","@id":"https://australianculture.biblioverse.org/quiz.html#page","url":"https://australianculture.biblioverse.org/quiz.html","name":"Are you true blue? — Australian Culture","description":"A quiz about Australia: test what you know about the country and its people.","inLanguage":"en-AU","isPartOf":{"@id":"https://australianculture.biblioverse.org/#website"},"primaryImageOfPage":"https://australianculture.biblioverse.org/images/share-18-en-3.png","dateModified":"2026-11-01","breadcrumb":{"@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Australian Culture","item":"https://australianculture.biblioverse.org/"},{"@type":"ListItem","position":2,"name":"Are you true blue?","item":"https://australianculture.biblioverse.org/quiz.html"}]}}]}</script>
 <script type="application/ld+json" id="ld-content">{"@context":"https://schema.org","@graph":[{"@type":"Quiz","name":"Are you true blue?","url":"https://australianculture.biblioverse.org/quiz.html","inLanguage":"en-AU","about":{"@type":"Country","name":"Australia"},"hasPart":[{"@type":"Question","name":"What is Vegemite?","acceptedAnswer":{"@type":"Answer","text":"A yeast-extract spread"}},{"@type":"Question","name":"What’s the capital of Australia?","acceptedAnswer":{"@type":"Answer","text":"Canberra"}},{"@type":"Question","name":"Which invention came out of a CSIRO lab?","acceptedAnswer":{"@type":"Answer","text":"Fast Wi-Fi"}},{"@type":"Question","name":"When an Aussie talks about “thongs”, they mean...","acceptedAnswer":{"@type":"Answer","text":"Flip-flops"}},{"@type":"Question","name":"Who won the Great Emu War of 1932?","acceptedAnswer":{"@type":"Answer","text":"The emus"}},{"@type":"Question","name":"Which Australian actor starred in Barbie (2023)?","acceptedAnswer":{"@type":"Answer","text":"Margot Robbie"}},{"@type":"Question","name":"What is Australia’s national floral emblem?","acceptedAnswer":{"@type":"Answer","text":"Golden wattle"}},{"@type":"Question","name":"Which of these mammals lays eggs?","acceptedAnswer":{"@type":"Answer","text":"Platypus"}},{"@type":"Question","name":"Which is the longest fence in the world, at 5,614 km?","acceptedAnswer":{"@type":"Answer","text":"Dingo Fence"}},{"@type":"Question","name":"Which band recorded “Down Under”?","acceptedAnswer":{"@type":"Answer","text":"Men at Work"}},{"@type":"Question","name":"When is Anzac Day?","acceptedAnswer":{"@type":"Answer","text":"25 April"}},{"@type":"Question","name":"Which animal makes cube-shaped poo?","acceptedAnswer":{"@type":"Answer","text":"Wombat"}},{"@type":"Question","name":"Which Aussie bird has a call that sounds like laughter?","acceptedAnswer":{"@type":"Answer","text":"Kookaburra"}},{"@type":"Question","name":"What does it mean to “shout” at the pub?","acceptedAnswer":{"@type":"Answer","text":"Buy a round"}},{"@type":"Question","name":"Which dog breed is Bluey?","acceptedAnswer":{"@type":"Answer","text":"Blue heeler"}}]}]}</script>
@@ -65,8 +66,8 @@
 </main>
 
 <footer class="foot" id="foot"></footer>
-<script src="data.js?v=2026110101"></script>
-<script src="script.js?v=2026110101"></script>
-<script defer src="sw-register.js?v=2026110101"></script>
+<script src="data.js?v=2026112201"></script>
+<script src="script.js?v=2026112201"></script>
+<script defer src="sw-register.js?v=2026112201"></script>
 </body>
 </html>

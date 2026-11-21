@@ -944,4 +944,49 @@ $('shareBtn').onclick = async () => {
   addEventListener('resize', sync);
   sync();
 })();
+
+/* Aviso de cookies: o Google Analytics só carrega depois do aceite (o <head> de cada página
+   lê 'ac-consent' e chama acLoadGA). Sem escolha guardada, o aviso aparece depois da abertura. */
+(function(){
+  const KEY = 'ac-consent';
+  let choice = null;
+  try { choice = localStorage.getItem(KEY); } catch (e) { return; }
+  const about = PAGE === 'sobre' ? '#' + t('privacidade', 'privacy') : ABOUT + '#' + t('privacidade', 'privacy');
+  const save = v => {
+    try { localStorage.setItem(KEY, v); } catch (e) {}
+    if (v === 'yes') { window.acLoadGA && acLoadGA(); return; }
+    // recusou depois de aceitar: desliga a coleta e apaga os cookies do Analytics
+    gtag('consent', 'update', {analytics_storage: 'denied'});
+    document.cookie.split(';').map(c => c.split('=')[0].trim()).filter(n => /^_ga/.test(n)).forEach(n => {
+      const host = location.hostname.split('.').slice(-2).join('.');
+      for (const d of ['', '; domain=' + location.hostname, '; domain=.' + host])
+        document.cookie = `${n}=; expires=Thu, 01 Jan 1970 00:00:00 GMT; path=/${d}`;
+    });
+  };
+  const show = () => {
+    if ($('consent')) return;
+    document.body.insertAdjacentHTML('beforeend', `<div class="consent" id="consent" role="region" aria-label="${t('Aviso de cookies', 'Cookie notice')}">
+  <p>${t('Usamos o Google Analytics para contar visitas, com cookies. Só ligamos se você aceitar.', 'We use Google Analytics to count visits, with cookies. It only runs if you accept.')} <a href="${about}">${t('Saiba mais', 'Learn more')}</a></p>
+  <div class="consent-btns"><button type="button" data-v="no">${t('Recusar', 'Decline')}</button><button type="button" class="yes" data-v="yes">${t('Aceitar', 'Accept')}</button></div>
+</div>`);
+    const box = $('consent');
+    requestAnimationFrame(() => box.classList.add('on'));
+    box.addEventListener('click', e => {
+      const b = e.target.closest('button'); if (!b) return;
+      save(b.dataset.v);
+      box.classList.remove('on');
+      setTimeout(() => box.remove(), 400);
+      toast(b.dataset.v === 'yes' ? t('Obrigado! Estatísticas ligadas.', 'Thanks! Statistics on.') : t('Tudo bem, nada de estatísticas.', 'No worries, no statistics.'));
+    });
+  };
+  // botão "mudar minha escolha" na seção de privacidade
+  const again = $('consentAgain');
+  if (again) again.onclick = () => { try { localStorage.removeItem(KEY); } catch (e) {} show(); $('consent').querySelector('button').focus(); };
+  if (choice === 'yes' || choice === 'no') return;
+  // espera a abertura (Acknowledgement of Country) sair da frente
+  if (document.body.classList.contains('gated')) {
+    const mo = new MutationObserver(() => { if (!document.body.classList.contains('gated')) { mo.disconnect(); setTimeout(show, 900); } });
+    mo.observe(document.body, {attributes: true, attributeFilter: ['class']});
+  } else setTimeout(show, 1200);
+})();
 })();

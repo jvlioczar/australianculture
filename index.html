@@ -1,13 +1,14 @@
 <!DOCTYPE html>
 <html lang="en-AU">
 <head>
-<!-- Google tag (gtag.js) -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-H56GN9N5TC"></script>
+<!-- Google tag (gtag.js): só carrega depois do aceite no aviso de cookies -->
 <script>
   window.dataLayer = window.dataLayer || [];
   function gtag(){dataLayer.push(arguments);}
   gtag('js', new Date());
   gtag('config', 'G-H56GN9N5TC');
+  window.acLoadGA = function(){ if (window.acGA) return; window.acGA = 1; var s = document.createElement('script'); s.async = true; s.src = 'https://www.googletagmanager.com/gtag/js?id=G-H56GN9N5TC'; document.head.appendChild(s); };
+  try { if (localStorage.getItem('ac-consent') === 'yes') acLoadGA(); } catch (e) {}
 </script>
 <meta charset="utf-8"/>
 <meta content="width=device-width, initial-scale=1, viewport-fit=cover" name="viewport"/>
@@ -41,7 +42,7 @@
 <link href="https://fonts.googleapis.com" rel="preconnect"/>
 <link crossorigin="anonymous" href="https://fonts.gstatic.com" rel="preconnect"/>
 <link href="https://fonts.googleapis.com/css2?family=Jaro:opsz@6..72&amp;family=Google+Sans+Flex:wght@300..800&amp;family=Caveat+Brush&amp;display=swap" rel="stylesheet"/>
-<link href="styles.css?v=2026110101" rel="stylesheet"/>
+<link href="styles.css?v=2026112201" rel="stylesheet"/>
 <script src="https://biblioverse.org/superbar.js" defer></script>
 <script type="application/ld+json">{"@context":"https://schema.org","@graph":[{"@type":"WebSite","@id":"https://australianculture.biblioverse.org/#website","url":"https://australianculture.biblioverse.org/","name":"Australian Culture","alternateName":"Cultura Australiana","inLanguage":["en-AU","pt-BR"],"author":{"@type":"Person","name":"Julio Cesar Prava"},"publisher":{"@type":"Organization","name":"BiblioVerse","url":"https://biblioverse.org"}},{"@type":"WebPage","@id":"https://australianculture.biblioverse.org/#page","url":"https://australianculture.biblioverse.org/","name":"Australian Culture — A journey to understand Australia and Australians","description":"An interactive guide to Australia in 19 stops: the land, 65,000 years of history, the people and the Aussie way, from famous faces and memes to wildlife and politics.","inLanguage":"en-AU","isPartOf":{"@id":"https://australianculture.biblioverse.org/#website"},"primaryImageOfPage":"https://australianculture.biblioverse.org/images/share-18-en-3.png","dateModified":"2026-11-01"}]}</script>
 </head>
@@ -374,9 +375,9 @@
 </main>
 
 <footer class="foot" id="foot"></footer>
-<script src="data.js?v=2026110101"></script>
-<script src="mapa.js?v=2026110101"></script>
-<script src="script.js?v=2026110101"></script>
-<script defer src="sw-register.js?v=2026110101"></script>
+<script src="data.js?v=2026112201"></script>
+<script src="mapa.js?v=2026112201"></script>
+<script src="script.js?v=2026112201"></script>
+<script defer src="sw-register.js?v=2026112201"></script>
 </body>
 </html>

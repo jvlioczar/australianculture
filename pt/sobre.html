@@ -1,13 +1,14 @@
 <!DOCTYPE html>
 <html lang="pt-BR">
 <head>
-<!-- Google tag (gtag.js) -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-H56GN9N5TC"></script>
+<!-- Google tag (gtag.js): só carrega depois do aceite no aviso de cookies -->
 <script>
   window.dataLayer = window.dataLayer || [];
   function gtag(){dataLayer.push(arguments);}
   gtag('js', new Date());
   gtag('config', 'G-H56GN9N5TC');
+  window.acLoadGA = function(){ if (window.acGA) return; window.acGA = 1; var s = document.createElement('script'); s.async = true; s.src = 'https://www.googletagmanager.com/gtag/js?id=G-H56GN9N5TC'; document.head.appendChild(s); };
+  try { if (localStorage.getItem('ac-consent') === 'yes') acLoadGA(); } catch (e) {}
 </script>
 <meta charset="utf-8"/>
 <meta content="width=device-width, initial-scale=1, viewport-fit=cover" name="viewport"/>
@@ -38,7 +39,7 @@
 <link href="https://fonts.googleapis.com" rel="preconnect"/>
 <link crossorigin="anonymous" href="https://fonts.gstatic.com" rel="preconnect"/>
 <link href="https://fonts.googleapis.com/css2?family=Jaro:opsz@6..72&amp;family=Google+Sans+Flex:wght@300..800&amp;family=Caveat+Brush&amp;display=swap" rel="stylesheet"/>
-<link href="../styles.css?v=2026110101" rel="stylesheet"/>
+<link href="../styles.css?v=2026112201" rel="stylesheet"/>
 <script src="https://biblioverse.org/superbar.js" defer></script>
 <script type="application/ld+json">{"@context":"https://schema.org","@graph":[{"@type":"WebPage","@id":"https://australianculture.biblioverse.org/pt/sobre.html#page","url":"https://australianculture.biblioverse.org/pt/sobre.html","name":"Sobre — Cultura Australiana","description":"Sobre o projeto Cultura Australiana, projeto especial da BiblioVerse idealizado por Julio Cesar Prava, e outros projetos para conhecer: Brasileiros na Austrália, Cultura Brasileira e Brisbane Vegan Guide.","inLanguage":"pt-BR","isPartOf":{"@id":"https://australianculture.biblioverse.org/#website"},"primaryImageOfPage":"https://australianculture.biblioverse.org/images/share-18-pt-3.png","dateModified":"2026-11-01","breadcrumb":{"@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Cultura Australiana","item":"https://australianculture.biblioverse.org/pt/"},{"@type":"ListItem","position":2,"name":"G'day, eu sou o Julio.","item":"https://australianculture.biblioverse.org/pt/sobre.html"}]}}]}</script>
 </head>
@@ -79,10 +80,11 @@
     </section>
     <section class="block privacy" id="privacidade">
       <h2 class="sub">Privacidade</h2>
-      <p class="subp">Resumindo: sem cadastro e sem anúncios, só estatísticas anônimas de visitas.</p>
+      <p class="subp">Resumindo: sem cadastro e sem anúncios. Estatísticas de visitas só se você aceitar.</p>
       <div class="prose">
-        <p>O projeto Cultura Australiana não tem cadastro, formulários nem anúncios. O seu navegador guarda três preferências pequenas no seu próprio aparelho: o tema de cores, o idioma escolhido e se você já viu o reconhecimento de abertura. Elas não saem do seu aparelho, e limpar os dados do navegador apaga tudo.</p>
-        <p>Para saber quais páginas são visitadas, o site usa o Google Analytics, que grava os próprios cookies e registra dados como as páginas vistas, a localização aproximada, o aparelho e de onde você veio. Nós só vemos os totais, nunca quem você é. O Google trata esses dados segundo a <a href="https://policies.google.com/privacy?hl=pt-BR" target="_blank" rel="noopener">política de privacidade dele</a>, e você pode desativar a coleta com o <a href="https://tools.google.com/dlpage/gaoptout?hl=pt-BR" target="_blank" rel="noopener">complemento do Google para navegadores</a> ou com um bloqueador de conteúdo.</p>
+        <p>O projeto Cultura Australiana não tem cadastro, formulários nem anúncios. O seu navegador guarda algumas preferências pequenas no seu próprio aparelho: o tema de cores, o idioma escolhido, se você já viu o reconhecimento de abertura e a sua resposta ao aviso de cookies. Elas não saem do seu aparelho, e limpar os dados do navegador apaga tudo.</p>
+        <p>Se você aceitar o aviso de cookies, o site carrega o Google Analytics para contar as visitas. Ele grava os próprios cookies e registra dados como as páginas vistas, a localização aproximada, o aparelho e de onde você veio. Nós só vemos os totais, nunca quem você é. Se você recusar, ou não responder, o Google Analytics nem carrega. O Google trata esses dados segundo a <a href="https://policies.google.com/privacy?hl=pt-BR" target="_blank" rel="noopener">política de privacidade dele</a>.</p>
+        <p><button class="consent-again" id="consentAgain" type="button">Mudar minha escolha de cookies</button></p>
         <p>Para carregar a página, o navegador também se conecta ao Google Fonts (para as fontes) e ao biblioverse.org (para a barra da BiblioVerse no topo). A página de Música também traz um player do Spotify, carregado do próprio Spotify segundo as regras dele. Esses serviços recebem os dados técnicos comuns de qualquer acesso, como o endereço IP, segundo as próprias políticas de privacidade. Links para outros sites, como a Wikipedia e as fontes citadas, seguem as regras desses sites.</p>
         <p>Dúvidas? Fale com a gente pela <a href="https://www.linkedin.com/company/biblioverse.org" target="_blank" rel="noopener">BiblioVerse no LinkedIn</a>.</p>
       </div>
@@ -92,8 +94,8 @@
 </main>
 
 <footer class="foot" id="foot"></footer>
-<script src="data.js?v=2026110101"></script>
-<script src="../script.js?v=2026110101"></script>
-<script defer src="../sw-register.js?v=2026110101"></script>
+<script src="data.js?v=2026112201"></script>
+<script src="../script.js?v=2026112201"></script>
+<script defer src="../sw-register.js?v=2026112201"></script>
 </body>
 </html>
