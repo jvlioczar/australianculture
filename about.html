@@ -1,15 +1,6 @@
 <!DOCTYPE html>
 <html lang="en-AU">
 <head>
-<!-- Google tag (gtag.js): só carrega depois do aceite no aviso de cookies -->
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-  gtag('config', 'G-H56GN9N5TC');
-  window.acLoadGA = function(){ if (window.acGA) return; window.acGA = 1; var s = document.createElement('script'); s.async = true; s.src = 'https://www.googletagmanager.com/gtag/js?id=G-H56GN9N5TC'; document.head.appendChild(s); };
-  try { if (localStorage.getItem('ac-consent') === 'yes') acLoadGA(); } catch (e) {}
-</script>
 <meta charset="utf-8"/>
 <meta content="width=device-width, initial-scale=1, viewport-fit=cover" name="viewport"/>
 <title>About — Australian Culture</title>
@@ -39,7 +30,7 @@
 <link href="https://fonts.googleapis.com" rel="preconnect"/>
 <link crossorigin="anonymous" href="https://fonts.gstatic.com" rel="preconnect"/>
 <link href="https://fonts.googleapis.com/css2?family=Jaro:opsz@6..72&amp;family=Google+Sans+Flex:wght@300..800&amp;family=Caveat+Brush&amp;display=swap" rel="stylesheet"/>
-<link href="styles.css?v=2026112201" rel="stylesheet"/>
+<link href="styles.css?v=2026112202" rel="stylesheet"/>
 <script src="https://biblioverse.org/superbar.js" defer></script>
 <script type="application/ld+json">{"@context":"https://schema.org","@graph":[{"@type":"WebPage","@id":"https://australianculture.biblioverse.org/about.html#page","url":"https://australianculture.biblioverse.org/about.html","name":"About — Australian Culture","description":"About Australian Culture, a special BiblioVerse project created by Julio Cesar Prava, plus other projects to explore: Brazilians in Australia, Brazilian Culture and the Brisbane Vegan Guide.","inLanguage":"en-AU","isPartOf":{"@id":"https://australianculture.biblioverse.org/#website"},"primaryImageOfPage":"https://australianculture.biblioverse.org/images/share-18-en-3.png","dateModified":"2026-11-01","breadcrumb":{"@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Australian Culture","item":"https://australianculture.biblioverse.org/"},{"@type":"ListItem","position":2,"name":"G'day, I'm Julio.","item":"https://australianculture.biblioverse.org/about.html"}]}}]}</script>
 </head>
@@ -80,11 +71,10 @@
     </section>
     <section class="block privacy" id="privacy">
       <h2 class="sub">Privacy</h2>
-      <p class="subp">Short version: no accounts and no ads. Visit statistics only if you say yes.</p>
+      <p class="subp">Short version: no accounts, no ads and no cookies. We only count visits.</p>
       <div class="prose">
-        <p>Australian Culture has no accounts, forms or ads. Your browser keeps a few small preferences on your own device: the colour theme, the language you chose, whether you’ve already seen the opening acknowledgement and your answer to the cookie notice. They never leave your device, and clearing your browser data removes them.</p>
-        <p>If you accept the cookie notice, the site loads Google Analytics to count visits. It sets its own cookies and records things like the pages viewed, the approximate location, the device and how you arrived. We only see the totals, never who you are. If you decline, or don’t answer, Google Analytics never loads. Google handles this data under <a href="https://policies.google.com/privacy" target="_blank" rel="noopener">its privacy policy</a>.</p>
-        <p><button class="consent-again" id="consentAgain" type="button">Change my cookie choice</button></p>
+        <p>Australian Culture has no accounts, forms, ads or cookies. Your browser keeps three small preferences on your own device: the colour theme, the language you chose and whether you’ve already seen the opening acknowledgement. They never leave your device, and clearing your browser data removes them.</p>
+        <p>To know how many people visit and which pages they read, the site uses Cloudflare Web Analytics. It sets no cookies, doesn’t store anything on your device and doesn’t follow you across sites: it only counts page views, with details like the country, the device and the page you came from. We only see the totals, never who you are. Cloudflare handles this under <a href="https://www.cloudflare.com/privacypolicy/" target="_blank" rel="noopener">its privacy policy</a>.</p>
         <p>To load the page, your browser also connects to Google Fonts (for the typefaces) and to biblioverse.org (for the BiblioVerse bar at the top). The Music page also embeds a Spotify player, which loads from Spotify under its own policy. Those services receive the usual technical details of any web request, such as your IP address, under their own privacy policies. Links to other sites, like Wikipedia and the sources we cite, follow those sites’ policies.</p>
         <p>Questions? Get in touch through <a href="https://www.linkedin.com/company/biblioverse.org" target="_blank" rel="noopener">BiblioVerse on LinkedIn</a>.</p>
       </div>
@@ -94,8 +84,9 @@
 </main>
 
 <footer class="foot" id="foot"></footer>
-<script src="data.js?v=2026112201"></script>
-<script src="script.js?v=2026112201"></script>
-<script defer src="sw-register.js?v=2026112201"></script>
+<script src="data.js?v=2026112202"></script>
+<script src="script.js?v=2026112202"></script>
+<script defer src="sw-register.js?v=2026112202"></script>
+<!-- Cloudflare Web Analytics --><script defer src='https://static.cloudflareinsights.com/beacon.min.js' data-cf-beacon='{"token": "5f5ef6b530474515a026b0fdd49b7cf8"}'></script><!-- End Cloudflare Web Analytics -->
 </body>
 </html>
